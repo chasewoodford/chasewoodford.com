@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>HUD page nav project</title>
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/autocomplete/assets/skins/sam/autocomplete.css">
+	<style type='text/css'>
+	body {
+		margin:0;
+		padding:50px 0;
+		background: #462037; /* Old browsers */
+	}
+	::selection {
+		background: #5DFC0A; /* Safari */
+		color: #462037;
+	}
+	::-moz-selection {
+		background: #5DFC0A; /* Firefox */
+		color: #462037;
+	}
+	#myAutoComplete {
+		height: 150px;
+		width: 50%; /* set width here or else widget will expand to fit its container */
+		padding-bottom:2em;
+		margin: 0 auto;
+	}
+	input {
+		background: #000;
+		color: #fff;
+		border-radius: 4px;
+		height: 2em;
+		font-size: 1.2em;
+	}
+	.yui-skin-sam .yui-ac-content {
+		background-color: rgba(250,250,250,0);
+		border-radius: 5px;
+		border: 1px solid rgba(250,250,250,0.5);
+		margin-left: 35px;
+	}
+	.yui-skin-sam .yui-ac{
+		color: rgba(250,250,250,0.75);
+	}
+	.yui-skin-sam .yui-ac-input {
+		width: 86%;
+	}
+	.yui-ac-content {
+		width: 86% !important;
+	}
+
+	.yui-skin-sam .yui-ac-content li.yui-ac-highlight {
+		background-color: rgba(250,250,250,0.25);
+	}
+	.yui-ac-shadow {
+		display: none; /* removes that dumb drop shadow from YUI */
+	}
+	@font-face {
+	  font-family: 'Magra';
+	  font-style: normal;
+	  font-weight: 400;
+	  src: local('Magra'), url('http://themes.googleusercontent.com/static/fonts/magra/v1/1uj9cdpjAK0H5tD02KSgRw.woff') format('woff');
+	}
+	#label {
+		width: 15em;
+		margin: 0 auto;
+		padding: 20px 0 5px 65px;
+		font-family: 'Magra', sans-serif;
+		font-size: 1.2em;
+		color: #fff;
+	}
+	.match {
+		font-weight:bold;
+		font-family: arial;
+		color: #fff;
+	}
+
+	#myInput{
+		padding-left: 35px;
+		font-family: 'Magra', sans-serif;
+	}
+	#container {
+		height: auto;
+		width: 600px;
+		position: relative;
+		margin: 0 auto;
+		background-color: rgba(255, 255, 255, 0.3);
+		border: 4px solid rgba(255, 255, 255, 0.8);
+		box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+		border-radius: 5px;
+	}
+	.displayHUD {
+		-moz-animation:moveIn 2s ease-out; /* Firefox */
+		-webkit-animation:moveIn 2s ease-out; /*Safari and Chrome*/
+		animation:moveIn 2s ease-out;
+		-moz-animation-fill-mode: backwards;
+		-webkit-animation-fill-mode: backwards;
+		animation-fill-mode: backwards;
+		-moz-animation-delay:0.5s; /* Firefox */
+		-webkit-animation-delay:0.5s; /*Safari and Chrome */ 
+		animation-delay:0.5s;
+	}
+	.hideHUD {
+		-moz-animation:moveOut 2s ease-out; /* Firefox */
+		-webkit-animation:moveOut 2s ease-out; /*Safari and Chrome*/
+		animation:moveOut 2s ease-out;
+		-moz-animation-fill-mode: forwards;
+		-webkit-animation-fill-mode: forwards;
+		animation-fill-mode: forwards;
+		-moz-animation-delay:1s; /* Firefox */
+		-webkit-animation-delay:1s; /*Safari and Chrome */ 
+		animation-delay:1s;
+	}
+	#instructions {
+		background-position: center bottom;
+		color: #fff;
+		font-weight: bold;
+		font-size: 1.2em; /* 48px / 16px */
+		text-shadow: 0px 2px 1px #000;
+		text-align: center;
+		padding-top: 5em;
+	}
+
+	/* animations */
+	@keyframes moveIn
+	{
+	0% {top:-500px;}
+	90% {top:20px;}
+	100% {top:0px;}
+	}
+	@-moz-keyframes moveIn /*Firefox*/
+	{
+	0% {top:-500px;}
+	90% {top:20px;}
+	100% {top:0px;}
+	}
+	@-webkit-keyframes moveIn /*Safari and Chrome*/
+	{
+	0% {top:-500px;}
+	90% {top:20px;}
+	100% {top:0px;}
+	}
+	@keyframes moveOut
+	{
+	0% {top:0px;}
+	10% {top:20px;}
+	100% {top:-500px;}
+	}
+	@-moz-keyframes moveOut /*Firefox*/
+	{
+	0% {top:0px;}
+	10% {top:20px;}
+	100% {top:-500px;}
+	}
+	@-webkit-keyframes moveOut /*Safari and Chrome*/
+	{
+	0% {top:0px;}
+	10% {top:20px;}
+	100% {top:-500px;}
+	}
+	</style>
+</head>
+<body class="yui-skin-sam">
+<div id="container" class="displayHUD">
+	<div id="label">
+		<label for="myInput">
+			What can I interest you in?
+		</label>
+	</div>
+	<div id="myAutoComplete">
+		
+		<input id="myInput" type="text">
+
+		<div id="myContainer"></div><img src="http://dl.dropbox.com/u/29512831/noun_project_907.svg" height="22" style="position:relative;right:-8px;top:10px;" />
+		<input id="myHidden" type="hidden">
+	</div>
+</div>
+<div id="instructions">
+	<p>Toggle the Heads Up Display by hitting Ctrl+Shift+H</p>
+</div>
+<audio autoplay preload="auto">
+  <source src="http://www.chasewoodford.com/resources/robotArm.wav" type="audio/wav" />
+  Your browser does not support the audio tag.
+</audio>
+</body>
+<script src="http://www.chasewoodford.com/javasscript/shortcuts.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type='text/javascript' src="http://yui.yahooapis.com/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type='text/javascript' src="http://yui.yahooapis.com/2.9.0/build/animation/animation-min.js"></script>
+<script type='text/javascript' src="http://yui.yahooapis.com/2.9.0/build/datasource/datasource-min.js"></script>
+<script type='text/javascript' src="http://yui.yahooapis.com/2.9.0/build/autocomplete/autocomplete-min.js"></script>
+<script type='text/javascript' src='http://yui.yahooapis.com/3.4.1/build/simpleyui/simpleyui.js'></script>
+<script type='text/javascript'>//<![CDATA[ 
+YUI().use('node', function(Y){
+  Y.on('load',function(e) {
+YAHOO.example.FnMultipleFields = function(){
+    var myContent = [
+        {id:'http://about.me/chasewoodford', content:"About", nname:null},
+        {id:'http://about.me/chasewoodford', content:"Who are you?", nname:null},
+        {id:'http://www.verilogue.com', content:"Resume", nname:null},
+        {id:'resume.pdf', content:"Resume", nname:"Download"},
+        {id:'http://www.verilogue.com', content:"Work", nname:null},
+        {id:'http://www.verilogue.com', content:"Work", nname:"My work"},
+        {id:'http://jsfiddle.net/user/chasewoodford/fiddles/', content:"Work", nname:"jsFiddle"},
+        {id:'http://comicsans-serif.com/', content:"Work", nname:"Side project"},
+        {id:'http://www.workinprogress.com', content:"Portfolio", nname:null},
+        {id:'../../images/kirk.jpg', content:"Show me the goods", nname:null},
+        {id:'http://www.linkedin.com/profile/view?id=96077551', content:"Connect", nname:null},
+        {id:'mailto:chase@chasewoodford.com', content:"Connect", nname:"Email"},
+        {id:'https://twitter.com/#!/chase1263070', content:"Connect", nname:"Twitter"},
+        {id:'https://www.facebook.com/chasewoodford', content:"Connect", nname:"Facebook"},
+        {id:'https://plus.google.com/114995191415605431083/posts', content:"Connect", nname:"Google+"},
+        {id:'http://www.carecoach.com', content:"Help", nname:null},
+        {id:'http://www.gps.gov/', content:"I think I'm lost", nname:null},
+        {id:'http://quotesondesign.com/philip-glass/', content:"Help", nname:"Inspiration"},
+        {id:'http://www.goodfuckingdesignadvice.com', content:"Help", nname:"Good fucking advice"},
+        {id:'http://www.last.fm/music/Chase+Woodford/Long+Story+Short', content:"Hobbies", nname:"Guitar"},
+		{id:'http://www.tv.com/people/b-j-novak/', content:"Doppelgänger", nname:null},
+    ];
+    
+    // define a custom search function for the DataSource
+    var matchNames = function(sQuery) {
+        // case insensitive matching
+        var query = sQuery.toLowerCase(),
+            contact,
+            i=0,
+            l=myContent.length,
+            matches = [];
+        
+        // match against each name of each contact
+        for(; i<l; i++) {
+            contact = myContent[i];
+            if((contact.content.toLowerCase().indexOf(query) > -1) ||
+                (contact.nname && (contact.nname.toLowerCase().indexOf(query) > -1))) {
+                matches[matches.length] = contact;
+            }
+        }
+
+        return matches;
+    };
+
+    // use a FunctionDataSource
+    var oDS = new YAHOO.util.FunctionDataSource(matchNames);
+    oDS.responseSchema = {
+        fields: ["id", "content", "nname"]
+    }
+
+    // instantiate AutoComplete
+    var oAC = new YAHOO.widget.AutoComplete("myInput", "myContainer", oDS);
+    oAC.useShadow = true;
+    oAC.resultTypeList = false;
+    
+    
+    // custom formatter to highlight the matching letters
+    oAC.formatResult = function(oResultData, sQuery, sResultMatch) {
+        var query = sQuery.toLowerCase(),
+            content = oResultData.content,
+            nname = oResultData.nname || "", // Guard against null value
+            query = sQuery.toLowerCase(),
+            contentMatchIndex = content.toLowerCase().indexOf(query),
+            nnameMatchIndex = nname.toLowerCase().indexOf(query),
+            displaycontent, displaynname;
+            
+        if(contentMatchIndex > -1) {
+            displaycontent = highlightMatch(content, query, contentMatchIndex);
+        }
+        else {
+            displaycontent = content;
+        }
+
+        if(nnameMatchIndex > -1) {
+            displaynname = "> " + highlightMatch(nname, query, nnameMatchIndex);
+        }
+        else {
+            displaynname = nname ? "> " + nname : "";
+        }
+
+        return displaycontent + " " + displaynname;
+        
+    };
+    
+    // helper function for the formatter
+    var highlightMatch = function(full, snippet, matchindex) {
+        return full.substring(0, matchindex) + 
+                "<span class='match'>" + 
+                full.substr(matchindex, snippet.length) + 
+                "</span>" +
+                full.substring(matchindex + snippet.length);
+    };
+
+    // define an event handler to populate a hidden form field
+    // when an item gets selected and populate the input field
+    var myHiddenField = YAHOO.util.Dom.get("myHidden");
+    var myHandler = function(sType, aArgs) {
+        var myAC = aArgs[0]; // reference back to the AC instance
+        var elLI = aArgs[1]; // reference to the selected LI element
+        var oData = aArgs[2]; // object literal of selected item's result data
+        
+        // update hidden form field with the selected item's ID
+        myHiddenField.value = oData.id;
+        
+        myAC.getInputEl().value = oData.content + " " + (oData.nname ? "> " + oData.nname : "");
+    };
+    oAC.itemSelectEvent.subscribe(myHandler);
+    
+    return {
+        oDS: oDS,
+        oAC: oAC
+    };
+}();
+  })
+});//]]>  
+</script>
+<script>
+$(document).ready(function(){
+	jQuery('#myInput').keypress(function(e) {
+		enter = e.keyCode ? e.keyCode : e.which;
+		// when user strike Enter key
+		if(enter.toString() == 13) {
+			// do this
+            $("#myHidden").keyup(function () {
+                  var value = $(this).val();
+                  window.location.href = this.value.toLowerCase();
+                }).keyup();
+		}
+
+		tab = e.keyCode ? e.keyCode : e.which;
+		// when user strikes Tab key
+		if(tab.toString() == 9) {
+			// don't tab, insert
+			{return false;};
+		}
+	});
+
+	// watch for use to pull off the super magical toggle combo
+	shortcut.add("Ctrl+Shift+h",function toggle() {
+		
+		var ele = document.getElementById("container");
+		var audioElement = document.createElement('audio');
+		// hide the HUD if it is currently displayed
+		if(ele.className == "displayHUD") {
+			ele.className = "hideHUD";
+			audioElement.setAttribute('src', 'http://www.chasewoodford.com/resources/armRobot.wav');
+			audioElement.play();
+		}
+		// if HUD is currently hidden, bring it back
+		else {
+			ele.className = "displayHUD";
+			document.getElementById('myInput').value ='';
+			audioElement.setAttribute('src', 'http://www.chasewoodford.com/resources/robotArm.wav');
+			audioElement.play();
+		} 
+	});
+	
+	// clear form value with every page load
+	function warmItUpChris() {
+		
+		document.getElementById('myInput').value ='';
+	
+	}
+	
+	window.onload = warmItUpChris;
+	
+});
+</script>
+</html>
+

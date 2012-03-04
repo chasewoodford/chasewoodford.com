@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>Error 400</title>
+<style>
+html {
+	background: none repeat scroll 0% 0% -moz-dialog;
+}
+
+body {
+	color: -moz-fieldtext;
+	font: message-box;
+	margin: 0pt;
+	padding: 0pt 1em;
+}
+
+h1 {
+	border-bottom: 1px solid threedlightshadow;
+	font-size: 160%;
+	margin: 0pt 0pt 0.6em;
+}
+
+ul,ol {
+	-moz-margin-start: 1.5em;
+	margin: 0pt;
+	padding: 0pt;
+}
+
+ul > li,ol > li {
+	margin-bottom: 0.5em;
+}
+
+ul {
+	list-style: square outside none;
+}
+
+#errorPageContainer {
+	-moz-padding-start: 30px;
+	background-attachment: scroll;
+
+	-webkit-background-clip: border-box;
+	-moz-background-clip: border-box;
+	background-clip: border-box;
+	background-color: -moz-field;
+	background-image: url("images/warning-large.gif");
+	background-origin: content-box;
+	background-position: left 0pt;
+	background-repeat: no-repeat;
+
+	-webkit-background-size: auto auto;
+	-moz-background-size: auto auto;
+	background-size: auto auto;
+
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+	border: 1px solid threedshadow;
+	margin: 4em auto;
+	max-width: 52em;
+	min-width: 13em;
+	padding: 3em;
+	position: relative;
+
+	-webkit-box-shadow: 0 0 5px #0088CC;
+	-moz-box-shadow: 0 0 5px #0088CC;
+	box-shadow: 0 0 5px #0088CC;
+	
+}
+
+#errorTitle {
+	-moz-margin-start: 80px;
+}
+
+#errorLongContent {
+	-moz-margin-start: 80px;
+}
+
+#errorShortDesc > p {
+	font-size: 130%;
+	overflow: auto;
+	white-space: pre-wrap;
+}
+
+#errorShortDesc > p:last-child {
+	border-bottom: 1px solid threedlightshadow;
+	padding-bottom: 20px;
+}
+
+#errorLongDesc {
+	-moz-padding-end: 3em;
+	font-size: 110%;
+}
+</style>
+</head>
+<body onload="setTimeout('redirectUser()', 25000)">
+    <div id="errorPageContainer">
+      <div id="errorTitle">
+        <h1 id="errorTitleText">No, no, no. That's one of the worst requests I've seen in a long time.</h1>
+      </div>
+      <div id="errorLongContent">
+        <div id="errorShortDesc">
+          <p>Remind me to keep you away from the jukebox.</p>
+		  <p id="errorShortDescText">Your fate will shortly be determined in one of the following three ways:</p>
+        </div>
+        <div id="errorLongDesc">
+			<ul>
+			  <li>You will be re-directed to www.chasewoodford.com</li>
+			  <li>You will be hurtled through cyberspace to some random destination</li>
+			  <li>You will waste a lot of time waiting for one of those first two things to happen</li>
+			</ul>
+		</div>
+      </div>
+    </div>
+</body>
+<script type="text/javascript"> function redirectUser(){ window.location = "http://youtu.be/344OpaQCAQI"; } </script>
+</html>
