@@ -7,3 +7,10 @@ IIIb.   If remote testing is needed, load files to nightly.chasewoodford.com (se
 IV.     Commit changes to Git via IntelliJ
 V.      Download repo as .zip via Git
 VI.     Extract and ftp to chasewoodford.com for major release (minor releases should go to nightly.chasewoodford.com only)
+
+/* TO-DOS */
+
+I.      Create CSS file(s)
+II.     Add /nightly to HUD index
+III.    Prettify comicsans-serif.com
+IV.     Start SASS'in!
