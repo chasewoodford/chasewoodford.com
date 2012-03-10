@@ -1,0 +1,9 @@
+/* WORKFLOW */
+
+I.      Pull from Git
+II.     Local edits in IntelliJ
+IIIa.   Test changes LOCALLY!
+IIIb.   If remote testing is needed, load files to nightly.chasewoodford.com (seecure directory) via ftp
+IV.     Commit changes to Git via IntelliJ
+V.      Download repo as .zip via Git
+VI.     Extract and ftp to chasewoodford.com for major release (minor releases should go to nightly.chasewoodford.com only)
