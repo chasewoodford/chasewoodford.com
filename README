@@ -10,7 +10,6 @@ VI.     Extract and ftp to chasewoodford.com for major release (minor releases s
 
 /* TO-DOS */
 
-I.      Create CSS file(s)
-II.     Add /nightly to HUD index
-III.    Prettify comicsans-serif.com
-IV.     Start SASS'in!
+.   Add /nightly to HUD index
+.   Prettify comicsans-serif.com
+.   Start SASS'in!

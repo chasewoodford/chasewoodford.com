@@ -185,7 +185,7 @@ td {
 	position: absolute;
 	top: 0;
 	width: 100%;
-	height: 300px;
+	height: 200px;
 	background: transparent;
     background-image:
     -webkit-gradient(radial, 50% 50%, 36, 50% 50%, 40,from(rgba(150, 111, 195, 0.2)), color-stop(0.3, rgba(150, 111, 195, 0.3)),  to(transparent)),
@@ -253,7 +253,7 @@ td {
 }
 
 .no-cssgradients body {
-background-color: black;
+    background-color: black;
     background-image: url(data:image/svg+xml;base64,H4sICBWwZk0AA2Jva2VoLnN2ZwC9lmtuozAUhf9nFZZHlRIpAV%2BDgVY4lUYjdQGzAkocQEOhMiRkdj82xIzCI30o7R9jlPicz%2FceW4SPp5ccHYWssrLgGCyCH7eLsDomqMl2dcoxIwSjVGRJWnPs6Be1oqg4Tuv69cG2m6axGscqZWJTQoitluLtYoHCndhX2wVC4T7LayFRtuP4OT9I%2BC%2BnFtxhY9S9%2FOV4w%2FTkdJ5oCaUhnqJDVWVR8VNJoKre%2FRLHLKo7aowy9fhdHmQsnmT0mmYxtltvuzOf4mA352Cf4vBvzuG%2Fg0M1yO46pGYJqmVUVPtSvnDcTvOoFksKZI3AIyuM1LKc46IsRNtcFMaZjHOBpMpEgFF80tlQzxYXKx5Z%2FhEcy%2BQ5WgLTMgBquGdrRCxnZf6xMXttHRQYxweZL3%2B0Oeltp1Wo%2Bt0ewoDfwQQGxicDGkpdJaEHShytw0Y0FnsbZyQDHc4ljdfRgKFxv53mEsiFDoj1vRoCgauK6zNdaufzvZoQGdbGxIYalODjKLquIxZ%2FhYdeHum8POMFb3nRCTNn1mywM7dz2%2FRV9oZ2jr9GgXa8N0m%2B9JqyGtT4UgLYVPzOh2HT75teB4EvAqEGJJht9veAOAYE%2BpI410nGOfgwCZ0%2BiyYmdJYEoD3QSoS67nRZpu4GNj4AJgngzEbyHWZwvorya0vmeg%2FB7CV4C2tyrd2995ds%2Buwc2oke1PfP9h%2F9egCnVgkAAA%3D%3D), url(data:image/svg+xml;base64,H4sICBWwZk0AA2Jva2VoLnN2ZwC9lmtuozAUhf9nFZZHlRIpAV%2BDgVY4lUYjdQGzAkocQEOhMiRkdj82xIzCI30o7R9jlPicz%2FceW4SPp5ccHYWssrLgGCyCH7eLsDomqMl2dcoxIwSjVGRJWnPs6Be1oqg4Tuv69cG2m6axGscqZWJTQoitluLtYoHCndhX2wVC4T7LayFRtuP4OT9I%2BC%2BnFtxhY9S9%2FOV4w%2FTkdJ5oCaUhnqJDVWVR8VNJoKre%2FRLHLKo7aowy9fhdHmQsnmT0mmYxtltvuzOf4mA352Cf4vBvzuG%2Fg0M1yO46pGYJqmVUVPtSvnDcTvOoFksKZI3AIyuM1LKc46IsRNtcFMaZjHOBpMpEgFF80tlQzxYXKx5Z%2FhEcy%2BQ5WgLTMgBquGdrRCxnZf6xMXttHRQYxweZL3%2B0Oeltp1Wo%2Bt0ewoDfwQQGxicDGkpdJaEHShytw0Y0FnsbZyQDHc4ljdfRgKFxv53mEsiFDoj1vRoCgauK6zNdaufzvZoQGdbGxIYalODjKLquIxZ%2FhYdeHum8POMFb3nRCTNn1mywM7dz2%2FRV9oZ2jr9GgXa8N0m%2B9JqyGtT4UgLYVPzOh2HT75teB4EvAqEGJJht9veAOAYE%2BpI410nGOfgwCZ0%2BiyYmdJYEoD3QSoS67nRZpu4GNj4AJgngzEbyHWZwvorya0vmeg%2FB7CV4C2tyrd2995ds%2Buwc2oke1PfP9h%2F9egCnVgkAAA%3D%3D);
     background-position: 120px 0, -155px 0px;
     background-repeat: repeat;
