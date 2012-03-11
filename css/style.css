@@ -176,7 +176,7 @@ td {
 ******************************************************************/
 @font-face {
 	font-family: FuturaStd;
-	src: url('resources/FuturaStd-CondensedExtraBd.otf');
+	src: url('../resources/FuturaStd-CondensedExtraBd.otf');
 }
 
 /* =structure
@@ -225,7 +225,7 @@ td {
 
 #footer {
 	position: relative;
-	background: url('images/img-phillyFooter.png') bottom center repeat-x;
+	background: url('../images/img-phillyFooter.png') bottom center repeat-x;
 	margin-top: -230px; /* negative value of footer height */
 	height: 230px;
 	clear: both;
@@ -272,92 +272,92 @@ td {
 img.facebook {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -108px 0;
+	background:url('../images/ico-sprite.png') -108px 0;
 }
 img.facebook:hover {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -216px 0;
+	background:url('../images/ico-sprite.png') -216px 0;
 }
 img.facebook:active {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') 0 0;
+	background:url('../images/ico-sprite.png') 0 0;
 }
 img.twitter {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -108px -110px;
+	background:url('../images/ico-sprite.png') -108px -110px;
 }
 img.twitter:hover {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -216px -110px;
+	background:url('../images/ico-sprite.png') -216px -110px;
 }
 img.twitter:active {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') 0 -110px;
+	background:url('../images/ico-sprite.png') 0 -110px;
 }
 img.linkedin {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -108px -220px;
+	background:url('../images/ico-sprite.png') -108px -220px;
 }
 img.linkedin:hover {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -216px -220px;
+	background:url('../images/ico-sprite.png') -216px -220px;
 }
 img.linkedin:active {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') 0 -220px;
+	background:url('../images/ico-sprite.png') 0 -220px;
 }
 img.google {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -108px -330px;
+	background:url('../images/ico-sprite.png') -108px -330px;
 }
 img.google:hover {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -216px -330px;
+	background:url('../images/ico-sprite.png') -216px -330px;
 }
 img.google:active {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') 0 -330px;
+	background:url('../images/ico-sprite.png') 0 -330px;
 }
 img.lastfm {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -108px -440px;
+	background:url('../images/ico-sprite.png') -108px -440px;
 }
 img.lastfm:hover {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -216px -440px;
+	background:url('../images/ico-sprite.png') -216px -440px;
 }
 img.lastfm:active {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') 0 -440px;
+	background:url('../images/ico-sprite.png') 0 -440px;
 }
 img.email {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -108px -550px;
+	background:url('../images/ico-sprite.png') -108px -550px;
 }
 img.email:hover {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') -216px -550px;
+	background:url('../images/ico-sprite.png') -216px -550px;
 }
 img.email:active {
 	width:108px;
 	height:108px;
-	background:url('images/ico-sprite.png') 0 -550px;
+	background:url('../images/ico-sprite.png') 0 -550px;
 }
 
 /* =printStyles
