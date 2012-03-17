@@ -1,6 +1,5 @@
 /* =reset
 ******************************************************************/
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -79,14 +78,14 @@ body {
 }
 
 #container {
-	width: 800px;
+	width: 960px;
 	margin: 0 auto;
 }
 
 h1 {
 	color: #fff;
 	font-size: 5em; /* 80px / 16px */
-	font-family: FuturaStd, 'Arial Black', sans-serif;
+	font-family: "Share","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
 	text-align: center;
 	text-transform: uppercase;
 	text-shadow: 2px 3px 3px #111;
@@ -95,10 +94,12 @@ h1 {
 a, a:visited {
 	color: #0088cc;
 	text-decoration: none;
+    cursor: pointer;
 }
 
 a:hover {
 	text-decoration: underline;
+    cursor: pointer;
 }
 
 a:active {
@@ -158,11 +159,6 @@ svg:not(:root) {
 	overflow: hidden;
 }
 
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
 td {
 	vertical-align: top;
 }
@@ -172,20 +168,14 @@ td {
 	visibility: hidden;
 }
 
-/* =customFonts
-******************************************************************/
-@font-face {
-	font-family: FuturaStd;
-	src: url('../resources/FuturaStd-CondensedExtraBd.otf');
-}
-
 /* =structure
 ******************************************************************/
-#topBar {
+#starryNight {
 	position: absolute;
 	top: 0;
 	width: 100%;
-	height: 200px;
+	height: 300px;
+    z-index: -1;
 	background: transparent;
     background-image:
     -webkit-gradient(radial, 50% 50%, 36, 50% 50%, 40,from(rgba(150, 111, 195, 0.2)), color-stop(0.3, rgba(150, 111, 195, 0.3)),  to(transparent)),
@@ -247,45 +237,41 @@ td {
     radial-gradient(circle contain, rgba(114, 209, 244, 0.1) 1px, rgba(114, 209, 244, 0.2) 1px, transparent 3px),
     radial-gradient(circle contain, rgba(114, 209, 244, 0.1) 1px, rgba(114, 209, 244, 0.2) 2px, transparent 2px)
 ;
+    -webkit-background-size: 300px 300px;
     -moz-background-size: 300px 300px;
     background-size: 300px 300px;
     background-position: 5% -75px, -20% -70px, 25% -40px, 55% -50px, -55% -80px, 200% -100px, -50% -60px, -60% -20px, -80px -80px, -160px -30px, 20px -30px, 130px -60px, 180px -40px, 180px 0px;
 }
 
-.no-cssgradients body {
-    background-color: black;
-    background-image: url(data:image/svg+xml;base64,H4sICBWwZk0AA2Jva2VoLnN2ZwC9lmtuozAUhf9nFZZHlRIpAV%2BDgVY4lUYjdQGzAkocQEOhMiRkdj82xIzCI30o7R9jlPicz%2FceW4SPp5ccHYWssrLgGCyCH7eLsDomqMl2dcoxIwSjVGRJWnPs6Be1oqg4Tuv69cG2m6axGscqZWJTQoitluLtYoHCndhX2wVC4T7LayFRtuP4OT9I%2BC%2BnFtxhY9S9%2FOV4w%2FTkdJ5oCaUhnqJDVWVR8VNJoKre%2FRLHLKo7aowy9fhdHmQsnmT0mmYxtltvuzOf4mA352Cf4vBvzuG%2Fg0M1yO46pGYJqmVUVPtSvnDcTvOoFksKZI3AIyuM1LKc46IsRNtcFMaZjHOBpMpEgFF80tlQzxYXKx5Z%2FhEcy%2BQ5WgLTMgBquGdrRCxnZf6xMXttHRQYxweZL3%2B0Oeltp1Wo%2Bt0ewoDfwQQGxicDGkpdJaEHShytw0Y0FnsbZyQDHc4ljdfRgKFxv53mEsiFDoj1vRoCgauK6zNdaufzvZoQGdbGxIYalODjKLquIxZ%2FhYdeHum8POMFb3nRCTNn1mywM7dz2%2FRV9oZ2jr9GgXa8N0m%2B9JqyGtT4UgLYVPzOh2HT75teB4EvAqEGJJht9veAOAYE%2BpI410nGOfgwCZ0%2BiyYmdJYEoD3QSoS67nRZpu4GNj4AJgngzEbyHWZwvorya0vmeg%2FB7CV4C2tyrd2995ds%2Buwc2oke1PfP9h%2F9egCnVgkAAA%3D%3D), url(data:image/svg+xml;base64,H4sICBWwZk0AA2Jva2VoLnN2ZwC9lmtuozAUhf9nFZZHlRIpAV%2BDgVY4lUYjdQGzAkocQEOhMiRkdj82xIzCI30o7R9jlPicz%2FceW4SPp5ccHYWssrLgGCyCH7eLsDomqMl2dcoxIwSjVGRJWnPs6Be1oqg4Tuv69cG2m6axGscqZWJTQoitluLtYoHCndhX2wVC4T7LayFRtuP4OT9I%2BC%2BnFtxhY9S9%2FOV4w%2FTkdJ5oCaUhnqJDVWVR8VNJoKre%2FRLHLKo7aowy9fhdHmQsnmT0mmYxtltvuzOf4mA352Cf4vBvzuG%2Fg0M1yO46pGYJqmVUVPtSvnDcTvOoFksKZI3AIyuM1LKc46IsRNtcFMaZjHOBpMpEgFF80tlQzxYXKx5Z%2FhEcy%2BQ5WgLTMgBquGdrRCxnZf6xMXttHRQYxweZL3%2B0Oeltp1Wo%2Bt0ewoDfwQQGxicDGkpdJaEHShytw0Y0FnsbZyQDHc4ljdfRgKFxv53mEsiFDoj1vRoCgauK6zNdaufzvZoQGdbGxIYalODjKLquIxZ%2FhYdeHum8POMFb3nRCTNn1mywM7dz2%2FRV9oZ2jr9GgXa8N0m%2B9JqyGtT4UgLYVPzOh2HT75teB4EvAqEGJJht9veAOAYE%2BpI410nGOfgwCZ0%2BiyYmdJYEoD3QSoS67nRZpu4GNj4AJgngzEbyHWZwvorya0vmeg%2FB7CV4C2tyrd2995ds%2Buwc2oke1PfP9h%2F9egCnVgkAAA%3D%3D);
-    background-position: 120px 0, -155px 0px;
-    background-repeat: repeat;
-    background-size: auto;
-}
+#nav {
+    width: 100%;
+    padding-top: 200px;
+    text-align: center;
 }
 
-#main {
-	padding-bottom: 230px; /* must be same height as the footer */
+#nav li {
+    display: inline;
+    margin: 0 0 0 5px;
 }
 
-#container h1 {
-	padding-top: 50px;
+#nav li a {
+    padding: 5px 25px;
+    font-size: 1.125em; /* 18px / 16px */
+    font-family: "Share","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ccc;
+    color: rgba(255, 255, 255, 0.8);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
-.figcaption {
-	margin: 30px 30px 40px;
-}
-
-#sm p {
-	font-size: 1.25em; /* 20px / 16px */
-}
-
-#sm {
-	width:  100%;
-	padding-top: 50px;
-	text-align: center;
-}
-
-#sm ul li {
-	display: inline;
-	margin: 0 10px;
+#nav li a:hover, #nav li a:focus {
+    color: #fff;
 }
 
 .tiny {
@@ -337,99 +323,6 @@ td {
 
 .clearfix {
 	display: block
-}
-
-/* =socialMediaIconsSprite
-******************************************************************/
-img.facebook {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -108px 0;
-}
-img.facebook:hover {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -216px 0;
-}
-img.facebook:active {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') 0 0;
-}
-img.twitter {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -108px -110px;
-}
-img.twitter:hover {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -216px -110px;
-}
-img.twitter:active {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') 0 -110px;
-}
-img.linkedin {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -108px -220px;
-}
-img.linkedin:hover {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -216px -220px;
-}
-img.linkedin:active {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') 0 -220px;
-}
-img.google {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -108px -330px;
-}
-img.google:hover {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -216px -330px;
-}
-img.google:active {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') 0 -330px;
-}
-img.lastfm {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -108px -440px;
-}
-img.lastfm:hover {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -216px -440px;
-}
-img.lastfm:active {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') 0 -440px;
-}
-img.email {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -108px -550px;
-}
-img.email:hover {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') -216px -550px;
-}
-img.email:active {
-	width:108px;
-	height:108px;
-	background:url('../images/ico-sprite.png') 0 -550px;
 }
 
 /* =printStyles
