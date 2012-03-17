@@ -10,6 +10,7 @@ VI.     Extract and ftp to chasewoodford.com for major release (minor releases s
 
 /* TO-DOS */
 
+.   js/css animation for /playground link from home
+.   contact form on home
 .   Add /nightly to HUD index
 .   Prettify comicsans-serif.com
-.   Start SASS'in!

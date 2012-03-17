@@ -22,19 +22,43 @@
 
 </head>
 
-<body>
+<body id="top">
 
     <div id="starryNight"></div>
 
     <div id="container">
         <ul id="nav">
-            <a href="#"><li><img class="shake-right" src="images/ico-about.png" /><br/>About</li></a>
-            <a href="#"><li><img class="shake-left" src="images/ico-work.png" /><br/>Work</li>
-            <a href="#"><li><img class="shake-left" src="images/ico-playground.png" /><br/>Playground</li></a>
-            <a href="#"><li><img class="shake-right" src="images/ico-blog.png" /><br/>Blog</li></a>
-            <a href="#"><li><img class="shake-left" src="images/ico-contact.png" /><br/>Contact</li></a>
+            <a href="#about"><li><img class="shake-right" src="images/ico-about.png" /><br/>About</li></a>
+            <a href="#work"><li><img class="shake-left" src="images/ico-work.png" /><br/>Work</li>
+            <a href="#" onClick="playground();"><li><img class="shake-left" src="images/ico-playground.png" /><br/>Playground</li></a>
+            <a href="#blog"><li><img class="shake-right" src="images/ico-blog.png" /><br/>Blog</li></a>
+            <a href="#contact"><li><img class="shake-left" src="images/ico-contact.png" /><br/>Contact</li></a>
         </ul>
     </div><!-- end container -->
+
+    <div id="about" class="subpage">
+        <div class="content">
+            Content goes here <a href="#top">Back</a>
+        </div>
+    </div><!-- end about -->
+
+    <div id="work" class="subpage">
+        <div class="content">
+            Content goes here <a href="#top">Back</a>
+        </div>
+    </div><!-- end work -->
+
+    <div id="blog" class="subpage">
+        <div class="content">
+            Content goes here <a href="#top">Back</a>
+        </div>
+    </div><!-- end blog -->
+
+    <div id="contact" class="subpage">
+        <div class="content">
+            Content goes here <a href="#top">Back</a>
+        </div>
+    </div><!-- end contact -->
 
     <footer id="footer">
         <div id="quickLinks">
@@ -49,15 +73,33 @@
         </div>
     </footer><!-- end footer -->
 
+    <div class="bottombar"></div>
+
 </body>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="javascript/jquery-1.7.1.min.js"><\/script>')</script>
-<script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="javascript/jquery-1.7.min.js"><\/script>')</script>
+<script src="javascript/jquery-scrollTo-1.4.2-min.js"></script>
+<script src="javascript/jquery-localscroll-1.2.7-min.js"></script>
+<script type="text/javascript">
     $(document).ready(function(){
-        $("#holdHorses").click(function(){
+
+        $('#nav, .subpage').localScroll();
+
+        $('#holdHorses').click(function(){
             alert("This function is not yet functional.");
         });
+
     });
+
+    function playground(){
+        // add 'whiteOut' script by swapping css class and calling an animation, then...
+        setTimeout("delayedRedirect()", 3000);
+        // ...then have new page scroll in from left via css animation
+    }
+
+    function delayedRedirect(){
+        window.location = "./playground/index.html"
+    }
 </script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
