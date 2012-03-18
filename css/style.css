@@ -313,17 +313,28 @@ td {
 
 #footer {
 	position: relative;
-	background: url('../images/img-phillyFooter.png') bottom center repeat-x;
+	background: url('../images/img-phillyFooter.png') bottom center no-repeat;
 	margin-top: -230px; /* negative value of footer height */
 	height: 230px;
 	clear: both;
+}
+
+#belowFooter {
+    position: absolute;
+    display: none;
+    width: 100%;
+    height: 100px;
+    bottom: -100px;
+    background-color: #000;
+    text-align: center;
+    border: 1px solid green;
 }
 
 #quickLinks {
 	position: absolute;
 	bottom: 0;
 	left: 15px;
-	cursor: pointer
+	cursor: pointer;
 }
 
 #copyright {

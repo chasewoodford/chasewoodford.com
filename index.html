@@ -63,12 +63,17 @@
     <footer id="footer">
         <div id="quickLinks">
             <p class="tiny">
-                <a id="holdHorses">Quick links &#187;</a>
+                <a href="#" onClick="quickLinks();">Quick links &#187;</a>
             </p>
         </div>
         <div id="copyright" role="contentinfo">
             <p class="tiny">
                 Copyright &copy; 2012 <a href="http://about.me/chasewoodford">Chase Woodford</a>
+            </p>
+        </div>
+        <div id="belowFooter">
+            <p>
+                Test link, click <a href="#">here</a>.
             </p>
         </div>
     </footer><!-- end footer -->
@@ -100,6 +105,20 @@
     function delayedRedirect(){
         window.location = "./playground/index.html"
     }
+
+    function quickLinks(){
+        document.getElementById('footer').style.margin = '-330px';
+        document.getElementById('belowFooter').style.display = 'block';
+        setTimeout(toggle, 500);
+    }
+
+    function toggle() {
+        $('#top').one("click", function() {
+            document.getElementById('footer').style.margin = '-230px 0 0 0';
+            document.getElementById('belowFooter').style.display = 'none';
+        });
+    }
+
 </script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
