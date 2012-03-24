@@ -1,0 +1,142 @@
+body {
+    margin:0;
+    padding:50px 0;
+    background: #462037; /* Old browsers */
+}
+::selection {
+    background: #5DFC0A; /* Safari */
+    color: #fff;
+}
+::-moz-selection {
+    background: #5DFC0A; /* Firefox */
+    color: #fff;
+}
+#myAutoComplete {
+    height: 150px;
+    width: 25%; /* set width here or else widget will expand to fit its container */
+    padding-bottom:2em;
+    margin: 0 auto;
+    text-align: left;
+}
+input {
+    background: #000;
+    color: #fff;
+    border-radius: 4px;
+    height: 2em;
+    font-size: 1.2em;
+}
+.yui-skin-sam .yui-ac-content {
+    background-color: rgba(250,250,250,0);
+    border-radius: 5px;
+    border: 1px solid rgba(250,250,250,0.5);
+    margin-left: 35px;
+}
+.yui-skin-sam .yui-ac{
+    color: rgba(250,250,250,0.75);
+}
+.yui-skin-sam .yui-ac-input {
+    width: 86%;
+}
+.yui-ac-content {
+    width: 86% !important;
+}
+
+.yui-skin-sam .yui-ac-content li.yui-ac-highlight {
+    background-color: rgba(250,250,250,0.25);
+}
+.yui-ac-shadow {
+    display: none; /* removes that dumb drop shadow from YUI */
+}
+@font-face {
+    font-family: 'Magra';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Magra'), url('http://themes.googleusercontent.com/static/fonts/magra/v1/1uj9cdpjAK0H5tD02KSgRw.woff') format('woff');
+}
+#label {
+    width: 15em;
+    margin: 0 auto;
+    padding: 20px 0 5px 65px;
+    font-family: 'Magra', sans-serif;
+    font-size: 1.2em;
+    color: #fff;
+}
+.match {
+    font-weight:bold;
+    font-family: arial;
+    color: #fff;
+}
+
+#myInput{
+    padding-left: 35px;
+    font-family: 'Magra', sans-serif;
+}
+#container {
+    height: auto;
+    width: auto;
+    position: relative;
+    margin: 0 auto;
+}
+.displayHUD {
+    -moz-animation:moveIn 1.5s ease-out; /* Firefox */
+    -webkit-animation:moveIn 1.5s ease-out; /*Safari and Chrome*/
+    animation:moveIn 1.5s ease-out;
+    -moz-animation-fill-mode: backwards;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards;
+}
+.hideHUD {
+    -moz-animation:moveOut 1.5s ease-out; /* Firefox */
+    -webkit-animation:moveOut 1.5s ease-out; /*Safari and Chrome*/
+    animation:moveOut 1.5s ease-out;
+    -moz-animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+#instructions {
+    background-position: center bottom;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em; /* 48px / 16px */
+    text-shadow: 0 2px 1px #000;
+    text-align: center;
+    padding-top: 5em;
+}
+
+/* animations */
+@keyframes moveIn
+	{
+	0% {top:-500px;}
+	90% {top:20px;}
+	100% {top:0px;}
+	}
+@-moz-keyframes moveIn /*Firefox*/
+	{
+	0% {top:-500px;}
+	90% {top:20px;}
+	100% {top:0px;}
+	}
+@-webkit-keyframes moveIn /*Safari and Chrome*/
+	{
+	0% {top:-500px;}
+	90% {top:20px;}
+	100% {top:0px;}
+	}
+@keyframes moveOut
+	{
+	0% {top:0px;}
+	10% {top:20px;}
+	100% {top:-500px;}
+	}
+@-moz-keyframes moveOut /*Firefox*/
+	{
+	0% {top:0px;}
+	10% {top:20px;}
+	100% {top:-500px;}
+	}
+@-webkit-keyframes moveOut /*Safari and Chrome*/
+	{
+	0% {top:0px;}
+	10% {top:20px;}
+	100% {top:-500px;}
+	}
