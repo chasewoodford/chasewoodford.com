@@ -1,5 +1,9 @@
-/* =reset
-******************************************************************/
+//=variables
+$color-main-blue: #0088cc; 
+$color-secondary-purple: #9b0082;
+$color-secondary-white: #fff;
+
+//=reset
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -21,7 +25,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-/* HTML5 display-role reset for older browsers */
+// HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -31,23 +35,12 @@ ol, ul {
 	list-style: none;
 }
 
-blockquote, q {
-	quotes: none;
-}
-
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
 
-/* =global
-******************************************************************/
+//=global
 * {
 	margin: 0;
 	padding: 0;
@@ -59,15 +52,24 @@ table {
 
 html, body, #container {
 	height: 100%;
-    background: #0088cc;
-    background: -webkit-linear-gradient(top,  #000000 0%, #0088cc 100%);
-    background: -moz-linear-gradient(top,  #000000 0%, #0088cc 100%);
-    background: -o-linear-gradient(top,  #000000 0%, #0088cc 100%);
-    background: -ms-linear-gradient(top,  #000000 0%, #0088cc 100%);
-    background: linear-gradient(top,  #000000 0%, #0088cc 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#0088cc',GradientType=0 );
     font-size: 16px;
     overflow: hidden;
+}
+
+html {
+  background: $color-main-blue;
+  background: -webkit-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
+  background: -moz-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
+  background: -o-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
+  background: -ms-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
+  background: linear-gradient(top,  #000000 0%, $color-main-blue 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='$color-main-blue',GradientType=0 );
+
+  -moz-transition: background 2s;
+  -webkit-transition: background 1s;
+  -ms-transition: background 1s;
+  -o-transition: background 1s;
+  transition: background 1s;
 }
 
 body > #container {
@@ -76,8 +78,51 @@ body > #container {
 }
 
 .whiteOut {
-    background-color: #fff !important;
-    color: #fff !important;
+    -webkit-animation-name: whiteOut;
+    animation-name: whiteOut;
+
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes whiteOut {
+ from {
+   filter: alpha(opacity=100);
+   opacity: 1;
+ }
+ to {
+   filter: alpha(opacity=0);
+   opacity: 0;
+ }
+
+}
+
+@keyframes whiteOut {
+ from {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+   	filter: alpha(opacity=100);
+   	opacity: 1;
+ }
+ to {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+   	filter: alpha(opacity=0);
+   	opacity: 0;
+ }
+
+}
+
+@keyframes whiteOut {
+ from {
+   	opacity: 0;
+ }
+ to {
+   	opacity: 1;
+    background: #fff;
+ }
+
 }
 
 #container {
@@ -86,7 +131,7 @@ body > #container {
 }
 
 h1 {
-	color: #fff;
+	color: $color-secondary-white;
 	font-size: 5em; /* 80px / 16px */
 	font-family: "Share","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
 	text-align: center;
@@ -95,7 +140,7 @@ h1 {
 }
 
 a, a:visited {
-	color: #0088cc;
+	color: $color-main-blue;
 	text-decoration: none;
     cursor: pointer;
 }
@@ -106,7 +151,7 @@ a:hover {
 }
 
 a:active {
-	color: #9b0082;
+	color: $color-secondary-purple;
 	text-decoration: none;
 }
 
@@ -119,7 +164,7 @@ b, strong {
 }
 
 p {
-	color: #fff;
+	color: $color-secondary-white;
 	font-size: 0.875em; /* 14px / 16px */
 	line-height: 1.125em; /* 18px / 16px */
 	font-family: Cambria, Georgia, Times, serif;
@@ -141,14 +186,14 @@ sub {
 }
 
 ::-moz-selection {
-	background: #9b0082;
-	color: #fff;
+	background: $color-secondary-purple;
+	color: $color-secondary-white;
 	text-shadow: none;
 }
 
 ::selection {
-	background: #9b0082;
-	color: #fff;
+	background: $color-secondary-purple;
+	color: $color-secondary-white;
 	text-shadow: none;
 }
 
@@ -171,8 +216,7 @@ td {
 	visibility: hidden;
 }
 
-/* =structure
-******************************************************************/
+//=home
 #starryNight {
 	position: absolute;
 	top: 0;
@@ -265,7 +309,7 @@ td {
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
-    color: #fff;
+    color: $color-secondary-white;
     color: rgba(255, 255, 255, 0.5);
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -307,9 +351,9 @@ td {
     -moz-animation-name: fadeIn;
     animation-name: fadeIn;
 
-    -webkit-animation-duration: 2s;
-    -moz-animation-duration: 2s;
-    animation-duration: 2s;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 3s;
+    animation-duration: 1s;
 
     -webkit-animation-fill-mode: forwards;
     -moz-animation-fill-mode: forwards;
@@ -326,9 +370,9 @@ td {
     -moz-animation-name: fadeOut;
     animation-name: fadeOut;
 
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 1s;
     -moz-animation-duration: 2s;
-    animation-duration: 2s;
+    animation-duration: 1s;
 
     -webkit-animation-fill-mode: forwards;
     -moz-animation-fill-mode: forwards;
@@ -414,7 +458,7 @@ td {
 }
 
 .tiny {
-	color: #fff;
+	color: $color-secondary-white;
 	font-size: 0.625em; /* 10px / 16px */
 	line-height: 18px;
 	font-family: "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
@@ -422,7 +466,7 @@ td {
 
 #footer {
 	position: relative;
-	background: url('../images/img-phillyFooter.png') bottom center no-repeat;
+	background: url('../../images/img-phillyFooter.png') bottom center no-repeat;
 	margin-top: -230px; /* negative value of footer height */
 	height: 230px;
 	clear: both;
@@ -462,31 +506,10 @@ div.bottombar {
     z-index: -1;
 }
 
-/* =subPages
-******************************************************************/
+//=subPages
 #about {
     position: absolute;
     left: 2000px;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    color: white;
-    border: 1px dotted red;
-}
-
-#work {
-    position: absolute;
-    left: 4000px;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    color: white;
-    border: 1px dotted red;
-}
-
-#blog {
-    position: absolute;
-    left: 6000px;
     top: 0;
     width: 100%;
     height: 100%;
@@ -518,8 +541,7 @@ div.bottombar {
     width: 960px;
 }
 
-/* =clearFixes
-******************************************************************/
+//=clearFixes
 .clearfix:after {
 	content: ".";
 	display: block;
@@ -541,10 +563,9 @@ div.bottombar {
 	display: block
 }
 
-/* =printStyles
-******************************************************************/
+//=printStyles
 @media print {
-	* { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } /* Black prints faster: h5bp.com/s */
+	* { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; }
 	a, a:visited { text-decoration: underline; }
 	a[href]:after { content: " (" attr(href) ")"; }
 	abbr[title]:after { content: " (" attr(title) ")"; }

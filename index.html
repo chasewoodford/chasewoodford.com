@@ -15,9 +15,9 @@
     http://paulirish.com/2012/box-sizing-border-box-ftw/ | * { box-sizing: border-box } FTW | 20120201
     -->
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/compiled/style.css">
     <!--[if IE]>
-    <link rel="stylesheet" href="css/ie.css">
+    <link rel="stylesheet" href="css/compiled/ie.css">
     <![endif]-->
     <!-- custom google font -->
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Share:400,700'>
@@ -31,9 +31,9 @@
     <div id="container">
         <ul id="nav" class="fadeIn">
             <a href="#about"><li><img class="shake-right" src="images/ico-about.png" /><br/>About</li></a>
-            <a class="work" onclick="warp()"><li><img class="shake-left" src="images/ico-work.png" /><br/>Work</li></a>
-            <a class="playground" onclick="warp()"><li><img class="shake-left" src="images/ico-playground.png" /><br/>Playground</li></a>
-            <a class="blog" onclick="warp()"><li><img class="shake-right" src="images/ico-blog.png" /><br/>Blog</li></a>
+            <a class="work" onclick="warp('work')"><li><img class="shake-left" src="images/ico-work.png" /><br/>Work</li></a>
+            <a class="playground" onclick="warp('playground')"><li><img class="shake-left" src="images/ico-playground.png" /><br/>Playground</li></a>
+            <a class="blog" onclick="warp('blog')"><li><img class="shake-right" src="images/ico-blog.png" /><br/>Blog</li></a>
             <a href="#contact"><li><img class="shake-left" src="images/ico-contact.png" /><br/>Contact</li></a>
         </ul>
     </div><!-- end container -->
@@ -85,15 +85,17 @@
 
     });
 
-    function warp() {
+    function warp(url) {
         $(this).toggle (
             function () {
-                $("#nav").removeClass("fadeIn").addClass("fadeOut")
+                $("#nav").removeClass("fadeIn").addClass("fadeOut");
+                $("html").addClass("whiteOut");
             },
             function () {
                 return false;
             }
-        )
+        );
+        setTimeout(function(){window.location = './' + url + '/index.html';},1000);
     }
 
     function quickLinks(){
