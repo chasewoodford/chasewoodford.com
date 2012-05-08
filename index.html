@@ -30,11 +30,56 @@
 
     <div id="container">
         <ul id="nav" class="fadeIn">
-            <a href="#about"><li><img class="shake-right" src="images/ico-about.png" /><br/>About</li></a>
-            <a class="work" onclick="warp('work')"><li><img class="shake-left" src="images/ico-work.png" /><br/>Work</li></a>
-            <a class="playground" onclick="warp('playground')"><li><img class="shake-left" src="images/ico-playground.png" /><br/>Playground</li></a>
-            <a class="blog" onclick="warp('blog')"><li><img class="shake-right" src="images/ico-blog.png" /><br/>Blog</li></a>
-            <a href="#contact"><li><img class="shake-left" src="images/ico-contact.png" /><br/>Contact</li></a>
+            <li>
+                <a href="#about">
+                    <div>
+                        <img class="shake-right" src="images/ico-about.png" />
+                    </div>
+                    <div class="title">
+                        About
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a class="work" onclick="warp('work')">
+                    <div>
+                        <img class="shake-left" src="images/ico-work.png" />
+                    </div>
+                    <div class="title">
+                        Work
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a class="playground" onclick="warp('playground')">
+                    <div>
+                        <img class="shake-left" src="images/ico-playground.png" />
+                    </div>
+                    <div class="title">
+                        Playground
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a class="blog" onclick="warp('blog')">
+                    <div>
+                        <img class="shake-right" src="images/ico-blog.png" />
+                    </div>
+                    <div class="title">
+                        Blog
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="#contact">
+                    <div>
+                        <img class="shake-left" src="images/ico-contact.png" />
+                    </div>
+                    <div class="title">
+                        Contact
+                    </div>
+                </a>
+            </li>
         </ul>
     </div><!-- end container -->
 
@@ -47,7 +92,18 @@
     <div id="contact" class="subpage">
         <div class="content">
             Content goes here <a href="#top">Back</a>
+            <form>
+                <label id="" class="" for="">What's up?</label>
+                <textarea id="" class="" required="" tabindex="2" cols="50" rows="10" spellcheck="true" name=""></textarea>
+                <label id="" class="" for="">Name</label>
+                <input id="" class="" type="" required="" tabindex="" maxlength="" value="" spellcheck="" name="" />
+                <label id="" class="" for="">Email</label>
+                <input id="" class="" type="email" required="" tabindex="3" maxlength="255" value="" spellcheck="false" name="" />
+                <br />
+                <input id="" class="btn-success" type="submit" tabindex="4" value="Hit Me" name="" />
+            </form>
         </div>
+
     </div><!-- end contact -->
 
     <footer id="footer">
