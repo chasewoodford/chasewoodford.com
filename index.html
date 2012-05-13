@@ -19,8 +19,6 @@
     <!--[if IE]>
     <link rel="stylesheet" href="css/compiled/ie.css">
     <![endif]-->
-    <!-- custom google font -->
-    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Share:400,700'>
 
 </head>
 
@@ -85,18 +83,25 @@
 
     <div id="about" class="subpage">
         <div class="content">
-            Content goes here <a href="#top">Back</a>
+            <p>
+                Content goes here.
+            </p>
+            <p>
+                <a href="#top">Click here to go back</a>.
+            </p>
         </div>
     </div><!-- end about -->
 
     <div id="contact" class="subpage">
         <div class="content">
-            Content goes here <a href="#top">Back</a>
+            <p>
+                The form doesn't work yet. Womp womp. <a href="#top">Click here to go back</a>.
+            </p>
             <form>
-                <label id="" class="" for="">What's up?</label>
+                <label id="" class="" for="">Comment</label>
                 <textarea id="" class="" required="" tabindex="2" cols="50" rows="10" spellcheck="true" name=""></textarea>
                 <label id="" class="" for="">Name</label>
-                <input id="" class="" type="" required="" tabindex="" maxlength="" value="" spellcheck="" name="" />
+                <input id="" class="" type="text" required="" tabindex="" maxlength="" value="" spellcheck="" name="" />
                 <label id="" class="" for="">Email</label>
                 <input id="" class="" type="email" required="" tabindex="3" maxlength="255" value="" spellcheck="false" name="" />
                 <br />
@@ -114,13 +119,20 @@
         </div>
         <div id="copyright" role="contentinfo">
             <p class="tiny">
-                Copyright &copy; 2012 <a href="http://about.me/chasewoodford">Chase Woodford</a>
+                &copy; 2012 chasewoodford.com
             </p>
         </div>
         <div id="belowFooter">
-            <p>
-                Test link, click <a href="#">here</a>.
-            </p>
+            <ul>
+                <li><a href="https://twitter.com/#!/chase1263070" title="Twitter"><i class="social">t</i></a></li>
+                <li><a href="https://www.facebook.com/chasewoodford" title="Facebook"><i class="social">f</i></a></li>
+                <li><a href="http://www.linkedin.com/in/chasewoodford" title="LinkedIn"><i class="social">i</i></a></li>
+                <li><a href="https://plus.google.com/114995191415605431083/posts" title="Google+"><i class="social">g</i></a></li>
+                <li><a href="http://www.last.fm/music/Chase+Woodford/Long+Story+Short" title="last.fm"><i class="social">6</i></a></li>
+                <li><a href="http://pinterest.com/chasewoodford/" title="Pinterest"><i class="social">&</i></a></li>
+                <li><a href="#" title="Download resume"><i class="social">c</i></a></li>
+                <li><a href="#contact" title="Contact me"><i class="social">?</i></a></li>
+            </ul>
         </div>
     </footer><!-- end footer -->
 
@@ -133,12 +145,7 @@
 <script src="javascript/jquery-localscroll-1.2.7-min.js"></script>
 <script type="text/javascript">
     $(document).ready(function(){
-        $('#nav, .subpage').localScroll();
-
-        $('#holdHorses').click(function(){
-            alert("This function is not yet functional.");
-        });
-
+        $(this).localScroll();
     });
 
     function warp(url) {

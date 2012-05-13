@@ -5,10 +5,27 @@
 @import "./bootstrap/forms.scss";
 @import "./bootstrap/buttons.scss";
 
+
 //=variables
 $color-main-blue: #0088cc; 
 $color-secondary-purple: #9b0082;
 $color-secondary-white: #fff;
+
+
+//=custom fonts
+@font-face {
+  font-family: 'Share';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Share'), local('Share-Regular'), url('http://themes.googleusercontent.com/static/fonts/share/v1/_jCje2O-7QL947BeMhJzWQ.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Social';
+  src: local('Socialico'), url('../../resources/Socialico.otf');
+  font-weight: 400;
+}
+
 
 //=reset
 html, body, div, span, applet, object, iframe,
@@ -31,6 +48,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 
 //=global
 * {
@@ -124,11 +142,19 @@ body > #container {
 
 h1 {
 	color: $color-secondary-white;
-	font-size: 5em; /* 80px / 16px */
-	font-family: "Share","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+	font-size: 5rem; // 80px/16px
+	font-family: "Share","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
 	text-align: center;
 	text-transform: uppercase;
 	text-shadow: 2px 3px 3px #111;
+}
+
+i.social {
+    font-family: "Social";
+}
+
+i:hover {
+    opacity: 0.8;
 }
 
 a, a:visited {
@@ -157,9 +183,10 @@ b, strong {
 
 p {
 	color: $color-secondary-white;
-	font-size: 0.875em; /* 14px / 16px */
-	line-height: 1.125em; /* 18px / 16px */
-	font-family: Cambria, Georgia, Times, serif;
+	font-size: 1.25rem; /* 20px / 16px */
+	line-height: 1.125rem; /* 18px / 16px */
+	font-family: Cambria,Georgia,Times,serif;
+    margin-bottom: 1rem;
 }
 
 sub, sup {
@@ -207,6 +234,7 @@ td {
 	display: none !important;
 	visibility: hidden;
 }
+
 
 //=home
 #starryNight {
@@ -296,30 +324,28 @@ td {
 }
 
 #nav a {
-    font-size: 1.125em; /* 18px / 16px */
-    font-family: "Share","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+    font-size: 1.125rem; /* 18px / 16px */
+    font-family: "Share","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
     color: $color-secondary-white;
-    color: rgba(255, 255, 255, 0.5);
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    opacity: 1;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    -ms-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    opacity: 0.5;
 }
 
 #nav a:hover, #nav a:focus {
-    color: rgba(255, 255, 255, 1);
+    opacity: 0.9;
 }
 
 #nav img {
     width: 5em;
     margin-bottom: 20px;
     display: inline;
-    opacity: 0.6;
 }
 
 #nav img.shake-left:hover {
@@ -339,6 +365,7 @@ td {
 }
 
 .title {
+    text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
     padding-top: 10px;
 }
 
@@ -455,9 +482,10 @@ td {
 
 .tiny {
 	color: $color-secondary-white;
-	font-size: 0.625em; /* 10px / 16px */
+	font-size: 0.625rem; /* 10px / 16px */
 	line-height: 18px;
-	font-family: "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+	font-family: "Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+    margin-bottom: 0;
 }
 
 #footer {
@@ -477,7 +505,31 @@ td {
     bottom: -100px;
     background-color: #000;
     text-align: center;
-    border: 1px solid green;
+}
+
+#belowFooter ul {
+    margin-top: -15px;
+    li {
+      display: inline;
+      margin: 0 0.625rem; // lr- 10px/16px
+    }
+}
+
+#belowFooter a {
+    color: $color-main-blue;
+    font-size: 5em; // 80px/16px
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    opacity: 0.2;
+    &:hover {
+      opacity: 1;
+    }
+    &:active {
+      color: $color-secondary-purple;
+    }
 }
 
 #quickLinks {
@@ -502,6 +554,7 @@ div.bottombar {
     z-index: -1;
 }
 
+
 //=subPages
 #about {
     position: absolute;
@@ -524,6 +577,10 @@ div.bottombar {
     border: 1px dotted red;
 }
 
+form {
+    margin: 1rem auto; // tb- 16px/16px
+}
+
 .content {
     margin: 0 auto;
     min-width: 960px;
@@ -537,27 +594,6 @@ div.bottombar {
     width: 960px;
 }
 
-//=clearFixes
-.clearfix:after {
-	content: ".";
-	display: block;
-	height: 0;
-	clear: both;
-	visibility: hidden;
-}
-
-.clearfix {
-	display: inline-block;
-}
-
-/* Hides from IE-mac \*/
-* html .clearfix {
-	height: 1%;
-}
-
-.clearfix {
-	display: block
-}
 
 //=printStyles
 @media print {
