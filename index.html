@@ -8,13 +8,6 @@
     <meta name="author" content="Chase Woodford">
     <meta http-equiv="pragma" content="no-cache">
 
-    <!-- acknowledgments
-    ********************************************************************/
-    http://meyerweb.com/eric/tools/css/reset/ | v2.0 | 20110126
-    http://html5boilerplate.com/ | v2.0 | 20110810
-    http://paulirish.com/2012/box-sizing-border-box-ftw/ | * { box-sizing: border-box } FTW | 20120201
-    -->
-
     <link rel="stylesheet" href="css/compiled/style.css">
     <!--[if IE]>
     <link rel="stylesheet" href="css/compiled/ie.css">
@@ -26,7 +19,7 @@
 
     <div id="starryNight"></div>
 
-    <div id="container">
+    <nav id="container">
         <ul id="nav" class="fadeIn">
             <li>
                 <a href="#about">
@@ -79,7 +72,7 @@
                 </a>
             </li>
         </ul>
-    </div><!-- end container -->
+    </nav><!-- end container -->
 
     <div id="about" class="subpage">
         <div class="content">
@@ -172,14 +165,14 @@
 
     function quickLinks(){
         document.getElementById('footer').style.margin = '-330px';
-        document.getElementById('belowFooter').style.display = 'block';
+        document.getElementById('belowFooter').style.visibility = 'visible';
         setTimeout(toggle, 500);
     }
 
     function toggle() {
         $('#top').one("click", function() {
             document.getElementById('footer').style.margin = '-230px 0 0 0';
-            document.getElementById('belowFooter').style.display = 'none';
+            document.getElementById('belowFooter').style.visibility = 'hidden';
         });
     }
 

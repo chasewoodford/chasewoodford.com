@@ -15,21 +15,26 @@ $color-secondary-white: #fff;
 //=custom fonts
 @font-face {
   font-family: 'Share';
+  src: local('Share'), local('Share-Regular'), url('http://themes.googleusercontent.com/static/fonts/share/v1/_jCje2O-7QL947BeMhJzWQ.woff');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 400;
-  src: local('Share'), local('Share-Regular'), url('http://themes.googleusercontent.com/static/fonts/share/v1/_jCje2O-7QL947BeMhJzWQ.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Graublau';
   src: local('Graublau'), url('../../resources/GraublauWebBold.otf');
-  font-weight: 400;
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
   font-family: 'Social';
-  src: local('Socialico'), url('../../resources/Socialico.otf');
-  font-weight: 400;
+  src: url('../../resources/socialico-webfont.eot');
+  src: url('../../resources/socialico-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../../resources/socialico-webfont.woff') format('woff'),
+  url('../../resources/socialico-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 
@@ -73,13 +78,13 @@ html, body, #container {
 }
 
 html {
-  background: $color-main-blue;
+  background: #0088cc;
   background: -webkit-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
   background: -moz-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
   background: -o-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
   background: -ms-linear-gradient(top,  #000000 0%, $color-main-blue 100%);
   background: linear-gradient(top,  #000000 0%, $color-main-blue 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='$color-main-blue',GradientType=0 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#0088cc',GradientType=0 );
 
   -moz-transition: background 2s;
   -webkit-transition: background 1s;
@@ -513,7 +518,7 @@ td {
 
 #belowFooter {
     position: absolute;
-    display: none;
+    visibility: hidden;
     width: 100%;
     height: 100px;
     bottom: -100px;
@@ -521,17 +526,15 @@ td {
     text-align: center;
 }
 
-#belowFooter ul {
-    margin-top: -15px;
-    li {
+#belowFooter ul li {
       display: inline;
       margin: 0 0.625rem; // lr- 10px/16px
-    }
 }
 
 #belowFooter a {
     color: $color-main-blue;
     font-size: 5em; // 80px/16px
+    text-decoration: none;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -583,13 +586,10 @@ div.bottombar {
 .img-border {
     float: right;
     width: 30%;
-    margin-left: 1.5rem; // 24px/16px
+    margin: 0 1.5rem; // lr- 24px/16px
     background-color: rgba(155, 0, 130, 0.5);
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
-    padding-bottom: 1%;
-    padding-left: 1%;
-    padding-right: 1%;
-    padding-top: 1%;
+    padding: 1%;
 }
 
 #contact {
