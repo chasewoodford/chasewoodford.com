@@ -629,3 +629,36 @@ form {
 	p, h2, h3 { orphans: 3; widows: 3; }
 	h2, h3 { page-break-after: avoid; }
 }
+
+
+//=mediaQueries
+@media screen and (max-width: 480px){
+  #container {
+    width: 100%;
+  }
+
+  #nav {
+    padding-top: 10%;
+  }
+
+  #nav li {
+    display: block;
+    float: left;
+    width: 100%;
+    margin-bottom: 5%;
+    &:after {
+      clear: both;
+    }
+    img {
+      display: none;
+    }
+  }
+
+  #nav a {
+    font-size: 3rem; /* 48px / 16px */
+  }
+
+  #starryNight, footer {
+    display: none;
+  }
+}
