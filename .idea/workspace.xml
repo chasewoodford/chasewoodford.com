@@ -89,7 +89,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="31" selection-start="2557" selection-end="2557" vertical-scroll-proportion="1.25">
+            <state line="85" column="25" selection-start="2547" selection-end="2946" vertical-scroll-proportion="0.95">
               <folding />
             </state>
           </provider>
@@ -229,12 +229,12 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="chasewoodford.com" serverId="cb914028-140b-4f95-8554-fefddd1a15e2" persistUploadOnCheckin="false" autoUpload="true" notifyRemoteChanges="true">
+  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="chasewoodford.com" serverId="cb914028-140b-4f95-8554-fefddd1a15e2" uploadOnCheckin="cb914028-140b-4f95-8554-fefddd1a15e2" autoUpload="true" notifyRemoteChanges="true">
     <servers>
       <server id="cb914028-140b-4f95-8554-fefddd1a15e2">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
           <excludedPaths>
             <ExcludedPath>
@@ -249,6 +249,7 @@
         </serverdata>
       </server>
     </servers>
+    <option name="myUploadOnCheckinName" value="chasewoodford.com" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -480,7 +481,11 @@
       <created>1338161555376</created>
       <updated>1338161555376</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="testing intellij deployment">
+      <created>1338161632404</created>
+      <updated>1338161632404</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -647,7 +652,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="31" selection-start="2557" selection-end="2557" vertical-scroll-proportion="1.25">
+        <state line="85" column="25" selection-start="2547" selection-end="2946" vertical-scroll-proportion="0.95">
           <folding />
         </state>
       </provider>
