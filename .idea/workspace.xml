@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="testing intellij deployment">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="chasewoodford.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,7 +89,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="82" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.5">
+            <state line="80" column="31" selection-start="2557" selection-end="2557" vertical-scroll-proportion="1.25">
               <folding />
             </state>
           </provider>
@@ -228,7 +229,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="chasewoodford.com" serverId="cb914028-140b-4f95-8554-fefddd1a15e2" autoUpload="true" notifyRemoteChanges="true">
+  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="chasewoodford.com" serverId="cb914028-140b-4f95-8554-fefddd1a15e2" persistUploadOnCheckin="false" autoUpload="true" notifyRemoteChanges="true">
     <servers>
       <server id="cb914028-140b-4f95-8554-fefddd1a15e2">
         <serverdata>
@@ -475,13 +476,18 @@
       <created>1338161301849</created>
       <updated>1338161301849</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="testing intellij deployment">
+      <created>1338161555376</created>
+      <updated>1338161555376</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44505495" sideWeight="0.4974227" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -641,7 +647,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="82" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.5">
+        <state line="80" column="31" selection-start="2557" selection-end="2557" vertical-scroll-proportion="1.25">
           <folding />
         </state>
       </provider>
