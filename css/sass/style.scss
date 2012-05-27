@@ -632,11 +632,13 @@ form {
 
 
 //=mediaQueries
-@media screen and (max-width: 480px){
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
   #container {
     width: 100%;
+    overflow: hidden;
   }
-
   #nav {
     padding-top: 10%;
   }
@@ -655,10 +657,10 @@ form {
   }
 
   #nav a {
-    font-size: 3rem; /* 48px / 16px */
+    font-size: 2rem; /* 32px / 16px */
   }
 
-  #starryNight, footer {
+  #starryNight, #about, #contact, footer, div.bottombar {
     display: none;
   }
 }

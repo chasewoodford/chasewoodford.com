@@ -4,14 +4,14 @@
     <meta charset="utf-8">
 
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
+
     <meta name="description" content="">
     <meta name="author" content="Chase Woodford">
     <meta http-equiv="pragma" content="no-cache">
+    <meta name="viewport" content="width=device-width">
 
     <link rel="stylesheet" href="css/compiled/style.css">
-    <!--[if IE]>
-    <link rel="stylesheet" href="css/compiled/ie.css">
-    <![endif]-->
+    <!--[if IE]><link rel="stylesheet" href="css/compiled/ie.css"><![endif]-->
 
 </head>
 
@@ -22,7 +22,7 @@
     <nav id="container" class="span4">
         <ul id="nav" class="fadeIn">
             <li>
-                <a href="#about">
+                <a class="about" href="#" onclick="warp('about')">
                     <div>
                         <img class="shake-right" src="images/ico-about.png" />
                     </div>
@@ -32,7 +32,7 @@
                 </a>
             </li>
             <li>
-                <a class="work" onclick="warp('work')">
+                <a class="work" href="#" onclick="warp('work')">
                     <div>
                         <img class="shake-left" src="images/ico-work.png" />
                     </div>
@@ -42,7 +42,7 @@
                 </a>
             </li>
             <li>
-                <a class="playground" onclick="warp('playground')">
+                <a class="playground" href="#" onclick="warp('playground')">
                     <div>
                         <img class="shake-left" src="images/ico-playground.png" />
                     </div>
@@ -52,7 +52,7 @@
                 </a>
             </li>
             <li>
-                <a class="blog" onclick="warp('blog')">
+                <a class="blog" href="#" onclick="warp('blog')">
                     <div>
                         <img class="shake-right" src="images/ico-blog.png" />
                     </div>
@@ -62,7 +62,7 @@
                 </a>
             </li>
             <li>
-                <a href="#contact">
+                <a class="contact">
                     <div>
                         <img class="shake-left" src="images/ico-contact.png" />
                     </div>
@@ -109,7 +109,6 @@
                 <input id="" class="btn-success" type="submit" tabindex="4" value="Hit Me" name="" />
             </form>
         </div>
-
     </div><!-- end contact -->
 
     <footer id="footer">
@@ -144,21 +143,21 @@
 <script src="javascript/jquery-localscroll-1.2.7-min.js"></script>
 <script type="text/javascript">
     $(document).ready(function(){
-        $(this).localScroll();
-    });
 
-    function warp(url) {
-        $(this).toggle (
-            function () {
-                $("#nav").removeClass("fadeIn").addClass("fadeOut");
-                $("html").addClass("whiteOut");
-            },
-            function () {
-                return false;
-            }
-        );
-        setTimeout(function(){window.location = './' + url + '/index.html';},1000);
-    }
+        var innerWidth = window.innerWidth;
+
+        if (innerWidth >= "500") {
+            // window width is gte 5000px
+            $('.about').attr('href','#about');
+            $('.about').attr('onClick','return false;');
+            $('.contact').attr('href','#contact');
+
+            $(this).localScroll();
+        } else {
+            // window width is lt 500px
+            $('.contact').attr('href','mailto:chase@chasewoodford.com');
+        }
+    });
 
     function quickLinks(){
         document.getElementById('footer').style.margin = '-330px';
@@ -171,6 +170,19 @@
             document.getElementById('footer').style.margin = '-230px 0 0 0';
             document.getElementById('belowFooter').style.visibility = 'hidden';
         });
+    }
+
+    function warp(url) {
+        $(this).toggle (
+                function () {
+                    $("#nav").removeClass("fadeIn").addClass("fadeOut");
+                    $("html").addClass("whiteOut");
+                },
+                function () {
+                    return false;
+                }
+        );
+        setTimeout(function(){window.location = './' + url + '/index.html';},1000);
     }
 
     var _gaq = _gaq || [];
