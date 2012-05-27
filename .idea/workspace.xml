@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/style.scss" afterPath="$PROJECT_DIR$/css/sass/style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="chasewoodford.com.iws" />
@@ -86,19 +88,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="25" selection-start="2547" selection-end="2946" vertical-scroll-proportion="0.95">
+            <state line="93" column="86" selection-start="3265" selection-end="3265" vertical-scroll-proportion="-20.26923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="662" column="45" selection-start="18093" selection-end="18093" vertical-scroll-proportion="0.0">
+            <state line="593" column="45" selection-start="16515" selection-end="16515" vertical-scroll-proportion="0.8739003">
               <folding />
             </state>
           </provider>
@@ -137,8 +139,8 @@
         <option value="$PROJECT_DIR$/playground/index.html" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$USER_HOME$/AppData/Local/Temp/Rar$DR06.167/mq.js" />
-        <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/sass/style.scss" />
       </list>
     </option>
   </component>
@@ -229,7 +231,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="chasewoodford.com" serverId="cb914028-140b-4f95-8554-fefddd1a15e2" uploadOnCheckin="cb914028-140b-4f95-8554-fefddd1a15e2" autoUpload="true" notifyRemoteChanges="true">
+  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="chasewoodford.com" serverId="cb914028-140b-4f95-8554-fefddd1a15e2" uploadOnCheckin="cb914028-140b-4f95-8554-fefddd1a15e2" notifyRemoteChanges="true">
     <servers>
       <server id="cb914028-140b-4f95-8554-fefddd1a15e2">
         <serverdata>
@@ -485,7 +487,11 @@
       <created>1338161632404</created>
       <updated>1338161632404</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="testing intellij deployment">
+      <created>1338161741715</created>
+      <updated>1338161741715</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -638,11 +644,6 @@
         <state line="8" column="0" selection-start="182" selection-end="331" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="662" column="45" selection-start="18093" selection-end="18093" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="60" selection-start="189" selection-end="189" vertical-scroll-proportion="0.22599705">
@@ -652,7 +653,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="25" selection-start="2547" selection-end="2946" vertical-scroll-proportion="0.95">
+        <state line="93" column="86" selection-start="3265" selection-end="3265" vertical-scroll-proportion="-20.26923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="593" column="45" selection-start="16515" selection-end="16515" vertical-scroll-proportion="0.8739003">
           <folding />
         </state>
       </provider>
