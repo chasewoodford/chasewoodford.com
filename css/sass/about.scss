@@ -155,29 +155,12 @@ i.social {
   font-family: "Social";
 }
 
-a, a:visited {
+a, a:visited, a:active {
   color: $color-secondary-white;
+  font-style: italic;
   text-decoration: none;
+  text-shadow: 0 1px 1px lighten($color-secondary-purple,10%);
   cursor: pointer;
-  border-bottom: 1px dashed $color-secondary-white;
-}
-
-a:hover {
-  text-decoration: underline;
-  cursor: pointer;
-}
-
-a:active {
-  color: $color-secondary-purple;
-  text-decoration: none;
-}
-
-a:hover, a:active, a:focus {
-  outline: 0;
-}
-
-b, strong {
-  font-weight: bold;
 }
 
 p {
@@ -187,52 +170,6 @@ p {
   font-family: Cambria,Georgia,Times,serif;
   margin-bottom: 1.5rem; // 24px/16px
   text-align: left;
-}
-
-sub, sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
-}
-
-sup {
-  top: -0.5em;
-}
-
-sub {
-  bottom: -0.25em;
-}
-
-::-moz-selection {
-  background: $color-secondary-purple;
-  color: $color-secondary-white;
-  text-shadow: none;
-}
-
-::selection {
-  background: $color-secondary-purple;
-  color: $color-secondary-white;
-  text-shadow: none;
-}
-
-img {
-  border: 0;
-  -ms-interpolation-mode: bicubic;
-  vertical-align: middle;
-}
-
-svg:not(:root) {
-  overflow: hidden;
-}
-
-td {
-  vertical-align: top;
-}
-
-.hidden {
-  display: none !important;
-  visibility: hidden;
 }
 
 .fadeIn {
