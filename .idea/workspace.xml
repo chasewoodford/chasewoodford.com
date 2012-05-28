@@ -4,7 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.html" afterPath="$PROJECT_DIR$/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/488a12008a0b0ea9dd8d3db85cefe992bf3b8239/style.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/488a12008a0b0ea9dd8d3db85cefe992bf3b8239/style.scssc" />
     </list>
     <ignored path="chasewoodford.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,7 +99,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="21" selection-start="900" selection-end="900" vertical-scroll-proportion="0.45945945">
+            <state line="24" column="30" selection-start="909" selection-end="909" vertical-scroll-proportion="0.45945945">
               <folding />
             </state>
           </provider>
@@ -545,7 +545,11 @@
       <created>1338168071168</created>
       <updated>1338168071168</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Minor update">
+      <created>1338168201373</created>
+      <updated>1338168201373</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -616,7 +620,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unused classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor update" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -629,7 +633,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Updated nav styles" />
     <MESSAGE value="Added scrollTo scripting for navigation" />
     <MESSAGE value="Removed unused js" />
     <MESSAGE value="Whoops! Adding back needed js" />
@@ -654,6 +657,7 @@
     <MESSAGE value="Added standalone About page for mobile viewers" />
     <MESSAGE value="Minor update to About page for mobile display" />
     <MESSAGE value="Removed unused classes" />
+    <MESSAGE value="Minor update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -721,7 +725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="21" selection-start="900" selection-end="900" vertical-scroll-proportion="0.45945945">
+        <state line="24" column="30" selection-start="909" selection-end="909" vertical-scroll-proportion="0.45945945">
           <folding />
         </state>
       </provider>
