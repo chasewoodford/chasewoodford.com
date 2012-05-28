@@ -1,11 +1,3 @@
-@import "./bootstrap/mixins.scss";
-@import "./bootstrap/reset.scss";
-@import "./bootstrap/variables.scss";
-@import "./bootstrap/type.scss";
-@import "./bootstrap/forms.scss";
-@import "./bootstrap/buttons.scss";
-
-
 //=variables
 $color-main-blue: #0088cc;
 $color-secondary-purple: #9b0082;
@@ -152,9 +144,10 @@ h1 {
 
 h2 {
   color: $color-secondary-white;
-  font-size: 3rem; // 48px/16px
+  font-size: 1.75rem; // 28px/16px
+  line-height: 2rem; // 32px/16px
   font-family: "Graublau",Cambria,Georgia,Times,serif;
-  text-align: left;
+  text-align: center;
   text-shadow: 0 0 1px rgba(0,0,0,0.3);
 }
 
@@ -163,9 +156,10 @@ i.social {
 }
 
 a, a:visited {
-  color: $color-main-blue;
+  color: $color-secondary-white;
   text-decoration: none;
   cursor: pointer;
+  border-bottom: 1px dashed $color-secondary-white;
 }
 
 a:hover {
@@ -188,10 +182,11 @@ b, strong {
 
 p {
   color: $color-secondary-white;
-  font-size: 1.25rem; // 20px/16px
-  line-height: 1.5rem; // 24px/16px
+  font-size: 1.5rem; // 24px/16px
+  line-height: 2rem; // 32px/16px
   font-family: Cambria,Georgia,Times,serif;
   margin-bottom: 1.5rem; // 24px/16px
+  text-align: left;
 }
 
 sub, sup {
@@ -351,11 +346,17 @@ td {
 
 }
 
+.content {
+  min-width: 320px;
+  margin: 0 auto;
+  padding: 2%;
+  text-align: center;
+}
+
 .img-border {
-  float: left;
-  width: 20%;
-  margin: 0 1.5rem; // lr- 24px/16px
+  width: 90%;
+  margin: 8px 0;
+  padding: 1%;
   background-color: rgba(155, 0, 130, 0.5);
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
-  padding: 1%;
 }
