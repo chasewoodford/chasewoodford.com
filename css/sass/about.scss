@@ -144,8 +144,8 @@ h1 {
 
 h2 {
   color: $color-secondary-white;
-  font-size: 1.75rem; // 28px/16px
-  line-height: 2rem; // 32px/16px
+  font-size: 1.5rem; // 24px/16px
+  line-height: 1.5rem; // 24px/16px
   font-family: "Graublau",Cambria,Georgia,Times,serif;
   text-align: center;
   text-shadow: 0 0 1px rgba(0,0,0,0.3);
@@ -182,8 +182,8 @@ b, strong {
 
 p {
   color: $color-secondary-white;
-  font-size: 1.5rem; // 24px/16px
-  line-height: 2rem; // 32px/16px
+  font-size: 1.25rem; // 20px/16px
+  line-height: 1.5rem; // 24px/16px
   font-family: Cambria,Georgia,Times,serif;
   margin-bottom: 1.5rem; // 24px/16px
   text-align: left;
@@ -354,7 +354,7 @@ td {
 }
 
 .img-border {
-  width: 90%;
+  width: 75%;
   margin: 8px 0;
   padding: 1%;
   background-color: rgba(155, 0, 130, 0.5);
