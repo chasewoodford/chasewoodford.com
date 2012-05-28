@@ -632,9 +632,7 @@ form {
 
 
 //=mediaQueries
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
+@media only screen and (max-device-width : 480px) {
   #container {
     width: 100%;
     overflow: hidden;
@@ -663,6 +661,7 @@ and (max-device-width : 480px) {
 
   .content {
     margin: 0 auto;
+    min-width: none;
     width: 90%;
   }
 
