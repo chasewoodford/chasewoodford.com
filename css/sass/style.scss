@@ -639,6 +639,7 @@ and (max-device-width : 480px) {
     width: 100%;
     overflow: hidden;
   }
+
   #nav {
     padding-top: 10%;
   }
@@ -658,6 +659,10 @@ and (max-device-width : 480px) {
 
   #nav a {
     font-size: 2rem; /* 32px / 16px */
+  }
+
+  .content {
+    width: 95%;
   }
 
   #starryNight, #about, #contact, footer, div.bottombar {
