@@ -579,6 +579,7 @@ div.bottombar {
     top: 0;
     width: 100%;
     height: 100%;
+    overflow-y: scroll;
     padding: 1.5rem; // 24px/16px
     color: $color-secondary-white;
 }
@@ -663,3 +664,7 @@ form {
     display: none;
   }
 }
+
+
+//=skillsChart
+@import "skillsChart.scss";
