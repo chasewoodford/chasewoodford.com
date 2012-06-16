@@ -79,7 +79,7 @@
             <img class="img-border" src="./images/me.png" alt="headshot" />
             <h2>Hi, I'm Chase Woodford</h2>
             <p>
-                I'm a designer and developer in Philadelphia, PA. I work at <a href="http://www.verilogue.com">Verilogue, Inc.</a> on a wide range of innovative healthcare-related initiatives, including our newly launched online and mobile application <a href="http://www.carecoach.com">CareCoach</a>.
+                I'm a designer and developer in Philadelphia, PA. I work at <a class="inline" href="http://www.verilogue.com">Verilogue, Inc.</a> on a wide range of innovative healthcare-related initiatives, including our newly launched online and mobile application <a class="inline" href="http://www.carecoach.com">CareCoach</a>.
             </p>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -156,15 +156,11 @@
                             <li style="bottom:100%;"></li>
                         </ul>
                     </li>
-
-
-
-
                 </ul>
 
             </section>
             <p>
-                <a href="#top">Click here to go back</a>.
+                <a class="inline" href="#top">Click here to go back</a>.
             </p>
         </div>
     </div><!-- end about -->
@@ -172,7 +168,7 @@
     <div id="contact">
         <div class="content">
             <p>
-                The form doesn't work yet. Womp womp. <a href="#top">Click here to go back</a>.
+                The form doesn't work yet. Womp womp. <a class="inline" href="#top">Click here to go back</a>.
             </p>
             <form>
                 <label id="" class="" for="">Comment</label>
@@ -217,50 +213,8 @@
 <script>window.jQuery || document.write('<script src="javascript/jquery-1.7.min.js"><\/script>')</script>
 <script src="javascript/jquery-scrollTo-1.4.2-min.js"></script>
 <script src="javascript/jquery-localscroll-1.2.7-min.js"></script>
+<script src="javascript/js.js"></script>
 <script type="text/javascript">
-    $(document).ready(function(){
-
-        var innerWidth = window.innerWidth;
-
-        if (innerWidth >= "500") {
-            // window width is gte 5000px
-            $('.about').attr('href','#about');
-            $('.about').attr('onClick','return false;');
-            $('.contact').attr('href','#contact');
-
-            $(this).localScroll();
-        } else {
-            // window width is lt 500px
-            $('.contact').attr('href','mailto:chase@chasewoodford.com');
-        }
-    });
-
-    function quickLinks(){
-        document.getElementById('footer').style.margin = '-330px';
-        document.getElementById('belowFooter').style.visibility = 'visible';
-        setTimeout(toggle, 500);
-    }
-
-    function toggle() {
-        $('#top').one("click", function() {
-            document.getElementById('footer').style.margin = '-230px 0 0 0';
-            document.getElementById('belowFooter').style.visibility = 'hidden';
-        });
-    }
-
-    function warp(url) {
-        $(this).toggle (
-                function () {
-                    $("#nav").removeClass("fadeIn").addClass("fadeOut");
-                    $("html").addClass("whiteOut");
-                },
-                function () {
-                    return false;
-                }
-        );
-        setTimeout(function(){window.location = './' + url + '/index.html';},1000);
-    }
-
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-28396921-1']);
     _gaq.push(['_setDomainName', 'chasewoodford.com']);

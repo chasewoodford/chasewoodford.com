@@ -1,0 +1,57 @@
+a, a:visited, a:active, a:focus {
+  padding-bottom: 0.25em; // 4px
+  color: $color-secondary-white;
+  font-style: italic;
+  text-decoration: none;
+  text-shadow: 0 1px 1px lighten($color-secondary-purple,10%);
+  cursor: pointer;
+  outline: 0;
+}
+
+.fadeOut a {
+  cursor: default;
+}
+
+#nav a {
+  font-size: 1.125rem; /* 18px / 16px */
+  font-family: "Share","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: $color-secondary-white;
+  -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  -ms-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  opacity: 0.5;
+  &:hover {
+    opacity: 0.9;
+  }
+  &:focus {
+    opacity: 0.9;
+  }
+}
+
+.tiny > a {
+  font-style: normal;
+  text-shadow: none;
+}
+
+#belowFooter a {
+  color: $color-main-blue;
+  font-size: 5em; // 80px/16px
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  opacity: 0.2;
+  &:hover {
+    opacity: 1;
+  }
+  &:active {
+    color: $color-secondary-purple;
+  }
+}
