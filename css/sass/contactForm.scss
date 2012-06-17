@@ -1,0 +1,117 @@
+#form {
+  width:500px;
+  position: absolute;
+  padding: 18px 6% 60px 6%;
+  margin: 0 auto;
+  text-align:center;
+}
+
+.notification_error{
+  border: 1px solid #f1dfc5;
+  height: auto;color: #ca5702;
+  padding: 10px;
+  margin: 10px auto;
+  text-align:left;
+  -moz-border-radius:5px;
+  margin-bottom:10px;}
+
+.notification_ok{
+  border: 1px #cbcf8e solid;
+  height: auto;padding: 10px;
+  margin:0 auto;
+  background: #f5f9fd;
+  text-align: center;-moz-border-radius:
+  5px;margin-bottom:10px;}
+
+textarea{
+  width:400px;margin: 10px auto;
+  padding: 5px;
+  border: 1px solid #cccccc;
+  color: #333333;
+  font: 12px Verdana, Helvetica, Arial, sans-serif;
+  -moz-border-radius: 3px;
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing : content-box;
+  box-sizing : content-box;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+  -moz-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+  box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+  webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;}
+
+.textbox {
+  width:400px;height:25px;
+  margin: 10px auto;
+  padding: 5px;
+  border: 1px solid #cccccc;
+  color: #333333;
+  font: 12px Verdana, Helvetica, Arial, sans-serif;
+  -moz-border-radius: 3px;
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing : content-box;
+  box-sizing : content-box;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6);
+  -moz-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6);
+  box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6);
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;}
+.textbox2 {height:140px;}
+
+.button {width: 25%;
+  cursor: pointer;
+  background: rgb(61, 157, 179);
+  padding: 4px 5px;
+  font-family: 'BebasNeueRegular','Arial Narrow',Arial,sans-serif;
+  color: #fff;
+  font-size: 24px;
+  border: 1px solid rgb(28, 108, 122);
+  margin-bottom: 10px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+  0px 0px 0px 3px rgb(254, 254, 254),
+  0px 5px 3px 3px rgb(210, 210, 210);
+  -moz-box-shadow:0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+  0px 0px 0px 3px rgb(254, 254, 254),
+  0px 5px 3px 3px rgb(210, 210, 210);
+  box-shadow:0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+  0px 0px 0px 3px rgb(254, 254, 254),
+  0px 5px 3px 3px rgb(210, 210, 210);
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  text-align:center;}
+
+.button:hover{
+  background: rgb(74, 179, 198);
+}
+
+::-webkit-input-placeholder  {
+  color: rgb(190, 188, 188);
+  font-style: italic;
+}
+
+input:-moz-placeholder,
+textarea:-moz-placeholder{
+  color: rgb(190, 188, 188);
+  font-style: italic;
+}
+
+input {
+  outline: none;
+}

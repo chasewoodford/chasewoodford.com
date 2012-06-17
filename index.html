@@ -165,18 +165,23 @@
     <div id="contact">
         <div class="content">
             <p>
-                The form doesn't work yet. Womp womp. <a class="inline" href="#top">Click here to go back</a>.
+                This form may or may not work right now. When in Rome... <a class="inline" href="#top">Click here to go back</a>.
             </p>
-            <form>
-                <label id="" class="" for="">Comment</label>
-                <textarea id="" class="" required="" tabindex="2" cols="50" rows="10" spellcheck="true" name=""></textarea>
-                <label id="" class="" for="">Name</label>
-                <input id="" class="" type="text" required="" tabindex="" maxlength="" value="" spellcheck="" name="" />
-                <label id="" class="" for="">Email</label>
-                <input id="" class="" type="email" required="" tabindex="3" maxlength="255" value="" spellcheck="false" name="" />
-                <br />
-                <input id="" class="btn-success" type="submit" tabindex="4" value="Hit Me" name="" />
-            </form>
+
+            <div id="form">
+                <form id="ajax-contact-form" action="javascript:alert('success!');">
+                    <fieldset class="info_fieldset">
+                        <div id="note"></div>
+                        <div id="fields">
+                            <input class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" placeholder="Name" /><br />
+                            <input class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" placeholder="you@email.com" /><br />
+                            <textarea class="textbox2" tabindex="3" name="message" rows="10" cols="50" spellcheck="true" placeholder="Comments"></textarea><br />
+                            <input class="button" type="submit" tabindex="4" value="Send Message" />
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+
         </div>
     </div><!-- end contact -->
 
@@ -207,6 +212,8 @@
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="javascript/jquery-1.7.min.js"><\/script>')</script>
+<script src="javascript/jquery.js"></script>
+<script src="javascript/contact_form.js"></script>
 <script src="javascript/jquery-scrollTo-1.4.2-min.js"></script>
 <script src="javascript/jquery-localscroll-1.2.7-min.js"></script>
 <script src="javascript/js.js"></script>
