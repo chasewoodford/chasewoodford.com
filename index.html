@@ -173,10 +173,14 @@
                     <fieldset class="info_fieldset">
                         <div id="note"></div>
                         <div id="fields">
-                            <input class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" placeholder="Name" /><br />
-                            <input class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" placeholder="you@email.com" /><br />
-                            <textarea class="textbox2" tabindex="3" name="message" rows="10" cols="50" spellcheck="true" placeholder="Comments"></textarea><br />
-                            <input class="button" type="submit" tabindex="4" value="Send Message" />
+                            <label>Name</label>
+                            <input class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" /><br />
+                            <label>Email</label>
+                            <input class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" /><br />
+                            <label>Comments</label>
+                            <textarea class="textbox textbox2" tabindex="3" name="message" rows="10" cols="50" spellcheck="true"></textarea>
+                            <input class="formSend btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />
+                            <input class="formClear btn btn-large btn-danger" type="submit" tabindex="5" value="Clear" />
                         </div>
                     </fieldset>
                 </form>
