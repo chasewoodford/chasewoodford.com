@@ -23,7 +23,7 @@
 
 .notification_error {
   height: auto;
-  color: #ca5702;
+  color: #ff0000;
   padding: 10px;
   margin: 10px auto;
   text-align: left;
@@ -34,7 +34,6 @@
   height: auto;
   padding: 10px;
   margin: 0 auto;
-  background: #f5f9fd;
   text-align: center;
   margin-bottom: 10px;
 }
@@ -89,15 +88,4 @@
 
 .textbox2 {
   height: 140px;
-}
-
-::-webkit-input-placeholder  {
-  color: rgb(190, 188, 188);
-  font-style: italic;
-}
-
-input:-moz-placeholder,
-textarea:-moz-placeholder{
-  color: rgb(190, 188, 188);
-  font-style: italic;
 }
