@@ -1,18 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Blog &#124; Chase Woodford</title>
-</head>
-<body>
 <?php
-// Include WordPress
-define('WP_USE_THEMES', false);
-require('../wordpress/wp-load.php');
-query_posts('showposts=1');
-?>
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
 
-<?php while (have_posts()): the_post(); ?>
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', true);
 
-    <?php endwhile; ?>
-</body>
-</html>
+/** Loads the WordPress Environment and Template */
+require('./wp-blog-header.php');
