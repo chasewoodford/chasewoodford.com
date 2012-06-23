@@ -185,17 +185,6 @@ div.bottombar {
   z-index: 0;
 }
 
-#about {
-  position: absolute;
-  left: 2000px;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow-y: scroll;
-  padding: 1.5rem; // 24px/16px
-  color: $color-secondary-white;
-}
-
 .img-border {
   float: left;
   width: 20%;
