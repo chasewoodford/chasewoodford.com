@@ -301,15 +301,15 @@
 }
 
 input#skill:checked ~ .graph-container > li:nth-child(1) .bar-inner { height: 40%; bottom: 0; }
-input#skill:checked ~ .graph-container > li:nth-child(2) .bar-inner { height: 100%; bottom: 0; }
-input#skill:checked ~ .graph-container > li:nth-child(3) .bar-inner { height: 20%; bottom: 0; }
+input#skill:checked ~ .graph-container > li:nth-child(2) .bar-inner { height: 80%; bottom: 0; }
+input#skill:checked ~ .graph-container > li:nth-child(3) .bar-inner { height: 30%; bottom: 0; }
 input#skill:checked ~ .graph-container > li:nth-child(4) .bar-inner { height: 80%; bottom: 0; }
-input#skill:checked ~ .graph-container > li:nth-child(5) .bar-inner { height: 100%; bottom: 0; }
+input#skill:checked ~ .graph-container > li:nth-child(5) .bar-inner { height: 20%; bottom: 0; }
 input#interest:checked ~ .graph-container > li:nth-child(1) .bar-inner { height: 20%; bottom: 0; }
-input#interest:checked ~ .graph-container > li:nth-child(2) .bar-inner { height: 80%; bottom: 0; }
-input#interest:checked ~ .graph-container > li:nth-child(3) .bar-inner { height: 100%; bottom: 0; }
+input#interest:checked ~ .graph-container > li:nth-child(2) .bar-inner { height: 100%; bottom: 0; }
+input#interest:checked ~ .graph-container > li:nth-child(3) .bar-inner { height: 60%; bottom: 0; }
 input#interest:checked ~ .graph-container > li:nth-child(4) .bar-inner { height: 40%; bottom: 0; }
-input#interest:checked ~ .graph-container > li:nth-child(5) .bar-inner { height: 20%; bottom: 0; }
+input#interest:checked ~ .graph-container > li:nth-child(5) .bar-inner { height: 100%; bottom: 0; }
 
 .graph-container .bar-container, .graph-container:after, .graph-container > li:last-child  {
   height: 20em;

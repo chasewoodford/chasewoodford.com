@@ -146,6 +146,9 @@ i:hover {
   height: 230px;
   clear: both;
   z-index: 2;
+  &.no-bg {
+    background: transparent;
+  }
 }
 
 #belowFooter {
@@ -176,13 +179,22 @@ i:hover {
   right: 15px;
 }
 
+div.topbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: #000;
+  height: 16px;
+  z-index: 5;
+}
+
 div.bottombar {
   position: fixed;
   width: 100%;
   bottom: 0;
   background-color: #000;
   height: 16px;
-  z-index: 0;
+  z-index: 5;
 }
 
 .img-border {
@@ -210,7 +222,7 @@ form {
 }
 
 .content {
-  margin: 0 auto;
+  margin: 16px auto 0;
   min-width: 960px;
   width: 960px;
 }
@@ -229,4 +241,8 @@ form {
   @page { margin: 0.5cm; }
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
+}
+
+#about {
+  overflow-y: auto;
 }
