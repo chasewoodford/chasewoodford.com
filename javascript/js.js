@@ -28,6 +28,11 @@ function warp(b) {
     }, function () {
         return false
     });
+    if (b === 'blog') {
+        setTimeout(function () {
+            window.location = "./" + b + "/index.php"
+        }, 1000)
+    } else {
     setTimeout(function () {
         window.location = "./" + b + "/index.html"
     }, 1000)
