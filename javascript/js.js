@@ -28,7 +28,7 @@ function warp(b) {
     }, function () {
         return false
     });
-    if (b === 'blog') {
+    if (b == "blog") {
         setTimeout(function () {
             window.location = "./" + b + "/index.php"
         }, 1000)
