@@ -2,7 +2,7 @@ $(document).ready(function () {
     var b = window.innerWidth;
     if (b >= "500") {
         $(".contact").attr("href", "#contact");
-        $(this).localScroll()
+        $(this).localScroll();
     } else {
         $(".contact").attr("href", "mailto:chase@chasewoodford.com")
     }
