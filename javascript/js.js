@@ -30,10 +30,10 @@ function warp(b) {
     });
     if (b == "blog") {
         setTimeout(function () {
-            window.location = "./" + b + "/index.php"
+            window.location = "./" + b
         }, 1000)
     } else {
     setTimeout(function () {
-        window.location = "./" + b + "/index.html"
+        window.location = "./" + b
     }, 1000)}
 };
