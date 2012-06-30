@@ -15,13 +15,9 @@ define('WP_USE_THEMES', false);
 
 /** Loads the WordPress Environment and Template */
 require('./wp-blog-header.php');
-
-<?php
-$posts = get_posts('numberposts=10&order=ASC&orderby=post_title');
-foreach ($posts as $post) : start_wp(); ?>
-<?php the_date(); echo "<br />"; ?>
-<?php the_title(); ?>
-<?php the_excerpt(); ?>
-<?php
-endforeach;
 ?>
+
+<?php query_posts('showposts=3'); ?>
+<?php while (have_posts()) : the_post(); ?>
+<a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title(); ?>"><?php the_title(); ?></a><br />
+<?php endwhile;?>
