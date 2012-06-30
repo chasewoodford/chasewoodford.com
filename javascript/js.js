@@ -35,5 +35,5 @@ function warp(b) {
     } else {
     setTimeout(function () {
         window.location = "./" + b + "/index.html"
-    }, 1000)
+    }, 1000)}
 };
