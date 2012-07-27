@@ -2,11 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sass/skillsChart.scss" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\488a12008a0b0ea9dd8d3db85cefe992bf3b8239\playground.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c1ed6be09b6a2f04894938e59bd5e078eea22154\style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_accordion.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_badges.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_breadcrumbs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_button-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_close.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_code.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_component-animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_dropdowns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_hero-unit.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_labels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_layouts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_modals.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_navbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_navs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_pager.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_popovers.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_progress-bars.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_scaffolding.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_sprites.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_tables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_thumbnails.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_tooltip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\_wells.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\.sass-cache\c867838bfa083113928d814a7606302bc3a38dfa\responsive.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\compiled\about.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\compiled\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\compiled\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\about.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_accordion.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_component-animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_hero-unit.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_layouts.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_navs.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_pager.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_thumbnails.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\_wells.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\bootstrap\responsive.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\contactForm.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\index.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\links.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\mq.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\playground.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\skillsChart.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\style.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\images\glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\images\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\images\img-1811.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\images\img-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\images\img-frat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-popover.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-transition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\javascript\bootstrap-typeahead.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\resources\GraublauWebBold.otf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/style.scss" afterPath="$PROJECT_DIR$/css/sass/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="chasewoodford.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,28 +191,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="21" selection-start="1362" selection-end="1367" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="72.11539">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skillsChart.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/sass/skillsChart.scss">
+      <file leaf-file-name="js.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="365" column="15" selection-start="9268" selection-end="9268" vertical-scroll-proportion="0.5590062">
+            <state line="17" column="28" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="73" selection-start="4232" selection-end="4232" vertical-scroll-proportion="-7.423077">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="54.96154">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -190,16 +301,6 @@
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -215,6 +316,76 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sassulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playground" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,6 +420,24 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -262,6 +451,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -288,32 +501,6 @@
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="local" serverId="663f00c3-e173-418b-b430-e493c455bee4" uploadOnCheckin="cb914028-140b-4f95-8554-fefddd1a15e2" notifyRemoteChanges="true">
-    <servers>
-      <server id="663f00c3-e173-418b-b430-e493c455bee4">
-        <serverdata>
-          <mappings>
-            <mapping local="" web="" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="cb914028-140b-4f95-8554-fefddd1a15e2">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-          <excludedPaths>
-            <ExcludedPath>
-              <option name="local" value="true" />
-              <option name="path" value="C:\xampp\htdocs\svn\chasewoodford.com\.idea" />
-            </ExcludedPath>
-            <ExcludedPath>
-              <option name="local" value="true" />
-              <option name="path" value="C:\xampp\htdocs\svn\chasewoodford.com\.sass-cache" />
-            </ExcludedPath>
-          </excludedPaths>
-        </serverdata>
-      </server>
-    </servers>
     <option name="myUploadOnCheckinName" value="chasewoodford.com" />
   </component>
   <component name="RecentsManager">
@@ -328,17 +515,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method>
@@ -607,9 +783,8 @@
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26785713" sideWeight="0.4974227" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26721764" sideWeight="0.4974227" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44505495" sideWeight="0.49806702" order="7" side_tool="true" content_ui="tabs" />
@@ -619,8 +794,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19780928" sideWeight="0.73214287" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19780928" sideWeight="0.73278236" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -716,66 +892,102 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="45" selection-start="520" selection-end="520" vertical-scroll-proportion="0.7311828" />
+    <entry file="file://$PROJECT_DIR$/images/img-navSprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_labels.scss">
+    <entry file="file://$PROJECT_DIR$/images/img-search.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="6" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="127" selection-end="129" vertical-scroll-proportion="0.34772727" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="47" selection-start="1405" selection-end="1405" vertical-scroll-proportion="0.7920354" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/jquery-localscroll-1.2.7-min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playground/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.07533235" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="885" selection-end="885" vertical-scroll-proportion="0.33433735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="298" column="1" selection-start="5984" selection-end="5984" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="21" selection-start="1362" selection-end="1367" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="73" selection-start="4232" selection-end="4232" vertical-scroll-proportion="-7.423077">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/skillsChart.scss">
+    <entry file="file://$PROJECT_DIR$/images/img-trans.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/kirk.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/me.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/warning-large.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/hud/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="365" column="15" selection-start="9268" selection-end="9268" vertical-scroll-proportion="0.5590062">
+        <state line="29" column="50" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.73254085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sassulator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/img-phillyFooter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.0222223">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="72.11539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="54.96154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
