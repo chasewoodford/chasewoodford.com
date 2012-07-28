@@ -19,6 +19,35 @@
         This site was taken down because <%=reason%>. It will be back up <%=deadline%>. In the meantime, you can find me on Twitter @chase1263070.
     </p>
 
+    <?php
+    /**
+     * Front to the WordPress application. This file doesn't do anything, but loads
+     * wp-blog-header.php which does and tells WordPress to load the theme.
+     *
+     * @package WordPress
+     */
+
+    /**
+     * Tells WordPress to load the WordPress theme and output it.
+     *
+     * @var bool
+     */
+    define('WP_USE_THEMES', true);
+
+    /** Loads the WordPress Environment and Template */
+    require('blog/wp-blog-header.php');
+    ?>
+
+    <?php
+    $posts = get_posts('numberposts=10&order=DSC&orderby=post_title');
+    foreach ($posts as $post) : start_wp(); ?>
+        <?php the_date(); echo "<br />"; ?>
+        <?php the_title(); ?>
+        <?php the_excerpt(); ?>
+        <?php
+    endforeach;
+    ?>
+
 
     <!--<div id="contact">-->
         <!--<div class="content">-->
