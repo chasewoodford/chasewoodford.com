@@ -1,0 +1,34 @@
+@import "reset.scss";
+
+body {
+  background: url('../../images/bg.png') repeat;
+  font-family: $font-Calluna, serif;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  color: $grey;
+}
+
+::selection {
+  background: $blue;
+  color: $white;
+}
+
+::-moz-selection {
+  background: $blue;
+  color: $white;
+}
+
+h1 {
+  margin: 0 0 10px 0;
+  border-bottom: thin dashed;
+  font-family: $font-Calluna, serif;
+  font-size: $font-size-base * 2;
+  line-height: $font-size-base * 2;
+  letter-spacing: -3px;
+  color: $grey;
+  text-shadow: $highlight-subtle;
+}
+
+p {
+  margin: 0;
+}
