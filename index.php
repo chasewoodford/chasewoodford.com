@@ -35,7 +35,6 @@ define('WP_USE_THEMES', false);
 /** Loads the WordPress Environment and Template */
 require('./wp-blog-header.php');
 
-<?php get_header(); ?>
 
 <div id="post-area">
     <?php if (have_posts()) : ?>
