@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/home.css" afterPath="$PROJECT_DIR$/css/compiled/home.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/home.scss" afterPath="$PROJECT_DIR$/css/sass/home.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -72,19 +73,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="17" selection-start="369" selection-end="369" vertical-scroll-proportion="-7.8461537">
+            <state line="1" column="153" selection-start="16" selection-end="16" vertical-scroll-proportion="0.025185185">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="45" selection-start="757" selection-end="763" vertical-scroll-proportion="0.78174037">
+            <state line="46" column="39" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -809,16 +810,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="369" selection-end="369" vertical-scroll-proportion="-7.8461537">
+        <state line="46" column="39" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="45" selection-start="757" selection-end="763" vertical-scroll-proportion="0.78174037">
+        <state line="1" column="153" selection-start="16" selection-end="16" vertical-scroll-proportion="0.025185185">
           <folding />
         </state>
       </provider>

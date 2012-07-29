@@ -42,7 +42,7 @@ img:hover {
 }
 
 .pulse {
-  -webkit-animation: pulse 3s infinite linear;
-  -moz-animation: pulse 3s infinite linear;
-  animation: pulse 3s infinite linear;
+  -webkit-animation: pulse 3s infinite ease-out;
+  -moz-animation: pulse 3s infinite ease-out;
+  animation: pulse 3s infinite ease-out;
 }
