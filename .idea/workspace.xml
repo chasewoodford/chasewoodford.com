@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/stumblr/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -72,10 +72,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="384" selection-end="384" vertical-scroll-proportion="-7.1923075">
+            <state line="13" column="29" selection-start="307" selection-end="307" vertical-scroll-proportion="0.45033112">
               <folding />
             </state>
           </provider>
@@ -99,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="116" column="7" selection-start="4821" selection-end="4821" vertical-scroll-proportion="2.1730103">
+            <state line="91" column="20" selection-start="3510" selection-end="3510" vertical-scroll-proportion="-7.8076925">
               <folding />
             </state>
           </provider>
@@ -140,12 +140,12 @@
         <option value="$PROJECT_DIR$/css/sass/reset.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/twentyeleven/style.css" />
         <option value="$PROJECT_DIR$/wp-config.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/sass/home.scss" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -813,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="384" selection-end="384" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="42" selection-start="248" selection-end="248" vertical-scroll-proportion="-7.1923075">
@@ -836,7 +829,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="7" selection-start="4821" selection-end="4821" vertical-scroll-proportion="2.1730103">
+        <state line="91" column="20" selection-start="3510" selection-end="3510" vertical-scroll-proportion="-7.8076925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="307" selection-end="307" vertical-scroll-proportion="0.45033112">
           <folding />
         </state>
       </provider>
