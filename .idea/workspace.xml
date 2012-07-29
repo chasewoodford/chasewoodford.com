@@ -75,7 +75,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="29" selection-start="307" selection-end="307" vertical-scroll-proportion="0.45033112">
+            <state line="134" column="7" selection-start="5264" selection-end="5264" vertical-scroll-proportion="2.217993">
               <folding />
             </state>
           </provider>
@@ -102,7 +102,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="20" selection-start="3510" selection-end="3510" vertical-scroll-proportion="-7.8076925">
+            <state line="91" column="20" selection-start="0" selection-end="4821" vertical-scroll-proportion="-59.5">
               <folding />
             </state>
           </provider>
@@ -829,14 +829,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="20" selection-start="3510" selection-end="3510" vertical-scroll-proportion="-7.8076925">
+        <state line="91" column="20" selection-start="0" selection-end="4821" vertical-scroll-proportion="-59.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="307" selection-end="307" vertical-scroll-proportion="0.45033112">
+        <state line="134" column="7" selection-start="5264" selection-end="5264" vertical-scroll-proportion="2.217993">
           <folding />
         </state>
       </provider>
