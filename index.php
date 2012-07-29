@@ -17,7 +17,7 @@
 <p class="parking">
     This site was taken down because <%=reason%>. It will be back up <%=deadline%>.
 </p>
-<p>
+<p class="parking">
     <a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a>
 </p>
 
