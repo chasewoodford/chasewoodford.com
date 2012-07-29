@@ -1,20 +1,3 @@
-<?php
-/**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
- */
-
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define('WP_USE_THEMES', false);
-
-/** Loads the WordPress Environment and Template */
-require('./wp-blog-header.php');
 
 <!DOCTYPE html>
 <html>
@@ -34,6 +17,23 @@ require('./wp-blog-header.php');
 <p>
     This site was taken down because <%=reason%>. It will be back up <%=deadline%>. In the meantime, you can find me on Twitter @chase1263070.
 </p>
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', false);
+
+/** Loads the WordPress Environment and Template */
+require('./wp-blog-header.php');
 
 <?php get_header(); ?>
 
