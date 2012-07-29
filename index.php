@@ -36,32 +36,6 @@ define('WP_USE_THEMES', false);
 require('./wp-blog-header.php');
 ?>
 
-<div id="post-area">
-    <?php if (have_posts()) : ?>
-    <?php while (have_posts()) : the_post(); ?>
-
-        <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-            <div><h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2></div>
-            <div>
-                <?php if ( has_post_thumbnail() ) { ?><div><?php the_post_thumbnail( 'stumblr-large-image' );  ?></div><?php } ?>
-                <?php the_content(''); ?>
-            </div>
-
-            <div>
-                <p><span><?php the_time(get_option('date_format')); ?></span> <span> <?php the_category(', ') ?></span></p>
-            </div>
-            <div class="clear"></div></div><!-- end post -->
-
-        <?php endwhile; ?>
-
-    <?php else : ?>
-    <?php endif; ?>
-
-    <?php stumblr_pagination(); ?>
-    <?php echo paginate_links( $args ) ?>
-
-</div>
-
 <?php get_footer(); ?>
 
 
