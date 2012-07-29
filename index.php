@@ -36,10 +36,6 @@ define('WP_USE_THEMES', false);
 require('./wp-blog-header.php');
 ?>
 
-<?php get_footer(); ?>
-
-
-
 <!--<div id="contact">-->
 <!--<div class="content">-->
 <!--<p>-->
