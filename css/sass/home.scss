@@ -4,12 +4,12 @@
 @import "module.scss";
 
 div {
-  width: auto;
-  padding: 50px 0 0 0;
+  padding: 20px 0 0 0;
   text-align: center;
 }
 
 img {
+  width: 140px;
   opacity: 0.5;
   -webkit-transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
