@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
 </div>
 <h1>chasewoodford.com</h1>
-<p>
+<p class="parking">
     This site was taken down because <%=reason%>. It will be back up <%=deadline%>.
 </p>
 
