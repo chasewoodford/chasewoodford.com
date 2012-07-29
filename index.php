@@ -15,7 +15,7 @@
 </div>
 <h1>chasewoodford.com</h1>
 <p class="parking">
-    This site was taken down because <pre><%=reason%></pre>. It will be back up <pre><%=deadline%></pre>.
+    This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
 </p>
 <p class="parking">
     <a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a>
