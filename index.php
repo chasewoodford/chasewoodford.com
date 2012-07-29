@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/compiled/home.css">
 </head>
 <body id="top">
-<div>
+<div class="pulse">
     <img src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
 </div>
 <h1>chasewoodford.com</h1>
