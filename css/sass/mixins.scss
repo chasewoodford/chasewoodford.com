@@ -1,0 +1,4 @@
+@mixin font-size($font-size: 24){
+  font-size : #{$font-size}px;
+  font-size : #{$font-size / 10}rem;
+}
