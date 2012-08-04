@@ -21,16 +21,16 @@
     $stumblr_highlight_color = $options['stumblr_highlight_color'];
 ?>			
 
-<?php //if ($stumblr_color_scheme == 'custom') { ?>
-<!--	<link rel="stylesheet" href="--><?php //echo get_template_directory_uri(); ?><!--/css/custom.css"/> -->
-<?php // } elseif ($stumblr_color_scheme == 'minimal') {  ?>
-<!--<link rel="stylesheet" href="--><?php //echo get_template_directory_uri(); ?><!--/css/minimal.css"/> -->
-<?php // } else {?>
-<!--<link rel="stylesheet" href="--><?php //echo get_template_directory_uri(); ?><!--/css/light.css"/> -->
-<?php // } ?>
+<?php if ($stumblr_color_scheme == 'custom') { ?>
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css"/>
+<?php  } elseif ($stumblr_color_scheme == 'minimal') {  ?>
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/minimal.css"/>
+<?php  } else {?>
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/light.css"/>
+<?php  } ?>
 
 
-<?php //if ($stumblr_show_title == 'no') { ?><!--<style type="text/css"> .stumblr-title { display:none;}</style>--><?php // } ?><!-- -->
+<?php if ($stumblr_show_title == 'no') { ?><style type="text/css"> .stumblr-title { display:none;}</style><?php  } ?>
 <?php if ($stumblr_highlight_color != '') { ?><style type="text/css"> a:hover { color:<?php echo $stumblr_highlight_color; ?>; }  .side-widget ul li a:hover { color:<?php echo $stumblr_highlight_color; ?>; }   .footer-widget ul li a:hover { color:<?php echo $stumblr_highlight_color; ?>; }  </style><?php  } ?>
 
  
