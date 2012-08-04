@@ -13,15 +13,7 @@
     require('./wp-blog-header.php');
 ?>
 
-<?php
-$posts = get_posts('numberposts=10&order=DSC&orderby=post_title');
-foreach ($posts as $post) : start_wp(); ?>
-    <?php the_title(); ?>
-    <?php the_excerpt(); ?>
-    <?php the_date(); echo "<br />"; ?>
-    <?php
-endforeach;
-?>
+
 
 <!--<div id="contact">-->
 <!--<div class="content">-->

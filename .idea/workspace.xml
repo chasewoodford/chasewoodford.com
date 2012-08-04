@@ -75,7 +75,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="362" selection-end="362" vertical-scroll-proportion="0.28247735">
+            <state line="15" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.3851964">
               <folding />
             </state>
           </provider>
@@ -640,7 +640,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -671,13 +671,13 @@
     <MESSAGE value="smushed images" />
     <MESSAGE value="remove all the frameworks" />
     <MESSAGE value="cleaning up js; refactoring sass" />
-    <MESSAGE value="test" />
     <MESSAGE value="wp test" />
     <MESSAGE value="adding  eddiemachado / bones wp theme" />
     <MESSAGE value="renaming, refactoring" />
     <MESSAGE value="removing bones" />
     <MESSAGE value="adding stumblr wp theme" />
     <MESSAGE value="revert" />
+    <MESSAGE value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -771,7 +771,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="362" selection-end="362" vertical-scroll-proportion="0.28247735">
+        <state line="15" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.3851964">
           <folding />
         </state>
       </provider>
