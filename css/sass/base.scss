@@ -3,7 +3,8 @@
 body {
   background: url('../../images/bg.png') repeat;
   font-family: $font-Calluna, serif;
-  @include font-size;
+  font-size: $font-size-base; // 150%, 24px/16px
+  line-height: $line-height-base; // 175%, 28px/16px
   color: $grey;
 }
 
@@ -24,6 +25,7 @@ h1 {
   margin: 0 0 10px 0;
   font-family: $font-Calluna, serif;
   @include font-size($font-size: 48);
+  line-height: $font-size-base * 2;
   letter-spacing: -3px;
   text-align: center;
   color: $grey;
