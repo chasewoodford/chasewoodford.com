@@ -22,7 +22,6 @@ foreach ($posts as $post) : start_wp(); ?>
     <?php
 endforeach;
 ?>
-
 <!--<div id="contact">-->
 <!--<div class="content">-->
 <!--<p>-->
