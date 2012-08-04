@@ -2,8 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/custom-post-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/login-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/nothing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/nothumb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/de_DE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/de_DE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/default.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/default.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/es_ES.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/es_ES.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/fr_FR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/fr_FR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/he_IL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/he_IL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/zh_CN.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/archive-custom_type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/bones.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/custom-post-type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/js/libs/modernizr.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/1030up.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/1240up.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/2x.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/481up.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/768up.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/ie.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/login.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_1030up.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_1240up.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_2x.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_481up.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_768up.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/ie.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/login.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/translation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/page-custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/single-custom_type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/taxonomy-custom_cat.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -75,7 +146,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="642" selection-end="642" vertical-scroll-proportion="0.892779">
+            <state line="15" column="0" selection-start="406" selection-end="682" vertical-scroll-proportion="0.55798686">
               <folding />
             </state>
           </provider>
@@ -771,7 +842,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="642" selection-end="642" vertical-scroll-proportion="0.892779">
+        <state line="15" column="0" selection-start="406" selection-end="682" vertical-scroll-proportion="0.55798686">
           <folding />
         </state>
       </provider>
