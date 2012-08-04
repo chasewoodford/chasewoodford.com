@@ -2,21 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\archive-custom_type.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\archive.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\comments.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\footer.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\header.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\page-custom.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\page.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\search.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\single-custom_type.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\single.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\mytheme\taxonomy-custom_cat.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/bg-row.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/date.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/search-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/images/light/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/options/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/resources/jscolor/arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/resources/jscolor/cross.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/resources/jscolor/hs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/resources/jscolor/hv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/css/custom-sample.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/css/light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/css/minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/js/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/options/admin-menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/options/options_page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/resources/jscolor/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/resources/jscolor/jscolor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
@@ -654,7 +673,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="renaming, refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing bones" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -667,7 +686,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Removing file" />
     <MESSAGE value="Minor update" />
     <MESSAGE value="preparing for design overhaul" />
     <MESSAGE value="parking page" />
@@ -692,6 +710,7 @@
     <MESSAGE value="wp test" />
     <MESSAGE value="adding  eddiemachado / bones wp theme" />
     <MESSAGE value="renaming, refactoring" />
+    <MESSAGE value="removing bones" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
