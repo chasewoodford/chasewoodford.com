@@ -1,8 +1,6 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
     <meta name="description" content="">
     <meta name="author" content="Chase Woodford">
@@ -10,20 +8,19 @@
     <link rel="stylesheet" href="css/compiled/home.css">
 </head>
 <body id="top">
-<div class="pulse">
-    <img src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
-</div>
-<h1>chasewoodford.com</h1>
-<p class="parking">
-    This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
-</p>
-<p class="parking">
-    <a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a>
-</p>
-
 <?php
     define('WP_USE_THEMES', false);
     require('./wp-blog-header.php');
+?>
+
+<?php
+$posts = get_posts('numberposts=10&order=ASC&orderby=post_title');
+foreach ($posts as $post) : start_wp(); ?>
+    <?php the_date(); echo "<br />"; ?>
+    <?php the_title(); ?>
+    <?php the_excerpt(); ?>
+    <?php
+endforeach;
 ?>
 
 <!--<div id="contact">-->
@@ -76,9 +73,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="javascript/jquery-1.7.min.js"><\/script>')</script>
 <script src="javascript/contact_form.js"></script>
-<script src="javascript/jquery-scrollTo-1.4.2-min.js"></script>
-<script src="javascript/jquery-localscroll-1.2.7-min.js"></script>
-<script src="javascript/js.js"></script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <script type="text/javascript">
     var _gaq = _gaq || [];
