@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <!-- Stumblr WordPress Theme by Eleven Themes (http://www.eleventhemes.com) - Proudly powered by WordPress (http://wordpress.org) -->
 
 
 
 <!-- meta -->
-<html <?php language_attributes();?>> 
-<meta charset="<?php bloginfo('charset'); ?>" />
-<title><?php bloginfo('sitename'); ?> <?php wp_title(); ?></title>
-
-<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
+<!--<html --><?php //language_attributes();?><!--> -->
+<!--<meta charset="--><?php //bloginfo('charset'); ?><!--" />-->
+<!--<title>--><?php //bloginfo('sitename'); ?><!-- --><?php //wp_title(); ?><!--</title>-->
+<!---->
+<!--<link rel="pingback" href="--><?php //bloginfo('pingback_url'); ?><!--" />-->
 
 <!-- styles -->
 <!--<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>-->
@@ -16,7 +16,7 @@
 
 <?php  $options = get_option('plugin_options');
     $stumblr_color_scheme = $options['stumblr_color_scheme'];
-//    $stumblr_logo = $options['stumblr_logo'];
+    $stumblr_logo = $options['stumblr_logo'];
     $stumblr_show_title = $options['stumblr_show_title'];
     $stumblr_highlight_color = $options['stumblr_highlight_color'];
 ?>			
@@ -31,14 +31,14 @@
 
 
 <?php if ($stumblr_show_title == 'no') { ?><style type="text/css"> .stumblr-title { display:none;}</style><?php  } ?>
-<?php //if ($stumblr_highlight_color != '') { ?><!--<style type="text/css"> a:hover { color:--><?php //echo $stumblr_highlight_color; ?><!--; }  .side-widget ul li a:hover { color:--><?php //echo $stumblr_highlight_color; ?><!--; }   .footer-widget ul li a:hover { color:--><?php //echo $stumblr_highlight_color; ?><!--; }  </style>--><?php // } ?>
+<?php if ($stumblr_highlight_color != '') { ?><style type="text/css"> a:hover { color:<?php echo $stumblr_highlight_color; ?>; }  .side-widget ul li a:hover { color:<?php echo $stumblr_highlight_color; ?>; }   .footer-widget ul li a:hover { color:<?php echo $stumblr_highlight_color; ?>; }  </style><?php  } ?>
 
  
     
 <!-- wp head -->
 <?php wp_head(); ?>
 <?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
-</head>
+<!--</head>-->
 
 
 <body <?php body_class(); ?>>
