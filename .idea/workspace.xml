@@ -1,80 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/custom-post-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/login-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/nothing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/images/nothumb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/de_DE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/de_DE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/default.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/default.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/es_ES.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/es_ES.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/fr_FR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/fr_FR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/he_IL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/he_IL.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/zh_CN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/zh_CN.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/archive-custom_type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/bones.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/custom-post-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/js/libs/modernizr.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/1030up.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/1240up.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/2x.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/481up.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/768up.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/base.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/ie.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/login.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/less/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_1030up.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_1240up.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_2x.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_481up.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_768up.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/ie.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/login.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/scss/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/library/translation/translation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/page-custom.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/single-custom_type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/bones/taxonomy-custom_cat.php" />
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="adding  eddiemachado / bones wp theme">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/archive-custom_type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/page-custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/single-custom_type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mytheme/taxonomy-custom_cat.php" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\404.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\archive-custom_type.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\archive.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\comments.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\footer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\header.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\admin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\bones.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\css\base.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\css\login.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\css\normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\custom-post-type.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\images\custom-post-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\images\login-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\images\nothing.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\images\nothumb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\js\libs\modernizr.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\js\scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\1030up.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\1240up.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\2x.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\481up.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\768up.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\base.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\ie.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\login.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\less\style.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\log.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_1030up.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_1240up.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_2x.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_481up.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_768up.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\config.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\ie.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\login.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\scss\style.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\de_DE.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\de_DE.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\default.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\default.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\es_ES.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\es_ES.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\fr_FR.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\fr_FR.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\he_IL.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\he_IL.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\translation.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\zh_CN.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\library\translation\zh_CN.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\page-custom.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\page.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\search.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\single-custom_type.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\single.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\bones\taxonomy-custom_cat.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -711,7 +727,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding  eddiemachado / bones wp theme" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -724,7 +740,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Removing" />
     <MESSAGE value="Updated mobile display styles" />
     <MESSAGE value="Removing file" />
     <MESSAGE value="Minor update" />
@@ -749,6 +764,7 @@
     <MESSAGE value="cleaning up js; refactoring sass" />
     <MESSAGE value="test" />
     <MESSAGE value="wp test" />
+    <MESSAGE value="adding  eddiemachado / bones wp theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
