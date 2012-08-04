@@ -12,7 +12,7 @@
     define('WP_USE_THEMES', false);
     require('./wp-blog-header.php');
 ?>
-
+<h1>chasewoodford.com</h1>
 <?php
 $posts = get_posts('numberposts=10&order=DSC&orderby=post_title');
 foreach ($posts as $post) : start_wp(); ?>
