@@ -19,17 +19,17 @@ body {
 }
 
 h1 {
-  position: absolute;
-  top: 50px;
-  width: 100%;
-  margin: 0 0 10px 0;
-  font-family: $font-Calluna, serif;
-  font-size: $font-size-base * 2;
-  line-height: $font-size-base * 2;
-  letter-spacing: -3px;
-  text-align: center;
-  color: $grey;
-  text-shadow: $highlight-subtle, $highlight-dropShadow;
+  position: absolute !important;
+  top: 50px !important;
+  width: 100% !important;
+  margin: 0 0 10px 0 !important;
+  font-family: $font-Calluna, serif !important;
+  font-size: $font-size-base * 2 !important;
+  line-height: $font-size-base * 2 !important;
+  letter-spacing: -3px !important;
+  text-align: center !important;
+  color: $grey !important;
+  text-shadow: $highlight-subtle, $highlight-dropShadow !important;
 }
 
 p {
