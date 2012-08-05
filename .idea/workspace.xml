@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/home.css" afterPath="$PROJECT_DIR$/css/compiled/home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/blog.scss" afterPath="$PROJECT_DIR$/css/sass/blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -109,10 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="0.07275321">
+            <state line="3" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,7 +129,7 @@
       <file leaf-file-name="variables.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="17" selection-start="21" selection-end="27" vertical-scroll-proportion="0.0">
+            <state line="2" column="17" selection-start="40" selection-end="46" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -154,10 +153,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="blog.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="120" selection-start="227" selection-end="227" vertical-scroll-proportion="-0.68">
+            <state line="62" column="157" selection-start="5878" selection-end="5878" vertical-scroll-proportion="1.5897436">
               <folding />
             </state>
           </provider>
@@ -199,8 +198,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/css/sass/home.scss" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/css/sass/blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
+        <option value="$PROJECT_DIR$/css/sass/blog.scss" />
       </list>
     </option>
   </component>
@@ -312,6 +311,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="stumblr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumblr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="light" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -869,13 +898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="17" selection-start="21" selection-end="27" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="27" selection-start="216" selection-end="216" vertical-scroll-proportion="-4.08">
@@ -925,16 +947,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="120" selection-start="227" selection-end="227" vertical-scroll-proportion="-0.68">
+        <state line="3" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="0.07275321">
+        <state line="2" column="17" selection-start="40" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="157" selection-start="5878" selection-end="5878" vertical-scroll-proportion="1.5897436">
           <folding />
         </state>
       </provider>
