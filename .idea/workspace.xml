@@ -93,7 +93,7 @@
       <file leaf-file-name="blog.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="2" selection-start="1798" selection-end="1798" vertical-scroll-proportion="0.6786834">
+            <state line="33" column="0" selection-start="1911" selection-end="1911" vertical-scroll-proportion="0.78526646">
               <folding />
             </state>
           </provider>
@@ -712,7 +712,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing some padding" />
+    <option name="LAST_COMMIT_MESSAGE" value="theme styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -742,7 +742,6 @@
     <MESSAGE value="overwriting wp theme css" />
     <MESSAGE value="wp test" />
     <MESSAGE value="converted wp theme css to sass" />
-    <MESSAGE value="theme styling" />
     <MESSAGE value="fixed broken links" />
     <MESSAGE value="removing row separator graphics" />
     <MESSAGE value="adjusted header styles" />
@@ -750,6 +749,7 @@
     <MESSAGE value="hiding horizontal overflow" />
     <MESSAGE value="adding h3" />
     <MESSAGE value="removing some padding" />
+    <MESSAGE value="theme styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -866,7 +866,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="2" selection-start="1798" selection-end="1798" vertical-scroll-proportion="0.6786834">
+        <state line="33" column="0" selection-start="1911" selection-end="1911" vertical-scroll-proportion="0.78526646">
           <folding />
         </state>
       </provider>
