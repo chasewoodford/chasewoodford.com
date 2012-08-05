@@ -54,5 +54,22 @@ h1 {
   text-shadow: $highlight-subtle, $highlight-dropShadow;
 }
 
-h2  { font-size:13px; line-height:30px; color:#929292; padding:0px; margin:0px; font-weight:300; 	text-transform:uppercase;  }
-p   { font-size:12px; line-height:21px; color:#929292; margin:0px; padding:0px; clear:both; padding-top:10px; padding-bottom:0px;}
+h2 {
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  color: #929292;
+  padding: 0px;
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: $font-size-base / 2;
+  line-height: $line-height-base / 2;
+  color: #929292;
+  margin: 0px;
+  padding: 0px;
+  clear: both;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
