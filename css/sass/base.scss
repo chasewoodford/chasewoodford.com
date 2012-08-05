@@ -2,6 +2,7 @@
 
 body {
   background: url('../../images/bg.png') repeat;
+  overflow-x: hidden;
   font-family: $font-Calluna, serif;
   font-size: $font-size-base; // 150%, 24px/16px
   line-height: $line-height-base; // 175%, 28px/16px
