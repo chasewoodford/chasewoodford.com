@@ -1,7 +1,7 @@
 @import "reset.scss";
 
 body {
-  background: url('../../images/bg.png') repeat;
+  background: url('../../images/bg.png') bottom fixed repeat-x #e5e5e5;
   font-family: $font-Calluna, serif;
   font-size: $font-size-base; // 150%, 24px/16px
   line-height: $line-height-base; // 175%, 28px/16px
