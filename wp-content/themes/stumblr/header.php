@@ -9,13 +9,8 @@
 
  
     
-<!-- wp head -->
-<?php wp_head(); ?>
-<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
-</head>
 
 
-<body <?php body_class(); ?>>
 	
 <div id="wrap">
 	<div id="stumblr-sidebar">
