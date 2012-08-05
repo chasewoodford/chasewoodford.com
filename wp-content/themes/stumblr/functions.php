@@ -143,10 +143,4 @@
      }
 	}
 
-	// Stumblr theme options 
-	include 'options/admin-menu.php';
-	
-	
-   
-
 ?>
