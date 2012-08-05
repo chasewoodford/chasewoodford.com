@@ -93,7 +93,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="608" selection-end="608" vertical-scroll-proportion="0.29356357">
+            <state line="3" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.078461535">
               <folding />
             </state>
           </provider>
@@ -760,7 +760,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="overwriting wp theme css" />
+    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -794,10 +794,10 @@
     <MESSAGE value="font test" />
     <MESSAGE value="revert" />
     <MESSAGE value="removing wp theme" />
-    <MESSAGE value="wp test" />
     <MESSAGE value="removing base styles" />
     <MESSAGE value="and, of course, remember to recompile" />
     <MESSAGE value="overwriting wp theme css" />
+    <MESSAGE value="wp test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -908,7 +908,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="608" selection-end="608" vertical-scroll-proportion="0.29356357">
+        <state line="3" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.078461535">
           <folding />
         </state>
       </provider>
