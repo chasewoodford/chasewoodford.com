@@ -19,18 +19,10 @@
 	
 <div id="wrap">
 	<div id="stumblr-sidebar">
-
-<!--    	<div id="logo">-->
-<!--        	<a href="--><?php //echo home_url( '/' ); ?><!--"  title="--><?php //echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?><!--" rel="home">-->
-<!--				--><?php //if ($stumblr_logo != '') {?><!--<img src="--><?php //echo $stumblr_logo; ?><!--" alt="--><?php //bloginfo('sitename'); ?><!--">--><?php //} else { ?><!--<img src="--><?php //echo get_template_directory_uri(); ?><!--/images/light/logo.png" alt="--><?php //bloginfo('sitename'); ?><!--" width="200">--><?php //} ?>
-<!--           </a>-->
-<!--       </div>-->
-
-
-<?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
-<div id="sidebar-widget-area">
-<?php dynamic_sidebar( 'stumblr_widgets' ); ?>
-</div>
-<?php }  ?>
-</div><!-- // stumblr-sidebar -->
+        <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
+        <div id="sidebar-widget-area">
+        <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
+        </div>
+        <?php }  ?>
+    </div><!-- // stumblr-sidebar -->
 
