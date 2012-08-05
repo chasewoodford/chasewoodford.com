@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sass/blog.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/stumblr/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/stumblr/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/home.scss" afterPath="$PROJECT_DIR$/css/sass/home.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -72,10 +74,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="75" selection-start="318" selection-end="318" vertical-scroll-proportion="-4.576923">
+            <state line="6" column="55" selection-start="242" selection-end="242" vertical-scroll-proportion="0.15407854">
               <folding />
             </state>
           </provider>
@@ -90,10 +92,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.078461535">
+            <state line="3" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="-1.0">
               <folding />
             </state>
           </provider>
@@ -111,7 +113,7 @@
       <file leaf-file-name="base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="44" selection-end="77" vertical-scroll-proportion="0.0">
+            <state line="13" column="24" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,7 +122,7 @@
       <file leaf-file-name="home.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="22" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+            <state line="7" column="20" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,7 +149,16 @@
       <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="39" selection-start="85" selection-end="85" vertical-scroll-proportion="-2.72">
+            <state line="4" column="39" selection-start="0" selection-end="10550" vertical-scroll-proportion="-2.72">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -175,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/index.php" />
         <option value="$PROJECT_DIR$/css/sass/module.scss" />
@@ -186,11 +196,12 @@
         <option value="$PROJECT_DIR$/css/sass/mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/css/light.css" />
-        <option value="$PROJECT_DIR$/css/sass/home.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/css/custom-sample.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/css/custom.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/header.php" />
+        <option value="$PROJECT_DIR$/css/sass/blog.scss" />
+        <option value="$PROJECT_DIR$/css/sass/home.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -324,6 +335,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="stumblr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -807,11 +850,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/sass/module.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/reset.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="31" selection-start="497" selection-end="497" vertical-scroll-proportion="-21.08" />
@@ -864,37 +902,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="44" selection-end="77" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/css/light.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="130" selection-start="0" selection-end="10770" vertical-scroll-proportion="-5.44">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="39" selection-start="85" selection-end="85" vertical-scroll-proportion="-2.72">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="75" selection-start="318" selection-end="318" vertical-scroll-proportion="-4.576923">
           <folding />
         </state>
       </provider>
@@ -908,7 +918,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.078461535">
+        <state line="3" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="-1.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/stumblr/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="39" selection-start="0" selection-end="10550" vertical-scroll-proportion="-2.72">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="20" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="55" selection-start="242" selection-end="242" vertical-scroll-proportion="0.15407854">
           <folding />
         </state>
       </provider>

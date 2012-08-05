@@ -5,7 +5,6 @@
     <meta name="description" content="">
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="wp-content/themes/stumblr/css/custom.css">
     <link rel="stylesheet" href="css/compiled/home.css">
 </head>
 <body id="top">
