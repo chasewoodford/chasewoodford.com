@@ -46,8 +46,10 @@ h1 {
   width: 100%;
   margin: 0 0 10px 0;
   font-family: $font-Calluna, serif;
-  font-size: $font-size-base * 2;
-  line-height: $font-size-base * 2;
+  font-size: 40px;
+  font-size: 2rem;  // 40/20
+  line-height: 30px;
+  line-height: 1rem; // 30/30
   letter-spacing: -3px;
   text-align: center;
   color: $grey;
