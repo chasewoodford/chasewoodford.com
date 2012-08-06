@@ -46,10 +46,8 @@ h1 {
   width: 100%;
   margin: 0 0 10px 0;
   font-family: $font-Calluna, serif;
-  font-size: 40px;
-  font-size: 2.5rem;  // 40/16
-  line-height: 30px;
-  line-height: 1.875rem; // 30/16
+  font-size: 40px; font-size: 2.5rem;  // 40/16
+  line-height: 30px; line-height: 1.875rem; // 30/16
   letter-spacing: -3px;
   text-align: center;
   color: $grey;
@@ -57,19 +55,13 @@ h1 {
 }
 
 h2, h3 {
-  font-size: $font-size-base;
-  line-height: $line-height-base;
-  color: #929292;
-  padding: 0px;
-  margin: 0px;
-  text-transform: uppercase;
+  color: $grey;
+  padding: 0;
+  margin: 0;
 }
 
 p {
-  color: #929292;
-  margin: 0px;
-  padding: 0px;
+  @extend h2;
   clear: both;
-  padding-top: 10px;
-  padding-bottom: 0px;
+  padding: 10px 0 0 0;
 }
