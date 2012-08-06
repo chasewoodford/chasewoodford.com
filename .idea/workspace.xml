@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/variables.scss" afterPath="$PROJECT_DIR$/css/sass/variables.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -74,7 +76,16 @@
       <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="73" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.45266274">
+            <state line="66" column="16" selection-start="2166" selection-end="2166" vertical-scroll-proportion="0.8239645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="14" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,7 +123,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/sass/module.scss" />
-        <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/animations.scss" />
         <option value="$PROJECT_DIR$/wp-blog-header.php" />
         <option value="$PROJECT_DIR$/css/sass/mixins.scss" />
@@ -126,6 +136,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
+        <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
       </list>
     </option>
@@ -823,12 +834,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="40" selection-end="46" vertical-scroll-proportion="0.04850214" />
+        <state line="4" column="14" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="73" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.45266274">
+        <state line="66" column="16" selection-start="2166" selection-end="2166" vertical-scroll-proportion="0.8239645">
           <folding />
         </state>
       </provider>
