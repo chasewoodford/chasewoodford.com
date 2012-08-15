@@ -5,8 +5,7 @@
 
 <?php  $options = get_option('plugin_options'); ?>
 
-	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom-sample.css"/>
-<!--    <link rel="stylesheet" href="/css/compiled/home.css"/>-->
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css"/>
 
     
 <!-- wp head -->
@@ -19,7 +18,6 @@
 	
 <div id="wrap">
 	<div id="stumblr-sidebar">
-
         
         
 <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>     
