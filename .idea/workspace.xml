@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -22,7 +25,7 @@
     <splitter proportion="0.5" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\xampp\htdocs\svn\chasewoodford.com" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
@@ -102,7 +105,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="9" selection-start="829" selection-end="829" vertical-scroll-proportion="0.76981133">
+            <state line="22" column="0" selection-start="783" selection-end="783" vertical-scroll-proportion="0.7056604">
               <folding />
             </state>
           </provider>
@@ -669,7 +672,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing broken things" />
+    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -705,8 +708,8 @@
     <MESSAGE value="remifying" />
     <MESSAGE value="&lt;base&gt; test" />
     <MESSAGE value="refactor" />
-    <MESSAGE value="wp test" />
     <MESSAGE value="fixing broken things" />
+    <MESSAGE value="wp test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -726,13 +729,6 @@
     <entry file="file://$PROJECT_DIR$/error404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="37" selection-start="693" selection-end="693" vertical-scroll-proportion="-1.4106814">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.479/wordpress/xmlrpc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="77" selection-start="0" selection-end="2788" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
@@ -823,7 +819,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="9" selection-start="829" selection-end="829" vertical-scroll-proportion="0.76981133">
+        <state line="22" column="0" selection-start="783" selection-end="783" vertical-scroll-proportion="0.7056604">
           <folding />
         </state>
       </provider>

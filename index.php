@@ -20,10 +20,7 @@
 <p class="parking">
     <a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a>
 </p>
-<?php
-define('WP_USE_THEMES', true);
-require('./blog/wp-blog-header.php');
-?>
+
 
 <!--<div id="contact">-->
 <!--<div class="content">-->
