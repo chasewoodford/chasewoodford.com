@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/compiled/home.css">
 </head>
 <body id="top">
+<base href="http://www.chasewoodford.com" />
 <?php
     define('WP_USE_THEMES', true);
     require('./wp-blog-header.php');
