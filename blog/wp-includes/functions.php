@@ -1,4 +1,7 @@
 <?php
+
+update_option('siteurl','http://www.chasewoodford.com/blog');
+update_option('home','http://www.chasewoodford.com/blog');
 /**
  * Main WordPress API
  *
