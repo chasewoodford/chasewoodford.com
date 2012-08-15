@@ -1,5 +1,4 @@
-
 <?php
 define('WP_USE_THEMES', true);
-require('./wp-blog-header.php');
+require('../blog/wp-blog-header.php');
 ?>
