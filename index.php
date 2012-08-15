@@ -9,7 +9,7 @@
 </head>
 <body id="top">
 <?php
-define('WP_USE_THEMES', false);
+define('WP_USE_THEMES', true);
 require('./blog/wp-blog-header.php');
 ?>
 <h1>chasewoodford.com</h1>
