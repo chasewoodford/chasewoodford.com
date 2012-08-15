@@ -2,966 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-activate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/colors-fresh.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/colors-fresh.dev.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/ie.dev.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/wp-admin-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/wp-admin-rtl.dev.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/wp-admin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/css/wp-admin.dev.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/customize.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/edit-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/freedoms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/deprecated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-delete-site.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-sites.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/my-sites.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/nav-menus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/credits.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/freedoms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/plugin-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/plugin-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/plugins.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/setup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/site-info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/site-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/site-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/site-themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/site-users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/sites.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/theme-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/theme-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/update-core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/upgrade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/user-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/user-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/network/users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/options-reading.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/revision.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/setup-config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user/credits.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user/freedoms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user/profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/user/user-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-admin/widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-blog-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-comments-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/akismet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/cron.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/css/admin-bar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/css/admin-bar.dev.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/css/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/css/editor.dev.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/template.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/media/media.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/editimage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/template-loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-includes/wp-diff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-load.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-settings.php" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\readme.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-activate.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\colors-fresh.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\colors-fresh.dev.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\ie.dev.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\wp-admin-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\wp-admin-rtl.dev.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\wp-admin.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\wp-admin.dev.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\customize.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\edit-tags.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\edit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\freedoms.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\deprecated.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\install.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\media.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-delete-site.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-edit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-options.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-sites.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-themes.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-users.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\my-sites.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\nav-menus.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\about.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\admin.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\credits.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\edit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\freedoms.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\plugin-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\plugin-install.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\plugins.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\profile.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\settings.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\setup.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\site-info.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\site-new.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\site-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\site-themes.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\site-users.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\sites.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\theme-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\theme-install.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\themes.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\update-core.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\update.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\upgrade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\user-edit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\user-new.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\users.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-reading.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\revision.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\setup-config.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\themes.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\upload.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user-new.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\about.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\admin.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\credits.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\freedoms.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\profile.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\user-edit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\users.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\widgets.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-blog-header.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-comments-post.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\akismet.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\cron.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\admin-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\admin-bar.dev.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\editor.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\editor.dev.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\template.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\media\media.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\editimage.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\template-loader.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\wp-diff.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-load.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-login.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-mail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-settings.php" afterPath="" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\about.php" afterPath="$PROJECT_DIR$/blog/wp-admin/about.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\admin-ajax.php" afterPath="$PROJECT_DIR$/blog/wp-admin/admin-ajax.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\admin-footer.php" afterPath="$PROJECT_DIR$/blog/wp-admin/admin-footer.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\admin-functions.php" afterPath="$PROJECT_DIR$/blog/wp-admin/admin-functions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\admin-header.php" afterPath="$PROJECT_DIR$/blog/wp-admin/admin-header.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\admin-post.php" afterPath="$PROJECT_DIR$/blog/wp-admin/admin-post.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\admin.php" afterPath="$PROJECT_DIR$/blog/wp-admin/admin.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\async-upload.php" afterPath="$PROJECT_DIR$/blog/wp-admin/async-upload.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\comment.php" afterPath="$PROJECT_DIR$/blog/wp-admin/comment.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\credits.php" afterPath="$PROJECT_DIR$/blog/wp-admin/credits.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\colors-classic.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/colors-classic.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\colors-classic.dev.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/colors-classic.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\customize-controls-rtl.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/customize-controls-rtl.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\customize-controls-rtl.dev.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/customize-controls-rtl.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\customize-controls.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/customize-controls.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\customize-controls.dev.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/customize-controls.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\farbtastic.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/farbtastic.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\ie-rtl.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/ie-rtl.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\ie-rtl.dev.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/ie-rtl.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\install.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/install.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\install.dev.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/install.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\media-rtl.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/media-rtl.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\media-rtl.dev.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/media-rtl.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\media.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/media.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\css\media.dev.css" afterPath="$PROJECT_DIR$/blog/wp-admin/css/media.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\custom-background.php" afterPath="$PROJECT_DIR$/blog/wp-admin/custom-background.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\custom-header.php" afterPath="$PROJECT_DIR$/blog/wp-admin/custom-header.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\edit-comments.php" afterPath="$PROJECT_DIR$/blog/wp-admin/edit-comments.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\edit-form-advanced.php" afterPath="$PROJECT_DIR$/blog/wp-admin/edit-form-advanced.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\edit-form-comment.php" afterPath="$PROJECT_DIR$/blog/wp-admin/edit-form-comment.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\edit-link-form.php" afterPath="$PROJECT_DIR$/blog/wp-admin/edit-link-form.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\edit-tag-form.php" afterPath="$PROJECT_DIR$/blog/wp-admin/edit-tag-form.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\export.php" afterPath="$PROJECT_DIR$/blog/wp-admin/export.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\gears-manifest.php" afterPath="$PROJECT_DIR$/blog/wp-admin/gears-manifest.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\align-center.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/align-center.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\align-left.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/align-left.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\align-none.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/align-none.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\align-right.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/align-right.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\archive-link.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/archive-link.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\arrows-dark-vs.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/arrows-dark-vs.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\arrows-dark.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/arrows-dark.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\arrows-vs.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/arrows-vs.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\arrows.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/arrows.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\blue-grad.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/blue-grad.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\bubble_bg-rtl.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/bubble_bg-rtl.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\bubble_bg.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/bubble_bg.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\button-grad-active.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/button-grad-active.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\button-grad.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/button-grad.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\comment-grey-bubble.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/comment-grey-bubble.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\date-button.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/date-button.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\ed-bg-vs.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/ed-bg-vs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\ed-bg.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/ed-bg.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\fade-butt.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/fade-butt.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\fav-arrow-rtl.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/fav-arrow-rtl.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\fav-arrow.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/fav-arrow.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\fav-vs.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/fav-vs.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\fav.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/fav.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\generic.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/generic.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\gray-grad.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/gray-grad.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\icons32-2x.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/icons32-2x.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\icons32-vs-2x.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/icons32-vs-2x.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\icons32-vs.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/icons32-vs.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\icons32.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/icons32.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\imgedit-icons.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/imgedit-icons.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\list.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/list.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\loading-publish.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/loading-publish.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\loading.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/loading.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\logo-ghost.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/logo-ghost.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\logo.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/logo.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\marker.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/marker.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\mask.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/mask.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\media-button-image.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/media-button-image.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\media-button-music.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/media-button-music.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\media-button-other.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/media-button-other.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\media-button-video.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/media-button-video.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\media-button.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/media-button.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-2x.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-2x.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-arrow-frame-rtl.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-arrow-frame-rtl.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-arrow-frame.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-arrow-frame.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-arrows.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-arrows.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-bits-rtl-vs.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-bits-rtl-vs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-bits-rtl.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-bits-rtl.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-bits-vs.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-bits-vs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-bits.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-bits.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-dark-rtl-vs.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-dark-rtl-vs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-dark-rtl.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-dark-rtl.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-dark-vs.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-dark-vs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-dark.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-dark.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-shadow-rtl.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-shadow-rtl.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-shadow.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-shadow.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu-vs.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu-vs.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\menu.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/menu.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\no.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/no.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\press-this.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/press-this.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\required.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/required.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\resize-rtl.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/resize-rtl.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\resize.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/resize.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screen-options-toggle-vs.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screen-options-toggle-vs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screen-options-toggle.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screen-options-toggle.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\captions-1.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/captions-1.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\captions-2.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/captions-2.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\flex-header-1.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/flex-header-1.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\flex-header-2.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/flex-header-2.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\flex-header-3.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/flex-header-3.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\flex-header-media-library.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/flex-header-media-library.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\theme-customizer.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/theme-customizer.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\twitter-embed-1.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/twitter-embed-1.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\screenshots\twitter-embed-2.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/screenshots/twitter-embed-2.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\se.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/se.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\sort.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/sort.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\stars-rtl.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/stars-rtl.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\stars.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/stars.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\toggle-arrow-rtl.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/toggle-arrow-rtl.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\toggle-arrow.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/toggle-arrow.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\upload-classic.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/upload-classic.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\upload-fresh.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/upload-fresh.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wheel.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wheel.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\white-grad-active.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/white-grad-active.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\white-grad.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/white-grad.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\widgets-arrow-vs.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/widgets-arrow-vs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\widgets-arrow.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/widgets-arrow.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wordpress-logo-2x.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wordpress-logo-2x.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wordpress-logo.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wordpress-logo.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wp-badge-2x.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wp-badge-2x.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wp-badge.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wp-badge.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wp-logo-vs.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wp-logo-vs.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wp-logo.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wp-logo.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wpspin_dark.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wpspin_dark.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\wpspin_light.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/wpspin_light.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\xit.gif" afterPath="$PROJECT_DIR$/blog/wp-admin/images/xit.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\images\yes.png" afterPath="$PROJECT_DIR$/blog/wp-admin/images/yes.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\import.php" afterPath="$PROJECT_DIR$/blog/wp-admin/import.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\admin.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/admin.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\ajax-actions.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/ajax-actions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\bookmark.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/bookmark.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-ftp-pure.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-ftp-pure.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-ftp-sockets.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-ftp-sockets.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-ftp.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-ftp.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-pclzip.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-pclzip.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-comments-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-comments-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-filesystem-base.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-filesystem-base.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-filesystem-direct.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-filesystem-direct.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-filesystem-ftpext.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-filesystem-ftpext.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-filesystem-ftpsockets.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-filesystem-ftpsockets.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-filesystem-ssh2.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-filesystem-ssh2.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-importer.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-importer.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-links-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-links-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-media-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-media-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-ms-sites-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-ms-sites-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-ms-themes-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-ms-themes-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-ms-users-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-ms-users-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-plugin-install-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-plugin-install-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-plugins-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-plugins-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-posts-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-posts-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-terms-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-terms-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-theme-install-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-theme-install-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-themes-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-themes-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-upgrader.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-upgrader.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\class-wp-users-list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/class-wp-users-list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\comment.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/comment.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\continents-cities.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/continents-cities.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\dashboard.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/dashboard.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\export.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/export.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\file.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/file.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\image-edit.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/image-edit.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\image.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/image.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\import.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/import.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\list-table.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/list-table.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\manifest.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/manifest.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\media.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/media.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\menu.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/menu.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\meta-boxes.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/meta-boxes.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\misc.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/misc.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\ms-deprecated.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/ms-deprecated.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\ms.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/ms.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\nav-menu.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/nav-menu.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\plugin-install.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/plugin-install.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\plugin.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/plugin.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\post.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/post.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\schema.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/schema.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\screen.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/screen.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\taxonomy.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/taxonomy.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\template.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\theme-install.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/theme-install.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\theme.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/theme.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\update-core.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/update-core.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\update.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/update.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\upgrade.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/upgrade.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\user.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/user.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\includes\widgets.php" afterPath="$PROJECT_DIR$/blog/wp-admin/includes/widgets.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\index.php" afterPath="$PROJECT_DIR$/blog/wp-admin/index.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\install-helper.php" afterPath="$PROJECT_DIR$/blog/wp-admin/install-helper.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\cat.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/cat.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\cat.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/cat.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\categories.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/categories.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\categories.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/categories.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\comment.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/comment.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\comment.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/comment.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\common.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/common.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\common.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/common.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\custom-background.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/custom-background.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\custom-background.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/custom-background.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\custom-fields.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/custom-fields.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\custom-fields.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/custom-fields.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\customize-controls.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/customize-controls.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\customize-controls.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/customize-controls.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\dashboard.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/dashboard.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\dashboard.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/dashboard.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\edit-comments.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/edit-comments.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\edit-comments.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/edit-comments.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\editor.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/editor.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\editor.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/editor.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\farbtastic.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/farbtastic.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\gallery.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/gallery.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\gallery.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/gallery.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\image-edit.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/image-edit.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\image-edit.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/image-edit.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\inline-edit-post.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/inline-edit-post.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\inline-edit-post.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/inline-edit-post.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\inline-edit-tax.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/inline-edit-tax.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\inline-edit-tax.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/inline-edit-tax.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\link.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/link.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\link.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/link.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\media-gallery.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/media-gallery.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\media-gallery.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/media-gallery.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\media-upload.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/media-upload.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\media-upload.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/media-upload.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\media.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/media.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\media.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/media.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\nav-menu.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/nav-menu.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\nav-menu.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/nav-menu.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\password-strength-meter.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/password-strength-meter.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\password-strength-meter.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/password-strength-meter.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\plugin-install.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/plugin-install.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\plugin-install.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/plugin-install.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\post.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/post.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\post.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/post.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\postbox.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/postbox.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\postbox.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/postbox.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\revisions-js.php" afterPath="$PROJECT_DIR$/blog/wp-admin/js/revisions-js.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\set-post-thumbnail.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/set-post-thumbnail.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\set-post-thumbnail.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/set-post-thumbnail.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\tags.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/tags.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\tags.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/tags.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\theme-preview.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/theme-preview.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\theme-preview.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/theme-preview.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\theme.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/theme.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\theme.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/theme.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\user-profile.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/user-profile.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\user-profile.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/user-profile.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\user-suggest.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/user-suggest.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\user-suggest.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/user-suggest.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\utils.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/utils.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\utils.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/utils.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\widgets.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/widgets.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\widgets.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/widgets.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\word-count.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/word-count.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\word-count.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/word-count.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\wp-fullscreen.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/wp-fullscreen.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\wp-fullscreen.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/wp-fullscreen.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\xfn.dev.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/xfn.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\js\xfn.js" afterPath="$PROJECT_DIR$/blog/wp-admin/js/xfn.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\link-add.php" afterPath="$PROJECT_DIR$/blog/wp-admin/link-add.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\link-manager.php" afterPath="$PROJECT_DIR$/blog/wp-admin/link-manager.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\link-parse-opml.php" afterPath="$PROJECT_DIR$/blog/wp-admin/link-parse-opml.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\link.php" afterPath="$PROJECT_DIR$/blog/wp-admin/link.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\load-scripts.php" afterPath="$PROJECT_DIR$/blog/wp-admin/load-scripts.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\load-styles.php" afterPath="$PROJECT_DIR$/blog/wp-admin/load-styles.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\maint\repair.php" afterPath="$PROJECT_DIR$/blog/wp-admin/maint/repair.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\media-new.php" afterPath="$PROJECT_DIR$/blog/wp-admin/media-new.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\media-upload.php" afterPath="$PROJECT_DIR$/blog/wp-admin/media-upload.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\menu-header.php" afterPath="$PROJECT_DIR$/blog/wp-admin/menu-header.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\menu.php" afterPath="$PROJECT_DIR$/blog/wp-admin/menu.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\moderation.php" afterPath="$PROJECT_DIR$/blog/wp-admin/moderation.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\ms-upgrade-network.php" afterPath="$PROJECT_DIR$/blog/wp-admin/ms-upgrade-network.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\network\menu.php" afterPath="$PROJECT_DIR$/blog/wp-admin/network/menu.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-discussion.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options-discussion.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-general.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options-general.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-head.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options-head.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-media.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options-media.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-permalink.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options-permalink.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-privacy.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options-privacy.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options-writing.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options-writing.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\options.php" afterPath="$PROJECT_DIR$/blog/wp-admin/options.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\plugin-editor.php" afterPath="$PROJECT_DIR$/blog/wp-admin/plugin-editor.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\plugin-install.php" afterPath="$PROJECT_DIR$/blog/wp-admin/plugin-install.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\plugins.php" afterPath="$PROJECT_DIR$/blog/wp-admin/plugins.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\post-new.php" afterPath="$PROJECT_DIR$/blog/wp-admin/post-new.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\post.php" afterPath="$PROJECT_DIR$/blog/wp-admin/post.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\press-this.php" afterPath="$PROJECT_DIR$/blog/wp-admin/press-this.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\profile.php" afterPath="$PROJECT_DIR$/blog/wp-admin/profile.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\theme-editor.php" afterPath="$PROJECT_DIR$/blog/wp-admin/theme-editor.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\theme-install.php" afterPath="$PROJECT_DIR$/blog/wp-admin/theme-install.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\tools.php" afterPath="$PROJECT_DIR$/blog/wp-admin/tools.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\update-core.php" afterPath="$PROJECT_DIR$/blog/wp-admin/update-core.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\update.php" afterPath="$PROJECT_DIR$/blog/wp-admin/update.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\upgrade-functions.php" afterPath="$PROJECT_DIR$/blog/wp-admin/upgrade-functions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\upgrade.php" afterPath="$PROJECT_DIR$/blog/wp-admin/upgrade.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user-edit.php" afterPath="$PROJECT_DIR$/blog/wp-admin/user-edit.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-admin\user\menu.php" afterPath="$PROJECT_DIR$/blog/wp-admin/user/menu.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-app.php" afterPath="$PROJECT_DIR$/blog/wp-app.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-config-sample.php" afterPath="$PROJECT_DIR$/blog/wp-config-sample.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-config.php" afterPath="$PROJECT_DIR$/blog/wp-config.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\index.php" afterPath="$PROJECT_DIR$/blog/wp-content/index.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\admin.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/admin.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\akismet.css" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/akismet.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\akismet.gif" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/akismet.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\akismet.js" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/akismet.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\index.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/index.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\legacy.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/legacy.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\readme.txt" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/readme.txt" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\akismet\widget.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/akismet/widget.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\hello.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/hello.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\plugins\index.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/index.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/index.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\404.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/404.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\header.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\images\light\cat.jpg" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/images/light/cat.jpg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\images\light\date.jpg" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/images/light/date.jpg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\images\light\more.png" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/images/light/more.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\images\light\search-light.png" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/images/light/search-light.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\js\functions.js" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/js/functions.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\page.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/page.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\resources\jscolor\arrow.gif" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/arrow.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\resources\jscolor\cross.gif" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/cross.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\resources\jscolor\demo.html" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/demo.html" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\resources\jscolor\hs.png" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/hs.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\resources\jscolor\hv.png" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/hv.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\resources\jscolor\jscolor.js" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/jscolor.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\search.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/search.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-content\themes\stumblr\single.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-cron.php" afterPath="$PROJECT_DIR$/blog/wp-cron.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\Text\Diff.php" afterPath="$PROJECT_DIR$/blog/wp-includes/Text/Diff.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\Text\Diff\Engine\native.php" afterPath="$PROJECT_DIR$/blog/wp-includes/Text/Diff/Engine/native.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\Text\Diff\Engine\shell.php" afterPath="$PROJECT_DIR$/blog/wp-includes/Text/Diff/Engine/shell.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\Text\Diff\Engine\string.php" afterPath="$PROJECT_DIR$/blog/wp-includes/Text/Diff/Engine/string.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\Text\Diff\Engine\xdiff.php" afterPath="$PROJECT_DIR$/blog/wp-includes/Text/Diff/Engine/xdiff.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\Text\Diff\Renderer.php" afterPath="$PROJECT_DIR$/blog/wp-includes/Text/Diff/Renderer.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\Text\Diff\Renderer\inline.php" afterPath="$PROJECT_DIR$/blog/wp-includes/Text/Diff/Renderer/inline.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\admin-bar.php" afterPath="$PROJECT_DIR$/blog/wp-includes/admin-bar.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\atomlib.php" afterPath="$PROJECT_DIR$/blog/wp-includes/atomlib.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\author-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/author-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\bookmark-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/bookmark-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\bookmark.php" afterPath="$PROJECT_DIR$/blog/wp-includes/bookmark.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\cache.php" afterPath="$PROJECT_DIR$/blog/wp-includes/cache.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\canonical.php" afterPath="$PROJECT_DIR$/blog/wp-includes/canonical.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\capabilities.php" afterPath="$PROJECT_DIR$/blog/wp-includes/capabilities.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\category-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/category-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\category.php" afterPath="$PROJECT_DIR$/blog/wp-includes/category.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-IXR.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-IXR.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-feed.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-feed.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-http.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-http.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-json.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-json.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-oembed.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-oembed.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-phpass.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-phpass.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-phpmailer.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-phpmailer.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-pop3.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-pop3.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-simplepie.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-simplepie.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-smtp.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-smtp.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-snoopy.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-snoopy.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-admin-bar.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-admin-bar.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-ajax-response.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-ajax-response.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-atom-server.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-atom-server.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-customize-control.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-customize-control.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-customize-manager.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-customize-manager.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-customize-section.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-customize-section.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-customize-setting.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-customize-setting.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-editor.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-editor.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-error.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-error.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-http-ixr-client.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-http-ixr-client.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-theme.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-theme.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-walker.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-walker.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp-xmlrpc-server.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp-xmlrpc-server.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class-wp.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class-wp.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class.wp-dependencies.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class.wp-dependencies.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class.wp-scripts.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class.wp-scripts.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\class.wp-styles.php" afterPath="$PROJECT_DIR$/blog/wp-includes/class.wp-styles.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\comment-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\comment.php" afterPath="$PROJECT_DIR$/blog/wp-includes/comment.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\compat.php" afterPath="$PROJECT_DIR$/blog/wp-includes/compat.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\admin-bar-rtl.css" afterPath="$PROJECT_DIR$/blog/wp-includes/css/admin-bar-rtl.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\admin-bar-rtl.dev.css" afterPath="$PROJECT_DIR$/blog/wp-includes/css/admin-bar-rtl.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\jquery-ui-dialog.css" afterPath="$PROJECT_DIR$/blog/wp-includes/css/jquery-ui-dialog.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\jquery-ui-dialog.dev.css" afterPath="$PROJECT_DIR$/blog/wp-includes/css/jquery-ui-dialog.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\wp-pointer.css" afterPath="$PROJECT_DIR$/blog/wp-includes/css/wp-pointer.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\css\wp-pointer.dev.css" afterPath="$PROJECT_DIR$/blog/wp-includes/css/wp-pointer.dev.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\default-constants.php" afterPath="$PROJECT_DIR$/blog/wp-includes/default-constants.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\default-filters.php" afterPath="$PROJECT_DIR$/blog/wp-includes/default-filters.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\default-widgets.php" afterPath="$PROJECT_DIR$/blog/wp-includes/default-widgets.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\deprecated.php" afterPath="$PROJECT_DIR$/blog/wp-includes/deprecated.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\feed-atom-comments.php" afterPath="$PROJECT_DIR$/blog/wp-includes/feed-atom-comments.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\feed-atom.php" afterPath="$PROJECT_DIR$/blog/wp-includes/feed-atom.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\feed-rdf.php" afterPath="$PROJECT_DIR$/blog/wp-includes/feed-rdf.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\feed-rss.php" afterPath="$PROJECT_DIR$/blog/wp-includes/feed-rss.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\feed-rss2-comments.php" afterPath="$PROJECT_DIR$/blog/wp-includes/feed-rss2-comments.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\feed-rss2.php" afterPath="$PROJECT_DIR$/blog/wp-includes/feed-rss2.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\feed.php" afterPath="$PROJECT_DIR$/blog/wp-includes/feed.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\formatting.php" afterPath="$PROJECT_DIR$/blog/wp-includes/formatting.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\functions.php" afterPath="$PROJECT_DIR$/blog/wp-includes/functions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\functions.wp-scripts.php" afterPath="$PROJECT_DIR$/blog/wp-includes/functions.wp-scripts.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\functions.wp-styles.php" afterPath="$PROJECT_DIR$/blog/wp-includes/functions.wp-styles.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\general-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/general-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\http.php" afterPath="$PROJECT_DIR$/blog/wp-includes/http.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\admin-bar-sprite-2x.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/admin-bar-sprite-2x.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\admin-bar-sprite.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/admin-bar-sprite.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\arrow-pointer-blue.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/arrow-pointer-blue.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\blank.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/blank.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\archive.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/archive.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\audio.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/audio.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\code.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/code.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\default.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/default.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\document.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/document.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\interactive.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/interactive.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\license.txt" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/license.txt" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\spreadsheet.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/spreadsheet.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\text.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/text.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\crystal\video.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/crystal/video.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\down_arrow.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/down_arrow.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\icon-pointer-flag.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/icon-pointer-flag.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\rss.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/rss.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_arrow.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_arrow.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_biggrin.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_biggrin.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_confused.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_confused.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_cool.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_cool.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_cry.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_cry.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_eek.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_eek.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_evil.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_evil.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_exclaim.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_exclaim.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_idea.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_idea.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_lol.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_lol.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_mad.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_mad.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_mrgreen.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_mrgreen.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_neutral.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_neutral.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_question.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_question.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_razz.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_razz.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_redface.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_redface.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_rolleyes.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_rolleyes.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_sad.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_sad.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_smile.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_smile.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_surprised.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_surprised.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_twisted.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_twisted.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\smilies\icon_wink.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/smilies/icon_wink.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\toggle-arrow.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/toggle-arrow.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\upload.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/upload.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\wlw\wp-comments.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/wlw/wp-comments.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\wlw\wp-icon.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/wlw/wp-icon.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\wlw\wp-watermark.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/wlw/wp-watermark.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\wpicons.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/wpicons.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\wpmini-blue.png" afterPath="$PROJECT_DIR$/blog/wp-includes/images/wpmini-blue.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\images\xit.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/images/xit.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\admin-bar.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/admin-bar.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\admin-bar.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/admin-bar.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\autosave.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/autosave.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\autosave.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/autosave.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\colorpicker.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/colorpicker.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\colorpicker.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/colorpicker.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\comment-reply.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/comment-reply.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\comment-reply.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/comment-reply.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\crop\cropper.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/crop/cropper.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\crop\cropper.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/crop/cropper.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\crop\marqueeHoriz.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/crop/marqueeHoriz.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\crop\marqueeVert.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/crop/marqueeVert.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\customize-base.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/customize-base.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\customize-base.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/customize-base.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\customize-loader.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/customize-loader.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\customize-loader.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/customize-loader.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\customize-preview.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/customize-preview.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\customize-preview.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/customize-preview.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\hoverIntent.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/hoverIntent.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\hoverIntent.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/hoverIntent.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\imgareaselect\border-anim-h.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/imgareaselect/border-anim-h.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\imgareaselect\border-anim-v.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/imgareaselect/border-anim-v.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\imgareaselect\imgareaselect.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/imgareaselect/imgareaselect.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\imgareaselect\jquery.imgareaselect.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/imgareaselect/jquery.imgareaselect.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\imgareaselect\jquery.imgareaselect.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/imgareaselect/jquery.imgareaselect.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jcrop\Jcrop.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jcrop/Jcrop.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jcrop\jquery.Jcrop.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jcrop/jquery.Jcrop.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jcrop\jquery.Jcrop.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jcrop/jquery.Jcrop.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jcrop\jquery.Jcrop.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jcrop/jquery.Jcrop.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.color.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.color.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.color.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.color.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.form.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.form.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.form.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.form.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.hotkeys.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.hotkeys.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.hotkeys.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.hotkeys.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.query.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.query.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.schedule.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.schedule.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.serialize-object.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.serialize-object.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.table-hotkeys.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.table-hotkeys.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.table-hotkeys.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.table-hotkeys.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\jquery.ui.touch-punch.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/jquery.ui.touch-punch.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\suggest.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/suggest.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\suggest.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/suggest.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.blind.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.blind.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.bounce.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.bounce.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.clip.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.clip.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.core.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.core.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.drop.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.drop.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.explode.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.explode.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.fade.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.fade.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.fold.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.fold.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.highlight.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.highlight.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.pulsate.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.pulsate.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.scale.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.scale.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.shake.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.shake.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.slide.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.slide.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.effects.transfer.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.effects.transfer.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.accordion.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.autocomplete.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.button.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.button.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.core.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.core.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.datepicker.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.dialog.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.draggable.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.droppable.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.droppable.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.mouse.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.position.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.position.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.progressbar.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.progressbar.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.resizable.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.selectable.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.selectable.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.slider.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.slider.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.sortable.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.tabs.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\jquery\ui\jquery.ui.widget.min.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/jquery/ui/jquery.ui.widget.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\json2.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/json2.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\json2.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/json2.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\changelog.txt" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/changelog.txt" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\handlers.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/handlers.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\handlers.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/handlers.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\license.txt" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/license.txt" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\plupload.flash.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/plupload.flash.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\plupload.flash.swf" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/plupload.flash.swf" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\plupload.html4.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/plupload.html4.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\plupload.html5.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/plupload.html5.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\plupload.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/plupload.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\plupload.silverlight.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/plupload.silverlight.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\plupload.silverlight.xap" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/plupload.silverlight.xap" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\wp-plupload.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/wp-plupload.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\plupload\wp-plupload.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/plupload/wp-plupload.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\prototype.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/prototype.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\quicktags.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/quicktags.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\quicktags.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/quicktags.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\MIT-LICENSE" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/MIT-LICENSE" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\builder.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/builder.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\controls.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/controls.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\dragdrop.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/dragdrop.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\effects.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/effects.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\scriptaculous.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/scriptaculous.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\slider.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/slider.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\sound.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/sound.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\unittest.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/unittest.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\scriptaculous\wp-scriptaculous.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/scriptaculous/wp-scriptaculous.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfobject.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfobject.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\handlers.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/handlers.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\handlers.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/handlers.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\license.txt" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/license.txt" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\plugins\swfupload.cookies.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/plugins/swfupload.cookies.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\plugins\swfupload.queue.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/plugins/swfupload.queue.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\plugins\swfupload.speed.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/plugins/swfupload.speed.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\plugins\swfupload.swfobject.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/plugins/swfupload.swfobject.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\swfupload-all.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/swfupload-all.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\swfupload.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/swfupload.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\swfupload\swfupload.swf" afterPath="$PROJECT_DIR$/blog/wp-includes/js/swfupload/swfupload.swf" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\thickbox\loadingAnimation.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/thickbox/loadingAnimation.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\thickbox\macFFBgHack.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/thickbox/macFFBgHack.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\thickbox\tb-close.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/thickbox/tb-close.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\thickbox\thickbox.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/thickbox/thickbox.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\thickbox\thickbox.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/thickbox/thickbox.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\langs\wp-langs-en.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/langs/wp-langs-en.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\langs\wp-langs.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/langs/wp-langs.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\license.txt" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/license.txt" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\mark_loaded_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/mark_loaded_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\directionality\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/directionality/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\directionality\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/directionality/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\fullscreen\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/fullscreen/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\fullscreen\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/fullscreen/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\fullscreen\fullscreen.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/fullscreen/fullscreen.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\alert.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/alert.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\button.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/button.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\buttons.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\confirm.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/confirm.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\corners.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\drag.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/drag.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\horizontal.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\img\vertical.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\inlinepopups\skins\clearlooks2\window.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/window.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\media\css\media.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/media/css/media.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\media\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/media/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\media\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/media/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\media\js\embed.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/media/js/embed.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\media\js\media.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/media/js/media.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\media\moxieplayer.swf" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/media/moxieplayer.swf" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\paste\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/paste/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\paste\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/paste/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\paste\js\pastetext.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/paste/js/pastetext.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\paste\js\pasteword.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/paste/js/pasteword.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\paste\pastetext.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/paste/pastetext.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\paste\pasteword.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/paste/pasteword.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\changelog.txt" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/changelog.txt" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\classes\EnchantSpell.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/classes/EnchantSpell.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\classes\GoogleSpell.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/classes/GoogleSpell.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\classes\PSpell.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/classes/PSpell.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\classes\PSpellShell.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/classes/PSpellShell.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\classes\SpellChecker.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/classes/SpellChecker.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\classes\utils\JSON.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/classes/utils/JSON.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\classes\utils\Logger.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/classes/utils/Logger.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\config.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/config.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\css\content.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/css/content.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\img\wline.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/img/wline.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\includes\general.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/includes/general.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\spellchecker\rpc.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/spellchecker/rpc.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\tabfocus\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/tabfocus/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\tabfocus\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/tabfocus/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\img\audio.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/img/audio.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\img\image.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/img/image.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\img\media.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/img/media.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\img\page.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/img/page.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\img\trans.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wordpress\img\video.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wordpress/img/video.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpdialogs\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpdialogs\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpdialogs\js\popup.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpdialogs\js\popup.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpdialogs\js\wpdialog.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpdialogs/js/wpdialog.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpdialogs\js\wpdialog.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpdialogs/js/wpdialog.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\css\editimage.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/css/editimage.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\img\delete.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/img/delete.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\img\image.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/img/image.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\js\editimage.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/js/editimage.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpeditimage\js\editimage.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpeditimage/js/editimage.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpfullscreen\css\wp-fullscreen.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpfullscreen/css/wp-fullscreen.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpfullscreen\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpfullscreen\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpgallery\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpgallery/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpgallery\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpgallery/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpgallery\img\delete.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpgallery/img/delete.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpgallery\img\edit.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpgallery/img/edit.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wpgallery\img\t.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wpgallery/img/t.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wplink\editor_plugin.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wplink/editor_plugin.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\plugins\wplink\editor_plugin_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/plugins/wplink/editor_plugin_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\about.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/about.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\anchor.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/anchor.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\charmap.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/charmap.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\color_picker.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/color_picker.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\editor_template.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/editor_template.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\editor_template_src.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/editor_template_src.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\image.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/image.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\colorpicker.jpg" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/colorpicker.jpg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\flash.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/flash.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\gotmoxie.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/gotmoxie.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\icons.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/icons.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\iframe.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/iframe.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\pagebreak.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/pagebreak.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\quicktime.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/quicktime.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\realmedia.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/realmedia.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\shockwave.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/shockwave.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\trans.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/trans.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\video.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/video.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\img\windowsmedia.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/img/windowsmedia.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\js\about.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/js/about.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\js\anchor.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/js/anchor.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\js\charmap.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/js/charmap.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\js\color_picker.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/js/color_picker.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\js\image.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/js/image.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\js\link.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/js/link.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\js\source_editor.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/js/source_editor.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\link.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/link.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\shortcuts.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/shortcuts.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\content.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/content.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\dialog.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/dialog.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\img\buttons.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/buttons.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\img\items.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/items.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\img\menu_arrow.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_arrow.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\img\menu_check.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_check.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\img\progress.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/progress.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\img\tabs.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/tabs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\default\ui.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/default/ui.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\highcontrast\content.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/content.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\highcontrast\dialog.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/dialog.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\highcontrast\ui.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/ui.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\content.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/content.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\dialog.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/dialog.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\img\button_bg.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/img/button_bg.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\img\button_bg_black.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/img/button_bg_black.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\img\button_bg_silver.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/img/button_bg_silver.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\ui.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ui.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\ui_black.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ui_black.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\o2k7\ui_silver.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ui_silver.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\content.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/content.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\dialog.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/dialog.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\img\embedded.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/embedded.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\img\gallery.png" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/gallery.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\img\more_bug.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/more_bug.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\img\page_bug.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/page_bug.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\img\tabs.gif" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/tabs.gif" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\skins\wp_theme\ui.css" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/ui.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\themes\advanced\source_editor.htm" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/themes/advanced/source_editor.htm" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\tiny_mce.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/tiny_mce.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\tiny_mce_popup.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/tiny_mce_popup.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\utils\editable_selects.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/utils/editable_selects.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\utils\form_utils.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/utils/form_utils.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\utils\mctabs.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/utils/mctabs.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\utils\validate.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/utils/validate.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\wp-mce-help.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/wp-mce-help.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\wp-tinymce.js.gz" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/wp-tinymce.js.gz" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tinymce\wp-tinymce.php" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tinymce/wp-tinymce.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tw-sack.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tw-sack.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\tw-sack.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/tw-sack.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-ajax-response.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-ajax-response.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-ajax-response.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-ajax-response.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-list-revisions.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-list-revisions.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-list-revisions.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-list-revisions.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-lists.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-lists.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-lists.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-lists.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-pointer.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-pointer.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wp-pointer.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wp-pointer.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wplink.dev.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wplink.dev.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\js\wplink.js" afterPath="$PROJECT_DIR$/blog/wp-includes/js/wplink.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\kses.php" afterPath="$PROJECT_DIR$/blog/wp-includes/kses.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\l10n.php" afterPath="$PROJECT_DIR$/blog/wp-includes/l10n.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\link-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/link-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\load.php" afterPath="$PROJECT_DIR$/blog/wp-includes/load.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\locale.php" afterPath="$PROJECT_DIR$/blog/wp-includes/locale.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\media.php" afterPath="$PROJECT_DIR$/blog/wp-includes/media.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\meta.php" afterPath="$PROJECT_DIR$/blog/wp-includes/meta.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-blogs.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-blogs.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-default-constants.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-default-constants.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-default-filters.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-default-filters.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-deprecated.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-deprecated.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-files.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-files.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-functions.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-functions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-load.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-load.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\ms-settings.php" afterPath="$PROJECT_DIR$/blog/wp-includes/ms-settings.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\nav-menu-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/nav-menu-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\nav-menu.php" afterPath="$PROJECT_DIR$/blog/wp-includes/nav-menu.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\option.php" afterPath="$PROJECT_DIR$/blog/wp-includes/option.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\pluggable-deprecated.php" afterPath="$PROJECT_DIR$/blog/wp-includes/pluggable-deprecated.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\pluggable.php" afterPath="$PROJECT_DIR$/blog/wp-includes/pluggable.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\plugin.php" afterPath="$PROJECT_DIR$/blog/wp-includes/plugin.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\pomo\entry.php" afterPath="$PROJECT_DIR$/blog/wp-includes/pomo/entry.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\pomo\mo.php" afterPath="$PROJECT_DIR$/blog/wp-includes/pomo/mo.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\pomo\po.php" afterPath="$PROJECT_DIR$/blog/wp-includes/pomo/po.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\pomo\streams.php" afterPath="$PROJECT_DIR$/blog/wp-includes/pomo/streams.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\pomo\translations.php" afterPath="$PROJECT_DIR$/blog/wp-includes/pomo/translations.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\post-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/post-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\post-thumbnail-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/post-thumbnail-template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\post.php" afterPath="$PROJECT_DIR$/blog/wp-includes/post.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\query.php" afterPath="$PROJECT_DIR$/blog/wp-includes/query.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\registration-functions.php" afterPath="$PROJECT_DIR$/blog/wp-includes/registration-functions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\registration.php" afterPath="$PROJECT_DIR$/blog/wp-includes/registration.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\rewrite.php" afterPath="$PROJECT_DIR$/blog/wp-includes/rewrite.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\rss-functions.php" afterPath="$PROJECT_DIR$/blog/wp-includes/rss-functions.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\rss.php" afterPath="$PROJECT_DIR$/blog/wp-includes/rss.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\script-loader.php" afterPath="$PROJECT_DIR$/blog/wp-includes/script-loader.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\shortcodes.php" afterPath="$PROJECT_DIR$/blog/wp-includes/shortcodes.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\taxonomy.php" afterPath="$PROJECT_DIR$/blog/wp-includes/taxonomy.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/template.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\theme-compat\comments-popup.php" afterPath="$PROJECT_DIR$/blog/wp-includes/theme-compat/comments-popup.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\theme-compat\comments.php" afterPath="$PROJECT_DIR$/blog/wp-includes/theme-compat/comments.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\theme-compat\footer.php" afterPath="$PROJECT_DIR$/blog/wp-includes/theme-compat/footer.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\theme-compat\header.php" afterPath="$PROJECT_DIR$/blog/wp-includes/theme-compat/header.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\theme-compat\sidebar.php" afterPath="$PROJECT_DIR$/blog/wp-includes/theme-compat/sidebar.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\theme.php" afterPath="$PROJECT_DIR$/blog/wp-includes/theme.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\update.php" afterPath="$PROJECT_DIR$/blog/wp-includes/update.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\user.php" afterPath="$PROJECT_DIR$/blog/wp-includes/user.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\vars.php" afterPath="$PROJECT_DIR$/blog/wp-includes/vars.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\version.php" afterPath="$PROJECT_DIR$/blog/wp-includes/version.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\widgets.php" afterPath="$PROJECT_DIR$/blog/wp-includes/widgets.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-includes\wp-db.php" afterPath="$PROJECT_DIR$/blog/wp-includes/wp-db.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-links-opml.php" afterPath="$PROJECT_DIR$/blog/wp-links-opml.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-signup.php" afterPath="$PROJECT_DIR$/blog/wp-signup.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\wp-trackback.php" afterPath="$PROJECT_DIR$/blog/wp-trackback.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\xmlrpc.php" afterPath="$PROJECT_DIR$/blog/xmlrpc.php" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\license.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.php" afterPath="$PROJECT_DIR$/blog/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -1033,16 +77,16 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="15" selection-start="0" selection-end="3712" vertical-scroll-proportion="0.28867924">
+            <state line="10" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.3130755">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/index.php">
+      <file leaf-file-name="xmlrpc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/xmlrpc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="-9.807693">
+            <state line="17" column="29" selection-start="292" selection-end="292" vertical-scroll-proportion="-8.5">
               <folding />
             </state>
           </provider>
@@ -1084,8 +128,8 @@
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/header.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -1180,6 +224,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="web.server" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
@@ -1220,7 +265,11 @@
       <recent name="C:\xampp\htdocs\svn\chasewoodford.com\work" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHPUnit.blog">
+    <configuration default="false" name="blog" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/blog" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method>
@@ -1333,7 +382,9 @@
         <option name="RakeTask" enabled="false" />
       </method>
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.blog" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -1509,13 +560,13 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28236914" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278237" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31593406" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19726859" sideWeight="0.6750842" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19726859" sideWeight="0.67171717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1532,8 +583,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -1564,7 +615,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1577,7 +628,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="font test" />
     <MESSAGE value="revert" />
     <MESSAGE value="removing wp theme" />
     <MESSAGE value="removing base styles" />
@@ -1602,6 +652,7 @@
     <MESSAGE value="remifying" />
     <MESSAGE value="&lt;base&gt; test" />
     <MESSAGE value="wp test" />
+    <MESSAGE value="refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1611,31 +662,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/arrow.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/resources/jscolor/hv.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/images/light/more.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/images/light/search-light.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="5" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.0" />
@@ -1680,16 +706,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="-9.807693">
+        <state line="15" column="0" selection-start="427" selection-end="427" vertical-scroll-proportion="0.4811321">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error400.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="22" selection-start="2166" selection-end="2166" vertical-scroll-proportion="0.53038675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="37" selection-start="693" selection-end="693" vertical-scroll-proportion="-1.4106814">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/xmlrpc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="29" selection-start="292" selection-end="292" vertical-scroll-proportion="-8.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="15" selection-start="0" selection-end="3712" vertical-scroll-proportion="0.28867924">
+        <state line="10" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.3130755">
           <folding />
         </state>
       </provider>
