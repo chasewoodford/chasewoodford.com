@@ -84,7 +84,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="36" selection-start="115" selection-end="115" vertical-scroll-proportion="0.09392265">
+            <state line="3" column="9" selection-start="91" selection-end="91" vertical-scroll-proportion="0.09392265">
               <folding />
             </state>
           </provider>
@@ -606,7 +606,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;base&gt; test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -619,7 +619,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adding mixins file" />
     <MESSAGE value="font test" />
     <MESSAGE value="revert" />
     <MESSAGE value="removing wp theme" />
@@ -644,6 +643,7 @@
     <MESSAGE value="minor change to typography" />
     <MESSAGE value="remifying" />
     <MESSAGE value="wp test" />
+    <MESSAGE value="&lt;base&gt; test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -738,7 +738,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="36" selection-start="115" selection-end="115" vertical-scroll-proportion="0.09392265">
+        <state line="3" column="9" selection-start="91" selection-end="91" vertical-scroll-proportion="0.09392265">
           <folding />
         </state>
       </provider>
