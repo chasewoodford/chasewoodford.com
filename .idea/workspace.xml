@@ -75,7 +75,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="44" selection-start="368" selection-end="368" vertical-scroll-proportion="-6.5384617">
+            <state line="12" column="4" selection-start="379" selection-end="409" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
@@ -84,7 +84,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="26" selection-start="32" selection-end="32" vertical-scroll-proportion="0.031307552">
+            <state line="1" column="30" selection-start="36" selection-end="36" vertical-scroll-proportion="0.031307552">
               <folding />
             </state>
           </provider>
@@ -606,7 +606,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;base&gt; test" />
+    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -642,8 +642,8 @@
     <MESSAGE value="removing references to deleted files" />
     <MESSAGE value="minor change to typography" />
     <MESSAGE value="remifying" />
-    <MESSAGE value="wp test" />
     <MESSAGE value="&lt;base&gt; test" />
+    <MESSAGE value="wp test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -731,14 +731,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="44" selection-start="368" selection-end="368" vertical-scroll-proportion="-6.5384617">
+        <state line="12" column="4" selection-start="379" selection-end="409" vertical-scroll-proportion="-7.8461537">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="26" selection-start="32" selection-end="32" vertical-scroll-proportion="0.031307552">
+        <state line="1" column="30" selection-start="36" selection-end="36" vertical-scroll-proportion="0.031307552">
           <folding />
         </state>
       </provider>
