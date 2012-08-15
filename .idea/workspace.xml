@@ -84,8 +84,10 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.15653776">
-              <folding />
+            <state line="17" column="0" selection-start="395" selection-end="395" vertical-scroll-proportion="0.53222835">
+              <folding>
+                <element signature="e#6#190#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -757,8 +759,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.15653776">
-          <folding />
+        <state line="17" column="0" selection-start="395" selection-end="395" vertical-scroll-proportion="0.53222835">
+          <folding>
+            <element signature="e#6#190#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
