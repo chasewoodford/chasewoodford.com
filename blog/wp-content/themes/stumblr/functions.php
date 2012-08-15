@@ -1,6 +1,4 @@
 <?php
-update_option('siteurl','http://www.chasewoodford.com/blog');
-update_option('home','http://www.chasewoodford.com/blog');
    
 	// Add RSS links to <head> section
 	add_theme_support('automatic-feed-links') ;
