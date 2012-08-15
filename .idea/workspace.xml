@@ -4,7 +4,6 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.php" afterPath="$PROJECT_DIR$/blog/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -85,7 +84,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10" selection-start="47" selection-end="47" vertical-scroll-proportion="0.062615104">
+            <state line="1" column="26" selection-start="32" selection-end="32" vertical-scroll-proportion="0.031307552">
               <folding />
             </state>
           </provider>
@@ -739,7 +738,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="47" selection-end="47" vertical-scroll-proportion="0.062615104">
+        <state line="1" column="26" selection-start="32" selection-end="32" vertical-scroll-proportion="0.031307552">
           <folding />
         </state>
       </provider>
