@@ -93,7 +93,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="7" column="9" selection-start="361" selection-end="361" vertical-scroll-proportion="0.21915285">
               <folding />
             </state>
           </provider>
@@ -865,7 +865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="7" column="9" selection-start="361" selection-end="361" vertical-scroll-proportion="0.21915285">
           <folding />
         </state>
       </provider>
