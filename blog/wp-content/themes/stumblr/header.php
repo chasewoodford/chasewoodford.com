@@ -3,7 +3,7 @@
 <head>
 <title><?php bloginfo('sitename'); ?> <?php wp_title(); ?></title>
 
-<?php  $options = get_option('plugin_options'); ?>
+
 
     <link rel="stylesheet" href="/css/compiled/home.css"/>
 
