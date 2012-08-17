@@ -1,22 +1,13 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Chase Woodford &#124; Designer &amp; Developer</title>
-    <meta name="description" content="">
-    <meta name="author" content="Chase Woodford">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/compiled/home.css">
-</head>
-<body id="top">
-<div class="pulse">
-    <img src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
-</div>
-<h1>chasewoodford.com</h1>
-<p class="parking">
-    This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
-</p>
+<?php
+include ("./blog/wp-content/themes/stumblr/header.php");
+?>
+    <div class="pulse">
+        <img src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
+    </div>
+    <h1>chasewoodford.com</h1>
+    <p class="parking">
+        This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
+    </p>
 
 <?php
 require('./blog/wp-blog-header.php');

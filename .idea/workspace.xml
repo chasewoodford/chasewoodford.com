@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/blog.scss" afterPath="$PROJECT_DIR$/css/sass/blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -72,91 +73,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="21" selection-start="198" selection-end="198" vertical-scroll-proportion="-1.9615384">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="34" selection-start="134" selection-end="134" vertical-scroll-proportion="-4.576923">
+            <state line="21" column="19" selection-start="795" selection-end="795" vertical-scroll-proportion="-13.730769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="49" selection-start="55" selection-end="55" vertical-scroll-proportion="0.031307552">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="116" column="21" selection-start="8864" selection-end="8864" vertical-scroll-proportion="0.9608209">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="minimal.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/css/minimal.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="9078" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="66" selection-end="66" vertical-scroll-proportion="-1.3076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wp-blog-header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-blog-header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="49" selection-start="253" selection-end="253" vertical-scroll-proportion="-7.1923075">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template-loader.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-includes/template-loader.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="58" selection-start="860" selection-end="860" vertical-scroll-proportion="-7.1923075">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-includes/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="4" selection-start="4899" selection-end="4899" vertical-scroll-proportion="-10.884615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="116" column="21" selection-start="8864" selection-end="8864" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -194,12 +132,12 @@
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/animations.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/home.scss" />
         <option value="$PROJECT_DIR$/blog/index.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/css/sass/blog.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -854,23 +792,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.2075472">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1586" column="22" selection-start="53573" selection-end="53573" vertical-scroll-proportion="-6.4615383">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="7" selection-start="2338" selection-end="2338" vertical-scroll-proportion="-16.961538">
           <folding />
         </state>
       </provider>
@@ -889,49 +813,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="66" selection-end="66" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-load.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="35" selection-start="854" selection-end="854" vertical-scroll-proportion="0.25660378">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-blog-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="49" selection-start="253" selection-end="253" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/template-loader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="58" selection-start="860" selection-end="860" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="4" selection-start="4899" selection-end="4899" vertical-scroll-proportion="-10.884615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="134" selection-end="134" vertical-scroll-proportion="-4.576923">
           <folding />
         </state>
       </provider>
@@ -957,9 +841,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/css/custom-sample.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="66" selection-end="66" vertical-scroll-proportion="0.062615104">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-blog-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="49" selection-start="253" selection-end="253" vertical-scroll-proportion="0.34438306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/template-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="58" selection-start="860" selection-end="860" vertical-scroll-proportion="0.34438306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="4" selection-start="4899" selection-end="4899" vertical-scroll-proportion="0.52117866">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="21" selection-start="8864" selection-end="8864" vertical-scroll-proportion="0.9608209">
+        <state line="116" column="21" selection-start="8864" selection-end="8864" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="19" selection-start="795" selection-end="795" vertical-scroll-proportion="-13.730769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="49" selection-start="55" selection-end="55" vertical-scroll-proportion="0.031307552">
           <folding />
         </state>
       </provider>
