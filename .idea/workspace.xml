@@ -93,7 +93,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="76" selection-start="302" selection-end="302" vertical-scroll-proportion="0.34438306">
+            <state line="22" column="247" selection-start="797" selection-end="797" vertical-scroll-proportion="0.7056604">
               <folding />
             </state>
           </provider>
@@ -714,7 +714,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="php test" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer update" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -727,7 +727,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="converted wp theme css to sass" />
     <MESSAGE value="fixed broken links" />
     <MESSAGE value="removing row separator graphics" />
     <MESSAGE value="adjusted header styles" />
@@ -752,6 +751,7 @@
     <MESSAGE value="flex-grid test" />
     <MESSAGE value="refactoring" />
     <MESSAGE value="php test" />
+    <MESSAGE value="footer update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -854,7 +854,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="76" selection-start="302" selection-end="302" vertical-scroll-proportion="0.34438306">
+        <state line="22" column="247" selection-start="797" selection-end="797" vertical-scroll-proportion="0.7056604">
           <folding />
         </state>
       </provider>
