@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -85,7 +84,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="49" selection-start="55" selection-end="55" vertical-scroll-proportion="0.031307552">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -745,7 +744,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="style test" />
+    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -774,7 +773,6 @@
     <MESSAGE value="&lt;base&gt; test" />
     <MESSAGE value="refactor" />
     <MESSAGE value="fixing broken things" />
-    <MESSAGE value="wp test" />
     <MESSAGE value="minor update to wp theme" />
     <MESSAGE value="flex-grid test" />
     <MESSAGE value="refactoring" />
@@ -783,6 +781,7 @@
     <MESSAGE value="footer update" />
     <MESSAGE value="footer test" />
     <MESSAGE value="style test" />
+    <MESSAGE value="wp test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -897,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="49" selection-start="55" selection-end="55" vertical-scroll-proportion="0.031307552">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

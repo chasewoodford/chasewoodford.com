@@ -1,4 +1,8 @@
 <?php
+require('./blog/wp-blog-header.php');
+?>
+
+<?php
 include ("./blog/wp-content/themes/stumblr/header.php");
 ?>
     <div class="pulse">
@@ -9,9 +13,6 @@ include ("./blog/wp-content/themes/stumblr/header.php");
         This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
     </p>
 
-<?php
-require('./blog/wp-blog-header.php');
-?>
 
 <?php
 $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
