@@ -1,10 +1,4 @@
-<!--	-->
-<!---->
-<?php //if ( is_active_sidebar( 'stumblr_footer')) { ?><!--     -->
-<!--   <div id="footer-area">-->
-<!--			--><?php //dynamic_sidebar( 'stumblr_footer' ); ?>
-<!--        </div><!-- // footer area -->   -->
-<?php //}  ?><!--     -->
+
       
 
 <footer>
