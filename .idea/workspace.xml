@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/home.scss" afterPath="$PROJECT_DIR$/css/sass/home.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.php" afterPath="$PROJECT_DIR$/blog/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -108,10 +108,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="186" selection-end="186" vertical-scroll-proportion="0.2688928">
+            <state line="9" column="20" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="29" selection-start="35" selection-end="35" vertical-scroll-proportion="0.031307552">
               <folding />
             </state>
           </provider>
@@ -146,7 +155,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/blog/xmlrpc.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/functions.php" />
-        <option value="$PROJECT_DIR$/blog/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
@@ -155,6 +163,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/home.scss" />
+        <option value="$PROJECT_DIR$/blog/index.php" />
       </list>
     </option>
   </component>
@@ -732,7 +741,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer test" />
+    <option name="LAST_COMMIT_MESSAGE" value="style test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -745,7 +754,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adjusted header styles" />
     <MESSAGE value="typography changes" />
     <MESSAGE value="hiding horizontal overflow" />
     <MESSAGE value="adding h3" />
@@ -770,6 +778,7 @@
     <MESSAGE value="add twitter widget" />
     <MESSAGE value="footer update" />
     <MESSAGE value="footer test" />
+    <MESSAGE value="style test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -779,19 +788,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="61" selection-end="61" vertical-scroll-proportion="-1.3076923" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/template-loader.php">
@@ -874,9 +873,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/xmlrpc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="20" selection-start="186" selection-end="186" vertical-scroll-proportion="0.2688928">
+        <state line="9" column="20" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="29" selection-start="35" selection-end="35" vertical-scroll-proportion="0.031307552">
           <folding />
         </state>
       </provider>
