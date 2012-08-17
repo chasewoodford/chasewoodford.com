@@ -20,7 +20,7 @@
 <p class="parking">
     <a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a>
 </p>
-
+<div class="parking">
 <?php
 require('./blog/wp-blog-header.php');
 ?>
@@ -34,6 +34,7 @@ foreach ($posts as $post) : start_wp(); ?>
     <?php
 endforeach;
 ?>
+</div>
 
 <!--<div id="contact">-->
 <!--<div class="content">-->
