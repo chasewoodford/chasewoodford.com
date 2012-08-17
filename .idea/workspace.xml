@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -84,7 +85,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="53" selection-start="3346" selection-end="3346" vertical-scroll-proportion="-13.730769">
+            <state line="64" column="0" selection-start="2264" selection-end="2264" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
@@ -93,7 +94,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="247" selection-start="797" selection-end="797" vertical-scroll-proportion="0.7056604">
+            <state line="9" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.28867924">
               <folding />
             </state>
           </provider>
@@ -714,7 +715,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer update" />
+    <option name="LAST_COMMIT_MESSAGE" value="add twitter widget" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -727,7 +728,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="fixed broken links" />
     <MESSAGE value="removing row separator graphics" />
     <MESSAGE value="adjusted header styles" />
     <MESSAGE value="typography changes" />
@@ -752,6 +752,7 @@
     <MESSAGE value="refactoring" />
     <MESSAGE value="php test" />
     <MESSAGE value="footer update" />
+    <MESSAGE value="add twitter widget" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -847,14 +848,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="53" selection-start="3346" selection-end="3346" vertical-scroll-proportion="-13.730769">
+        <state line="64" column="0" selection-start="2264" selection-end="2264" vertical-scroll-proportion="-4.576923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="247" selection-start="797" selection-end="797" vertical-scroll-proportion="0.7056604">
+        <state line="9" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.28867924">
           <folding />
         </state>
       </provider>

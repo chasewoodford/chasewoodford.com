@@ -17,9 +17,6 @@
 <p class="parking">
     This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
 </p>
-<p class="parking">
-    <a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a>
-</p>
 
 <?php
 require('./blog/wp-blog-header.php');
@@ -65,22 +62,7 @@ endforeach;
 <!--<a href="#" onClick="quickLinks();">Quick links &#187;</a>-->
 <!--</p>-->
 <!--</div>-->
-<!--<div id="copyright" role="contentinfo">-->
-<!--<p>-->
-<!--&copy; 2012 chasewoodford.com-->
-<!--</p>-->
-<!--</div>-->
-<!--<div id="belowFooter">-->
-<!--<ul>-->
-<!--<li><a href="https://twitter.com/#!/chase1263070" title="Twitter"><i class="social">t</i></a></li>-->
-<!--<li><a href="http://www.linkedin.com/in/chasewoodford" title="LinkedIn"><i class="social">i</i></a></li>-->
-<!--<li><a href="http://www.last.fm/music/Chase+Woodford/Long+Story+Short" title="last.fm"><i class="social">6</i></a></li>-->
-<!--<li><a href="http://pinterest.com/chasewoodford/" title="Pinterest"><i class="social">&</i></a></li>-->
-<!--<li><a href="#" title="Download resume"><i class="social">c</i></a></li>-->
-<!--<li><a href="#contact" title="Contact me"><i class="social">?</i></a></li>-->
-<!--</ul>-->
-<!--</div>-->
-<!--</footer>&lt;!&ndash; end footer &ndash;&gt;-->
+
 <?php
 include ("./blog/wp-content/themes/stumblr/footer.php");
 ?>
