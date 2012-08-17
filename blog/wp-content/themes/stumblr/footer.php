@@ -6,6 +6,7 @@
              <a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a>
          </div>
     </footer>
+</div>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/javascript/jquery-1.7.min.js"><\/script>')</script>
