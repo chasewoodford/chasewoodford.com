@@ -13,7 +13,7 @@
     <?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 </head>
 <body id="top" <?php body_class(); ?>>
-<div id="wrap">
+<div id="wrap grid full">
 	<div id="stumblr-sidebar">
         <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
             <div id="sidebar-widget-area">
