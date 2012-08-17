@@ -9,7 +9,7 @@
 
 
  <div id="copyright">
-    <p>&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>&#8226;RSS</p>
+    <p>&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>&nbsp;&#8226;&nbsp;RSS</p>
  </div><!-- // copyright -->   
      
 </div><!-- // wrap -->   
