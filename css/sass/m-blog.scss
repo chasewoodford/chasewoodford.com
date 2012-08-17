@@ -19,7 +19,7 @@ ul 	{ padding:0px; margin:0; margin-left:0px; font-family:'Helvetica',Arial, Hel
 ul li { font-size:12px; color:#858585; padding-left:10px; margin-bottom:7px; list-style:inside; list-style-type:square;}
 ol 	{ padding:0px; margin:0; margin-left:25px; font-family:'Helvetica',Arial, Helvetica, sans-serif; padding-top:10px;   }
 ol li { font-size:12px; color:#858585; padding-left:10px; margin-bottom:7px;  list-style-type: decimal; }
-hr 	{ background:url(../images/hr.jpg) top center no-repeat; border:0; outline:0; clear:both; height:10px;}
+hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center no-repeat; border:0; outline:0; clear:both; height:10px;}
 
 /* link styles */
 a:link 		{color:#4e4e4e; text-decoration: none;}
@@ -53,8 +53,8 @@ a:focus 		{outline-style: none;}
 
 .stumblr-meta { display:inline; width:740px; float:left;margin-top:20px;  padding-bottom:10px; padding-top:10px;  }
 .stumblr-meta p { padding:0; margin:0; line-height:16px; margin-top:5px; margin-bottom:5px;padding-left:40px;}
-.stumblr-date { display:inline; float:left; font-style:italic; font-size:11px; background:url(../images/light/date.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px; }
-.stumblr-category  {  display:inline; float:left; font-style:italic; color:#929292; font-size:11px; background:url(../images/light/cat.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px;}
+.stumblr-date { display:inline; float:left; font-style:italic; font-size:11px; background:url(/blog/wp-content/themes/stumblr/images/light/date.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px; }
+.stumblr-category  {  display:inline; float:left; font-style:italic; color:#929292; font-size:11px; background:url(/blog/wp-content/themes/stumblr/images/light/cat.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px;}
 
 
 /* footer styles */
@@ -68,8 +68,8 @@ a:focus 		{outline-style: none;}
 /* more widget styles */
 .widget_search label { display:none; }
 .widget_search input {  border: 1px solid #e5e5e5; background:none; font-family:Arial, Helvetica, sans-serif; color:#555; font-size:12px; display:inline; float:left; height:20px; line-height:22px; outline:none; width:160px; padding:5px;  }
-#searchsubmit { display:inline; float:left; width:20px; height:20px; line-height:22px; background:url(../images/light/search.png) top left; border:none; text-indent:-9999px; margin-left:9px;  margin-top:5px;}
-#searchsubmit:hover { display:inline; float:left; width:20px; height:20px; line-height:22px; background:url(../images/light/search.png) bottom left  ; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px;  }
+#searchsubmit { display:inline; float:left; width:20px; height:20px; line-height:22px; background:url(/blog/wp-content/themes/stumblr/images/light/search.png) top left; border:none; text-indent:-9999px; margin-left:9px;  margin-top:5px;}
+#searchsubmit:hover { display:inline; float:left; width:20px; height:20px; line-height:22px; background:url(/blog/wp-content/themes/stumblr/images/light/search.png) bottom left  ; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px;  }
 
 /* copyright styles */
 #copyright 			{ width: 960px; display:inline; float:left; padding-top:10px; margin-top:20px; clear:both;border-top: 1px solid #ccc; margin-bottom:20px; }
