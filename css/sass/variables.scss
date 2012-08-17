@@ -8,3 +8,8 @@ $white:       #FFFFFF;
 // text-shadows
 $highlight-subtle:      0 -1px 0 rgba(140,140,140,0.9);
 $highlight-dropShadow:  0 3px 1px rgba(0, 0, 0, 0.5);
+
+// flex-grid
+$fg-column: 115px;
+$fg-gutter: 24px;
+$fg-max-columns: 10;

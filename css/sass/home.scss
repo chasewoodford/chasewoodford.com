@@ -17,7 +17,7 @@ img {
 }
 
 .parking {
-  width: 100%;
+  width: flex-grid(2);
   text-align: center;
   margin-bottom: 20px;
 }
