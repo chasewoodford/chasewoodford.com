@@ -81,7 +81,9 @@ endforeach;
 <!--</ul>-->
 <!--</div>-->
 <!--</footer>&lt;!&ndash; end footer &ndash;&gt;-->
-<?php inlude './blog/wp-content/themes/stumblr/footer.php'; ?>
+<?php
+include ("./blog/wp-content/themes/stumblr/footer.php");
+?>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="javascript/jquery-1.7.min.js"><\/script>')</script>
