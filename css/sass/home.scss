@@ -1,11 +1,13 @@
+//base
 @import "variables.scss";
 @import "mixins.scss";
 @import "typography.scss";
 @import "animations.scss";
 @import "base.scss";
 @import "layout.scss";
-@import "module.scss";
-@import "blog.scss";
+
+// modules
+//@import "blog.scss";
 
 img {
   width: 140px;
