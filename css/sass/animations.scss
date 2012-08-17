@@ -1,3 +1,10 @@
+.pulse {
+  text-align: center;
+  -webkit-animation: pulse 3s infinite ease-out;
+  -moz-animation: pulse 3s infinite ease-out;
+  animation: pulse 3s infinite ease-out;
+}
+
 @-webkit-keyframes pulse {
   0% {opacity: 0.5;}
   50% {opacity: 0.8;}
