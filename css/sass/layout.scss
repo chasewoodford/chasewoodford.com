@@ -14,3 +14,7 @@
 //
 //  div {
 //    width: flex-grid(4);        // returns (540px / 1600px) = 33.75%;
+
+#top {
+  width: flex-grid(12);
+}
