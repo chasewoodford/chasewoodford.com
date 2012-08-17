@@ -1,4 +1,4 @@
-    <footer style="clear:both;">
+    <footer class="grid-full">
          <div id="copyright" role="contentinfo">
             <p>&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>&nbsp;&#8226;&nbsp;RSS</p>
          </div>
