@@ -1,74 +1,70 @@
-// Flexible grid
-@function flex-grid($columns, $container-columns: $fg-max-columns) {
-  $width: $columns * $fg-column + ($columns - 1) * $fg-gutter;
-  $container-width: $container-columns * $fg-column + ($container-columns - 1) * $fg-gutter;
-  @return percentage($width / $container-width);
-}
-
-// The $fg-column, $fg-gutter and $fg-max-columns variables must be defined in your base stylesheet to properly use the flex-grid function.
-// This function takes the fluid grid equation (target / context = result) and uses columns to help define each.
-//
-//  $fg-column: 115px;             // Column Width
-//  $fg-gutter: 20px;             // Gutter Width
-//  $fg-max-columns: 12;          // Total Columns For Main Container
-//
-//  div {
-//    width: flex-grid(4);        // returns (540px / 1600px) = 33.75%;
-
 .grid-2 {
   clear: both;
   margin: 0 auto 20px;
-  width: flex-grid(2);
+  width: flex-grid(2); // 16.875%
 }
 
 .grid-3 {
   clear: both;
   margin: 0 auto 20px;
-  width: flex-grid(3);
+  width: flex-grid(3); // 25.3125%
 }
 
 .grid-4 {
   clear: both;
   margin: 0 auto 20px;
-  width: flex-grid(4);
+  width: flex-grid(4); // 33.75%
 }
 
 .grid-5 {
   clear: both;
   margin: 0 auto 20px;
-  width: flex-grid(5);
+  width: flex-grid(5); // 42.1875%
 }
 
 .grid-6 {
   clear: both;
   margin: 0 auto 20px;
-  width: flex-grid(6);
+  width: flex-grid(6); // 50.625%
 }
 
 .grid-8 {
   clear: both;
   margin: 0 auto 20px;
-  width: flex-grid(8);
+  width: flex-grid(8); // 67.5%
 }
 
 .grid-10 {
   clear: both;
   margin: 0 auto 20px;
-  width: flex-grid(10);
+  width: flex-grid(10); // 84.375%
 }
 
 .wrapper {
   clear: both;
   margin: 0 auto 20px;
   width: flex-grid(12);
+  min-height: 500px;
   border: 1px dashed #fa8072;
+}
+
+header {
+  overflow: hidden;
 }
 
 .sitename {
   position: relative;
-  top: 14px;
+  top: 15px;
+  float: left;
   vertical-align: top;
-  width: 100%;
+  margin: 0;
+}
+
+.search-box {
+  position: relative;
+  top: 15px;
+  float: right;
+  vertical-align: top;
   margin: 0;
 }
 

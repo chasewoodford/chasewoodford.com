@@ -19,18 +19,37 @@ body {
 
 a {
   color: $grey;
+  text-decoration: none;
   @include transition(all .5s ease-in-out);
   &:hover {
     color: $blue;
+    text-shadow: $highlight-dropShadow;
   }
 }
 
 ul {
-
+  position: relative;
+  float: left;
+  left: -52px;
 }
 
 li {
   list-style: none;
   float: left;
-  margin: 0 20px 20px 0;
+  padding: 12px 14px 10px;
+  margin: 10px 0;
+  @include transition(all .5s ease-in-out);
+  &:hover {
+    @include border-radius(15px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) inset;
+  }
 }
+
+li:nth-child(even) {
+  padding: 12px 10px 10px;
+  &:hover{
+    box-shadow: none;
+  }
+}
+
+

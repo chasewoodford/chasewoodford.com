@@ -11,7 +11,7 @@
 
 // misc
 .logo {
-  display: inline;
+  float: left;
   width: 115px;
   @include transition(all .5s ease-in-out);
 }

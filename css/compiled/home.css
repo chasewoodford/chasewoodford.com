@@ -6,7 +6,9 @@
 
 h1 { font-family: "Calluna", serif; font-size: 40px; font-size: 2.5rem; line-height: 30px; line-height: 1.875rem; letter-spacing: -3px; color: #5a5a5a; text-shadow: 0 -1px 0 rgba(140, 140, 140, 0.9), 0 2px 1px rgba(0, 0, 0, 0.5); }
 
-.nav-primary { font-family: "CallunaReg", serif; font-size: 16px; font-size: 1rem; line-height: 16px; line-height: 1rem; letter-spacing: auto; color: #5a5a5a; }
+h2 { margin: 0; padding: 0; font-size: 20px; font-size: 1.25rem; }
+
+.nav-primary { font-family: "CallunaRegular", serif; font-size: 16px; font-size: 1rem; line-height: 16px; line-height: 1rem; letter-spacing: auto; color: #5a5a5a; }
 
 p { color: #929292; clear: both; padding-top: 10px; padding-top: 0.625rem; }
 p + p { margin: 20px 0; margin: 1.25rem 0; }
@@ -65,10 +67,16 @@ body { background: url("../../images/bg.png") repeat; overflow-x: hidden; font: 
 
 ::-moz-selection { background: #0088cc; color: white; }
 
-a { color: #5a5a5a; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
-a:hover { color: #0088cc; }
+a { color: #5a5a5a; text-decoration: none; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
+a:hover { color: #0088cc; text-shadow: 0 2px 1px rgba(0, 0, 0, 0.5); }
 
-li { list-style: none; float: left; margin: 0 20px 20px 0; }
+ul { position: relative; float: left; left: -52px; }
+
+li { list-style: none; float: left; padding: 12px 14px 10px; margin: 10px 0; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
+li:hover { -webkit-border-radius: 15px; -moz-border-radius: 15px; border-radius: 15px; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) inset; }
+
+li:nth-child(even) { padding: 12px 10px 10px; }
+li:nth-child(even):hover { box-shadow: none; }
 
 .grid-2 { clear: both; margin: 0 auto 20px; width: 15.625%; }
 
@@ -84,10 +92,14 @@ li { list-style: none; float: left; margin: 0 20px 20px 0; }
 
 .grid-10 { clear: both; margin: 0 auto 20px; width: 83.125%; }
 
-.wrapper { clear: both; margin: 0 auto 20px; width: 100%; border: 1px dashed #fa8072; }
+.wrapper { clear: both; margin: 0 auto 20px; width: 100%; min-height: 500px; border: 1px dashed #fa8072; }
 
-.sitename { position: relative; top: 14px; vertical-align: top; width: 100%; margin: 0; }
+header { overflow: hidden; }
+
+.sitename { position: relative; top: 15px; float: left; vertical-align: top; margin: 0; }
+
+.search-box { position: relative; top: 15px; float: right; vertical-align: top; margin: 0; }
 
 .inline { display: inline; }
 
-.logo { display: inline; width: 115px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
+.logo { float: left; width: 115px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
