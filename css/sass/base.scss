@@ -16,3 +16,21 @@ body {
   background: $blue;
   color: $white;
 }
+
+a {
+  color: $grey;
+  @include transition(all .5s ease-in-out);
+  &:hover {
+    color: $blue;
+  }
+}
+
+ul {
+
+}
+
+li {
+  list-style: none;
+  float: left;
+  margin: 0 20px 20px 0;
+}

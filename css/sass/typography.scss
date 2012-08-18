@@ -39,27 +39,23 @@ $font-Calluna:        'Calluna';
 }
 
 h1 {
-  position: absolute;
-  top: 50px;
-  width: 100%;
-  margin: 0 0 10px 0;
   font-family: $font-Calluna, serif;
   font-size: 40px; font-size: 2.5rem;  // 40/16
   line-height: 30px; line-height: 1.875rem; // 30/16
   letter-spacing: -3px;
-  text-align: center;
   color: $grey;
   text-shadow: $highlight-subtle, $highlight-dropShadow;
 }
 
-h2, h3 {
+.nav-primary {
+  font-family: $font-CallunaReg, serif;
+  font-size: 16px; font-size: 1rem; // 20/16
+  line-height: 16px; line-height: 1rem; // 16/16
+  letter-spacing: auto;
   color: $grey;
-  padding: 0;
-  margin: 0;
 }
 
 p {
-  @extend h2;
   color: $light-grey;
   clear: both;
   padding-top: 10px; padding-top: 0.625rem; // 10/16

@@ -10,13 +10,34 @@
 </head>
 <body id="top">
 <div class="wrapper">
-    <div class="pulse">
-        <img src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
-    </div>
-    <h1>chasewoodford.com</h1>
-    <p class="parking">
-        This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
-    </p>
+    <header class="grid-10">
+        <div class="pulse inline">
+            <img class="logo" src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
+        </div>
+        <h1 class="inline sitename">chasewoodford.com</h1>
+        <nav class="nav-primary inline grid-10">
+            <ul>
+                <li>
+                    <a href="#"><h2>about</h2></a>
+                </li>
+                <li>
+                    <a href="#"><h2>work</h2></a>
+                </li>
+                <li>
+                    <a href="#"><h2>blog</h2></a>
+                </li>
+                <li>
+                    <a href="#"><h2>contact</h2></a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <p class="grid-10">
+            This site was taken down because <&#37;=reason&#37;>. It will be back up <&#37;=deadline&#37;>.
+        </p>
+    </section>
+
 
     <?php
     require('./blog/wp-blog-header.php');
