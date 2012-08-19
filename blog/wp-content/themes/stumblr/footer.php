@@ -1,5 +1,5 @@
     <footer class="grid-10">
-         <div id="copyright" role="contentinfo">
+         <div class="copyright" role="contentinfo">
             <p>&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>&nbsp;&#8226;&nbsp;RSS</p>
          </div>
          <div>
