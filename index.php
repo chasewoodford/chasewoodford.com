@@ -14,8 +14,12 @@
         <img class="logo pulse" src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
         <h1 class="sitename">chasewoodford.com</h1>
         <aside class="search-box">
-            <input type="text"/>
-            <input type="submit"/>
+            <form action="" method="post">
+                <input type="text" name="text" class="search-box-input"/>
+                <button class="btn search-box-btn">
+                    <i class="icon-search icon-white"></i>
+                </button>
+            </form>
         </aside>
         <nav class="nav-primary">
             <ul>
