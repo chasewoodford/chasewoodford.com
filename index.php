@@ -10,7 +10,7 @@
 </head>
 <body id="top">
 <div class="wrapper">
-    <header class="grid-10">
+    <header class="grid-8">
         <img class="logo pulse" src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
         <h1 class="sitename">chasewoodford.com</h1>
         <aside class="search-box">
@@ -43,7 +43,7 @@
 
     </header>
 
-    <div class="grid-10">
+    <div class="grid-8">
 
         <?php
         require('./blog/wp-blog-header.php');
