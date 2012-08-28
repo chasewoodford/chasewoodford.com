@@ -1,17 +1,35 @@
 .search-box-input {
-  width: 50%;
+  width: 30%;
   height: 14px;
+  margin-right: 14px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   @include transition(all 0.5s ease-in-out);
 
   &:focus {
-    width: 85%;
+    width: 60%;
+  }
+}
+
+input[class="search-box-input"] {
+  color: $white;
+  background-color: #5A5A5A;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset;
+
+  &:focus {
+    border-color: rgba(82, 168, 236, 0.8);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+    outline: 0 none;
   }
 }
 
 .search-box-btn {
-  margin: -1px 0 0 -20px;
+  margin: -8px 0 0 -20px;
   border-color: none;
   border-radius: 0 4px 4px 0;
+  box-shadow: -2px 0 2px rgba(0, 0, 0, 0.2);
+}
+
+.icon-search.icon-white {
+  font-size: 16px;
 }

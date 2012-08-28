@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\m-footer.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/home.css" afterPath="$PROJECT_DIR$/css/compiled/home.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-search.scss" afterPath="$PROJECT_DIR$/css/sass/m-search.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,28 +78,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="92" selection-start="1009" selection-end="1009" vertical-scroll-proportion="-10.461538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="m-footer.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/m-footer.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="typography.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="400" column="52" selection-start="16905" selection-end="16905" vertical-scroll-proportion="0.7908612">
+            <state line="400" column="52" selection-start="16905" selection-end="16905" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="86" selection-start="350" selection-end="350" vertical-scroll-proportion="-6.5384617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m-search.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="52" selection-start="456" selection-end="456" vertical-scroll-proportion="1.6839378">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="4" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,10 +157,10 @@
         <option value="$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
-        <option value="$PROJECT_DIR$/css/sass/m-search.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-footer.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
+        <option value="$PROJECT_DIR$/css/sass/m-search.scss" />
       </list>
     </option>
   </component>
@@ -189,19 +200,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,23 +249,18 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="compiled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -291,11 +284,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="test.chasewoodford.com" serverId="01c08253-437f-43c0-8bc7-6ecd3f806820" uploadOnCheckin="01c08253-437f-43c0-8bc7-6ecd3f806820" notifyRemoteChanges="true">
     <servers>
@@ -411,17 +404,6 @@
         <option name="RakeTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="e1ad2e42-aa0f-44e0-9184-540bba86cac2" server_name="chasewoodford.com">
-      <method>
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="FtpUpload" enabled="false">
-          <server_id />
-          <server_name />
-        </option>
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="RakeTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -430,6 +412,17 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="RakeTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="e1ad2e42-aa0f-44e0-9184-540bba86cac2" server_name="chasewoodford.com">
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="FtpUpload" enabled="false">
+          <server_id />
+          <server_name />
+        </option>
         <option name="Maven.BeforeRunTask" enabled="false" />
         <option name="RakeTask" enabled="false" />
       </method>
@@ -599,18 +592,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.49226806" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6329966" sideWeight="0.48969072" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6329966" sideWeight="0.48969072" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28236914" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -624,7 +617,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -742,19 +735,9 @@
         <state line="14" column="11" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="34" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="13" selection-start="934" selection-end="934" vertical-scroll-proportion="0.6115993" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
@@ -762,44 +745,47 @@
         <state line="119" column="56" selection-start="2474" selection-end="2474" vertical-scroll-proportion="0.6420863" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="51" selection-start="1901" selection-end="1907" vertical-scroll-proportion="-16.307692">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="92" selection-start="1009" selection-end="1009" vertical-scroll-proportion="-10.461538">
-          <folding />
-        </state>
+        <state line="7" column="33" selection-start="187" selection-end="187" vertical-scroll-proportion="0.20913884" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-footer.scss">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="187" selection-end="187" vertical-scroll-proportion="0.20913884">
+        <state line="16" column="92" selection-start="1009" selection-end="1009" vertical-scroll-proportion="-9.923077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="400" column="52" selection-start="16905" selection-end="16905" vertical-scroll-proportion="0.7908612">
+        <state line="400" column="52" selection-start="16905" selection-end="16905" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="86" selection-start="350" selection-end="350" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="4" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="52" selection-start="456" selection-end="456" vertical-scroll-proportion="1.6839378">
           <folding />
         </state>
       </provider>
