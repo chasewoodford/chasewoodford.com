@@ -11,6 +11,16 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/javascript/jquery-1.7.min.js"><\/script>')</script>
 <script src="/javascript/contact_form.js"></script>
+<script src="/javascript/chirp.min.js"></script>
+<script>Chirp({
+    user: 'chase1263070', //Twitter username
+    max: 1, //Maximum number of tweets to show
+    count: 100, //Total tweets to retrieve
+    retweets: false, //Show/Don't show retweets
+    replies: false,  //Show/Don't show replies
+    cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
+    target: 'ramble-on'
+})</script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <script type="text/javascript">
     var _gaq = _gaq || [];

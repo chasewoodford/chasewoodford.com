@@ -73,7 +73,7 @@
                     Latest rambling...
                 </h3>
             </header>
-            <blockquote>
+            <blockquote id="ramble-on">
                 This text will be replaced
             </blockquote>
         </section>
