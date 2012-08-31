@@ -22,7 +22,7 @@
     target: 'ramble-on', //Wgere the tweet gets loaded
     templates: {
         base:'<ul class="chirp">{{tweets}}</ul>',
-        tweet: '<li><img src="{{user.profile_image_url}}"> {{html}}</li>'
+        tweet: '<li><img src="{{user.profile_image_url}}"> {{html}}</li><br/>{{time_ago}}'
     }
 })</script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
