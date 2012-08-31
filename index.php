@@ -43,19 +43,42 @@
 
     </header>
 
-    <?php
-    require('./blog/wp-blog-header.php');
-    ?>
+    <div class="grid-8">
 
-    <?php
-    $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
-    foreach ($posts as $post) : start_wp(); ?>
-        <?php the_date(); echo "<br />"; ?>
-        <?php the_title(); ?>
-        <?php the_excerpt(); ?>
         <?php
-    endforeach;
-    ?>
+        require('./blog/wp-blog-header.php');
+        ?>
+
+        <?php
+        $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
+        foreach ($posts as $post) : start_wp(); ?>
+            <article class="grid-8" style="border:1px dashed #fa8072">
+                <header>
+                    <h3>
+                        <?php the_title(); ?>
+                    </h3>
+                </header>
+                <?php the_excerpt(); ?>
+                <time pubdate>
+                    <?php the_date(); echo "<br />"; ?>
+                </time>
+            </article>
+            <?php
+        endforeach;
+        ?>
+
+        <section class="grid-10" style="border:1px dashed #fa8072">
+            <header>
+                <h3>
+                    Latest rambling...
+                </h3>
+            </header>
+            <blockquote>
+                This text will be replaced
+            </blockquote>
+        </section>
+
+    </div>
 
     <?php
     include ("./blog/wp-content/themes/stumblr/footer.php");
