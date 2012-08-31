@@ -73,9 +73,9 @@
                     Latest rambling...
                 </h3>
             </header>
-            <blockquote id="ramble-on">
+            <article id="ramble-on">
                 This text will be replaced
-            </blockquote>
+            </article>
         </section>
 
     </div>
