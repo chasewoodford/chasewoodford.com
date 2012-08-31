@@ -19,7 +19,11 @@
     retweets: false, //Show/Don't show retweets
     replies: false,  //Show/Don't show replies
     cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
-    target: 'ramble-on'
+    target: 'ramble-on', //Wgere the tweet gets loaded
+    templates: {
+        base:'<ul class="chirp">{{tweets}}</ul>',
+        tweet: '<li><img src="{{user.profile_image_url}}"> {{html}}</li>'
+    }
 })</script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <script type="text/javascript">
