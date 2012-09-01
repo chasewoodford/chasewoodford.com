@@ -85,16 +85,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="505" selection-end="505" vertical-scroll-proportion="-7.1923075">
+            <state line="21" column="474" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.6735849">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chirp.min.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="chirp.min.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/chirp.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="50" selection-start="49" selection-end="50" vertical-scroll-proportion="0.0">
@@ -665,7 +665,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix for non-displaying twitter button by making sure js is loaded before call for widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="do I need twitter js with chirp? testing that" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -678,7 +678,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="finished search styling" />
     <MESSAGE value="wp excerpt test" />
     <MESSAGE value="sectioning off home page" />
     <MESSAGE value="shrunk desktop display width; scaled back active-state styles" />
@@ -703,6 +702,7 @@
     <MESSAGE value="twitter api test" />
     <MESSAGE value="minor tweak to tweet display" />
     <MESSAGE value="fix for non-displaying twitter button by making sure js is loaded before call for widget" />
+    <MESSAGE value="do I need twitter js with chirp? testing that" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -794,16 +794,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
+    <entry file="file://$PROJECT_DIR$/javascript/chirp.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="505" selection-end="505" vertical-scroll-proportion="-7.1923075">
+        <state line="0" column="50" selection-start="49" selection-end="50" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/chirp.min.js">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="50" selection-start="49" selection-end="50" vertical-scroll-proportion="0.0">
+        <state line="21" column="474" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.6735849">
           <folding />
         </state>
       </provider>
