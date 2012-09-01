@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/m-tweet.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -90,16 +88,16 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="274" selection-start="1193" selection-end="1193" vertical-scroll-proportion="-13.730769">
+            <state line="21" column="254" selection-start="1173" selection-end="1173" vertical-scroll-proportion="-13.730769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="m-tweet.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="m-tweet.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="22" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+            <state line="13" column="21" selection-start="279" selection-end="279" vertical-scroll-proportion="0.3884007">
               <folding />
             </state>
           </provider>
@@ -114,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="46" selection-start="906" selection-end="906" vertical-scroll-proportion="0.7908612">
+            <state line="72" column="7" selection-start="931" selection-end="931" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -154,13 +152,13 @@
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-search.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet" />
-        <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/sass/home.scss" />
         <option value="$PROJECT_DIR$/css/compiled/home.css" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
+        <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
       </list>
     </option>
   </component>
@@ -658,7 +656,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="twitter button test" />
+    <option name="LAST_COMMIT_MESSAGE" value="closing div and expanding div past floats" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -671,8 +669,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="logo re-sized, beginning work on header layout" />
-    <MESSAGE value="added primary nav and search" />
     <MESSAGE value="added Ubuntu font" />
     <MESSAGE value="fixing error in CSS" />
     <MESSAGE value="styling search box; added bootstrap and font awesome to help" />
@@ -696,6 +692,8 @@
     <MESSAGE value="chirp styling" />
     <MESSAGE value="finished chirp styling" />
     <MESSAGE value="twitter button test" />
+    <MESSAGE value="moving twitter button to tweet container" />
+    <MESSAGE value="closing div and expanding div past floats" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -764,13 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="409" column="60" selection-start="16840" selection-end="16840" vertical-scroll-proportion="0.0">
@@ -785,16 +776,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="274" selection-start="1193" selection-end="1193" vertical-scroll-proportion="-13.730769">
+        <state line="72" column="7" selection-start="931" selection-end="931" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="46" selection-start="906" selection-end="906" vertical-scroll-proportion="0.7908612">
+        <state line="21" column="254" selection-start="1173" selection-end="1173" vertical-scroll-proportion="-13.730769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="279" selection-end="279" vertical-scroll-proportion="0.3884007">
           <folding />
         </state>
       </provider>

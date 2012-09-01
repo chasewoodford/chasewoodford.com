@@ -2,7 +2,7 @@
   @include box-sizing(border-box);
   border-radius: 20px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) inset;
-  padding: 10px 30px;
+  padding: 10px 30px 15px;
   margin-bottom: 50px;
   overflow: hidden;
 }
@@ -11,7 +11,7 @@
   display: inline;
   float: left;
   width: 88%;
-  margin: 0 auto;
+  margin: 0 auto 10px;
   font-family: $font-UbuntuLtIt;
   text-align: justify;
 }
