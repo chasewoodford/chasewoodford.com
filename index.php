@@ -68,14 +68,7 @@
         ?>
 
         <section class="grid-10" style="border:1px dashed #fa8072">
-            <header>
-                <h3>
-                    Latest rambling...
-                </h3>
-            </header>
-            <span style="font-family: 'Insign';font-size: 80px;color: #0088cc;opacity: 0.8;text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25)">&#8220;</span>
-            <article id="ramble-on"></article>
-            <span style="font-family: 'Insign';font-size: 80px;color: #0088cc;opacity: 0.8;text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25)">&#8221;</span>
+            <article id="tweet-container"></article>
         </section>
 
     </div>

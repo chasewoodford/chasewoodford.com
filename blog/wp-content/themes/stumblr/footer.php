@@ -19,9 +19,9 @@
     retweets: false, //Show/Don't show retweets
     replies: false,  //Show/Don't show replies
     cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
-    target: 'ramble-on', //Wgere the tweet gets loaded
+    target: 'tweet-container', //Where the tweet gets loaded
     templates: {
-        tweet: '<p>{{html}}</p><p>{{time_ago}}&nbsp;&ndash;&nbsp;via <a href="http://www.twitter.com/chase1263070">Twitter</a>'
+        tweet: '<p class="tweet">{{html}}</p><p>{{time_ago}}&nbsp;&ndash;&nbsp;via <a href="http://www.twitter.com/chase1263070">Twitter</a>'
     }
 })</script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
