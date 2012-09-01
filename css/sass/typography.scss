@@ -6,14 +6,14 @@ $font-CallunaReg:     'CallunaRegular';
 $font-Calluna:        'Calluna';
 $font-UbuntuLtReg:    'UbuntuLtReg';
 $font-UbuntuLtIt:     'UbuntuLtIt';
+$font-Insign:         'Insign';
 
 @font-face {
   font-family: 'FontAwesome';
   src: url('../../resources/fontawesome-webfont.eot');
   src: url('../../resources/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
     url('../../resources/fontawesome-webfont.woff') format('woff'),
-    url('../../resources/fontawesome-webfont.ttf') format('truetype'),
-    url('../../resources/fontawesome-webfont.svg#FontAwesomeRegular') format('svg');
+    url('../../resources/fontawesome-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,8 +23,7 @@ $font-UbuntuLtIt:     'UbuntuLtIt';
   src: url('../../resources/calluna-black-webfont.eot');
   src: url('../../resources/calluna-black-webfont.eot?#iefix') format('embedded-opentype'),
     url('../../resources/calluna-black-webfont.woff') format('woff'),
-    url('../../resources/calluna-black-webfont.ttf') format('truetype'),
-    url('../../resources/calluna-black-webfont.svg#CallunaBlckRegular') format('svg');
+    url('../../resources/calluna-black-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,8 +33,7 @@ $font-UbuntuLtIt:     'UbuntuLtIt';
   src: url('../../resources/calluna-it-webfont.eot');
   src: url('../../resources/calluna-it-webfont.eot?#iefix') format('embedded-opentype'),
     url('../../resources/calluna-it-webfont.woff') format('woff'),
-    url('../../resources/calluna-it-webfont.ttf') format('truetype'),
-    url('../../resources/calluna-it-webfont.svg#CallunaItalic') format('svg');
+    url('../../resources/calluna-it-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -45,8 +43,7 @@ $font-UbuntuLtIt:     'UbuntuLtIt';
   src: url('../../resources/calluna-regular-webfont.eot');
   src: url('../../resources/calluna-regular-webfont.eot?#iefix') format('embedded-opentype'),
     url('../../resources/calluna-regular-webfont.woff') format('woff'),
-    url('../../resources/calluna-regular-webfont.ttf') format('truetype'),
-    url('../../resources/calluna-regular-webfont.svg#CallunaRegular') format('svg');
+    url('../../resources/calluna-regular-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -56,8 +53,7 @@ $font-UbuntuLtIt:     'UbuntuLtIt';
   src: url('../../resources/ubuntu-l-webfont.eot');
   src: url('../../resources/ubuntu-l-webfont.eot?#iefix') format('embedded-opentype'),
     url('../../resources/ubuntu-l-webfont.woff') format('woff'),
-    url('../../resources/ubuntu-l-webfont.ttf') format('truetype'),
-    url('../../resources/ubuntu-l-webfont.svg#ubuntu_lightregular') format('svg');
+    url('../../resources/ubuntu-l-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -67,8 +63,17 @@ $font-UbuntuLtIt:     'UbuntuLtIt';
   src: url('../../resources/ubuntu-li-webfont.eot');
   src: url('../../resources/ubuntu-li-webfont.eot?#iefix') format('embedded-opentype'),
     url('../../resources/ubuntu-li-webfont.woff') format('woff'),
-    url('../../resources/ubuntu-li-webfont.ttf') format('truetype'),
-    url('../../resources/ubuntu-li-webfont.svg#ubuntu_lightitalic') format('svg');
+    url('../../resources/ubuntu-li-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Insign';
+  src: url('../../resources/insign.eot');
+  src: url('../../resources/insign.eot?#iefix') format('embedded-opentype'),
+    url('../../resources/insign.woff') format('woff'),
+    url('../../resources/insign.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

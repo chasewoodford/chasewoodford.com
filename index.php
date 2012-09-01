@@ -73,9 +73,9 @@
                     Latest rambling...
                 </h3>
             </header>
-            <article id="ramble-on">
-                This text will be replaced
-            </article>
+            <span style="font-family: 'insign';font-size: 80px;color: #0088cc;opacity: 0.8;text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25)">&#8220;</span>
+            <article id="ramble-on"></article>
+            <span style="font-family: 'insign';font-size: 80px;color: #0088cc;opacity: 0.8;text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25)">&#8221;</span>
         </section>
 
     </div>
