@@ -1,14 +1,36 @@
-.tweet {
-  font-family: $font-UbuntuLtIt;
+#tweet-container {
+  @include box-sizing(border-box);
+  border-radius: 20px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) inset;
+  padding: 10px 30px;
+  margin-bottom: 50px;
+}
 
-  &:before{
-    content: "\201C";
-    font-family: "Insign";
-    font-size: 80px;
-    color: $blue;
-    opacity: 0.75;
-    text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25);
-    @include rotate(3deg);
-  }
+.tweet {
+  display: inline;
+  float: left;
+  width: 88%;
+  margin: 0 auto;
+  font-family: $font-UbuntuLtIt;
+  text-align: justify;
+}
+
+.quote-before, .quote-after {
+  float: left;
+  width: 5%;
+  display: inline;
+  margin: 45px 0 0 0;
+  font-family: "Insign";
+  font-size: 80px;
+  line-height: 20px;
+  text-align: left;
+  color: $blue;
+  opacity: 0.75;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25);
+  @include rotate(3deg);
+}
+
+.quote-after {
+  float: right;
 }
 

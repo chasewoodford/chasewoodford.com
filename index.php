@@ -67,9 +67,7 @@
         endforeach;
         ?>
 
-        <section class="grid-10" style="border:1px dashed #fa8072">
-            <article id="tweet-container"></article>
-        </section>
+        <article id="tweet-container" class="grid-10"></article>
 
     </div>
 
