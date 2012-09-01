@@ -19,7 +19,7 @@
     cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
     target: 'tweet-container', //Where the tweet gets loaded
     templates: {
-        tweet: '<div class="quote-before">&#8220;</div><div class="tweet"><p>{{html}}</p></div><div class="quote-after">&#8221;</div><div class="attribute">{{time_ago}}&nbsp;&ndash;&nbsp;via <a href="http://www.twitter.com/chase1263070">Twitter</a><div class="twitter-button"><a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a></div>'
+        tweet: '<div class="quote-before">&#8220;</div><div class="tweet"><p>{{html}}</p></div><div class="quote-after">&#8221;</div><div class="attribute">{{time_ago}}&nbsp;&ndash;&nbsp;via <a href="http://www.twitter.com/chase1263070">Twitter</a></div><div class="twitter-button"><a href="https://twitter.com/chase1263070" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @chase1263070</a></div>'
     }
 })</script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
