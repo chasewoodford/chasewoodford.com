@@ -52,7 +52,7 @@
         <?php
         $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
         foreach ($posts as $post) : start_wp(); ?>
-            <article class="grid-8" style="border:1px dashed #fa8072">
+            <article class="grid-8 grid-8 post type-post">
                 <header>
                     <h3>
                         <?php the_title(); ?>
