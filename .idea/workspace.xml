@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/m-tweet.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -94,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="25" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0">
+            <state line="68" column="21" selection-start="908" selection-end="908" vertical-scroll-proportion="0.6414763">
               <folding />
             </state>
           </provider>
@@ -121,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="m-tweet.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="m-tweet.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="11" selection-start="428" selection-end="428" vertical-scroll-proportion="0.6572935">
+            <state line="22" column="11" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -192,9 +192,9 @@
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
+        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
       </list>
     </option>
   </component>
@@ -772,7 +772,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling post display" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweak to tweet container" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -785,7 +785,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="character encoding ftw" />
     <MESSAGE value="I try to be semantically correct." />
     <MESSAGE value="smart quotes" />
     <MESSAGE value="fix to web font" />
@@ -810,6 +809,7 @@
     <MESSAGE value="clearing float" />
     <MESSAGE value="updating layout" />
     <MESSAGE value="styling post display" />
+    <MESSAGE value="tweak to tweet container" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -910,9 +910,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="25" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0">
+        <state line="22" column="11" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -924,9 +924,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="11" selection-start="428" selection-end="428" vertical-scroll-proportion="0.6572935">
+        <state line="68" column="21" selection-start="908" selection-end="908" vertical-scroll-proportion="0.6414763">
           <folding />
         </state>
       </provider>
