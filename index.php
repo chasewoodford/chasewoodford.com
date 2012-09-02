@@ -58,7 +58,9 @@
                         <a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
                     </h3>
                 </header>
-                <?php the_excerpt(); ?>
+                <section class="stumblr-content">
+                    <?php the_excerpt(); ?>
+                </section>
                 <time pubdate>
                     <?php the_date(); echo "<br />"; ?>
                 </time>
