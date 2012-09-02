@@ -26,7 +26,7 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 
   &:hover {
     color: $white;
-    text-shadow: $highlight-dropShadow;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
   }
 }
 .stumblr-content 			{ padding: 0 20px; }
