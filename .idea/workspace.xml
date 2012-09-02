@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/m-blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -94,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="m-blog.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="m-blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="74" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.48920864">
+            <state line="22" column="45" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="388" column="12" selection-start="16349" selection-end="16349" vertical-scroll-proportion="0.82073814">
               <folding />
             </state>
           </provider>
@@ -143,13 +153,13 @@
         <option value="$PROJECT_DIR$/css/compiled/home.css" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
-        <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/blog/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/css/sass/home.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
+        <option value="$PROJECT_DIR$/css/sass/typography.scss" />
       </list>
     </option>
   </component>
@@ -727,7 +737,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="clearing float" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating layout" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -740,7 +750,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="chirp time_ago variable test" />
     <MESSAGE value="chirp test" />
     <MESSAGE value="character encoding ftw" />
     <MESSAGE value="I try to be semantically correct." />
@@ -765,6 +774,7 @@
     <MESSAGE value="putting class to content" />
     <MESSAGE value="adding meta data" />
     <MESSAGE value="clearing float" />
+    <MESSAGE value="updating layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -777,11 +787,6 @@
     <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="112" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="410" column="20" selection-start="16861" selection-end="16861" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/chirp.min.js">
@@ -871,7 +876,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="74" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.48920864">
+        <state line="22" column="45" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="388" column="12" selection-start="16349" selection-end="16349" vertical-scroll-proportion="0.82073814">
           <folding />
         </state>
       </provider>
