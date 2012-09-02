@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="styling post display">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/blog.css" afterPath="$PROJECT_DIR$/css/compiled/blog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/home.css" afterPath="$PROJECT_DIR$/css/compiled/home.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/m-blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -116,7 +117,7 @@
       <file leaf-file-name="m-blog.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="73" selection-start="4295" selection-end="4295" vertical-scroll-proportion="0.7338129">
+            <state line="22" column="58" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.3057554">
               <folding />
             </state>
           </provider>
@@ -134,7 +135,7 @@
       <file leaf-file-name="typography.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="402" column="0" selection-start="16587" selection-end="16587" vertical-scroll-proportion="0.0">
+            <state line="390" column="28" selection-start="16406" selection-end="16406" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -184,8 +185,8 @@
         <option value="$PROJECT_DIR$/css/sass/home.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
-        <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
+        <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
       </list>
     </option>
@@ -764,7 +765,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling post display" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -777,7 +778,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="chirp test" />
     <MESSAGE value="character encoding ftw" />
     <MESSAGE value="I try to be semantically correct." />
     <MESSAGE value="smart quotes" />
@@ -802,6 +802,7 @@
     <MESSAGE value="adding meta data" />
     <MESSAGE value="clearing float" />
     <MESSAGE value="updating layout" />
+    <MESSAGE value="styling post display" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -895,13 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="402" column="0" selection-start="16587" selection-end="16587" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -916,9 +910,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="390" column="28" selection-start="16406" selection-end="16406" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="73" selection-start="4295" selection-end="4295" vertical-scroll-proportion="0.7338129">
+        <state line="22" column="58" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.3057554">
           <folding />
         </state>
       </provider>
