@@ -772,7 +772,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="tweak to tweet container" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweak to blog excerpt layout" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -785,7 +785,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="I try to be semantically correct." />
     <MESSAGE value="smart quotes" />
     <MESSAGE value="fix to web font" />
     <MESSAGE value="and, of course, you have to add the resource" />
@@ -810,6 +809,7 @@
     <MESSAGE value="updating layout" />
     <MESSAGE value="styling post display" />
     <MESSAGE value="tweak to tweet container" />
+    <MESSAGE value="tweak to blog excerpt layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
