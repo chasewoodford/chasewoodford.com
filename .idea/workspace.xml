@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/home.css" afterPath="$PROJECT_DIR$/css/compiled/home.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/mixins.scss" afterPath="$PROJECT_DIR$/css/sass/mixins.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -143,7 +143,7 @@
       <file leaf-file-name="mixins.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="11" column="30" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -152,7 +152,7 @@
       <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="391" column="59" selection-start="16504" selection-end="16504" vertical-scroll-proportion="0.571949">
+            <state line="390" column="94" selection-start="16480" selection-end="16480" vertical-scroll-proportion="0.6338798">
               <folding />
             </state>
           </provider>
@@ -189,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-footer.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-search.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet" />
@@ -204,6 +203,7 @@
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
+        <option value="$PROJECT_DIR$/css/sass/mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
       </list>
     </option>
@@ -782,7 +782,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="typography tweak" />
+    <option name="LAST_COMMIT_MESSAGE" value="sass multiple include test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -795,7 +795,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="fix to web font" />
     <MESSAGE value="and, of course, you have to add the resource" />
     <MESSAGE value="chirp styling" />
     <MESSAGE value="finished chirp styling" />
@@ -820,6 +819,7 @@
     <MESSAGE value="tweak to tweet container" />
     <MESSAGE value="tweak to blog excerpt layout" />
     <MESSAGE value="typography tweak" />
+    <MESSAGE value="sass multiple include test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -913,13 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="52" selection-start="222" selection-end="250" vertical-scroll-proportion="0.0">
@@ -934,9 +927,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="30" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="391" column="59" selection-start="16504" selection-end="16504" vertical-scroll-proportion="0.571949">
+        <state line="390" column="94" selection-start="16480" selection-end="16480" vertical-scroll-proportion="0.6338798">
           <folding />
         </state>
       </provider>
