@@ -20,7 +20,15 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .type-post 		{ background:#FFF; margin-bottom: 50px; }
 
 .stumblr-title 			{ background: $blue; padding: 5px 20px; display: block; }
-.post-title             { color: $white; }
+.post-title {
+  color: $white;
+  @include transition(all .5s ease-in-out);
+
+  &:hover {
+    color: $white;
+    text-shadow: $highlight-dropShadow;
+  }
+}
 .stumblr-content 			{ padding: 0 20px; }
 .stumblr-content iframe 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
 .stumblr-content embed 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
