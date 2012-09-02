@@ -386,7 +386,8 @@ h2 {
 }
 
 h3 {
-  margin: 0;
+  @extend h1;
+  margin: 10px 0 0;
   font-size: 87.5%; //14/16
   text-transform: uppercase;
 }
