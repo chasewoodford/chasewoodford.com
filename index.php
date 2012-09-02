@@ -64,6 +64,7 @@
                 <div class="stumblr-meta">
                     <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php the_category(', ') ?></span></p>
                 </div>
+                <div class="clear"></div>
             </article>
             <?php
         endforeach;
