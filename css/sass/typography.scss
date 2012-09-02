@@ -400,7 +400,7 @@ h3 {
 p {
   color: $light-grey;
   clear: both;
-  padding-top: 10px; padding-top: 0.625rem; // 10/16
+
   & + p {
     margin: 20px 0; margin: 1.25rem 0; // tb- 20/16
   }

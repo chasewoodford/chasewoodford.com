@@ -455,7 +455,7 @@ h3 { margin: 0; }
 
 .nav-primary { font-family: "UbuntuLtReg", serif; font-size: 16px; font-size: 1rem; line-height: 16px; line-height: 1rem; letter-spacing: auto; color: #5a5a5a; }
 
-p { color: #929292; clear: both; padding-top: 10px; padding-top: 0.625rem; }
+p { color: #929292; clear: both; }
 p + p { margin: 20px 0; margin: 1.25rem 0; }
 
 .copyright { font: normal 75%/1 "UbuntuLtReg", serif; }
@@ -1470,7 +1470,7 @@ hr { background: url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 #copyright p { padding-top: 15px; color: #4f5356; font-size: 12px; }
 
 /* post css3 styles */
-.post { -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); }
+.post { padding-bottom: 5px; -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); }
 
 .page { -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15); }
 
