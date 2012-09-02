@@ -548,7 +548,7 @@ header { overflow: hidden; }
 
 .inline { display: inline; }
 
-.hero { margin: 20px 0; }
+.hero { margin-top: 20px; }
 
 .attribute { float: left; padding: 0; }
 
