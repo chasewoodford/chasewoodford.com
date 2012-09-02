@@ -7,7 +7,6 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 
 /* sidebar styles */
 #stumblr-sidebar     { width:200px; display:inline; float:right; margin-top:80px; }
-#logo 			 { margin-bottom:10px; width:200px; overflow:hidden; }
 
 .side-widget { display:inline; float:left; clear:both; margin-bottom:20px; width:200px; overflow:hidden; background:url(../images/light/bg-row.png) top left  repeat-x; padding-top:15px;  }
 .side-widget ul 	 { list-style: none;  margin:0px; padding:0px; width:180px;clear:both; margin-top:7px;   }
@@ -20,7 +19,8 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 #post-area { width:740px; display:inline; float:left; margin-top:80px;}
 .type-post 		{ background:#FFF; margin-bottom: 50px; }
 
-.stumblr-title 			{ background:#f1f1f1; padding: 5px 20px; display:block; }
+.stumblr-title 			{ background: $blue; padding: 5px 20px; display: block; }
+.post-title             { color: $white; }
 .stumblr-content 			{ padding: 0 20px; }
 .stumblr-content iframe 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
 .stumblr-content embed 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}

@@ -55,7 +55,7 @@
             <article class="grid-8 post type-post">
                 <header>
                     <h3 class="stumblr-title">
-                        <a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+                        <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
                     </h3>
                 </header>
                 <section class="stumblr-content">
