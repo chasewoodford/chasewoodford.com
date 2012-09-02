@@ -52,7 +52,7 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 
 
 /* post css3 styles */
-.post 	{  padding-bottom: 5px; -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15); box-shadow: 0 1px 8px rgba(0,0,0,0.15); }
+.post 	{  padding-bottom: 5px; @include box-shadow(0 8px 10px -6px black) }
 .page 	{  -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15); box-shadow: 0 1px 8px rgba(0,0,0,0.15); }
 .type-attachment	{  -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15); box-shadow: 0 1px 8px rgba(0,0,0,0.15); }
 /* pagination styles */
