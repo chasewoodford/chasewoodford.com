@@ -548,7 +548,7 @@ header { overflow: hidden; }
 
 .inline { display: inline; }
 
-.hero { margin-top: 20px; margin-bottom: 80px; }
+.hero { margin: 50px auto 70px; }
 
 .attribute { float: left; padding: 0; }
 
@@ -1422,7 +1422,7 @@ hr { background: url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 /* post and page styles */
 #post-area { width: 740px; display: inline; float: left; margin-top: 80px; }
 
-.type-post { background: #FFF; margin-bottom: 50px; }
+.type-post { background: #FFF; }
 
 .stumblr-title { background: #0088cc; padding: 5px 20px; display: block; }
 
