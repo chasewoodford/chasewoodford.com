@@ -142,7 +142,7 @@
       <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="388" column="13" selection-start="16350" selection-end="16350" vertical-scroll-proportion="0.7609842">
+            <state line="387" column="4" selection-start="16336" selection-end="16336" vertical-scroll-proportion="0.7609842">
               <folding />
             </state>
           </provider>
@@ -772,7 +772,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="tweak to blog excerpt layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="typography tweak" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -785,7 +785,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="smart quotes" />
     <MESSAGE value="fix to web font" />
     <MESSAGE value="and, of course, you have to add the resource" />
     <MESSAGE value="chirp styling" />
@@ -810,6 +809,7 @@
     <MESSAGE value="styling post display" />
     <MESSAGE value="tweak to tweet container" />
     <MESSAGE value="tweak to blog excerpt layout" />
+    <MESSAGE value="typography tweak" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -926,7 +926,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="388" column="13" selection-start="16350" selection-end="16350" vertical-scroll-proportion="0.7609842">
+        <state line="387" column="4" selection-start="16336" selection-end="16336" vertical-scroll-proportion="0.7609842">
           <folding />
         </state>
       </provider>
