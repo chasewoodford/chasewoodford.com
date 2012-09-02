@@ -52,7 +52,7 @@
         <?php
         $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
         foreach ($posts as $post) : start_wp(); ?>
-            <article class="grid-8 grid-8 post type-post">
+            <article class="grid-8 post type-post">
                 <header>
                     <h3 class="stumblr-title">
                         <a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
