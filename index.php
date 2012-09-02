@@ -54,8 +54,8 @@
         foreach ($posts as $post) : start_wp(); ?>
             <article class="grid-8 grid-8 post type-post">
                 <header>
-                    <h3>
-                        <?php the_title(); ?>
+                    <h3 class="stumblr-title">
+                        <a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
                     </h3>
                 </header>
                 <?php the_excerpt(); ?>
