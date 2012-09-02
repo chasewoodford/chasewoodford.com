@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/home.css" afterPath="$PROJECT_DIR$/css/compiled/home.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/mixins.scss" afterPath="$PROJECT_DIR$/css/sass/mixins.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -138,19 +140,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mixins.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="mixins.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="30" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
+            <state line="8" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.24772313">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="typography.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="392" column="40" selection-start="16484" selection-end="16484" vertical-scroll-proportion="0.69581056">
+            <state line="392" column="40" selection-start="16484" selection-end="16484" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -201,8 +203,8 @@
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
-        <option value="$PROJECT_DIR$/css/sass/mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
+        <option value="$PROJECT_DIR$/css/sass/mixins.scss" />
       </list>
     </option>
   </component>
@@ -925,16 +927,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="30" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
+        <state line="392" column="40" selection-start="16484" selection-end="16484" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="392" column="40" selection-start="16484" selection-end="16484" vertical-scroll-proportion="0.69581056">
+        <state line="8" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.24772313">
           <folding />
         </state>
       </provider>

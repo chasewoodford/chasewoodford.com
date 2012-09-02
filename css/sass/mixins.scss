@@ -6,10 +6,10 @@
 }
 
 // Box Shadows
-@mixin box-shadow($shadow, $shadow) {
-  -webkit-box-shadow: $shadow, $shadow;
-  -moz-box-shadow: $shadow, $shadow;
-  box-shadow: $shadow, $shadow;
+@mixin box-shadow($shadow1,$shadow2) {
+  -webkit-box-shadow: $shadow1, $shadow2;
+  -moz-box-shadow: $shadow1, $shadow2;
+  box-shadow: $shadow1, $shadow2;
 }
 
 // Transitions
