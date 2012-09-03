@@ -417,6 +417,6 @@ p {
   line-height: 20px;
 }
 
-.shadow:hover {
+.shadow:hover, .shadow > a {
   text-shadow: $highlight-dropShadow;
 }
