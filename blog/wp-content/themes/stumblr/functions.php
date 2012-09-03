@@ -125,7 +125,7 @@
 
      if(1 != $pages)
      {
-         echo "<div class='stuumblr-pagination'>";
+         echo "<div class='stumblr-pagination'>";
          if($paged > 2 && $paged > $range+1 && $showitems < $pages) echo "<a href='".get_pagenum_link(1)."'>&laquo;</a>";
          if($paged > 1 && $showitems < $pages) echo "<a href='".get_pagenum_link($paged - 1)."'>&lsaquo;</a>";
 
@@ -145,7 +145,7 @@
 
     function new_excerpt_more($more) {
         global $post;
-        return '... <a class="no-shadow" href="'. get_permalink($post->ID) . '">Continue Reading &#187;</a>';
+        return '... <a href="'. get_permalink($post->ID) . '">Continue Reading &#187;</a>';
     }
     add_filter('excerpt_more', 'new_excerpt_more');
 

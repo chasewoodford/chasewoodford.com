@@ -23,7 +23,6 @@ a {
   @include transition(all .5s ease-in-out);
   &:hover {
     color: $blue;
-    text-shadow: $highlight-dropShadow;
   }
 }
 
