@@ -145,7 +145,7 @@
 
     function new_excerpt_more($more) {
         global $post;
-        return '... <a class="no-shadow" href="'. get_permalink($post->ID) . '">Continue Reading &#187;</a>';
+        return '... <a class="no-shadow" href="'. get_permalink($post->ID) . '">continue reading &#187;</a>';
     }
     add_filter('excerpt_more', 'new_excerpt_more');
 
