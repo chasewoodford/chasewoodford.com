@@ -22,11 +22,12 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .stumblr-title 			{ background: $blue; padding: 5px 20px; display: block; }
 .post-title {
   color: $white;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
   @include transition(all .5s ease-in-out);
 
   &:hover {
     color: $white;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+    font-style: italic;
   }
 }
 .stumblr-content 			{ padding: 0 20px; }
