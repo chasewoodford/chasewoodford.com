@@ -59,7 +59,7 @@
                     </h3>
                 </header>
                 <section class="stumblr-content">
-                    <?php the_excerpt(); ?>
+                    <?php the_excerpt(); ?><a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
                     <div class="stumblr-meta">
                         <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php the_category(', ') ?></span></p>
                     </div>
