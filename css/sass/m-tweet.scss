@@ -16,9 +16,7 @@
   text-align: justify;
 
   &:before {
-    content: url("http://www.edrants.com/wp-content/uploads/2009/09/placeholder.jpg");
-    position: relative;
-    left: -32px;
+    content: url(../images/ico-quote.png);
   }
 }
 
