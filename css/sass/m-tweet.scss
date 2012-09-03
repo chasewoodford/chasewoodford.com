@@ -14,10 +14,13 @@
   margin: 0 auto 10px;
   font-family: $font-UbuntuLtIt;
   text-align: justify;
+
+  &:before {
+    content: url(../images/ico-quote.png);
+  }
 }
 
 .quote-before, .quote-after {
-  content: url(../../images/ico-quote.png);
   float: left;
   width: 5%;
   display: inline;
