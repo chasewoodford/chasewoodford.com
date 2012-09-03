@@ -24,19 +24,19 @@
         <nav class="nav-primary">
             <ul>
                 <li>
-                    <a class="shadow" href="#"><h2>about</h2></a>
+                    <a href="#"><h2>about</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a class="shadow" href="#"><h2>work</h2></a>
+                    <a href="#"><h2>work</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a class="shadow" href="#"><h2>blog</h2></a>
+                    <a href="#"><h2>blog</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a class="shadow" href="#"><h2>contact</h2></a>
+                    <a href="#"><h2>contact</h2></a>
                 </li>
             </ul>
         </nav>
