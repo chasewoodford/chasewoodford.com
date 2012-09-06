@@ -423,5 +423,6 @@ p {
 }
 
 .nav-active {
-  @extend a:hover;
+  color: $blue;
+  text-shadow: $highlight-dropShadow;
 }
