@@ -6,12 +6,12 @@
     <meta name="description" content="">
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/compiled/style.css">
+    <link rel="stylesheet" href="/css/compiled/style.css">
 </head>
 <body id="top">
 <div class="wrapper">
     <header class="grid-8">
-        <img class="logo pulse" src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
+        <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
         <h1 class="sitename">chasewoodford.com</h1>
         <aside class="search-box">
             <form action="" method="post">
@@ -40,7 +40,6 @@
                 </li>
             </ul>
         </nav>
-
     </header>
 
     <div class="grid-8">
@@ -49,28 +48,17 @@
         require('./blog/wp-blog-header.php');
         ?>
 
-        <?php
-        $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
-        foreach ($posts as $post) : start_wp(); ?>
-            <article class="grid-8 hero post type-post">
-                <header>
-                    <h3 class="stumblr-title">
-                        <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
-                    </h3>
-                </header>
-                <section class="stumblr-content">
-                    <?php the_excerpt(); ?>
-                    <div class="stumblr-meta">
-                        <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php the_category(', ') ?></span></p>
-                    </div>
-                </section>
-                <div class="clear"></div>
-            </article>
-            <?php
-        endforeach;
-        ?>
-
-        <article id="tweet-container" class="grid-10"></article>
+        <article class="grid-8 hero post type-post">
+            <header>
+                <h3 class="stumblr-title">
+                    This is a header!
+                </h3>
+            </header>
+            <section class="stumblr-content">
+                <p>This is some content! Lorem ipsum and all that jazz.</p>
+            </section>
+            <div class="clear"></div>
+        </article>
 
     </div>
 
