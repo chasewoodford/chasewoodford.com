@@ -12,7 +12,7 @@
 <div class="wrapper">
     <header class="grid-8">
         <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
-        <h1 class="sitename"><a href="./" title="chasewoodford.com">chasewoodford.com</a></h1>
+        <h1 class="sitename"><a href="../" title="chasewoodford.com">chasewoodford.com</a></h1>
         <aside class="search-box">
             <form action="" method="post">
                 <input type="text" name="text" class="search-box-input"/>

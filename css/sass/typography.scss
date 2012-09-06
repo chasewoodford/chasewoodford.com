@@ -422,6 +422,10 @@ p {
   text-shadow: none;
 }
 
+.kansas {
+  @extend h1;
+}
+
 .nav-active {
   color: $blue;
   text-shadow: $highlight-dropShadow;
