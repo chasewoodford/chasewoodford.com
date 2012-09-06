@@ -32,7 +32,7 @@
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="#"><h2>blog</h2></a>
+                    <a href="../blog"><h2>blog</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
