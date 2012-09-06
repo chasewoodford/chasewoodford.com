@@ -24,7 +24,7 @@
         <nav class="nav-primary">
             <ul>
                 <li>
-                    <a href="#"><h2>about</h2></a>
+                    <a class="nav-active" href="#"><h2>about</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>

@@ -421,3 +421,7 @@ p {
 .no-shadow:hover {
   text-shadow: none;
 }
+
+.nav-active {
+  @extend a:hover;
+}
