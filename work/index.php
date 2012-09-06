@@ -36,7 +36,7 @@
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="../blog"><h2>contact</h2></a>
+                    <a href="../contact"><h2>contact</h2></a>
                 </li>
             </ul>
         </nav>
