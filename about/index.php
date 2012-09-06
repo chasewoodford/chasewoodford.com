@@ -45,7 +45,7 @@
     <div class="grid-8">
 
         <?php
-        require('./blog/wp-blog-header.php');
+        require('../blog/wp-blog-header.php');
         ?>
 
         <article class="grid-8 hero post type-post">
@@ -63,5 +63,5 @@
     </div>
 
     <?php
-    include ("./blog/wp-content/themes/stumblr/footer.php");
+    include ("../blog/wp-content/themes/stumblr/footer.php");
     ?>
