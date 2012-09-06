@@ -12,7 +12,7 @@
 <div class="wrapper">
     <header class="grid-8">
         <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
-        <h1 class="sitename"><a class="kansas" href="../" title="chasewoodford.com">chasewoodford.com</a></h1>
+        <h1 class="sitename"><a class="kansas" href="../" title="home">chasewoodford.com</a></h1>
         <aside class="search-box">
             <form action="" method="post">
                 <input type="text" name="text" class="search-box-input"/>
@@ -24,19 +24,19 @@
         <nav class="nav-primary">
             <ul>
                 <li>
-                    <a href="../about"><h2>about</h2></a>
+                    <a href="../about" title="about"><h2>about</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a class="nav-active" href="#"><h2>work</h2></a>
+                    <a class="nav-active" href="#" title="work"><h2>work</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="../blog"><h2>blog</h2></a>
+                    <a href="../blog" title="blog"><h2>blog</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="../contact"><h2>contact</h2></a>
+                    <a href="../contact" title="contact"><h2>contact</h2></a>
                 </li>
             </ul>
         </nav>
