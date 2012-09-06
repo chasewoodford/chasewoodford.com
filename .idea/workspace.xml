@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -99,7 +97,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="19" selection-start="980" selection-end="980" vertical-scroll-proportion="0.41698113">
+            <state line="14" column="94" selection-start="605" selection-end="605" vertical-scroll-proportion="0.41698113">
               <folding />
             </state>
           </provider>
@@ -658,7 +656,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="blog link test" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding nav links to home index" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -671,7 +669,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="sass multiple include test" />
     <MESSAGE value="allowed for multiple variables to box-shadow mixin" />
     <MESSAGE value="variable adjustment" />
     <MESSAGE value="minor typography tweak" />
@@ -696,6 +693,7 @@
     <MESSAGE value="networking" />
     <MESSAGE value="fixing broken link" />
     <MESSAGE value="blog link test" />
+    <MESSAGE value="adding nav links to home index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -796,7 +794,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="19" selection-start="980" selection-end="980" vertical-scroll-proportion="0.41698113">
+        <state line="14" column="94" selection-start="605" selection-end="605" vertical-scroll-proportion="0.41698113">
           <folding />
         </state>
       </provider>
