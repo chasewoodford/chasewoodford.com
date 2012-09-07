@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -79,7 +78,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="160" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3264151">
+            <state line="63" column="157" selection-start="2388" selection-end="2388" vertical-scroll-proportion="0.3264151">
               <folding />
             </state>
           </provider>
@@ -88,7 +87,7 @@
       <file leaf-file-name="category-template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/category-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1028" column="24" selection-start="32530" selection-end="32545" vertical-scroll-proportion="-6.4615383">
+            <state line="963" column="21" selection-start="30883" selection-end="30895" vertical-scroll-proportion="-16.923077">
               <folding />
             </state>
           </provider>
@@ -762,14 +761,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/category-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1028" column="24" selection-start="32530" selection-end="32545" vertical-scroll-proportion="-6.4615383">
+        <state line="963" column="21" selection-start="30883" selection-end="30895" vertical-scroll-proportion="-16.923077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="160" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3264151">
+        <state line="63" column="157" selection-start="2388" selection-end="2388" vertical-scroll-proportion="0.3264151">
           <folding />
         </state>
       </provider>
