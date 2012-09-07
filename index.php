@@ -61,7 +61,7 @@
                 <section class="stumblr-content">
                     <?php the_excerpt(); ?>
                     <div class="stumblr-meta">
-                        <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php echo strip_tags(get_the_tag_list('','','')); ?></span></p>
+                        <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php echo get_the_tag_list('',', ',''); ?></span></p>
                     </div>
                 </section>
                 <div class="clear"></div>
