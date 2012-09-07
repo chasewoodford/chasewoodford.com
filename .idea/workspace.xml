@@ -79,7 +79,16 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="159" selection-start="2390" selection-end="2390" vertical-scroll-proportion="0.3264151">
+            <state line="63" column="160" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3264151">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category-template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-includes/category-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1028" column="24" selection-start="32530" selection-end="32545" vertical-scroll-proportion="-6.4615383">
               <folding />
             </state>
           </provider>
@@ -111,7 +120,6 @@
         <option value="$PROJECT_DIR$/css/sass/mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
-        <option value="$PROJECT_DIR$/blog/wp-includes/category-template.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
@@ -122,6 +130,7 @@
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-includes/category-template.php" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -686,11 +695,6 @@
         <state line="29" column="142" selection-start="977" selection-end="977" vertical-scroll-proportion="0.545283" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/category-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="54" selection-start="6561" selection-end="6561" vertical-scroll-proportion="-3.3029704" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="72" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.41698113" />
@@ -756,9 +760,16 @@
         <state line="68" column="21" selection-start="908" selection-end="908" vertical-scroll-proportion="0.7768014" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/category-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1028" column="24" selection-start="32530" selection-end="32545" vertical-scroll-proportion="-6.4615383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="159" selection-start="2390" selection-end="2390" vertical-scroll-proportion="0.3264151">
+        <state line="63" column="160" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3264151">
           <folding />
         </state>
       </provider>
