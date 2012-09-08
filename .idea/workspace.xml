@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -106,7 +107,7 @@
       <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="435" column="14" selection-start="17190" selection-end="17190" vertical-scroll-proportion="0.8804921">
+            <state line="440" column="19" selection-start="17253" selection-end="17253" vertical-scroll-proportion="0.94024605">
               <folding />
             </state>
           </provider>
@@ -736,7 +737,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="wordpress tags test" />
+    <option name="LAST_COMMIT_MESSAGE" value="typography test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -749,8 +750,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="add permalink to excerpt" />
-    <MESSAGE value="minor adjustment to continue reading link" />
     <MESSAGE value="removing duplicate permalink display" />
     <MESSAGE value="adding class to permalink displays" />
     <MESSAGE value="making no text-shadow default for hyperlink styling" />
@@ -774,6 +773,8 @@
     <MESSAGE value="adding attributes" />
     <MESSAGE value="minor spacing adjustment" />
     <MESSAGE value="wordpress tags test" />
+    <MESSAGE value="added tags to below posts; moved categories to header" />
+    <MESSAGE value="typography test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -872,7 +873,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="435" column="14" selection-start="17190" selection-end="17190" vertical-scroll-proportion="0.8804921">
+        <state line="440" column="19" selection-start="17253" selection-end="17253" vertical-scroll-proportion="0.94024605">
           <folding />
         </state>
       </provider>

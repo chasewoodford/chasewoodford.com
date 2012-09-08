@@ -433,4 +433,12 @@ p {
 
 .blog-category {
   font-size: 60%;
+
+  & > a {
+    color: $white;
+
+    &:hover {
+      color: $grey;
+    }
+  }
 }
