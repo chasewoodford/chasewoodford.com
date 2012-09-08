@@ -431,15 +431,26 @@ p {
   text-shadow: $highlight-dropShadow;
 }
 
+.post-title {
+  color: $white;
+  text-shadow: $highlight-title;
+
+  &:hover {
+    color: $white;
+    text-shadow: $highlight-title;
+  }
+}
+
 .blog-category {
   font-size: 60%;
 
   & > a {
     color: $white;
+    text-shadow: $highlight-title;
 
     &:hover {
       color: $white;
-      text-shadow: $highlight-dropShadow;
+      text-shadow: $highlight-title;
     }
   }
 }
