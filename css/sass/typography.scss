@@ -392,6 +392,11 @@ h3 {
   @include box-shadow(0 4px 6px rgba(0, 0, 0, 0.5) inset, 0 -2px 4px rgba(0, 0, 0, 0.2) inset);
 }
 
+h4 {
+  @extend h3;
+  box-shadow: none;
+}
+
 .nav-primary {
   font-family: $font-UbuntuLtReg, serif;
   font-size: 16px; font-size: 1rem; // 20/16
