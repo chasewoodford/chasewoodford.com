@@ -435,6 +435,11 @@ p {
   font-size: 60%;
 
   & > a {
-    color: $grey;
+    color: $white;
+
+    &:hover {
+      color: $white;
+      text-shadow: $highlight-subtle;
+    }
   }
 }
