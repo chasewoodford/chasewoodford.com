@@ -28,6 +28,11 @@
   width: flex-grid(8); // 67.5%
 }
 
+.grid-9 {
+  margin: 0 auto 20px;
+  width: flex-grid(9); // 75.9375%
+}
+
 .grid-10 {
   margin: 0 auto 20px;
   width: flex-grid(10); // 84.375%
@@ -89,7 +94,7 @@ header {
 }
 
 #sidebar {
-  float: left;
+  float: right;
   margin: 35px 0 0 20px;
   text-align: right;
 }
