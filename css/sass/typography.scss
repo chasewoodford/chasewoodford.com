@@ -396,6 +396,7 @@ h4 {
   margin: 0;
   font-family: $font-UbuntuLtReg, serif;
   text-transform: lowercase;
+  text-shadow: $highlight-subtle, $highlight-dropShadow;
 }
 
 .nav-primary {
