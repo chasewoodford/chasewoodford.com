@@ -393,8 +393,8 @@ h3 {
 }
 
 h4 {
-  @extend h3;
-  @include box-shadow(none,none);
+  font-family: $font-UbuntuLtReg, serif;
+  text-transform: lowercase;
 }
 
 .nav-primary {
