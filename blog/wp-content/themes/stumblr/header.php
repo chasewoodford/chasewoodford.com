@@ -13,7 +13,7 @@
     <?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 </head>
 <body id="top" <?php body_class(); ?>>
-<div id="wrap" class="wrapper">
+<div class="wrapper">
     <header class="grid-8">
         <img class="logo pulse" src="../../../../images/logo.png" alt="logo"/>
         <h1 class="sitename">chasewoodford.com</h1>
