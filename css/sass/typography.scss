@@ -435,10 +435,6 @@ p {
   font-size: 60%;
 
   & > a {
-    color: $white;
-
-    &:hover {
-      color: $grey;
-    }
+    color: $grey;
   }
 }
