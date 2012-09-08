@@ -28,30 +28,21 @@
         <nav class="nav-primary">
             <ul>
                 <li>
-                    <a href="./about" title="about"><h2>about</h2></a>
+                    <a href="../../../../about" title="about"><h2>about</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="./work" title="work"><h2>work</h2></a>
+                    <a href="../../../../work" title="work"><h2>work</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="./blog" title="blog"><h2>blog</h2></a>
+                    <a href="../../../../blog" title="blog"><h2>blog</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="./contact" title="contact"><h2>contact</h2></a>
+                    <a href="../../../../contact" title="contact"><h2>contact</h2></a>
                 </li>
             </ul>
         </nav>
 
     </header>
-
-	<div id="sidebar">
-        <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
-            <div id="sidebar-widget-area">
-                <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
-            </div>
-        <?php }  ?>
-    </div>
-

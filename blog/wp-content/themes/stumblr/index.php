@@ -46,6 +46,14 @@
 
 </div>
 
+<div id="sidebar">
+    <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
+    <div id="sidebar-widget-area">
+        <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
+    </div>
+    <?php }  ?>
+</div>
+
 <?php
 include ("footer.php");
 ?>
