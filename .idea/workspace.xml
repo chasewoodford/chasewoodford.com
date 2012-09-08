@@ -79,7 +79,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="42" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.626151">
+            <state line="18" column="56" selection-start="670" selection-end="670" vertical-scroll-proportion="0.46961325">
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="41" selection-start="1188" selection-end="1206" vertical-scroll-proportion="-12.076923">
+            <state line="14" column="71" selection-start="542" selection-end="584" vertical-scroll-proportion="-9.153846">
               <folding />
             </state>
           </provider>
@@ -777,7 +777,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="layout changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding active class to blog header" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -790,7 +790,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adding attributes" />
     <MESSAGE value="minor spacing adjustment" />
     <MESSAGE value="wordpress tags test" />
     <MESSAGE value="added tags to below posts; moved categories to header" />
@@ -815,6 +814,7 @@
     <MESSAGE value="typography changes" />
     <MESSAGE value="sidebar tweak" />
     <MESSAGE value="layout changes" />
+    <MESSAGE value="adding active class to blog header" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -924,14 +924,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="41" selection-start="1188" selection-end="1206" vertical-scroll-proportion="-12.076923">
+        <state line="14" column="71" selection-start="542" selection-end="584" vertical-scroll-proportion="-9.153846">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="42" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.626151">
+        <state line="18" column="56" selection-start="670" selection-end="670" vertical-scroll-proportion="0.46961325">
           <folding />
         </state>
       </provider>
