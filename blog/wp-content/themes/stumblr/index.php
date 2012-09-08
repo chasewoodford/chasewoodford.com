@@ -4,7 +4,7 @@
 <?php if (have_posts()) : ?>
 <?php while (have_posts()) : the_post(); ?>
 
-    <article class="grid-8 hero post type-post">
+    <article class="hero post type-post">
         <header>
             <h3 class="title">
                 <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
