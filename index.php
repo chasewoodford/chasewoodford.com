@@ -54,7 +54,7 @@
         foreach ($posts as $post) : start_wp(); ?>
             <article class="grid-8 hero post type-post">
                 <header>
-                    <h3 class="stumblr-title">
+                    <h3 class="title">
                         <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
                         <span class="blog-category" style="">
                             <?php the_category(', ') ?>

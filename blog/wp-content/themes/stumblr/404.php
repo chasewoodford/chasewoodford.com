@@ -5,7 +5,7 @@
 <div id="post-area">
 
    	  	  <div id="post-<?php the_ID(); ?>" class="page type-page">
-                            <div class="stumblr-title"><h1>404 Error : Page Not Found</h1></div>
+                            <div class="title"><h1>404 Error : Page Not Found</h1></div>
 
               <div class="stumblr-content">
                             

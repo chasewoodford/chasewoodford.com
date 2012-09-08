@@ -4,7 +4,7 @@
 <div id="post-area">
 
    	  	  <div id="post-<?php the_ID(); ?>" class="page type-post">
-                            <div class="stumblr-title"><h1>Search Results</h1></div>
+                            <div class="title"><h1>Search Results</h1></div>
 
               <div class="stumblr-content">
                             

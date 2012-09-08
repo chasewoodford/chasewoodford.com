@@ -50,7 +50,7 @@
 
         <article class="grid-8 hero post type-post">
             <header>
-                <h3 class="stumblr-title">
+                <h3 class="title">
                     This is a header!
                 </h3>
             </header>
