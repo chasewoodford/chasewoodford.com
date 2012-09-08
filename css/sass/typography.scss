@@ -394,7 +394,7 @@ h3 {
 
 h4 {
   @extend h3;
-  box-shadow: none;
+  @include box-shadow(none,none);
 }
 
 .nav-primary {
