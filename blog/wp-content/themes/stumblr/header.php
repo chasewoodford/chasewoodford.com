@@ -14,7 +14,7 @@
 </head>
 <body id="top" <?php body_class(); ?>>
 <div id="wrap grid-10">
-	<div id="sidebar">
+	<div id="stumblr-sidebar">
         <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
             <div id="sidebar-widget-area">
                 <?php dynamic_sidebar( 'stumblr_widgets' ); ?>

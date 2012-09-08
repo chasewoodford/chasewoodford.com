@@ -67,7 +67,7 @@
 	if (function_exists('register_sidebar')) {
     	register_sidebar(array(
     		'name' => 'Side Widgets',
-    		'id'   => 'widgets',
+    		'id'   => 'stumblr_widgets',
     		'description'   => 'Side Widget Area',
     		'before_widget' => '<div id="%1$s" class="side-widget %2$s">',
     		'after_widget'  => '</div>',
