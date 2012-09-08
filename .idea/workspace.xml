@@ -79,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="18" selection-start="1522" selection-end="1522" vertical-scroll-proportion="1.154717">
+            <state line="37" column="0" selection-start="123" selection-end="1401" vertical-scroll-proportion="1.1867925">
               <folding />
             </state>
           </provider>
@@ -709,7 +709,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="making blog look like home" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeah, this probably won't work" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -722,7 +722,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="revert" />
     <MESSAGE value="adding no-shadow class to wp category listings" />
     <MESSAGE value="typography changes" />
     <MESSAGE value="swapping custom font for icon image" />
@@ -747,6 +746,7 @@
     <MESSAGE value="stumblr-title -&gt; title" />
     <MESSAGE value="replace in path stumblr-content -&gt; content" />
     <MESSAGE value="making blog look like home" />
+    <MESSAGE value="yeah, this probably won't work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -863,7 +863,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="18" selection-start="1522" selection-end="1522" vertical-scroll-proportion="1.154717">
+        <state line="37" column="0" selection-start="123" selection-end="1401" vertical-scroll-proportion="1.1867925">
           <folding />
         </state>
       </provider>

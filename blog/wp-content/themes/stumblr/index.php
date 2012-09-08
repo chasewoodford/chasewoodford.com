@@ -4,37 +4,37 @@
 <?php if (have_posts()) : ?>
 <?php while (have_posts()) : the_post(); ?>
 
-        <article class="grid-8 hero post type-post">
-            <header>
-                <h3 class="title">
-                    <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
-                        <span class="blog-category" style="">
-                            <?php the_category(', ') ?>
+    <article class="grid-8 hero post type-post">
+        <header>
+            <h3 class="title">
+                <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+                    <span class="blog-category" style="">
+                        <?php the_category(', ') ?>
+                    </span>
+            </h3>
+        </header>
+        <section class="content">
+            <?php the_content(''); ?>
+            <div class="stumblr-meta">
+                <p>
+                        <span class="stumblr-date">
+                            <?php the_time('F Y'); ?>
                         </span>
-                </h3>
-            </header>
-            <section class="content">
-                <?php the_excerpt(); ?>
-                <div class="stumblr-meta">
-                    <p>
-                            <span class="stumblr-date">
-                                <?php the_time('F Y'); ?>
-                            </span>
-                            <span class="stumblr-category">
-                                <?php
-                                $posttags = get_the_tags();
-                                if ($posttags) {
-                                    foreach($posttags as $tag) {
-                                        echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
-                                    }
+                        <span class="stumblr-category">
+                            <?php
+                            $posttags = get_the_tags();
+                            if ($posttags) {
+                                foreach($posttags as $tag) {
+                                    echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
                                 }
-                                ?>
-                            </span>
-                    </p>
-                </div>
-            </section>
-            <div class="clear"></div>
-        </article>
+                            }
+                            ?>
+                        </span>
+                </p>
+            </div>
+        </section>
+        <div class="clear"></div>
+    </article>
 
 <?php endwhile; ?>
 
