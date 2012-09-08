@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="grid-8">
-    <div id="post-area" class="grid-9">
+    <div id="post-area" class="grid-blog">
     <?php if (have_posts()) : ?>
     <?php while (have_posts()) : the_post(); ?>
 
