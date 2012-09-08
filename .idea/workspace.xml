@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="6" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.8396226">
+            <state line="56" column="6" selection-start="1962" selection-end="1962" vertical-scroll-proportion="-17.115385">
               <folding />
             </state>
           </provider>
@@ -121,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="29" selection-start="1254" selection-end="1254" vertical-scroll-proportion="-12.92">
+            <state line="87" column="14" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.25">
               <folding />
             </state>
           </provider>
@@ -174,9 +174,9 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
-        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
       </list>
     </option>
   </component>
@@ -892,13 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="29" selection-start="1254" selection-end="1254" vertical-scroll-proportion="-12.92">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="398" column="56" selection-start="16670" selection-end="16670" vertical-scroll-proportion="0.0">
@@ -908,7 +901,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="6" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.8396226">
+        <state line="56" column="6" selection-start="1962" selection-end="1962" vertical-scroll-proportion="-17.115385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="14" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.25">
           <folding />
         </state>
       </provider>
