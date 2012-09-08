@@ -56,7 +56,7 @@
                 <header>
                     <h3 class="stumblr-title">
                         <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
-                        <span style="font-size: 75%; text-align: right; float: right; position: relative; bottom: -10px;">
+                        <span class="blog-category" style="">
                             <?php the_category(', ') ?>
                         </span>
                     </h3>
