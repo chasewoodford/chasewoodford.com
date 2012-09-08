@@ -56,10 +56,10 @@
                 <header>
                     <h3 class="stumblr-title">
                         <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+                        <span style="font-size: 75%; text-align: right; float: right; position: relative; bottom: -10px;">
+                            <?php the_category(', ') ?>
+                        </span>
                     </h3>
-                    <h4>
-                        <?php the_category(', ') ?>
-                    </h4>
                 </header>
                 <section class="stumblr-content">
                     <?php the_excerpt(); ?>
@@ -73,7 +73,7 @@
                                     $posttags = get_the_tags();
                                     if ($posttags) {
                                         foreach($posttags as $tag) {
-                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>,&nbsp;';
+                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;';
                                         }
                                     }
                                 ?>
