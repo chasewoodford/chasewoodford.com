@@ -36,7 +36,7 @@
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="../../../../blog" title="blog"><h2>blog</h2></a>
+                    <a class="nav-active" href="../../../../blog" title="blog"><h2>blog</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
