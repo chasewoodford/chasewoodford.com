@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="removing wrap ID">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="layout tweaks">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/m-blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -87,19 +86,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="33" selection-start="57" selection-end="57" vertical-scroll-proportion="0.064150944">
+            <state line="2" column="33" selection-start="57" selection-end="57" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="21" selection-start="1122" selection-end="1122" vertical-scroll-proportion="-17.0">
+            <state line="92" column="9" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.90625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m-blog.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,11 +146,11 @@
         <option value="$PROJECT_DIR$/css/compiled/blog.css" />
         <option value="$PROJECT_DIR$/css/compiled/style.css" />
         <option value="$PROJECT_DIR$/work/index.php" />
-        <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
-        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
+        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
       </list>
     </option>
   </component>
@@ -720,7 +728,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing wrap ID" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout tweaks" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -733,7 +741,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adding active nav styles" />
     <MESSAGE value="networking" />
     <MESSAGE value="fixing broken link" />
     <MESSAGE value="blog link test" />
@@ -758,6 +765,7 @@
     <MESSAGE value="moving sidebar to content pages" />
     <MESSAGE value="adding wrapper class" />
     <MESSAGE value="removing wrap ID" />
+    <MESSAGE value="layout tweaks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -858,23 +866,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="57" selection-end="57" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="996" selection-end="1000" vertical-scroll-proportion="-0.68">
+        <state line="8" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="21" selection-start="1122" selection-end="1122" vertical-scroll-proportion="-17.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="57" selection-end="57" vertical-scroll-proportion="0.064150944">
+        <state line="92" column="9" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.90625">
           <folding />
         </state>
       </provider>
