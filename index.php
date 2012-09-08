@@ -64,7 +64,22 @@
                 <section class="stumblr-content">
                     <?php the_excerpt(); ?>
                     <div class="stumblr-meta">
-                        <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php echo get_the_tag_list('',', ',''); ?></span></p>
+                        <p>
+                            <span class="stumblr-date">
+                                <?php the_time(get_option('date_format')); ?>
+                            </span>
+                            <span class="stumblr-category">
+                                <?php
+                                    $posttags = get_the_tags();
+                                    if ($posttags) {
+                                        foreach($posttags as $tag) {
+                                            echo '<a href="';echo bloginfo(url);
+                                            echo '/?tag=' . $tag->slug . '" class="' . $tag->slug . '">' . $tag->name . '</a>';
+                                        }
+                                    }
+                                ?>
+                            </span>
+                        </p>
                     </div>
                 </section>
                 <div class="clear"></div>
