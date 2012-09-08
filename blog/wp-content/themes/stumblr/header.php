@@ -2,18 +2,51 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Chase Woodford &#124; Designer &amp; Developer<?php bloginfo('sitename'); ?> <?php wp_title(); ?></title>
+    <title>Chase Woodford &#124; Blog</title>
     <meta name="description" content="">
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="/css/compiled/style.css">
+    <link rel="stylesheet" href="../../../../css/compiled/style.css">
 
     <!-- wp head -->
     <?php wp_head(); ?>
     <?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 </head>
 <body id="top" <?php body_class(); ?>>
-<div id="wrap grid-10">
+<div id="wrap wrapper">
+    <header class="grid-8">
+        <img class="logo pulse" src="images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
+        <h1 class="sitename">chasewoodford.com</h1>
+        <aside class="search-box">
+            <form action="" method="post">
+                <input type="text" name="text" class="search-box-input"/>
+                <button class="btn search-box-btn">
+                    <i class="icon-search icon-white"></i>
+                </button>
+            </form>
+        </aside>
+        <nav class="nav-primary">
+            <ul>
+                <li>
+                    <a href="./about" title="about"><h2>about</h2></a>
+                </li>
+                <li><h2>&bull;</h2></li>
+                <li>
+                    <a href="./work" title="work"><h2>work</h2></a>
+                </li>
+                <li><h2>&bull;</h2></li>
+                <li>
+                    <a href="./blog" title="blog"><h2>blog</h2></a>
+                </li>
+                <li><h2>&bull;</h2></li>
+                <li>
+                    <a href="./contact" title="contact"><h2>contact</h2></a>
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+
 	<div id="sidebar">
         <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
             <div id="sidebar-widget-area">
