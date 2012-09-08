@@ -109,8 +109,13 @@ header {
   text-align: right;
 }
 
-.side-widget { display:inline; float:left; clear:both; margin-bottom:20px; width:auto; overflow:hidden; background:url(../images/light/bg-row.png) top left  repeat-x; padding-top:15px;  }
-
+.side-widget {
+  display: inline;
+  float: right;
+  width: auto;
+  padding-top:15px;
+  margin-bottom: 20px;
+}
 
 .side-widget ul {
   list-style: none;

@@ -47,7 +47,7 @@
 
     </div>
 
-    <div id="sidebar">
+    <div id="sidebar" class="grid-2">
         <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
         <div id="sidebar-widget-area">
             <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
