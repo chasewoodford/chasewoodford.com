@@ -104,6 +104,15 @@ header {
   text-align: right;
 }
 
+.side-widget {
+  display: inline;
+  float: left;
+  clear: both;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding-top: 15px;
+}
+
 .side-widget ul {
   list-style: none;
   margin: 0px;
