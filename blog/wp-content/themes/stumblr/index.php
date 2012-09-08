@@ -13,27 +13,29 @@
                     </span>
             </h3>
         </header>
-        <section class="content">
-            <?php the_content(''); ?>
-            <div class="stumblr-meta">
-                <p>
-                        <span class="stumblr-date">
-                            <?php the_time('F Y'); ?>
-                        </span>
-                        <span class="stumblr-category">
-                            <?php
-                            $posttags = get_the_tags();
-                            if ($posttags) {
-                                foreach($posttags as $tag) {
-                                    echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
+        <div class="grid-8">
+            <section class="content">
+                <?php the_content(''); ?>
+                <div class="stumblr-meta">
+                    <p>
+                            <span class="stumblr-date">
+                                <?php the_time('F Y'); ?>
+                            </span>
+                            <span class="stumblr-category">
+                                <?php
+                                $posttags = get_the_tags();
+                                if ($posttags) {
+                                    foreach($posttags as $tag) {
+                                        echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
+                                    }
                                 }
-                            }
-                            ?>
-                        </span>
-                </p>
-            </div>
-        </section>
-        <div class="clear"></div>
+                                ?>
+                            </span>
+                    </p>
+                </div>
+            </section>
+            <div class="clear"></div>
+        </div>
     </article>
 
 <?php endwhile; ?>
