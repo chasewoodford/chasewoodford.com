@@ -439,7 +439,7 @@ p {
 
     &:hover {
       color: $white;
-      text-shadow: $highlight-subtle;
+      text-shadow: $highlight-dropShadow;
     }
   }
 }
