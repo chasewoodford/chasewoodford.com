@@ -6,7 +6,7 @@
 
 	<div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
     	<div class="title"><h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2></div>
-			<div class="stumblr-content">
+			<div class="content">
             	<?php if ( has_post_thumbnail() ) { ?><div class="stumblr-image"><?php the_post_thumbnail( 'stumblr-large-image' );  ?></div><?php } ?>  
                  <?php the_content(''); ?>
              </div>

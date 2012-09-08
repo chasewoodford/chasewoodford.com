@@ -61,7 +61,7 @@
                         </span>
                     </h3>
                 </header>
-                <section class="stumblr-content">
+                <section class="content">
                     <?php the_excerpt(); ?>
                     <div class="stumblr-meta">
                         <p>

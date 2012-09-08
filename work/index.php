@@ -54,7 +54,7 @@
                     This is a header!
                 </h3>
             </header>
-            <section class="stumblr-content">
+            <section class="content">
                 <p>This is some content! Lorem ipsum and all that jazz.</p>
             </section>
             <div class="clear"></div>

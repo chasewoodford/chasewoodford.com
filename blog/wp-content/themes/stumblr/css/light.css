@@ -46,9 +46,9 @@
   .type-attachment 	{ width:740px; background:#FFF; margin-top:15px; display:inline; float:left; margin-bottom:20px; padding-bottom:15px;  }
   
   .stumblr-title 			{ background:#f1f1f1; height:30px; padding-left:20px; display:block; } 
-  .stumblr-content 			{ width:660px; margin-left:40px; display:inline; float:left;} 
-  .stumblr-content iframe 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
-  .stumblr-content embed 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
+  .content 			{ width:660px; margin-left:40px; display:inline; float:left;}
+  .content iframe 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
+  .content embed 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
   .stumblr-image 			{ display:inline; float:left; margin-left:-40px; margin-bottom:10px;} 
   
   .stumblr-meta { display:inline; width:660px; float:left; margin-left:40px; margin-top:20px; border-top: 1px dotted #e2e2e2; }

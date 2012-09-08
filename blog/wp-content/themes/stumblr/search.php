@@ -6,7 +6,7 @@
    	  	  <div id="post-<?php the_ID(); ?>" class="page type-post">
                             <div class="title"><h1>Search Results</h1></div>
 
-              <div class="stumblr-content">
+              <div class="content">
                             
                           
            		 <?php if (have_posts()) : ?>
