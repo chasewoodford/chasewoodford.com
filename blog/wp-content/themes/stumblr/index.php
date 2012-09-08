@@ -1,19 +1,19 @@
 <?php get_header(); ?>
 
-<div id="post-area" class="grid-6">
-<?php if (have_posts()) : ?>
-<?php while (have_posts()) : the_post(); ?>
+    <div class="grid-8">
+    <div id="post-area" class="grid-6">
+    <?php if (have_posts()) : ?>
+    <?php while (have_posts()) : the_post(); ?>
 
-    <article class="hero post type-post">
-        <header>
-            <h3 class="title">
-                <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
-                    <span class="blog-category" style="">
-                        <?php the_category(', ') ?>
-                    </span>
-            </h3>
-        </header>
-        <div class="grid-8">
+        <article class="hero post type-post">
+            <header>
+                <h3 class="title">
+                    <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+                        <span class="blog-category" style="">
+                            <?php the_category(', ') ?>
+                        </span>
+                </h3>
+            </header>
             <section class="content">
                 <?php the_content(''); ?>
                 <div class="stumblr-meta">
@@ -35,25 +35,25 @@
                 </div>
             </section>
             <div class="clear"></div>
-        </div>
-    </article>
+        </article>
 
-<?php endwhile; ?>
+    <?php endwhile; ?>
 
-<?php else : ?>
-<?php endif; ?>
-    
-<?php stumblr_pagination(); ?>
-<?php echo paginate_links( $args ) ?>
+    <?php else : ?>
+    <?php endif; ?>
 
-</div>
+    <?php stumblr_pagination(); ?>
+    <?php echo paginate_links( $args ) ?>
 
-<div id="sidebar">
-    <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
-    <div id="sidebar-widget-area">
-        <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
     </div>
-    <?php }  ?>
+
+    <div id="sidebar">
+        <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
+        <div id="sidebar-widget-area">
+            <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
+        </div>
+        <?php }  ?>
+    </div>
 </div>
 
 <?php
