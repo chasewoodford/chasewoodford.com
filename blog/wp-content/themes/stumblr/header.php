@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="/css/compiled/blog.css">
+    <link rel="stylesheet" href="/css/compiled/style.css">
 
     <!-- wp head -->
     <?php wp_head(); ?>
