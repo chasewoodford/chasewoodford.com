@@ -71,8 +71,8 @@
     		'description'   => 'Side Widget Area',
     		'before_widget' => '<div id="%1$s" class="side-widget %2$s">',
     		'after_widget'  => '</div>',
-    		'before_title'  => '<h3>',
-    		'after_title'   => '</h3>'
+    		'before_title'  => '<h4>',
+    		'after_title'   => '</h4>'
     	));
 		
 		register_sidebar(array(
@@ -81,8 +81,8 @@
     		'description'   => 'Footer Widget Area',
     		'before_widget' => '<div id="%1$s" class="footer-widget %2$s">',
     		'after_widget'  => '</div>',
-    		'before_title'  => '<h3>',
-    		'after_title'   => '</h3>'
+    		'before_title'  => '<h4>',
+    		'after_title'   => '</h4>'
     	));
 		
 	}
