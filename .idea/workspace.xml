@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/m-blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,10 +79,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="49" selection-start="2514" selection-end="2514" vertical-scroll-proportion="0.42264152">
+            <state line="22" column="10" selection-start="791" selection-end="791" vertical-scroll-proportion="0.6887661">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="23" selection-start="1697" selection-end="1697" vertical-scroll-proportion="-2.6923077">
               <folding />
             </state>
           </provider>
@@ -88,34 +100,7 @@
       <file leaf-file-name="m-blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="16" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typography.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="435" column="31" selection-start="17216" selection-end="17216" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="variables.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="24" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+            <state line="8" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="-5.44">
               <folding />
             </state>
           </provider>
@@ -143,10 +128,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
@@ -155,10 +138,12 @@
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/category-template.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
-        <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
       </list>
     </option>
   </component>
@@ -676,6 +661,7 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3956229" sideWeight="0.48969072" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28236914" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
@@ -686,7 +672,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19726859" sideWeight="0.6043771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19726859" sideWeight="0.6750842" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -695,7 +681,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -736,7 +721,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="wp the_time test" />
+    <option name="LAST_COMMIT_MESSAGE" value="begin blog page styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -754,7 +739,6 @@
     <MESSAGE value="adjustment for shadow class" />
     <MESSAGE value="revert" />
     <MESSAGE value="adding no-shadow class to wp category listings" />
-    <MESSAGE value="begin blog page styling" />
     <MESSAGE value="typography changes" />
     <MESSAGE value="swapping custom font for icon image" />
     <MESSAGE value="pseudo element test" />
@@ -774,6 +758,7 @@
     <MESSAGE value="typography test" />
     <MESSAGE value="slight refactor" />
     <MESSAGE value="wp the_time test" />
+    <MESSAGE value="begin blog page styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -783,11 +768,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="72" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.41698113" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="29" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" />
@@ -823,13 +803,6 @@
         <state line="24" column="4" selection-start="402" selection-end="455" vertical-scroll-proportion="0.71704745" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="45" selection-start="1293" selection-end="1295" vertical-scroll-proportion="-2.5009902">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/category-template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1001" column="32" selection-start="31847" selection-end="31847" vertical-scroll-proportion="0.33267328">
@@ -839,28 +812,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="16" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.0">
+        <state line="80" column="16" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.82073814">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="24" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+        <state line="10" column="24" selection-start="276" selection-end="276" vertical-scroll-proportion="0.3057554">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="435" column="31" selection-start="17216" selection-end="17216" vertical-scroll-proportion="0.0">
+        <state line="435" column="31" selection-start="17216" selection-end="17216" vertical-scroll-proportion="0.25307557">
           <folding />
         </state>
       </provider>
@@ -875,6 +841,27 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="49" selection-start="2514" selection-end="2514" vertical-scroll-proportion="0.42264152">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="-5.44">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="23" selection-start="1697" selection-end="1697" vertical-scroll-proportion="-2.6923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="10" selection-start="791" selection-end="791" vertical-scroll-proportion="0.6887661">
           <folding />
         </state>
       </provider>
