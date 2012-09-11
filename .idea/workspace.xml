@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="adding link home to blog header">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-search.scss" afterPath="$PROJECT_DIR$/css/sass/m-search.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -95,10 +96,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="13" selection-start="1143" selection-end="1143" vertical-scroll-proportion="0.8689788">
+            <state line="81" column="13" selection-start="1143" selection-end="1143" vertical-scroll-proportion="-9.02">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m-search.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="12" selection-start="549" selection-end="549" vertical-scroll-proportion="0.8125">
               <folding />
             </state>
           </provider>
@@ -107,7 +117,16 @@
       <file leaf-file-name="base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="37" selection-start="136" selection-end="138" vertical-scroll-proportion="-1.2">
+            <state line="5" column="37" selection-start="136" selection-end="138" vertical-scroll-proportion="5.26">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_forms.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="11" selection-start="236" selection-end="236" vertical-scroll-proportion="-6.8">
               <folding />
             </state>
           </provider>
@@ -135,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/404.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/css/light.css" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/css/minimal.css" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/page.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/search.php" />
@@ -151,6 +168,8 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/m-search.scss" />
+        <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
       </list>
     </option>
   </component>
@@ -236,6 +255,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -594,6 +635,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28236914" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -607,7 +649,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -695,16 +736,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="218" selection-end="218" vertical-scroll-proportion="-4.8076925" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="28" selection-start="1947" selection-end="1947" vertical-scroll-proportion="-4.6538463" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/compiled/blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="16366" selection-start="16366" selection-end="16366" vertical-scroll-proportion="0.0" />
@@ -755,13 +786,6 @@
         <state line="18" column="56" selection-start="670" selection-end="670" vertical-scroll-proportion="0.46961325" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="37" selection-start="136" selection-end="138" vertical-scroll-proportion="-1.2">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="63" selection-start="465" selection-end="465" vertical-scroll-proportion="-0.33333334">
@@ -778,7 +802,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="13" selection-start="1143" selection-end="1143" vertical-scroll-proportion="0.8689788">
+        <state line="81" column="13" selection-start="1143" selection-end="1143" vertical-scroll-proportion="-9.02">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="136" selection-end="138" vertical-scroll-proportion="5.26">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="11" selection-start="236" selection-end="236" vertical-scroll-proportion="-6.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="12" selection-start="549" selection-end="549" vertical-scroll-proportion="0.8125">
           <folding />
         </state>
       </provider>
