@@ -17,7 +17,7 @@ body {
   color: $white;
 }
 
-a:link, a:visited {
+a, a:visited {
   color: $grey;
   text-decoration: none;
   @include transition(all .5s ease-in-out);
