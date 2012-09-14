@@ -449,12 +449,12 @@ body.work .nav-primary .work h2 {
 }
 
 .post-title {
-  color: $white;
-  text-shadow: $highlight-title;
+  color: $white !important;
+  text-shadow: $highlight-title !important;
 
   &:hover {
-    color: $white;
-    text-shadow: $highlight-title;
+    color: $white !important;
+    text-shadow: $highlight-title !important;
   }
 }
 
