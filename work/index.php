@@ -36,7 +36,7 @@
 
         <article class="grid-8 hero post type-post">
             <header>
-                <h3 class="title">
+                <h3 class="title-background post-title">
                     This is a header!
                 </h3>
             </header>

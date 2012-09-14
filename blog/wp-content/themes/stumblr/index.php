@@ -7,7 +7,7 @@
 
         <article class="hero post type-post">
             <header>
-                <h3 class="title">
+                <h3 class="title-background">
                     <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
                         <span class="blog-category" style="">
                             <?php the_category(', ') ?>

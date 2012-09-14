@@ -99,6 +99,12 @@ header {
   float: right;
 }
 
+.title-background {
+  display: block;
+  padding: 5px 20px;
+  background: $blue;
+}
+
 #post-area {
   float: left;
 }
