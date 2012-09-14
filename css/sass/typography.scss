@@ -440,10 +440,7 @@ p {
   @extend h1;
 }
 
-body.about .nav-primary .about h2,
-body.blog .nav-primary .blog h2,
-body.contact .nav-primary .contact h2,
-body.work .nav-primary .work h2 {
+body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact .nav-primary .contact h2, body.work .nav-primary .work h2 {
   color: $blue;
   text-shadow: $highlight-dropShadow;
 }
