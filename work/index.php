@@ -43,7 +43,6 @@
     </header>
 
     <div class="grid-8">
-
         <?php
         require('../blog/wp-blog-header.php');
         ?>
@@ -59,7 +58,6 @@
             </section>
             <div class="clear"></div>
         </article>
-
     </div>
 
     <?php
