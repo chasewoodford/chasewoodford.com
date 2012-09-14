@@ -97,7 +97,7 @@
       <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="26" selection-start="323" selection-end="323" vertical-scroll-proportion="0.56766254">
+            <state line="19" column="7" selection-start="304" selection-end="304" vertical-scroll-proportion="0.56766254">
               <folding />
             </state>
           </provider>
@@ -638,7 +638,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling hyperlinks" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -651,7 +651,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="slight refactor" />
     <MESSAGE value="wp the_time test" />
     <MESSAGE value="begin blog page styling" />
     <MESSAGE value="stumblr-title -&gt; title" />
@@ -676,6 +675,7 @@
     <MESSAGE value="minor tweak to header layout" />
     <MESSAGE value="removing active class for nav-primary" />
     <MESSAGE value="refactoring" />
+    <MESSAGE value="styling hyperlinks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -780,7 +780,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="26" selection-start="323" selection-end="323" vertical-scroll-proportion="0.56766254">
+        <state line="19" column="7" selection-start="304" selection-end="304" vertical-scroll-proportion="0.56766254">
           <folding />
         </state>
       </provider>
