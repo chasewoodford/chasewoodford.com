@@ -458,7 +458,7 @@ body.work .nav-primary .work h2 {
   }
 }
 
-.blog-category {
+.blog-category > a {
   font-size: 60%;
   color: $white !important;
   text-shadow: $highlight-title !important;
