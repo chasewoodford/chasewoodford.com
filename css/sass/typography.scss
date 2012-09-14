@@ -379,10 +379,17 @@ h1 {
 }
 
 h2 {
+  position: relative;
+  float: left;
   margin: 0;
   padding: 0;
   font-size: 16px; font-size: 1rem; // 16/16
   letter-spacing: 1px;
+  @include transition(all .5s ease-in-out);
+}
+
+.bullet {
+  padding: 15px 12px;
 }
 
 h3 {
