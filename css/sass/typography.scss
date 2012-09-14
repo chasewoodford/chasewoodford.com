@@ -460,14 +460,11 @@ body.work .nav-primary .work h2 {
 
 .blog-category {
   font-size: 60%;
+  color: $white !important;
+  text-shadow: $highlight-title !important;
 
-  & > a {
-    color: $white;
-    text-shadow: $highlight-title;
-
-    &:hover {
-      color: $white;
-      text-shadow: $highlight-title;
-    }
+  &:hover {
+    color: $white !important;
+    text-shadow: $highlight-title !important;
   }
 }

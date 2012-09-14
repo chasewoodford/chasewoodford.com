@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -89,7 +88,7 @@
       <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="456" column="44" selection-start="17715" selection-end="17715" vertical-scroll-proportion="0.4516696">
+            <state line="467" column="44" selection-start="17918" selection-end="17918" vertical-scroll-proportion="0.7609842">
               <folding />
             </state>
           </provider>
@@ -790,7 +789,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="456" column="44" selection-start="17715" selection-end="17715" vertical-scroll-proportion="0.4516696">
+        <state line="467" column="44" selection-start="17918" selection-end="17918" vertical-scroll-proportion="0.7609842">
           <folding />
         </state>
       </provider>
