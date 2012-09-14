@@ -17,11 +17,12 @@ body {
   color: $white;
 }
 
-a {
+a:link, a:focus, a:visited {
   color: $grey;
   text-decoration: none;
   @include transition(all .5s ease-in-out);
-  &:hover {
+
+  a:hover, a:active {
     color: $blue;
     text-shadow: $highlight-dropShadow;
   }
