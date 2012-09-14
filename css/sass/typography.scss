@@ -433,7 +433,10 @@ p {
   @extend h1;
 }
 
-.nav-active {
+body.about .nav-primary .about,
+body.blog .nav-primary .blog,
+body.contact .nav-primary .contact,
+body.work .nav-primary .work {
   color: $blue;
   text-shadow: $highlight-dropShadow;
 }

@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/css/compiled/style.css">
 </head>
-<body id="top">
+<body id="top" class="about">
 <div class="wrapper">
     <header class="grid-8">
         <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
@@ -24,19 +24,19 @@
         <nav class="nav-primary">
             <ul>
                 <li>
-                    <a class="nav-active" href="#" title="about"><h2>about</h2></a>
+                    <a class="about" href="../about" title="about"><h2>about</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="../work" title="work"><h2>work</h2></a>
+                    <a class="work" href="../work" title="work"><h2>work</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="../blog" title="blog"><h2>blog</h2></a>
+                    <a class="blog" href="../blog" title="blog"><h2>blog</h2></a>
                 </li>
                 <li><h2>&bull;</h2></li>
                 <li>
-                    <a href="../contact" title="contact"><h2>contact</h2></a>
+                    <a class="contact" href="../contact" title="contact"><h2>contact</h2></a>
                 </li>
             </ul>
         </nav>
