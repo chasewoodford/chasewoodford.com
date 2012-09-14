@@ -24,7 +24,8 @@ a:link, a:visited {
 }
 
 a:hover, a:active, a:focus {
-  @extend a:link;
   color: $blue;
   text-shadow: $highlight-dropShadow;
+  text-decoration: none;
+  @include transition(all .5s ease-in-out);
 }
