@@ -50,9 +50,10 @@
 
 .wrapper {
   clear: both;
-  margin: 0 auto 20px;
+  margin: 0;
   width: flex-grid(12);
-  min-height: 500px;
+  min-height: 100%;
+  height: auto;
 }
 
 header {
