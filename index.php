@@ -71,13 +71,12 @@
                 </section>
                 <div class="clear"></div>
             </article>
-            <?php
+            <div class="recent-rambling"></div>
+        <?php
         endforeach;
         ?>
 
         <article id="tweet-container" class="grid-10"></article>
-        <div class="recent-rambling"></div>
-
     </div>
 
     <?php
