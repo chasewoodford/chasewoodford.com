@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -87,7 +88,7 @@
       <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="29" selection-end="29" vertical-scroll-proportion="0.059753954">
+            <state line="5" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.14938489">
               <folding />
             </state>
           </provider>
@@ -153,11 +154,11 @@
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
-        <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
+        <option value="$PROJECT_DIR$/css/sass/base.scss" />
       </list>
     </option>
   </component>
@@ -813,7 +814,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="29" selection-end="29" vertical-scroll-proportion="0.059753954">
+        <state line="5" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.14938489">
           <folding />
         </state>
       </provider>
