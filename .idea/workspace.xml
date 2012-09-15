@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="sticky footer">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -89,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="12" selection-start="48" selection-end="48" vertical-scroll-proportion="0.08963093">
+            <state line="17" column="21" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="78" selection-end="78" vertical-scroll-proportion="-2.6153846">
+            <state line="44" column="45" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.4990792">
               <folding />
             </state>
           </provider>
@@ -119,7 +118,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-3.9230769">
+            <state line="0" column="109" selection-start="109" selection-end="109" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -159,10 +158,10 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
-        <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
+        <option value="$PROJECT_DIR$/about/index.php" />
       </list>
     </option>
   </component>
@@ -795,9 +794,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-3.9230769">
+        <state line="17" column="21" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -809,16 +808,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="78" selection-end="78" vertical-scroll-proportion="-2.6153846">
+        <state line="0" column="109" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+    <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="48" selection-end="48" vertical-scroll-proportion="0.08963093">
+        <state line="44" column="45" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.4990792">
           <folding />
         </state>
       </provider>
