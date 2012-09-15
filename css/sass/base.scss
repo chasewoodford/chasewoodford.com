@@ -1,14 +1,17 @@
 @import "reset.scss";
 
-html, body {
-  height: 100%;
-}
+html, body, .wrapper { height: 100%; }
 
 body {
   background: url('../../images/bg.png') repeat;
   overflow-x: hidden;
   font: normal 125%/1.4 $font-Calluna, serif; // 20/16, 28/20
   color: $grey;
+
+  > .wrapper {
+    height: auto;
+    min-height: 100%;
+  }
 }
 
 ::selection {
@@ -38,6 +41,6 @@ footer {
   position: relative;
   clear: both;
   height: $sticky-footer-height;
-  margin: -$sticky-footer-height auto 0 !important;
+  margin-top: -$sticky-footer-height !important;
   padding: 0px;
 }
