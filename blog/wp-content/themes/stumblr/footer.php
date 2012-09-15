@@ -1,9 +1,8 @@
 <footer class="grid-8">
      <div class="copyright" role="contentinfo">
-        <p style="float:left;margin:0;padding:0;">&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
-            <span class="bullet">&#8226;</span>
-            RSS
-        </p>
+        <p style="float:left;margin:0;padding:0;">&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?></p>
+        <h2 class="bullet">&#8226;</h2>
+        <p style="margin:0;padding:0;">RSS</p>
      </div>
 </footer>
 </body>
