@@ -1,4 +1,4 @@
-<footer class="grid-8" style="position: relative; clear: both; height: 30px; margin-bottom: 0; margin-top: -30px;">
+<footer class="grid-8" style="position: relative; clear: both; height: 40px; margin-bottom: 0; margin-top: -40px;">
      <div class="copyright" role="contentinfo">
         <p>&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>&nbsp;&#8226;&nbsp;RSS</p>
      </div>
