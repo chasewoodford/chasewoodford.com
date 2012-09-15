@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -104,10 +103,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="11" selection-start="2150" selection-end="2150" vertical-scroll-proportion="0.7495396">
+            <state line="12" column="4" selection-start="393" selection-end="445" vertical-scroll-proportion="-7.8461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/work/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="0" selection-start="2147" selection-end="2214" vertical-scroll-proportion="0.8434622">
               <folding />
             </state>
           </provider>
@@ -157,7 +165,6 @@
         <option value="$PROJECT_DIR$/css/sass/m-search.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
-        <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
@@ -169,6 +176,7 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/about/index.php" />
+        <option value="$PROJECT_DIR$/work/index.php" />
       </list>
     </option>
   </component>
@@ -236,6 +244,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="work" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -737,11 +759,6 @@
         <state line="26" column="12" selection-start="549" selection-end="549" vertical-scroll-proportion="0.8125" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="43" selection-start="1631" selection-end="1631" vertical-scroll-proportion="-14.076923" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="442" column="107" selection-start="17462" selection-end="17462" vertical-scroll-proportion="0.0" />
@@ -826,7 +843,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="11" selection-start="2150" selection-end="2150" vertical-scroll-proportion="0.7495396">
+        <state line="12" column="4" selection-start="393" selection-end="445" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="2147" selection-end="2214" vertical-scroll-proportion="0.8434622">
           <folding />
         </state>
       </provider>
