@@ -95,6 +95,8 @@ header {
 }
 
 .recent-rambling {
+  position: relative;
+  top: -300px;
   float: right;
   height: 74px;
   width: 73px;
@@ -106,7 +108,7 @@ header {
 }
 
 .hero {
-  margin: 30px auto 0;
+  margin: 30px auto 60px;
 }
 
 .attribute {
