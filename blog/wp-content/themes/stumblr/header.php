@@ -16,7 +16,7 @@
 <div class="wrapper">
     <header class="grid-8">
         <img class="logo pulse" src="../../../../images/logo.png" alt="logo"/>
-        <h1 class="sitename"><a class="kansas" href="../" title="home">chasewoodford.com</a></h1>
+        <h1 class="sitename"><a class="kansas" href="http://www.chasewoodford.com" title="home">chasewoodford.com</a></h1>
         <aside class="search-box">
             <form action="" method="post">
                 <input type="text" name="text" class="search-box-input"/>
