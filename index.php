@@ -69,9 +69,10 @@
                         </p>
                     </div>
                 </section>
-                <div class="clear"></div>
+
             </article>
             <div class="recent-rambling"></div>
+            <div class="clear"></div>
         <?php
         endforeach;
         ?>
