@@ -85,11 +85,18 @@ header {
 }
 
 .main-content:before {
-  content: url("images/img-latestBlog.png");
+  content: url("/images/img-latestBlog.png");
   float: left;
   position: relative;
   top: 250px;
   left: 40px;
+}
+
+.main-content:after {
+  content: url("/images/img-recentRambling.png");
+  float: right;
+  position: relative;
+  top: 250px;
 }
 
 .inline {
