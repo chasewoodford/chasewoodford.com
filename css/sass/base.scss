@@ -35,6 +35,6 @@ footer {
   position: relative;
   clear: both;
   height: $sticky-footer-height;
-  margin-top: -$sticky-footer-height;
+  margin-top: -$sticky-footer-height !important;
   padding: 0px;
 }
