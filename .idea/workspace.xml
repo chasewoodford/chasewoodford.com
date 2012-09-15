@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/m-tweet.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -88,7 +89,7 @@
       <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="16" selection-start="448" selection-end="448" vertical-scroll-proportion="0.11950791">
+            <state line="98" column="9" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.59753954">
               <folding />
             </state>
           </provider>
@@ -97,7 +98,7 @@
       <file leaf-file-name="m-tweet.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="26" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+            <state line="5" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -759,14 +760,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+        <state line="5" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="16" selection-start="448" selection-end="448" vertical-scroll-proportion="0.11950791">
+        <state line="98" column="9" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.59753954">
           <folding />
         </state>
       </provider>
