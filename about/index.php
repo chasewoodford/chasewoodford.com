@@ -42,7 +42,7 @@
                     </h3>
                 </header>
                 <section class="content">
-                    <p style="margin:0;padding:0;">This is some content! Lorem ipsum and all that jazz.</p>
+                    <p>This is some content! Lorem ipsum and all that jazz.</p>
                 </section>
                 <div class="clear"></div>
             </article>
