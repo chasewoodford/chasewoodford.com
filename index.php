@@ -30,7 +30,7 @@
 
     </header>
 
-    <div class="grid-8">
+    <div class="grid-8 main-content">
 
         <?php
         require('./blog/wp-blog-header.php');

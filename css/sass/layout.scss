@@ -84,8 +84,12 @@ header {
   margin: 25px 0;
 }
 
-.main-content {
-  padding-bottom: 30px;
+.main-content:before {
+  content: url("images/img-latestBlog.png");
+  float: left;
+  position: relative;
+  top: 250px;
+  left: 40px;
 }
 
 .inline {
