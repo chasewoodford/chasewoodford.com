@@ -22,7 +22,12 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .content embed 	{ display:inline; float:left; margin-left:-40px;margin-top:-10px; margin-bottom:10px;}
 .stumblr-image 			{ display:inline; float:left; margin-left:-40px; margin-bottom:10px;}
 
-.stumblr-meta { width: auto; border-top: 1px dotted #e2e2e2; }
+.stumblr-meta {
+  clear: both;
+  width: auto;
+  border-top: 1px dotted #e2e2e2;
+}
+
 .stumblr-meta p { padding:0; margin:0; line-height:16px; margin-top:5px; margin-bottom:5px;}
 .stumblr-date { display:inline; float:left; font-style:italic; font-size:11px; background:url(/blog/wp-content/themes/stumblr/images/light/date.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px; }
 .stumblr-category  {  display:inline; float:left; font-style:italic; color:#929292; font-size:11px; background:url(/blog/wp-content/themes/stumblr/images/light/cat.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px;}
