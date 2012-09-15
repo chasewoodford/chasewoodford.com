@@ -84,7 +84,7 @@ header {
   margin: 25px 0;
 }
 
-.main-content:before {
+.latest-blog:before {
   content: url("/images/img-latestBlog.png");
   float: left;
   position: relative;
@@ -92,7 +92,7 @@ header {
   left: 40px;
 }
 
-.main-content:after {
+.recent-rambling:after {
   content: url("/images/img-recentRambling.png");
   float: right;
   position: relative;
