@@ -88,7 +88,7 @@
       <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.14938489">
+            <state line="9" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.2688928">
               <folding />
             </state>
           </provider>
@@ -106,7 +106,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="21" selection-start="388" selection-end="388" vertical-scroll-proportion="-0.65384614">
+            <state line="11" column="21" selection-start="388" selection-end="388" vertical-scroll-proportion="-7.1923075">
               <folding />
             </state>
           </provider>
@@ -798,13 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="388" selection-end="388" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="43" selection-start="879" selection-end="879" vertical-scroll-proportion="-9.807693">
@@ -812,9 +805,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="388" selection-end="388" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.14938489">
+        <state line="9" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.2688928">
           <folding />
         </state>
       </provider>

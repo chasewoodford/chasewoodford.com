@@ -5,6 +5,10 @@
   padding: 0;
 }
 
+html, body, .wrapper {
+  height: 100%;
+}
+
 body {
   background: url('../../images/bg.png') repeat;
   overflow-x: hidden;
