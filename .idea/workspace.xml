@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -88,7 +89,7 @@
       <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.14938489">
+            <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.14938489">
               <folding />
             </state>
           </provider>
@@ -670,7 +671,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing universal" />
+    <option name="LAST_COMMIT_MESSAGE" value="sticky footer" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -706,8 +707,8 @@
     <MESSAGE value="changing relative home link to fixed" />
     <MESSAGE value="adding sticky footer" />
     <MESSAGE value="revert" />
-    <MESSAGE value="sticky footer" />
     <MESSAGE value="removing universal" />
+    <MESSAGE value="sticky footer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -814,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.14938489">
+        <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.14938489">
           <folding />
         </state>
       </provider>
