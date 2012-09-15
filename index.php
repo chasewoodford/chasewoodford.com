@@ -75,8 +75,8 @@
         endforeach;
         ?>
 
-        <div class="recent-rambling"></div>
         <article id="tweet-container" class="grid-10"></article>
+        <div class="recent-rambling"></div>
 
     </div>
 
