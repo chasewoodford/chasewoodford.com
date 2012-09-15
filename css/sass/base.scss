@@ -1,6 +1,7 @@
 @import "reset.scss";
 
 body {
+  height: 100%;
   background: url('../../images/bg.png') repeat;
   overflow-x: hidden;
   font: normal 125%/1.4 $font-Calluna, serif; // 20/16, 28/20
@@ -28,4 +29,12 @@ a:hover, a:active, a:focus {
   text-shadow: $highlight-dropShadow;
   text-decoration: none;
   @include transition(all .5s ease-in-out);
+}
+
+footer {
+  position: relative;
+  clear: both;
+  height: $sticky-footer-height;
+  margin-top: -$sticky-footer-height;
+  padding: 0px;
 }
