@@ -10,7 +10,7 @@
 </head>
 <body id="top" class="about">
 <div class="wrapper">
-    <div>
+    <div style="padding-bottom: 30px;" class="clearfix">
     <header class="grid-8">
         <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
         <h1 class="sitename"><a class="kansas" href="../" title="home">chasewoodford.com</a></h1>
