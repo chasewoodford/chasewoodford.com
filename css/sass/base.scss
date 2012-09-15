@@ -1,7 +1,10 @@
 @import "reset.scss";
 
-body {
+html, body {
   height: 100%;
+}
+
+body {
   background: url('../../images/bg.png') repeat;
   overflow-x: hidden;
   font: normal 125%/1.4 $font-Calluna, serif; // 20/16, 28/20
