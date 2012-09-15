@@ -13,6 +13,14 @@ body {
   color: $grey;
 }
 
+footer {
+  position: relative;
+  clear: both;
+  margin-bottom: 0;
+  margin-top: -30px;
+  height: 30px;
+}
+
 ::selection {
   background: $blue;
   color: $white;
