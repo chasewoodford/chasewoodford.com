@@ -1,8 +1,10 @@
-<footer class="grid-8">
-     <div class="copyright" role="contentinfo">
-        <p>&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>&nbsp;&#8226;&nbsp;RSS</p>
-     </div>
-</footer>
+    <footer class="grid-8">
+         <div class="copyright" role="contentinfo">
+            <p>&copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>&nbsp;&#8226;&nbsp;RSS</p>
+         </div>
+
+    </footer>
+</div>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/javascript/jquery-1.7.min.js"><\/script>')</script>

@@ -1,17 +1,10 @@
 @import "reset.scss";
 
-html, body, .wrapper { height: 100%; }
-
 body {
   background: url('../../images/bg.png') repeat;
   overflow-x: hidden;
   font: normal 125%/1.4 $font-Calluna, serif; // 20/16, 28/20
   color: $grey;
-
-  > .wrapper {
-    height: auto;
-    min-height: 100%;
-  }
 }
 
 ::selection {
@@ -35,12 +28,4 @@ a:hover, a:active, a:focus {
   text-shadow: $highlight-dropShadow;
   text-decoration: none;
   @include transition(all .5s ease-in-out);
-}
-
-footer {
-  position: relative;
-  clear: both;
-  height: $sticky-footer-height;
-  margin-top: -$sticky-footer-height !important;
-  padding: 0px;
 }

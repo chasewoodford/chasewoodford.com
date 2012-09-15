@@ -50,14 +50,9 @@
 
 .wrapper {
   clear: both;
-  height: auto;
-  width: flex-grid(12);
   margin: 0 auto 20px;
-}
-
-.main {
-  overflow: auto;
-  padding-bottom: $sticky-footer-height;
+  width: flex-grid(12);
+  min-height: 500px;
 }
 
 header {
@@ -112,11 +107,6 @@ header {
 
 #post-area {
   float: left;
-}
-
-.continue-reading {
-  float: right;
-  padding: 5px 0px 10px;
 }
 
 #sidebar {
