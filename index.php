@@ -30,7 +30,7 @@
 
     </header>
 
-    <div class="grid-8 main-content">
+    <div class="grid-8">
 
         <?php
         require('./blog/wp-blog-header.php');
@@ -39,6 +39,7 @@
         <?php
         $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
         foreach ($posts as $post) : start_wp(); ?>
+            <div class="latest-blog"></div>
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background">
@@ -74,6 +75,7 @@
         endforeach;
         ?>
 
+        <div class="recent-rambling"></div>
         <article id="tweet-container" class="grid-10"></article>
 
     </div>

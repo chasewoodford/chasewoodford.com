@@ -84,16 +84,16 @@ header {
   margin: 25px 0;
 }
 
-.main-content:before {
-  content: url("/images/img-latestBlog.png");
+.latest-blog {
+  background: url("/images/img-latestBlog.png");
   float: left;
   position: relative;
   top: 250px;
   left: 40px;
 }
 
-.main-content:after {
-  content: url("/images/img-recentRambling.png");
+.recent-rambling {
+  background: url("/images/img-recentRambling.png");
   float: right;
   position: relative;
   bottom: 300px;
