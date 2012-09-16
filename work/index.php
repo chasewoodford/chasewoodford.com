@@ -49,22 +49,22 @@
 
             <div class="preview">
                 <a href="#">
-                    <img src="http://placehold.it/200x150">
+                    <img src="http://placehold.it/180x100">
                 </a>
             </div>
             <div class="preview">
                 <a href="#">
-                    <img src="http://placehold.it/200x150">
+                    <img src="http://placehold.it/180x100">
                 </a>
             </div>
             <div class="preview">
                 <a href="#">
-                    <img src="http://placehold.it/200x150">
+                    <img src="http://placehold.it/180x100">
                 </a>
             </div>
             <div class="preview">
                 <a href="#">
-                    <img src="http://placehold.it/200x150">
+                    <img src="http://placehold.it/180x100">
                 </a>
             </div>
         </div>
