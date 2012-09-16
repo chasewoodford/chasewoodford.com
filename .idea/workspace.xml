@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-work.scss" afterPath="$PROJECT_DIR$/css/sass/m-work.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -80,7 +79,7 @@
       <file leaf-file-name="m-work.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="31" selection-start="97" selection-end="97" vertical-scroll-proportion="0.11950791">
+            <state line="3" column="7" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08963093">
               <folding />
             </state>
           </provider>
@@ -98,7 +97,7 @@
       <file leaf-file-name="m-search.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="137" selection-end="179" vertical-scroll-proportion="-4.08">
+            <state line="20" column="85" selection-start="466" selection-end="489" vertical-scroll-proportion="-13.6">
               <folding />
             </state>
           </provider>
@@ -780,23 +779,9 @@
         <state line="9" column="256" selection-start="584" selection-end="584" vertical-scroll-proportion="0.28867924" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="2" selection-start="3550" selection-end="3593" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -815,16 +800,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="137" selection-end="179" vertical-scroll-proportion="-4.08">
+        <state line="31" column="74" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="74" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
+        <state line="14" column="22" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="2" selection-start="3550" selection-end="3593" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="85" selection-start="466" selection-end="489" vertical-scroll-proportion="-13.6">
           <folding />
         </state>
       </provider>
@@ -838,7 +837,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="31" selection-start="97" selection-end="97" vertical-scroll-proportion="0.11950791">
+        <state line="3" column="7" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08963093">
           <folding />
         </state>
       </provider>
