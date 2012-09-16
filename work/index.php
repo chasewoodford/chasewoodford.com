@@ -46,6 +46,27 @@
                 </section>
                 <div class="clear"></div>
             </article>
+
+            <div class="preview">
+                <a href="#">
+                    <img src="http://placehold.it/200x150">
+                </a>
+            </div>
+            <div class="preview">
+                <a href="#">
+                    <img src="http://placehold.it/200x150">
+                </a>
+            </div>
+            <div class="preview">
+                <a href="#">
+                    <img src="http://placehold.it/200x150">
+                </a>
+            </div>
+            <div class="preview">
+                <a href="#">
+                    <img src="http://placehold.it/200x150">
+                </a>
+            </div>
         </div>
     </div>
 </div>

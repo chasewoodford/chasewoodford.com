@@ -1,0 +1,8 @@
+.preview {
+  background: none repeat scroll 0 0 #F0F0F0;
+  box-shadow: 0 2px 5px #AAAAAA;
+
+  &:hover {
+    box-shadow: 0 4px 7px #888888;
+  }
+}
