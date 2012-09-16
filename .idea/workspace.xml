@@ -79,7 +79,7 @@
       <file leaf-file-name="m-work.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="7" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08963093">
+            <state line="9" column="46" selection-start="231" selection-end="231" vertical-scroll-proportion="0.2688928">
               <folding />
             </state>
           </provider>
@@ -821,13 +821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="85" selection-start="466" selection-end="489" vertical-scroll-proportion="-13.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="168" column="22" selection-start="2316" selection-end="2316" vertical-scroll-proportion="-17.0">
@@ -835,9 +828,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="85" selection-start="466" selection-end="489" vertical-scroll-proportion="-13.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="7" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08963093">
+        <state line="9" column="46" selection-start="231" selection-end="231" vertical-scroll-proportion="0.2688928">
           <folding />
         </state>
       </provider>
