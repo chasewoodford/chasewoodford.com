@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-work.scss" afterPath="$PROJECT_DIR$/css/sass/m-work.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -79,7 +80,16 @@
       <file leaf-file-name="m-work.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="12" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+            <state line="12" column="1" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="74" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,7 +134,7 @@
       <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="172" column="35" selection-start="2388" selection-end="2388" vertical-scroll-proportion="0.8125">
+            <state line="168" column="22" selection-start="2316" selection-end="2316" vertical-scroll-proportion="0.78125">
               <folding />
             </state>
           </provider>
@@ -777,13 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="74" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.9478417">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -819,16 +822,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="74" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="12" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+        <state line="12" column="1" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="35" selection-start="2388" selection-end="2388" vertical-scroll-proportion="0.8125">
+        <state line="168" column="22" selection-start="2316" selection-end="2316" vertical-scroll-proportion="0.78125">
           <folding />
         </state>
       </provider>

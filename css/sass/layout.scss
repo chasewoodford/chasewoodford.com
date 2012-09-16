@@ -167,13 +167,4 @@ header {
 .preview {
   display: inline-block;
   margin: 0 10px 20px;
-
-    img {
-      border: 4px solid white;
-      vertical-align: middle;
-
-      &:hover {
-        border: 4px solid #0088CC;
-      }
-    }
 }
