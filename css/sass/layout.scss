@@ -171,5 +171,9 @@ header {
     img {
       border: 4px solid white;
       vertical-align: middle;
+
+      &:hover {
+        border: 4px solid #0088CC;
+      }
     }
 }
