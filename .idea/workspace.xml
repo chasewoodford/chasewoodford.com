@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-work.scss" afterPath="$PROJECT_DIR$/css/sass/m-work.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -77,10 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="m-work.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="m-work.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+            <state line="6" column="44" selection-start="202" selection-end="202" vertical-scroll-proportion="0.17926186">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m-search.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="2" selection-start="137" selection-end="179" vertical-scroll-proportion="-4.08">
               <folding />
             </state>
           </provider>
@@ -113,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="1" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.5">
+            <state line="164" column="1" selection-start="2256" selection-end="2256" vertical-scroll-proportion="-10.88">
               <folding />
             </state>
           </provider>
@@ -165,10 +173,10 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
-        <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
+        <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
       </list>
     </option>
   </component>
@@ -727,11 +735,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="14" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.65561694" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="48" selection-start="215" selection-end="215" vertical-scroll-proportion="0.2245283" />
@@ -795,13 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="40" selection-start="2125" selection-end="2125" vertical-scroll-proportion="-10.423077">
@@ -818,7 +814,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="1" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.5">
+        <state line="164" column="1" selection-start="2256" selection-end="2256" vertical-scroll-proportion="-10.88">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="137" selection-end="179" vertical-scroll-proportion="-4.08">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="44" selection-start="202" selection-end="202" vertical-scroll-proportion="0.17926186">
           <folding />
         </state>
       </provider>
