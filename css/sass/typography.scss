@@ -423,8 +423,13 @@ p {
   }
 }
 
+.work {
+  text-align: center;
+}
+
 .copyright {
   font: normal 75%/1 $font-UbuntuLtReg, serif; // 12/16, 20/20
+  text-align: left;
 }
 
 .attribute {

@@ -4,7 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -116,7 +116,16 @@
       <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="5" selection-start="2263" selection-end="2263" vertical-scroll-proportion="0.5817223">
+            <state line="164" column="1" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typography.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="431" column="18" selection-start="17218" selection-end="17218" vertical-scroll-proportion="-11.16">
               <folding />
             </state>
           </provider>
@@ -144,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
@@ -160,6 +168,7 @@
         <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/typography.scss" />
       </list>
     </option>
   </component>
@@ -743,11 +752,6 @@
         <state line="19" column="30" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="442" column="107" selection-start="17462" selection-end="17462" vertical-scroll-proportion="1.9172661" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" />
@@ -805,9 +809,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="431" column="18" selection-start="17218" selection-end="17218" vertical-scroll-proportion="-11.16">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="5" selection-start="2263" selection-end="2263" vertical-scroll-proportion="0.5817223">
+        <state line="164" column="1" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.5">
           <folding />
         </state>
       </provider>
