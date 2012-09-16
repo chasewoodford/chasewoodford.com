@@ -47,7 +47,7 @@
                 <div class="clear"></div>
             </article>
 
-            <section class="grid-12 inline">
+            <section class="grid-12 work">
                 <div class="preview">
                     <a href="#">
                         <img src="http://placehold.it/180x100">
