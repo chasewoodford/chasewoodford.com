@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -103,19 +105,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="57" selection-start="2694" selection-end="2694" vertical-scroll-proportion="0.9373849">
+            <state line="49" column="35" selection-start="2120" selection-end="2120" vertical-scroll-proportion="-10.423077">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="29" selection-start="2413" selection-end="2413" vertical-scroll-proportion="0.0">
+            <state line="173" column="5" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.82073814">
               <folding />
             </state>
           </provider>
@@ -155,10 +157,10 @@
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
-        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
         <option value="$PROJECT_DIR$/work/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
       </list>
     </option>
   </component>
@@ -783,13 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="29" selection-start="2413" selection-end="2413" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="2" selection-start="3550" selection-end="3593" vertical-scroll-proportion="0.0">
@@ -806,7 +801,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="57" selection-start="2694" selection-end="2694" vertical-scroll-proportion="0.9373849">
+        <state line="49" column="35" selection-start="2120" selection-end="2120" vertical-scroll-proportion="-10.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="5" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.82073814">
           <folding />
         </state>
       </provider>
