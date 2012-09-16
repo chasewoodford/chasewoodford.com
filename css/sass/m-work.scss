@@ -1,8 +1,8 @@
 .preview {
-  @include transition(all 0.2s linear);
   @include box-shadow(0 8px 10px -6px black);
 
   img {
+    @include transition(all 0.2s linear);
     border: 4px solid white;
     vertical-align: middle;
 
