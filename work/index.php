@@ -47,26 +47,28 @@
                 <div class="clear"></div>
             </article>
 
-            <div class="preview">
-                <a href="#">
-                    <img src="http://placehold.it/180x100">
-                </a>
-            </div>
-            <div class="preview">
-                <a href="#">
-                    <img src="http://placehold.it/180x100">
-                </a>
-            </div>
-            <div class="preview">
-                <a href="#">
-                    <img src="http://placehold.it/180x100">
-                </a>
-            </div>
-            <div class="preview">
-                <a href="#">
-                    <img src="http://placehold.it/180x100">
-                </a>
-            </div>
+            <section class="grid-10">
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+            </section>
         </div>
     </div>
 </div>
