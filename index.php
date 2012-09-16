@@ -8,6 +8,19 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="css/compiled/style.css">
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <script src="/javascript/chirp.min.js"></script>
+    <script>Chirp({
+        user: 'chase1263070', //Twitter username
+        max: 1, //Maximum number of tweets to show
+        count: 100, //Total tweets to retrieve
+        retweets: false, //Show/Don't show retweets
+        replies: false,  //Show/Don't show replies
+        cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
+        target: 'tweet-container', //Where the tweet gets loaded
+        templates: {
+            tweet: '<div class="quote-before">&#8220;</div><div class="tweet"><p>{{html}}</p></div><div class="quote-after">&#8221;</div><div class="attribute">{{time_ago}}&nbsp;via&nbsp;{{source}}</div><div class="twitter-button"><a href="https://twitter.com/chase1263070" class="twitter-follow-button attribute" data-show-count="false" data-lang="en">Follow @chase1263070</a></div>'
+        }
+    })</script>
 </head>
 <body id="top">
 <div class="wrapper">
