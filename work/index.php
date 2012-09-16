@@ -47,7 +47,47 @@
                 <div class="clear"></div>
             </article>
 
-            <section class="grid-12 work">
+            <section class="grid-12 preview-container">
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/180x100">
+                    </a>
+                </div>
                 <div class="preview">
                     <a href="#">
                         <img src="http://placehold.it/180x100">
