@@ -45,7 +45,7 @@
                     <br/>
                     <div class="preview">
                         <a href="#">
-                            <img src="http://placehold.it/300x150">
+                            <img src="http://placehold.it/400x200">
                         </a>
                     </div>
                     <p style="text-align:left">
@@ -58,62 +58,62 @@
             <section class="grid-12 preview-container">
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x120">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x120">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x120">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x120">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x120">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x120">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x100">
                     </a>
                 </div>
             </section>
