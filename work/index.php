@@ -30,12 +30,12 @@
             </nav>
         </header>
 
-        <div class="grid-10">
+        <div class="grid-8">
             <?php
             require('../blog/wp-blog-header.php');
             ?>
 
-            <article class="grid-6 hero post type-post">
+            <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
                         This is a header!
