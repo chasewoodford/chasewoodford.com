@@ -41,8 +41,16 @@
                         This is a header!
                     </h3>
                 </header>
-                <section class="content">
-                    <p>This is some content! Lorem ipsum and all that jazz.</p>
+                <section style="text-align:center;" class="content">
+                    <br/>
+                    <div class="preview">
+                        <a href="#">
+                            <img src="http://placehold.it/300x150">
+                        </a>
+                    </div>
+                    <p style="text-align:left">
+                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+                    </p>
                 </section>
                 <div class="clear"></div>
             </article>
@@ -50,7 +58,17 @@
             <section class="grid-12 preview-container">
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x120">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/200x120">
+                    </a>
+                </div>
+                <div class="preview">
+                    <a href="#">
+                        <img src="http://placehold.it/200x120">
                     </a>
                 </div>
                 <div class="preview">
@@ -75,27 +93,17 @@
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x120">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x120">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/180x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/180x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/180x100">
+                        <img src="http://placehold.it/200x120">
                     </a>
                 </div>
                 <div class="preview">
