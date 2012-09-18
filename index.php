@@ -68,7 +68,7 @@
                                 ?>
                             </span>
                             <span class="stumblr-other-right">
-                                Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?>
+                                <a href="<?php the_permalink() ?>">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
                             </span>
                         </p>
                     </div>
