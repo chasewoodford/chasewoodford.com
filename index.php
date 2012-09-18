@@ -67,6 +67,9 @@
                                     }
                                 ?>
                             </span>
+                            <span class="stumblr-meta">
+                                <?php $commentscount = get_comments_number(); echo $commentscount; ?>
+                            </span>
                         </p>
                     </div>
                 </section>
