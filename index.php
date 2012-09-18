@@ -67,8 +67,8 @@
                                     }
                                 ?>
                             </span>
-                            <span class="stumblr-category">
-                                <?php $commentscount = get_comments_number(); echo $commentscount; ?>
+                            <span>
+                                Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?>
                             </span>
                         </p>
                     </div>
