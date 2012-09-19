@@ -57,7 +57,7 @@
                             <span class="stumblr-date">
                                 <?php $arc_year = get_the_time('Y'); ?>
                                 <?php $arc_month = get_the_time('m'); ?>
-                                <a href="<?php echo get_month_link($arc_year, $arc_month); ?>" title="Archive for <?php the_time('F Y'); ?>">
+                                <a class="no-shadow" href="<?php echo get_month_link($arc_year, $arc_month); ?>" title="Archive for <?php the_time('F Y'); ?>">
                                     <?php the_time('F Y'); ?>
                                 </a>
                             </span>
@@ -66,7 +66,7 @@
                                     $posttags = get_the_tags();
                                     if ($posttags) {
                                         foreach($posttags as $tag) {
-                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
+                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>,&nbsp;';
                                         }
                                     }
                                 ?>
