@@ -66,7 +66,7 @@
                                     $posttags = get_the_tags();
                                     if ($posttags) {
                                         foreach($posttags as $tag) {
-                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>,&nbsp;';
+                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;&nbsp;';
                                         }
                                     }
                                 ?>
