@@ -25,7 +25,7 @@
                     <h3 class="title-background post-title">
                         portfolio
                         <span class="blog-category" style="">
-                            <a class="no-shadow" title="Download resume" href="#">download resume</a> &bull; <a class="no-shadow" title="Contact me" href="#">contact me</a>
+                            <a class="no-shadow" title="Download resume" href="#">resume</a> &bull; <a class="no-shadow" title="Contact me" href="#">contact</a>
                         </span>
                     </h3>
                 </header>
