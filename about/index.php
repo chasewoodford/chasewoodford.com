@@ -27,6 +27,9 @@
                     </h3>
                 </header>
                 <section class="content">
+                    <span class="stumblr-other-right">
+                        Link to social media
+                    </span>
                     <p>
                         Hi, my name's Chase Woodford. I'm a web designer/developer living and working out of the suburbs of Philadelphia, PA, USA.
                     </p>
@@ -40,9 +43,6 @@
                         <li>Link to contact</li>
                         <li>Link portfolio/work</li>
                     </ul>
-                    <span class="stumblr-other-right">
-                        Link to social media
-                    </span>
                 </section>
                 <div class="clear"></div>
             </article>
