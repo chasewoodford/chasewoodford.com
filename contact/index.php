@@ -53,7 +53,6 @@
                             </fieldset>
                         </form>
                     </div>
-                    <div class="clear"></div>
                     <div class="stumblr-meta">
                         <p class="stumblr-other-right">
                             Link to social media
