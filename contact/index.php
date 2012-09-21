@@ -27,9 +27,6 @@
                     </h3>
                 </header>
                 <section class="content">
-                    <span class="stumblr-other-right">
-                        Link to social media
-                    </span>
                     <p>
                         I generally don't take on freelance projects unless they are really awesome. But I'm always happy to chat it up free of charge. Drop me a line!
                     </p>
@@ -57,6 +54,9 @@
                         </form>
                     </div>
                 </section>
+                <span class="stumblr-other-right">
+                    Link to social media
+                </span>
                 <div class="clear"></div>
             </article>
         </div>

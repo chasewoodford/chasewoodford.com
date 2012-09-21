@@ -24,12 +24,12 @@
                 <header>
                     <h3 class="title-background post-title">
                         portfolio
+                        <span class="blog-category" style="">
+                            <a class="no-shadow" title="Download resume" href="#">download resume</a>
+                        </span>
                     </h3>
                 </header>
                 <section style="text-align:center;" class="content">
-                    <span class="stumblr-other-right">
-                        Link to resume download and contact page
-                    </span>
                     <br/>
                     <div class="preview">
                         <a href="#">
