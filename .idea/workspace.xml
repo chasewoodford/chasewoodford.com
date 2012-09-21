@@ -77,10 +77,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="94" selection-start="924" selection-end="961" vertical-scroll-proportion="-5.8846154">
+            <state line="27" column="136" selection-start="966" selection-end="966" vertical-scroll-proportion="0.28867924">
               <folding />
             </state>
           </provider>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="129" selection-start="962" selection-end="962" vertical-scroll-proportion="0.49245283">
+            <state line="27" column="134" selection-start="967" selection-end="967" vertical-scroll-proportion="-10.038462">
               <folding />
             </state>
           </provider>
@@ -140,8 +140,8 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
-        <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/work/index.php" />
+        <option value="$PROJECT_DIR$/about/index.php" />
       </list>
     </option>
   </component>
@@ -715,7 +715,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy adjustments" />
+    <option name="LAST_COMMIT_MESSAGE" value="more inline styles!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -728,7 +728,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="sticky footer" />
     <MESSAGE value="minor layout adjustment to tweet container" />
     <MESSAGE value="styling continue reading link" />
     <MESSAGE value="adding callouts" />
@@ -753,6 +752,7 @@
     <MESSAGE value="moving links in content pages" />
     <MESSAGE value="layout adjustments" />
     <MESSAGE value="copy adjustments" />
+    <MESSAGE value="more inline styles!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -841,9 +841,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
+    <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="94" selection-start="924" selection-end="961" vertical-scroll-proportion="-5.8846154">
+        <state line="27" column="134" selection-start="967" selection-end="967" vertical-scroll-proportion="-10.038462">
           <folding />
         </state>
       </provider>
@@ -855,9 +855,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/index.php">
+    <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="129" selection-start="962" selection-end="962" vertical-scroll-proportion="0.49245283">
+        <state line="27" column="136" selection-start="966" selection-end="966" vertical-scroll-proportion="0.28867924">
           <folding />
         </state>
       </provider>
