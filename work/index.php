@@ -23,7 +23,7 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
-                        This is a header!
+                        portfolio
                     </h3>
                 </header>
                 <section style="text-align:center;" class="content">
