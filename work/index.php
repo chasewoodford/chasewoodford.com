@@ -37,6 +37,9 @@
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
                     </p>
                 </section>
+                <span class="stumblr-other-right">
+                    Link to resume download and contact page
+                </span>
                 <div class="clear"></div>
             </article>
 

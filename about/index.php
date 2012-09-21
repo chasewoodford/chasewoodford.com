@@ -39,8 +39,10 @@
                         <li>Currently reading</li>
                         <li>Link to contact</li>
                         <li>Link portfolio/work</li>
-                        <li>Link to social media?</li>
                     </ul>
+                    <span class="stumblr-other-right">
+                        Link to social media
+                    </span>
                 </section>
                 <div class="clear"></div>
             </article>
