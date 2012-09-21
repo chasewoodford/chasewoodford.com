@@ -4,7 +4,6 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -80,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="120" selection-start="950" selection-end="950" vertical-scroll-proportion="0.28867924">
+            <state line="49" column="26" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.6471698">
               <folding />
             </state>
           </provider>
@@ -715,7 +714,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="making links moar better" />
+    <option name="LAST_COMMIT_MESSAGE" value="temporary adding class until module styles are built" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -728,7 +727,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adding callouts" />
     <MESSAGE value="spacing adjustment" />
     <MESSAGE value="minor tweak to footer" />
     <MESSAGE value="moving twitter button js" />
@@ -753,6 +751,7 @@
     <MESSAGE value="more inline styles!" />
     <MESSAGE value="adding space" />
     <MESSAGE value="making links moar better" />
+    <MESSAGE value="temporary adding class until module styles are built" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -857,7 +856,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="120" selection-start="950" selection-end="950" vertical-scroll-proportion="0.28867924">
+        <state line="49" column="26" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.6471698">
           <folding />
         </state>
       </provider>

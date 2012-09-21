@@ -43,10 +43,12 @@
                         <li>Link to contact</li>
                         <li>Link portfolio/work</li>
                     </ul>
+                    <div class="stumblr-meta">
+                        <p class="stumblr-other-right">
+                            Link to social media
+                        </p>
+                    </div>
                 </section>
-                <span class="stumblr-other-right">
-                    Link to social media
-                </span>
                 <div class="clear"></div>
             </article>
         </div>
