@@ -23,7 +23,7 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
-                        About
+                        "You don't speak because of Friedrich Nietzsche?"
                     </h3>
                 </header>
                 <section class="content">
