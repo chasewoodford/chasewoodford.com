@@ -35,13 +35,13 @@
                             <fieldset class="info_fieldset">
                                 <div id="note"></div>
                                 <div id="fields">
-                                    <div style="float:left; width:45%">
+                                    <div style="float:left; width:50%">
                                         <label for="name">Name</label>
-                                        <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" /><br />
+                                        <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" autofocus /><br />
                                         <label for="email">Email</label>
                                         <input id="email" class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" /><br />
                                     </div>
-                                    <div style="float:left; width:45%">
+                                    <div style="float:left; width:50%">
                                         <label for="comments">Comments</label>
                                         <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="10" cols="50" spellcheck="true"></textarea>
                                     </div>
@@ -59,8 +59,6 @@
                 </section>
                 <div class="clear"></div>
             </article>
-
-
         </div>
     </div>
 </div>
