@@ -23,11 +23,24 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
-                        This is a header!
+                        About
                     </h3>
                 </header>
                 <section class="content">
-                    <p>This is some content! Lorem ipsum and all that jazz.</p>
+                    <p>
+                        Hi, my name's Chase Woodford. I'm a web designer/developer living and working out of the suburbs of Philadelphia, PA, USA.
+                    </p>
+                    <p>
+                        A list of things that go here:
+                    </p>
+                    <ul>
+                        <li>Experience</li>
+                        <li>Education</li>
+                        <li>Currently reading</li>
+                        <li>Link to contact</li>
+                        <li>Link portfolio/work</li>
+                        <li>Link to social media?</li>
+                    </ul>
                 </section>
                 <div class="clear"></div>
             </article>

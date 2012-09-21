@@ -31,5 +31,4 @@
             <a class="blog" href="../../../../blog" title="blog"><h2>blog</h2></a><h2 class="bullet">&bull;</h2>
             <a class="contact" href="../../../../contact" title="contact"><h2>contact</h2></a>
         </nav>
-
     </header>
