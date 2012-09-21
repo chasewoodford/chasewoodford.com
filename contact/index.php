@@ -47,7 +47,7 @@
                             </fieldset>
                         </form>
                     </div>
-                    <span class="stumblr-category">
+                    <span class="stumblr-other-right">
                         Link to social media
                     </span>
                 </section>
