@@ -80,16 +80,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="81" selection-start="911" selection-end="911" vertical-scroll-proportion="-5.8846154">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="116" selection-start="1183" selection-end="1213" vertical-scroll-proportion="-13.692307">
+            <state line="27" column="94" selection-start="924" selection-end="961" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
@@ -98,7 +89,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="20" selection-start="2883" selection-end="2927" vertical-scroll-proportion="-25.615385">
+            <state line="57" column="20" selection-start="2883" selection-end="2927" vertical-scroll-proportion="-31.5">
               <folding />
             </state>
           </provider>
@@ -107,7 +98,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/work/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="102" selection-start="935" selection-end="935" vertical-scroll-proportion="0.49245283">
+            <state line="27" column="129" selection-start="962" selection-end="962" vertical-scroll-proportion="0.49245283">
               <folding />
             </state>
           </provider>
@@ -843,30 +834,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="81" selection-start="911" selection-end="911" vertical-scroll-proportion="-5.8846154">
+        <state line="28" column="116" selection-start="1183" selection-end="1213" vertical-scroll-proportion="0.65561694">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
+    <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="116" selection-start="1183" selection-end="1213" vertical-scroll-proportion="-13.692307">
+        <state line="27" column="94" selection-start="924" selection-end="961" vertical-scroll-proportion="-5.8846154">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="20" selection-start="2883" selection-end="2927" vertical-scroll-proportion="-25.615385">
+        <state line="57" column="20" selection-start="2883" selection-end="2927" vertical-scroll-proportion="-31.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="102" selection-start="935" selection-end="935" vertical-scroll-proportion="0.49245283">
+        <state line="27" column="129" selection-start="962" selection-end="962" vertical-scroll-proportion="0.49245283">
           <folding />
         </state>
       </provider>
