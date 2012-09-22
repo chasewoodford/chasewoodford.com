@@ -22,8 +22,8 @@
         ?>
 
         <?php
-        $posts = get_posts('category=web-design&numberposts=1&order=DSC&orderby=post_title');
-        foreach ($posts as $post) : start_wp(); ?>
+        query_posts( array( 'category__and' => array(1,3), 'posts_per_page' => 1, 'orderby' => 'title', 'order' => 'DESC' ) );
+        while ( have_posts() ) : the_post(); ?>
             <div class="latest-blog"></div>
             <article class="grid-8 hero post type-post">
                 <header>
