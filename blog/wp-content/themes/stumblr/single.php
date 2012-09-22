@@ -19,8 +19,8 @@
                     
                     <?php wp_link_pages(); ?>
 
-                    
-                    <?php comments_template(); ?> 
+
+                    <?php if (in_category('poetry')) : ?>
 
 
               </div>
