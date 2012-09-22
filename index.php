@@ -22,8 +22,8 @@
         ?>
 
         <?php
-        $posts = query_posts( array( 'numberposts' => 1, 'cat_name' => poetry));
-        while ($posts as $post) : start_wp(); ?>
+        $posts = get_posts('numberposts=1&order=DSC&orderby=post_title&cat_name=web-design');
+        foreach ($posts as $post) : start_wp(); ?>
             <div class="latest-blog"></div>
             <article class="grid-8 hero post type-post">
                 <header>
