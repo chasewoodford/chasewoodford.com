@@ -22,7 +22,7 @@
         ?>
 
         <?php
-        query_posts( array( 'category' => array('web-design','rants-and-raves'), 'posts_per_page' => 1, 'orderby' => 'title', 'order' => 'DESC' ) );
+        query_posts( array( 'category__and' => array('web-design','rants-and-raves'), 'posts_per_page' => 1, 'orderby' => 'title', 'order' => 'DESC' ) );
         while ( have_posts() ) : the_post(); ?>
             <div class="latest-blog"></div>
             <article class="grid-8 hero post type-post">
