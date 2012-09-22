@@ -35,11 +35,11 @@
                     </h3>
                 </header>
                 <section class="content">
-                    <?php if ( is_category('category_name=web-design&showposts=1')) {
-                        the_excerpt();
-                    } else {
-
-                    } ?>
+                    <?php
+                                query_posts('showposts=1&cateogry_name=web-design');
+                    while(have_posts()) : the_post();
+                        ?>
+                    <?php the_excerpt(); ?>
                     <div class="stumblr-meta">
                         <p>
                             <span class="stumblr-date">
