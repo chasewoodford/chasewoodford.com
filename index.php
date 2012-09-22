@@ -23,7 +23,7 @@
 
         <?php
         $posts = query_posts( array( 'numberposts' => 1, 'cat_name' => poetry));
-        foreach ($posts as $post) : start_wp(); ?>
+        while ($posts as $post) : start_wp(); ?>
             <div class="latest-blog"></div>
             <article class="grid-8 hero post type-post">
                 <header>
