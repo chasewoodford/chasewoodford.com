@@ -22,7 +22,7 @@
         ?>
 
         <?php
-        $posts = get_posts('numberposts=1&order=DSC&orderby=post_title');
+        $posts = query_posts('numberposts=1&cat=3');
         foreach ($posts as $post) : start_wp(); ?>
             <div class="latest-blog"></div>
             <article class="grid-8 hero post type-post">
@@ -35,10 +35,6 @@
                     </h3>
                 </header>
                 <section class="content">
-                    <?php
-                                query_posts('showposts=1&cateogry_name=web-design');
-                    while(have_posts()) : the_post();
-                        ?>
                     <?php the_excerpt(); ?>
                     <div class="stumblr-meta">
                         <p>
