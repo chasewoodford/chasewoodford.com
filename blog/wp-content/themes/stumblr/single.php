@@ -27,9 +27,8 @@
             
             <div class="stumblr-meta">
             	<p><?php the_tags(); ?></p>
-                <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php the_category(', ') ?></span></p>
+                <p><span class="stumblr-date"><?php if (in_category('poetry')) : the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php the_category(', ') ?></span></p>
             </div>
-            
          
              
 	  <div class="clear"></div></div><!-- end post -->
