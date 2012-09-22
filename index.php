@@ -22,7 +22,7 @@
         ?>
 
         <?php
-        $posts = query_posts('numberposts=1&cat=3');
+        $posts = query_posts('numberposts=1&cat=3,4');
         foreach ($posts as $post) : start_wp(); ?>
             <div class="latest-blog"></div>
             <article class="grid-8 hero post type-post">
