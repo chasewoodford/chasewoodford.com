@@ -64,7 +64,7 @@
                 <div class="clear"></div>
             </article>
         <?php
-        endforeach;
+        endwhile;
         ?>
 
         <article id="tweet-container" class="grid-10"></article>
