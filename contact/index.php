@@ -43,7 +43,7 @@
                                     </div>
                                     <div style="float:left; width:50%">
                                         <label for="comments">Comments</label>
-                                        <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="10" cols="50" spellcheck="true"></textarea>
+                                        <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="6" cols="50" spellcheck="true"></textarea>
                                     </div>
                                     <div style="float:left; width: 100%;">
                                         <input class="formSend btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />
