@@ -14,17 +14,16 @@
     <?php
     include ("./header.php");
     ?>
-
     <div class="grid-8">
-
         <?php
         require('./blog/wp-blog-header.php');
         ?>
-
         <?php
         query_posts( 'cat=-10&posts_per_page=1&orderby=title&order=DESC' );
-        while ( have_posts() ) : the_post(); ?>
+        while ( have_posts() ) : the_post();
+        ?>
             <div class="latest-blog"></div>
+            <div class="recent-rambling"></div>
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background">
@@ -50,7 +49,7 @@
                                     $posttags = get_the_tags();
                                     if ($posttags) {
                                         foreach($posttags as $tag) {
-                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;&nbsp;';
+                                            echo '<a href="';echo bloginfo(url); echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;&nbsp;';
                                         }
                                     }
                                 ?>
@@ -66,11 +65,8 @@
         <?php
         endwhile;
         ?>
-
         <article id="tweet-container" class="grid-10"></article>
-        <div class="recent-rambling"></div>
     </div>
-
     <?php
     include ("./blog/wp-content/themes/stumblr/footer.php");
     ?>
