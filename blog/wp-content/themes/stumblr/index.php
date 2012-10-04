@@ -3,8 +3,10 @@
 <div class="grid-8">
     <div id="post-area" class="grid-blog">
     <?php if (have_posts()) : ?>
-    <?php while (have_posts()) : the_post(); ?>
-
+    <?php
+        query_posts( 'cat=-10&orderby=title&order=DESC' );
+        while ( have_posts() ) : the_post();
+    ?>
         <article class="hero post type-post">
             <header>
                 <h3 class="title-background">

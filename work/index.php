@@ -74,36 +74,6 @@
                         <img src="http://placehold.it/200x100">
                     </a>
                 </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
             </section>
         </div>
     </div>
