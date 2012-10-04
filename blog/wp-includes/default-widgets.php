@@ -562,13 +562,12 @@ class WP_Widget_Recent_Posts extends WP_Widget {
 		if ( empty( $instance['number'] ) || ! $number = absint( $instance['number'] ) )
  			$number = 10;
 
-		$r = new WP_Query( apply_filters( 'widget_posts_args', array( 'posts_per_page' => $number, 'no_found_rows' => true, 'post_status' => 'publish', 'ignore_sticky_posts' => true ) ) );
+		$r = new WP_Query( apply_filters( 'widget_posts_args', array( 'cateogories' => '-10', 'posts_per_page' => $number, 'no_found_rows' => true, 'post_status' => 'publish', 'ignore_sticky_posts' => true ) ) );
 		if ($r->have_posts()) :
 ?>
 		<?php echo $before_widget; ?>
 		<?php if ( $title ) echo $before_title . $title . $after_title; ?>
 		<ul>
-        <?php query_posts( 'cat=-10&orderby=title&order=DESC' ); ?>
 		<?php  while ($r->have_posts()) : $r->the_post(); ?>
 		<li><a href="<?php the_permalink() ?>" title="<?php echo esc_attr(get_the_title() ? get_the_title() : get_the_ID()); ?>"><?php if ( get_the_title() ) the_title(); else the_ID(); ?></a></li>
 		<?php endwhile; ?>
