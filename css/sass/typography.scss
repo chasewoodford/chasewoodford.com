@@ -470,6 +470,14 @@ body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact
   }
 }
 
+.side-widget .textwidget {
+  font-size: 12px;
+  line-height: 19px;
+  color: #333;
+}
+
 .side-widget ul li a {
+  line-height: 20px;
+  font-size: 12px;
   text-transform: lowercase;
 }
