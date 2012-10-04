@@ -469,3 +469,7 @@ body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact
     text-shadow: $highlight-title !important;
   }
 }
+
+.side-widget ul li a {
+  text-transform: lowercase;
+}
