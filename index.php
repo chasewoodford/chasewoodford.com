@@ -65,6 +65,7 @@
         ?>
         <article id="tweet-container" class="grid-10"></article>
     </div>
-    <?php
-    include ("./blog/wp-content/themes/stumblr/footer.php");
-    ?>
+</div>
+<?php
+include ("./blog/wp-content/themes/stumblr/footer.php");
+?>
