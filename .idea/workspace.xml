@@ -88,7 +88,7 @@
       <file leaf-file-name="default-widgets.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/default-widgets.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="570" column="14" selection-start="23178" selection-end="23178" vertical-scroll-proportion="0.5400593">
+            <state line="569" column="21" selection-start="23169" selection-end="23169" vertical-scroll-proportion="0.6913947">
               <folding />
             </state>
           </provider>
@@ -867,7 +867,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/default-widgets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="570" column="14" selection-start="23178" selection-end="23178" vertical-scroll-proportion="0.5400593">
+        <state line="569" column="21" selection-start="23169" selection-end="23169" vertical-scroll-proportion="0.6913947">
           <folding />
         </state>
       </provider>
