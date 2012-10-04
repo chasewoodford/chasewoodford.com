@@ -22,8 +22,6 @@
         query_posts( 'cat=-10&posts_per_page=1&orderby=title&order=DESC' );
         while ( have_posts() ) : the_post();
         ?>
-            <div class="latest-blog"></div>
-            <div class="recent-rambling"></div>
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background">
