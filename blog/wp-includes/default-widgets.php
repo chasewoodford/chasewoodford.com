@@ -562,8 +562,9 @@ class WP_Widget_Recent_Posts extends WP_Widget {
 		if ( empty( $instance['number'] ) || ! $number = absint( $instance['number'] ) )
  			$number = 10;
 
-		$r = new WP_Query( apply_filters( 'widget_posts_args', array( 'cateogories' => '-10', 'posts_per_page' => $number, 'no_found_rows' => true, 'post_status' => 'publish', 'ignore_sticky_posts' => true ) ) );
-		if ($r->have_posts()) :
+		$r = new WP_Query( apply_filters( 'widget_posts_args', array( 'posts_per_page' => $number, 'no_found_rows' => true, 'post_status' => 'publish', 'ignore_sticky_posts' => true ) ) );
+		$r->query('cat=-10');
+        if ($r->have_posts()) :
 ?>
 		<?php echo $before_widget; ?>
 		<?php if ( $title ) echo $before_title . $title . $after_title; ?>
