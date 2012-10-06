@@ -380,6 +380,68 @@ ul.icons {
 
 .icon-user-md:before              { content: "\f200"; }
 
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: 0.2em;
+  text-align: center;
+  opacity: 0.7;
+/* Uncomment for 3D effect */
+/* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+/* fix buttons height */
+  line-height: 1em;
+/* you can be more comfortable with increased icons size */
+/* font-size: 120%; */
+}
+
+.icon-pause:before { content: '\2389'; }
+.icon-to-end:before { content: '\23ed'; }
+.icon-to-start:before { content: '\23ee'; }
+.icon-stop:before { content: '\25aa'; }
+.icon-play:before { content: '\25b6'; }
+.icon-music:before { content: '\266a'; }
+.icon-music-1:before { content: '\266b'; }
+.icon-record:before { content: '\26ab'; }
+.icon-mail:before { content: '\2709'; }
+.icon-cancel-circle:before { content: '\2716'; }
+.icon-quote-left-alt:before { content: '\275b'; }
+.icon-quote-right-alt:before { content: '\275c'; }
+.icon-tag:before { content: '\e70c'; }
+.icon-export:before { content: '\e715'; }
+.icon-retweet:before { content: '\e717'; }
+.icon-comment:before { content: '\e718'; }
+.icon-rss:before { content: '\e73a'; }
+.icon-popup-1:before { content: '\e802'; }
+.icon-arrows-cw:before { content: '\e760'; }  
+.icon-chart-pie:before { content: '\e7a2'; }
+.icon-terminal:before { content: '\e7ac'; }
+.icon-facebook:before { content: '\f300'; }
+.icon-facebook-rect:before { content: '\f301'; }
+.icon-twitter-bird:before { content: '\f303'; }
+.icon-github-text:before { content: '\f307'; }
+.icon-googleplus-rect:before { content: '\f309'; }
+.icon-skype:before { content: '\f30b'; }
+.icon-lastfm:before { content: '\f318'; }
+.icon-linkedin:before { content: '\f31a'; }
+.icon-picture:before { content: 'ðŸŒ„'; }
+.icon-video-2:before { content: '\e801'; }
+.icon-video:before { content: 'ðŸŽ¬'; }
+.icon-video-1:before { content: '\e800'; }
+.icon-doc:before { content: 'ðŸ“„'; }
+.icon-chart-bar:before { content: 'ðŸ“Š'; }
+.icon-book:before { content: 'ðŸ“•'; }
+.icon-upload:before { content: 'ðŸ“¤'; }
+.icon-download:before { content: 'ðŸ“¥'; }
+.icon-search:before { content: 'ðŸ”'; }
+.icon-search-1:before { content: 'ðŸ”Ž'; }
+
 h1 {
   font-family: $font-Calluna, serif;
   font-size: 40px; font-size: 2.5rem;  // 40/16
