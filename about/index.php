@@ -30,6 +30,9 @@
                     </h3>
                 </header>
                 <section class="content">
+                    <div class="preview">
+                        <img src="http://placehold.it/400x200">
+                    </div>
                     <p>
                         Hi, my name's Chase Woodford. I'm a web designer/developer living and working out of the suburbs of Philadelphia, PA, USA.
                     </p>

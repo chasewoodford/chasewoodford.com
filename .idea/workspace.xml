@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -80,16 +80,16 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="68" selection-start="1212" selection-end="1238" vertical-scroll-proportion="-8.5">
+            <state line="36" column="28" selection-start="1232" selection-end="1415" vertical-scroll-proportion="-11.769231">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="45" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.7609842">
+            <state line="152" column="45" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,10 +104,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="48" selection-start="2165" selection-end="2165" vertical-scroll-proportion="-22.038462">
+            <state line="35" column="27" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.40754718">
               <folding />
             </state>
           </provider>
@@ -135,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
@@ -144,13 +143,14 @@
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/css/sass/m-form.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/default-widgets.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/work/index.php" />
+        <option value="$PROJECT_DIR$/about/index.php" />
       </list>
     </option>
   </component>
@@ -622,6 +622,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28236914" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -635,7 +636,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -676,7 +676,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="text adjustment" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout adjustment" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -695,7 +695,6 @@
     <MESSAGE value="adding space" />
     <MESSAGE value="making links moar better" />
     <MESSAGE value="temporary adding class until module styles are built" />
-    <MESSAGE value="layout adjustment" />
     <MESSAGE value="clearing floats" />
     <MESSAGE value="removing comments from certain wp categories" />
     <MESSAGE value="hiding published date test" />
@@ -714,6 +713,7 @@
     <MESSAGE value="refining recent posts display" />
     <MESSAGE value="commenting customization to wp base code" />
     <MESSAGE value="text adjustment" />
+    <MESSAGE value="layout adjustment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -783,20 +783,6 @@
         <state line="21" column="24" selection-start="812" selection-end="812" vertical-scroll-proportion="0.1981132" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="48" selection-start="2165" selection-end="2165" vertical-scroll-proportion="-22.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="68" selection-start="1212" selection-end="1238" vertical-scroll-proportion="-8.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -806,7 +792,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="45" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.7609842">
+        <state line="152" column="45" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="28" selection-start="1232" selection-end="1415" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="27" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.40754718">
           <folding />
         </state>
       </provider>
