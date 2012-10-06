@@ -25,7 +25,7 @@
                     <h3 class="title-background post-title">
                         about
                         <span class="blog-category" style="">
-                            <a class="no-shadow" title="view portfolio" href="../work"><i class="icon-picture"></i><span style="margin-left:4px">portfolio</span></a><span class="content">&nbsp;/&nbsp;</span><a class="no-shadow" title="download resume" href="#"><i class="icon-doc"></i><span style="margin-left:4px">resume</span></a>
+                            <a class="no-shadow" title="view portfolio" href="../work"><i class="icon-picture"></i><span style="margin-left:4px">portfolio</span></a><span style="font-size:12px; padding: 0 10px;">&nbsp;/&nbsp;</span><a class="no-shadow" title="download resume" href="#"><i class="icon-doc"></i><span style="margin-left:4px">resume</span></a>
                         </span>
                     </h3>
                 </header>
