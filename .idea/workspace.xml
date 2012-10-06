@@ -115,7 +115,7 @@
       <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="432" column="0" selection-start="18444" selection-end="19079" vertical-scroll-proportion="0.63309354">
+            <state line="432" column="40" selection-start="18482" selection-end="19056" vertical-scroll-proportion="0.63309354">
               <folding />
             </state>
           </provider>
@@ -840,7 +840,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="432" column="0" selection-start="18444" selection-end="19079" vertical-scroll-proportion="0.63309354">
+        <state line="432" column="40" selection-start="18482" selection-end="19056" vertical-scroll-proportion="0.63309354">
           <folding />
         </state>
       </provider>
