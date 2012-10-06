@@ -151,5 +151,9 @@ header {
 
 .preview {
   display: inline-block;
-  margin: 20px 10px ;
+  margin: 0 10px 20px;
+
+  .main {
+    margin: 20px 10px;
+  }
 }

@@ -30,7 +30,7 @@
                     </h3>
                 </header>
                 <section style="text-align:center;" class="content">
-                    <div class="preview">
+                    <div class="preview main">
                         <a href="#">
                             <img src="http://placehold.it/400x200">
                         </a>
