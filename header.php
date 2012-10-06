@@ -5,7 +5,7 @@
         <form action="" method="post">
             <input type="text" name="text" class="search-box-input"/>
             <button class="btn search-box-btn">
-                <i class="icon-search icon-white"></i>
+                <i class="icon-search"></i>
             </button>
         </form>
     </aside>
