@@ -2,68 +2,20 @@
   "name": "",
   "glyphs": [
     {
-      "uid": "240979dd9fcf2e46250e66792edb8092",
-      "orig_css": "facebook",
-      "orig_code": 62208,
-      "css": "facebook",
-      "code": 62208,
-      "src": "brandico"
+      "uid": "39e2e6682c28e1e3b5f49825a19717c4",
+      "orig_css": "music",
+      "orig_code": 9834,
+      "css": "music",
+      "code": 9834,
+      "src": "entypo"
     },
     {
-      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
-      "orig_css": "twitter-bird",
-      "orig_code": 62211,
-      "css": "twitter-bird",
-      "code": 62211,
-      "src": "brandico"
-    },
-    {
-      "uid": "24d1008bf15b6c02a5e7a6af026987dd",
-      "orig_css": "github-text",
-      "orig_code": 62215,
-      "css": "github-text",
-      "code": 62215,
-      "src": "brandico"
-    },
-    {
-      "uid": "542e3f055aaa4ddfb9ab3e00397db47f",
-      "orig_css": "linkedin",
-      "orig_code": 62234,
-      "css": "linkedin",
-      "code": 62234,
-      "src": "brandico"
-    },
-    {
-      "uid": "9e237480ec2e11e1aff10800200c9a66",
-      "orig_css": "lastfm",
-      "orig_code": 62232,
-      "css": "lastfm",
-      "code": 62232,
-      "src": "brandico"
-    },
-    {
-      "uid": "26f5aa38f3889213334b3990b4ad483b",
-      "orig_css": "rss",
-      "orig_code": 59194,
-      "css": "rss",
-      "code": 59194,
-      "src": "websymbols"
-    },
-    {
-      "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
-      "orig_css": "doc",
-      "orig_code": 128196,
-      "css": "doc",
-      "code": 128196,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "bf882b30900da12fca090d9796bc3030",
-      "orig_css": "mail",
-      "orig_code": 9993,
-      "css": "mail",
-      "code": 9993,
-      "src": "fontawesome"
+      "uid": "7222571caa5c15f83dcfd447c58d68d9",
+      "orig_css": "search",
+      "orig_code": 128269,
+      "css": "search",
+      "code": 128269,
+      "src": "entypo"
     },
     {
       "uid": "3def559c3c39b8500882e02892b7daa8",
@@ -74,11 +26,11 @@
       "src": "entypo"
     },
     {
-      "uid": "39e2e6682c28e1e3b5f49825a19717c4",
-      "orig_css": "music",
-      "orig_code": 9834,
-      "css": "music",
-      "code": 9834,
+      "uid": "c759418c008e9562944080fee617fc76",
+      "orig_css": "cancel-circle",
+      "orig_code": 10006,
+      "css": "cancel-circle",
+      "code": 10006,
       "src": "entypo"
     },
     {
@@ -98,28 +50,12 @@
       "src": "entypo"
     },
     {
-      "uid": "63e2a597d744c3093e09fdd6108ee44f",
-      "orig_css": "retweet",
-      "orig_code": 59159,
-      "css": "retweet",
-      "code": 59159,
-      "src": "websymbols"
-    },
-    {
-      "uid": "e92e6cad2da0ee4bc374a1ef4c6ab12b",
-      "orig_css": "terminal",
-      "orig_code": 59308,
-      "css": "terminal",
-      "code": 59308,
-      "src": "websymbols"
-    },
-    {
-      "uid": "889a8bd0b481e3523ede8a7d75164cd1",
-      "orig_css": "comment",
-      "orig_code": 59160,
-      "css": "comment",
-      "code": 59160,
-      "src": "websymbols"
+      "uid": "390d6d13398cbf8c8c3c5493f7d34088",
+      "orig_css": "export",
+      "orig_code": 59157,
+      "css": "export",
+      "code": 59157,
+      "src": "entypo"
     },
     {
       "uid": "cb13afd4722a849d48056540bb74c47e",
@@ -170,20 +106,28 @@
       "src": "entypo"
     },
     {
-      "uid": "c759418c008e9562944080fee617fc76",
-      "orig_css": "cancel-circle",
-      "orig_code": 10006,
-      "css": "cancel-circle",
-      "code": 10006,
-      "src": "entypo"
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "orig_css": "mail",
+      "orig_code": 9993,
+      "css": "mail",
+      "code": 9993,
+      "src": "fontawesome"
     },
     {
-      "uid": "7222571caa5c15f83dcfd447c58d68d9",
-      "orig_css": "search",
-      "orig_code": 128269,
-      "css": "search",
-      "code": 128269,
-      "src": "entypo"
+      "uid": "872d9516df93eb6b776cc4d94bd97dac",
+      "orig_css": "video",
+      "orig_code": 59392,
+      "css": "video-1",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
+      "orig_css": "doc",
+      "orig_code": 128196,
+      "css": "doc",
+      "code": 128196,
+      "src": "fontawesome"
     },
     {
       "uid": "a73c5deb486c8d66249811642e5d719a",
@@ -210,6 +154,14 @@
       "src": "iconic"
     },
     {
+      "uid": "2d2f83f97ba029f32db3ca963dd0beea",
+      "orig_css": "video",
+      "orig_code": 127916,
+      "css": "video",
+      "code": 127916,
+      "src": "iconic"
+    },
+    {
       "uid": "96a3aff31cec6cfbe6177151b3a44d20",
       "orig_css": "quote-left-alt",
       "orig_code": 10075,
@@ -226,28 +178,12 @@
       "src": "iconic"
     },
     {
-      "uid": "2d2f83f97ba029f32db3ca963dd0beea",
-      "orig_css": "video",
-      "orig_code": 127916,
-      "css": "video",
-      "code": 127916,
-      "src": "iconic"
-    },
-    {
-      "uid": "872d9516df93eb6b776cc4d94bd97dac",
-      "orig_css": "video",
-      "orig_code": 59392,
-      "css": "video-1",
-      "code": 59392,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "390d6d13398cbf8c8c3c5493f7d34088",
-      "orig_css": "export",
-      "orig_code": 59157,
-      "css": "export",
-      "code": 59157,
-      "src": "entypo"
+      "uid": "5rarhtgcreeh8evuaqd8zoekgehkt3mm",
+      "orig_css": "music",
+      "orig_code": 9835,
+      "css": "music-1",
+      "code": 9835,
+      "src": "typicons"
     },
     {
       "uid": "ogmm8kz4f7y6ji50gzajnwed8h6ck2u7",
@@ -266,6 +202,14 @@
       "src": "modernpics"
     },
     {
+      "uid": "c23a66951b34ed7d449688d559afb213",
+      "orig_css": "video",
+      "orig_code": 59393,
+      "css": "video-2",
+      "code": 59393,
+      "src": "websymbols"
+    },
+    {
       "uid": "e6ad31134a018fdeb64efe72d39edd65",
       "orig_css": "tag",
       "orig_code": 59148,
@@ -274,11 +218,27 @@
       "src": "websymbols"
     },
     {
-      "uid": "c23a66951b34ed7d449688d559afb213",
-      "orig_css": "video",
-      "orig_code": 59393,
-      "css": "video-2",
-      "code": 59393,
+      "uid": "63e2a597d744c3093e09fdd6108ee44f",
+      "orig_css": "retweet",
+      "orig_code": 59159,
+      "css": "retweet",
+      "code": 59159,
+      "src": "websymbols"
+    },
+    {
+      "uid": "889a8bd0b481e3523ede8a7d75164cd1",
+      "orig_css": "comment",
+      "orig_code": 59160,
+      "css": "comment",
+      "code": 59160,
+      "src": "websymbols"
+    },
+    {
+      "uid": "26f5aa38f3889213334b3990b4ad483b",
+      "orig_css": "rss",
+      "orig_code": 59194,
+      "css": "rss",
+      "code": 59194,
       "src": "websymbols"
     },
     {
@@ -290,12 +250,20 @@
       "src": "websymbols"
     },
     {
-      "uid": "5rarhtgcreeh8evuaqd8zoekgehkt3mm",
-      "orig_css": "music",
-      "orig_code": 9835,
-      "css": "music-1",
-      "code": 9835,
-      "src": "typicons"
+      "uid": "e92e6cad2da0ee4bc374a1ef4c6ab12b",
+      "orig_css": "terminal",
+      "orig_code": 59308,
+      "css": "terminal",
+      "code": 59308,
+      "src": "websymbols"
+    },
+    {
+      "uid": "240979dd9fcf2e46250e66792edb8092",
+      "orig_css": "facebook",
+      "orig_code": 62208,
+      "css": "facebook",
+      "code": 62208,
+      "src": "brandico"
     },
     {
       "uid": "8045477f6a7ef0bd7caff130ad25b88d",
@@ -303,6 +271,14 @@
       "orig_code": 62209,
       "css": "facebook-rect",
       "code": 62209,
+      "src": "brandico"
+    },
+    {
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "orig_css": "twitter-bird",
+      "orig_code": 62211,
+      "css": "twitter-bird",
+      "code": 62211,
       "src": "brandico"
     },
     {
@@ -314,12 +290,44 @@
       "src": "brandico"
     },
     {
+      "uid": "24d1008bf15b6c02a5e7a6af026987dd",
+      "orig_css": "github-text",
+      "orig_code": 62215,
+      "css": "github-text",
+      "code": 62215,
+      "src": "brandico"
+    },
+    {
       "uid": "5a00c877da3f63d37cdc021815e3f5a9",
       "orig_css": "skype",
       "orig_code": 62219,
       "css": "skype",
       "code": 62219,
       "src": "brandico"
+    },
+    {
+      "uid": "9e237480ec2e11e1aff10800200c9a66",
+      "orig_css": "lastfm",
+      "orig_code": 62232,
+      "css": "lastfm",
+      "code": 62232,
+      "src": "brandico"
+    },
+    {
+      "uid": "542e3f055aaa4ddfb9ab3e00397db47f",
+      "orig_css": "linkedin",
+      "orig_code": 62234,
+      "css": "linkedin",
+      "code": 62234,
+      "src": "brandico"
+    },
+    {
+      "uid": "dcedf50ab1ede3283d7a6c70e2fe32f3",
+      "orig_css": "chat",
+      "orig_code": 59168,
+      "css": "chat",
+      "code": 59168,
+      "src": "fontawesome"
     }
   ]
 }
