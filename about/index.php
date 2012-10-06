@@ -29,11 +29,11 @@
                         </span>
                     </h3>
                 </header>
-                <section class="content">
+                <section class="content center">
                     <div class="preview main">
                         <img src="http://placehold.it/400x200">
                     </div>
-                    <p>
+                    <p class="left">
                         Hi, my name's Chase Woodford. I'm a web designer/developer living and working out of the suburbs of Philadelphia, PA, USA.
                     </p>
                     <p>

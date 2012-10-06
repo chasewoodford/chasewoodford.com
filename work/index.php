@@ -29,13 +29,13 @@
                         </span>
                     </h3>
                 </header>
-                <section style="text-align:center;" class="content">
+                <section class="content center">
                     <div class="preview main">
                         <a href="#">
                             <img src="http://placehold.it/400x200">
                         </a>
                     </div>
-                    <p style="text-align:left">
+                    <p class="left">
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
                     </p>
                 </section>
