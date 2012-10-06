@@ -21,7 +21,7 @@
     cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
     target: 'tweet-container', //Where the tweet gets loaded
     templates: {
-        tweet: '<i class="quote-before icon-quote-left-alt">&#8220;</div><div class="tweet"><p>{{html}}</p></div><div class="quote-after  icon-quote-right-alt">&#8221;</div><div class="attribute">{{time_ago}}&nbsp;via&nbsp;{{source}}</div><div class="twitter-button"><a href="https://twitter.com/chase1263070" class="twitter-follow-button attribute" data-show-count="false" data-lang="en">Follow @chase1263070</a></div>'
+        tweet: '<i class="icon-quote-left-alt">&#8220;</i><div class="tweet"><p>{{html}}</p></div><i class="icon-quote-right-alt">&#8221;</div><div class="attribute">{{time_ago}}&nbsp;via&nbsp;{{source}}</div><div class="twitter-button"><a href="https://twitter.com/chase1263070" class="twitter-follow-button attribute" data-show-count="false" data-lang="en">Follow @chase1263070</a></div>'
     }
 })</script>
 <script type="text/javascript">
