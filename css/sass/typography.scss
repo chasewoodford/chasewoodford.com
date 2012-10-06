@@ -1,5 +1,5 @@
 // fonts
-$font-Fontello:       'Fontello';
+$font-Awesome:        'fontello';
 $font-CallunaBlck:    'CallunaBlckRegular';
 $font-CallunaIt:      'CallunaItalic';
 $font-CallunaReg:     'CallunaRegular';
@@ -9,7 +9,7 @@ $font-UbuntuLtIt:     'UbuntuLtIt';
 $font-Insign:         'Insign';
 
 @font-face {
-  font-family: 'Fontello';
+  font-family: 'fontello';
   src: url("../../resources/fontello.eot");
   src: url("../../resources/fontello.eot?#iefix") format('embedded-opentype'),
     url("../../resources/fontello.woff") format('woff'),
