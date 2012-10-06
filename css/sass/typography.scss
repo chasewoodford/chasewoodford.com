@@ -74,6 +74,7 @@ $font-Insign:         'Insign';
 [class*=" icon-"]:before {
   font-family: 'Fontello';
   font-style: normal;
+  font-size: inherit;
   font-weight: normal;
   speak: none;
   display: inline-block;
