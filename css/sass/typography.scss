@@ -380,68 +380,6 @@ ul.icons {
 
 .icon-user-md:before              { content: "\f200"; }
 
-
-[class^="icon-"]:before,
-[class*=" icon-"]:before {
-  font-family: 'fontello';
-  font-style: normal;
-  font-weight: normal;
-  speak: none;
-  display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
-  margin-right: 0.2em;
-  text-align: center;
-  opacity: 0.7;
-/* Uncomment for 3D effect */
-/* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
-/* fix buttons height */
-  line-height: 1em;
-/* you can be more comfortable with increased icons size */
-/* font-size: 120%; */
-}
-
-.icon-pause:before { content: '\2389'; } /* 'âŽ‰' */
-.icon-to-end:before { content: '\23ed'; } /* 'â­' */
-.icon-to-start:before { content: '\23ee'; } /* 'â®' */
-.icon-stop:before { content: '\25aa'; } /* 'â–ª' */
-.icon-play:before { content: '\25b6'; } /* 'â–¶' */
-.icon-music:before { content: '\266a'; } /* 'â™ª' */
-.icon-music-1:before { content: '\266b'; } /* 'â™«' */
-.icon-record:before { content: '\26ab'; } /* 'âš«' */
-.icon-mail:before { content: '\2709'; } /* 'âœ‰' */
-.icon-cancel-circle:before { content: '\2716'; } /* 'âœ–' */
-.icon-quote-left-alt:before { content: '\275b'; } /* 'â›' */
-.icon-quote-right-alt:before { content: '\275c'; } /* 'âœ' */
-.icon-tag:before { content: '\e70c'; } /* 'îœŒ' */
-.icon-export:before { content: '\e715'; } /* 'îœ•' */
-.icon-retweet:before { content: '\e717'; } /* 'îœ—' */
-.icon-comment:before { content: '\e718'; } /* 'îœ˜' */
-.icon-rss:before { content: '\e73a'; } /* 'îœº' */
-.icon-popup-1:before { content: '\e802'; } /* 'î ‚' */
-.icon-arrows-cw:before { content: '\e760'; } /* 'î ' */
-.icon-chart-pie:before { content: '\e7a2'; } /* 'îž¢' */
-.icon-terminal:before { content: '\e7ac'; } /* 'îž¬' */
-.icon-facebook:before { content: '\f300'; } /* 'ïŒ€' */
-.icon-facebook-rect:before { content: '\f301'; } /* 'ïŒ' */
-.icon-twitter-bird:before { content: '\f303'; } /* 'ïŒƒ' */
-.icon-github-text:before { content: '\f307'; } /* 'ïŒ‡' */
-.icon-googleplus-rect:before { content: '\f309'; } /* 'ïŒ‰' */
-.icon-skype:before { content: '\f30b'; } /* 'ïŒ‹' */
-.icon-lastfm:before { content: '\f318'; } /* 'ïŒ˜' */
-.icon-linkedin:before { content: '\f31a'; } /* 'ïŒš' */
-.icon-picture:before { content: 'ðŸŒ„'; } /* '\1f304' */
-.icon-video-2:before { content: '\e801'; } /* 'î ' */
-.icon-video:before { content: 'ðŸŽ¬'; } /* '\1f3ac' */
-.icon-video-1:before { content: '\e800'; } /* 'î €' */
-.icon-doc:before { content: 'ðŸ“„'; } /* '\1f4c4' */
-.icon-chart-bar:before { content: 'ðŸ“Š'; } /* '\1f4ca' */
-.icon-book:before { content: 'ðŸ“•'; } /* '\1f4d5' */
-.icon-upload:before { content: 'ðŸ“¤'; } /* '\1f4e4' */
-.icon-download:before { content: 'ðŸ“¥'; } /* '\1f4e5' */
-.icon-search:before { content: 'ðŸ”'; } /* '\1f50d' */
-.icon-search-1:before { content: 'ðŸ”Ž'; } /* '\1f50e' */
-
 h1 {
   font-family: $font-Calluna, serif;
   font-size: 40px; font-size: 2.5rem;  // 40/16
