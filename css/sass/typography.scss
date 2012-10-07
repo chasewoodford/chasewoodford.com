@@ -107,7 +107,7 @@ $font-Insign:         'Insign';
 .icon-terminal:before           { content: '\e7ac'; }
 .icon-facebook:before           { content: '\f300'; }
 .icon-twitter-bird:before       { content: '\f303'; }
-.icon-github:before             { content: '\f308'; }
+.icon-github:before             { content: '\f308'; padding-top: 1px; }
 .icon-lastfm:before             { content: '\f318'; font-size: 1.2em; padding-top: 1px; }
 .icon-linkedin:before           { content: '\f31a'; }
 .icon-picture:before            { content: '\1f304'; }
