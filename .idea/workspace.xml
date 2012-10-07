@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="adding icons">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,46 +75,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="20" selection-start="2083" selection-end="2158" vertical-scroll-proportion="-14.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="social.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/social.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="6" selection-start="836" selection-end="836" vertical-scroll-proportion="-3.3333333">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="22" selection-start="2879" selection-end="2879" vertical-scroll-proportion="-10.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="16" selection-start="334" selection-end="334" vertical-scroll-proportion="0.56766254">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="m-blog.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="1" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+            <state line="19" column="16" selection-start="334" selection-end="334" vertical-scroll-proportion="0.43233743">
               <folding />
             </state>
           </provider>
@@ -151,13 +114,13 @@
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/social.php" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
       </list>
     </option>
@@ -229,6 +192,10 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -241,10 +208,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -750,13 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="1" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="284" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-0.37924528">
@@ -764,37 +720,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/social.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="836" selection-end="836" vertical-scroll-proportion="-3.3333333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="20" selection-start="2083" selection-end="2158" vertical-scroll-proportion="-14.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="94" selection-start="333" selection-end="333" vertical-scroll-proportion="0.032075472">
+        <state line="3" column="88" selection-start="194" selection-end="194" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="1" selection-start="898" selection-end="898" vertical-scroll-proportion="0.2176259">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="22" selection-start="2879" selection-end="2879" vertical-scroll-proportion="-10.576923">
+        <state line="52" column="29" selection-start="2714" selection-end="2714" vertical-scroll-proportion="0.35849056">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="836" selection-end="836" vertical-scroll-proportion="0.3130755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="20" selection-start="2083" selection-end="2158" vertical-scroll-proportion="0.71132076">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="334" selection-end="334" vertical-scroll-proportion="0.56766254">
+        <state line="19" column="16" selection-start="334" selection-end="334" vertical-scroll-proportion="0.43233743">
           <folding />
         </state>
       </provider>
