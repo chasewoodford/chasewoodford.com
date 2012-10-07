@@ -48,13 +48,13 @@
                     </ul>
                     <div class="stumblr-meta">
                         <p class="stumblr-other-right">
-                            <i class="icon-twitter-bird"></i>
-                            <i class="icon-linkedin"></i>
-                            <i class="icon-github-text"></i>
-                            <i class="icon-lastfm"></i>
-                            <i class="icon-skype"></i>
-                            <i class="icon-facebook-rect"></i>
-                            <i class="icon-googleplus-rect"></i>
+                            <span style="margin:0 6px"><a href="#"><i class="icon-twitter-bird"></i></a></span>
+                            <span style="margin:0 6px"><a href="#"><i class="icon-linkedin"></i></a></span>
+                            <span style="margin:0 6px"><a href="#"><i class="icon-github-text"></i></a></span>
+                            <span style="margin:0 6px"><a href="#"><i class="icon-lastfm"></i></a></span>
+                            <span style="margin:0 6px"><a href="#"><i class="icon-skype"></i></a></span>
+                            <span style="margin:0 6px"><a href="#"><i class="icon-facebook-rect"></i></a></span>
+                            <span style="margin:0 6px"><a href="#"><i class="icon-googleplus-rect"></i></a></span>
                         </p>
                     </div>
                 </section>
