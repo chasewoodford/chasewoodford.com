@@ -48,7 +48,13 @@
                     </ul>
                     <div class="stumblr-meta">
                         <p class="stumblr-other-right">
-                            Link to social media
+                            <i class="icon-twitter-bird"></i>
+                            <i class="icon-linkedin"></i>
+                            <i class="icon-github-text"></i>
+                            <i class="icon-lastfm"></i>
+                            <i class="icon-skype"></i>
+                            <i class="icon-facebook-rect"></i>
+                            <i class="icon-googleplus-rect"></i>
                         </p>
                     </div>
                 </section>
