@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="adding icons">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/social.php" afterPath="$PROJECT_DIR$/social.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -75,10 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+      <file leaf-file-name="social.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/social.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="16" selection-start="334" selection-end="334" vertical-scroll-proportion="0.43233743">
+            <state line="6" column="8" selection-start="709" selection-end="709" vertical-scroll-proportion="0.19245283">
               <folding />
             </state>
           </provider>
@@ -117,11 +118,11 @@
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/work/index.php" />
-        <option value="$PROJECT_DIR$/social.php" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
+        <option value="$PROJECT_DIR$/social.php" />
       </list>
     </option>
   </component>
@@ -741,13 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/social.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="836" selection-end="836" vertical-scroll-proportion="0.3130755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="20" selection-start="2083" selection-end="2158" vertical-scroll-proportion="0.71132076">
@@ -758,6 +752,13 @@
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="16" selection-start="334" selection-end="334" vertical-scroll-proportion="0.43233743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="709" selection-end="709" vertical-scroll-proportion="0.19245283">
           <folding />
         </state>
       </provider>
