@@ -53,11 +53,9 @@
                             </fieldset>
                         </form>
                     </div>
-                    <div class="stumblr-meta">
-                        <p class="stumblr-other-right">
-                            Link to social media
-                        </p>
-                    </div>
+                    <?php
+                    include ("../social.php");
+                    ?>
                 </section>
                 <div class="clear"></div>
             </article>
