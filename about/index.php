@@ -30,8 +30,8 @@
                     </h3>
                 </header>
                 <section class="content center">
-                    <div class="main">
-                        <img class="static" src="../images/chase.png" alt="Chase sitting at his computer">
+                    <div class="static main">
+                        <img class="" src="../images/chase.png" alt="Chase sitting at his computer">
                     </div>
                     <p class="left">
                         Hi, my name's Chase Woodford. I'm a web designer/developer living and working out of the suburbs of Philadelphia, PA, USA.
