@@ -13,7 +13,9 @@
 }
 
 .static {
-  @include box-shadow(0 8px 10px -6px black);
-  border: 4px solid white;
-  vertical-align: middle;
+  @extend .preview;
+
+  img:hover {
+    border: 4px solid white;
+  }
 }
