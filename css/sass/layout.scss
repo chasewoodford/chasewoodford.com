@@ -1,3 +1,7 @@
+[class*='grid-'] {
+  max-width: 1024px;
+}
+
 .grid-2 {
   margin: 0 auto 20px;
   width: flex-grid(2); // 16.875%
