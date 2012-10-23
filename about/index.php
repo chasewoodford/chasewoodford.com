@@ -31,7 +31,7 @@
                 </header>
                 <section class="content center">
                     <div class="preview main">
-                        <img src="http://placehold.it/400x200">
+                        <img src="../images/chase.png" alt="Chase sitting at his computer">
                     </div>
                     <p class="left">
                         Hi, my name's Chase Woodford. I'm a web designer/developer living and working out of the suburbs of Philadelphia, PA, USA.
