@@ -172,8 +172,8 @@ header {
   &.main {
     margin: 20px 10px 0;
   }
+}
 
-  &.form {
-    margin: 0;
-  }
+.form {
+  display: inline-block;
 }

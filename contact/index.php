@@ -27,7 +27,7 @@
                     </h3>
                 </header>
                 <section class="content">
-                    <div class="static form">
+                    <div class="form">
                         <p>
                             I generally don't take on freelance projects unless they are really awesome. But I'm always happy to chat it up free of charge. Drop me a line!
                         </p>
