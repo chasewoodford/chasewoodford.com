@@ -115,7 +115,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3773585">
+            <state line="22" column="44" selection-start="637" selection-end="641" vertical-scroll-proportion="0.3773585">
               <folding />
             </state>
           </provider>
@@ -829,7 +829,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3773585">
+        <state line="22" column="44" selection-start="637" selection-end="641" vertical-scroll-proportion="0.3773585">
           <folding />
         </state>
       </provider>

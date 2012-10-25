@@ -20,7 +20,7 @@
             require('../blog/wp-blog-header.php');
             ?>
 
-            <article class="grid-8 hero type-post">
+            <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
                         contact
