@@ -125,7 +125,7 @@ h1 {
   font-size: 40px; font-size: 2.5rem;  // 40/16
   line-height: 30px; line-height: 1.875rem; // 30/16
   letter-spacing: -3px;
-  color: $grey;
+  color: $gray;
   text-shadow: $highlight-subtle, $highlight-dropShadow;
 }
 
@@ -162,11 +162,11 @@ h4 {
   font-size: 16px; font-size: 1rem; // 20/16
   line-height: 16px; line-height: 1rem; // 16/16
   letter-spacing: auto;
-  color: $grey;
+  color: $gray;
 }
 
 p {
-  color: $light-grey;
+  color: $light-gray;
   clear: both;
 
   & + p {

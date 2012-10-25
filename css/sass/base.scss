@@ -10,7 +10,7 @@ body {
   background: url('../../images/bg.png') repeat;
   overflow-x: hidden;
   font: normal 125%/1.4 $font-Calluna, serif; // 20/16, 28/20
-  color: $grey;
+  color: $gray;
 }
 
 footer {
@@ -32,7 +32,7 @@ footer {
 }
 
 a:link, a:visited {
-  color: $grey;
+  color: $gray;
   text-decoration: none;
   @include transition(all .5s ease-in-out);
 }
