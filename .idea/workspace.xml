@@ -115,7 +115,16 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="86" selection-start="2594" selection-end="2594" vertical-scroll-proportion="0.76226413">
+            <state line="22" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3773585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="38" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
@@ -262,6 +271,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="contact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -742,11 +765,6 @@
         <state line="16" column="0" selection-start="363" selection-end="431" vertical-scroll-proportion="0.47803164" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="38" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-9.153846" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/reset.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.973638" />
@@ -802,9 +820,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="38" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="86" selection-start="2594" selection-end="2594" vertical-scroll-proportion="0.76226413">
+        <state line="22" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3773585">
           <folding />
         </state>
       </provider>
