@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,10 +77,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="base.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="13" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+            <state line="18" column="2" selection-start="291" selection-end="319" vertical-scroll-proportion="0.5377856">
               <folding />
             </state>
           </provider>
@@ -112,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3773585">
+            <state line="66" column="21" selection-start="3451" selection-end="3451" vertical-scroll-proportion="-43.153847">
               <folding />
             </state>
           </provider>
@@ -124,7 +125,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="38" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-4.576923">
+            <state line="12" column="8" selection-start="397" selection-end="397" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
@@ -162,12 +163,12 @@
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
-        <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-search.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-form.scss" />
         <option value="$PROJECT_DIR$/contact/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/base.scss" />
       </list>
     </option>
   </component>
@@ -806,13 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="13" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="32" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
@@ -822,14 +816,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="38" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-4.576923">
+        <state line="12" column="8" selection-start="397" selection-end="397" vertical-scroll-proportion="-7.8461537">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3773585">
+        <state line="66" column="21" selection-start="3451" selection-end="3451" vertical-scroll-proportion="-43.153847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="2" selection-start="291" selection-end="319" vertical-scroll-proportion="0.5377856">
           <folding />
         </state>
       </provider>
