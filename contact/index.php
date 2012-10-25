@@ -54,7 +54,6 @@
                                     </div>
                                     <div style="float:left; width: 100%;">
                                         <input class="formSend btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />
-                                        <input class="formClear btn btn-large btn-danger" type="reset" tabindex="5" value="Clear" />
                                     </div>
                                 </div>
                             </fieldset>
