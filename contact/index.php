@@ -30,7 +30,7 @@
                     <p>
                         I generally don't take on freelance projects unless they are really awesome. But I'm always happy to chat it up free of charge. Drop me a line!
                     </p>
-                    <div>
+                    <div class="static main">
                         <form id="ajax-contact-form">
                             <fieldset class="info_fieldset">
                                 <div id="note"></div>
@@ -67,38 +67,6 @@
                 </section>
                 <div class="clear"></div>
             </article>
-            <section class="grid-12 preview-container">
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-            </section>
         </div>
     </div>
 </div>
