@@ -112,19 +112,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="32" selection-start="898" selection-end="898" vertical-scroll-proportion="-2.7307692">
+            <state line="29" column="32" selection-start="898" selection-end="898" vertical-scroll-proportion="0.13396226">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="1" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.82073814">
+            <state line="178" column="11" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -856,16 +856,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="32" selection-start="898" selection-end="898" vertical-scroll-proportion="-2.7307692">
+        <state line="178" column="11" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
+    <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="1" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.82073814">
+        <state line="29" column="32" selection-start="898" selection-end="898" vertical-scroll-proportion="0.13396226">
           <folding />
         </state>
       </provider>
