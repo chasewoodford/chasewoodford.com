@@ -137,13 +137,13 @@ input[type="checkbox"] {
 }
 
 // Reset width of input buttons, radios, checkboxes
-input[type="submit"],
-input[type="reset"],
-input[type="button"],
-input[type="radio"],
-input[type="checkbox"] {
-  width: auto; // Override of generic input selector
-}
+//input[type="submit"],
+//input[type="reset"],
+//input[type="button"],
+//input[type="radio"],
+//input[type="checkbox"] {
+//  width: auto; // Override of generic input selector
+//}
 
 // Make uneditable textareas behave like a textarea
 .uneditable-textarea {
