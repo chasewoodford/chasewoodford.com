@@ -17,17 +17,17 @@ footer {
   position: relative;
   clear: both;
   margin-bottom: 0 !important;
-  margin-top: -30px !important;
-  height: 30px;
+  margin-top: -15px !important;
+  height: 15px;
 }
 
 ::selection {
-  background: red;
+  background: $blue;
   color: $white;
 }
 
 ::-moz-selection {
-  background: red;
+  background: $blue;
   color: $white;
 }
 
