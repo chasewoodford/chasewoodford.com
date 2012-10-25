@@ -27,10 +27,10 @@
                     </h3>
                 </header>
                 <section class="content">
-                    <p>
+                    <p class="left">
                         I generally don't take on freelance projects unless they are really awesome. But I'm always happy to chat it up free of charge. Drop me a line!
                     </p>
-                    <div class="static main">
+                    <div class="main">
                         <form id="ajax-contact-form">
                             <fieldset class="info_fieldset">
                                 <div id="note"></div>
