@@ -35,14 +35,22 @@
                             <fieldset class="info_fieldset">
                                 <div id="note"></div>
                                 <div id="fields">
-                                    <div style="float:left; width:50%">
+                                    <div style="display:inline;float:left; width:15%">
                                         <label for="name">Name</label>
+                                    </div>
+                                    <div style="display:inline;float:left; width:80%">
                                         <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" autofocus /><br />
+                                    </div>
+                                    <div style="display:inline;float:left; width:15%">
                                         <label for="email">Email</label>
+                                    </div>
+                                    <div style="display:inline;float:left; width:80%">
                                         <input id="email" class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" /><br />
                                     </div>
-                                    <div style="float:left; width:50%">
+                                    <div style="display:inline;float:left; width:15%">
                                         <label for="comments">Comments</label>
+                                    </div>
+                                    <div style="display:inline;float:left; width:80%">
                                         <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="6" cols="50" spellcheck="true"></textarea>
                                     </div>
                                     <div style="float:left; width: 100%;">
