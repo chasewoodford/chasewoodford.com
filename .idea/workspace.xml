@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-form.scss" afterPath="$PROJECT_DIR$/css/sass/m-form.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -106,16 +107,16 @@
       <file leaf-file-name="m-form.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-form.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="1" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+            <state line="22" column="13" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="140" selection-start="3005" selection-end="3005" vertical-scroll-proportion="-5.3461537">
+            <state line="54" column="40" selection-start="2741" selection-end="2741" vertical-scroll-proportion="0.23018868">
               <folding />
             </state>
           </provider>
@@ -130,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_forms.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_forms.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="0" selection-start="2926" selection-end="3103" vertical-scroll-proportion="0.67266184">
+            <state line="139" column="0" selection-start="2926" selection-end="3103" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -192,9 +193,9 @@
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-form.scss" />
         <option value="$PROJECT_DIR$/contact/index.php" />
-        <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
       </list>
     </option>
   </component>
@@ -756,7 +757,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing more bootstrap styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -769,7 +770,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="refining recent posts display" />
     <MESSAGE value="commenting customization to wp base code" />
     <MESSAGE value="text adjustment" />
     <MESSAGE value="replacing font awesome with fontello" />
@@ -794,6 +794,7 @@
     <MESSAGE value="re-sizing form inputs" />
     <MESSAGE value="layout adjustment" />
     <MESSAGE value="styling forms" />
+    <MESSAGE value="removing more bootstrap styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -882,23 +883,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="0" selection-start="2926" selection-end="3103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+        <state line="22" column="13" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="140" selection-start="3005" selection-end="3005" vertical-scroll-proportion="-5.3461537">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="0" selection-start="2926" selection-end="3103" vertical-scroll-proportion="0.67266184">
+        <state line="54" column="40" selection-start="2741" selection-end="2741" vertical-scroll-proportion="0.23018868">
           <folding />
         </state>
       </provider>

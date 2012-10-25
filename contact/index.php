@@ -28,7 +28,7 @@
                 </header>
                 <section class="content">
                         <p>
-                            I generally don't take on freelance projects unless they are really awesome. But I'm always happy to chat it up free of charge. Drop me a line!
+                            I'm always happy to chat. Feel free to drop me a line.
                         </p>
                         <form id="ajax-contact-form">
                             <fieldset class="info_fieldset">
@@ -52,7 +52,7 @@
                                     <div style="display:inline;float:left; width:80%">
                                         <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="4" cols="50" spellcheck="true"></textarea>
                                     </div>
-                                    <div style="float:left; width: 100%;">
+                                    <div>
                                         <input class="formSend btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />
                                     </div>
                                 </div>
