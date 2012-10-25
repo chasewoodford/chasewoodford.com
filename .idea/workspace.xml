@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -112,19 +113,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="8" selection-start="396" selection-end="399" vertical-scroll-proportion="-5.3461537">
+            <state line="28" column="41" selection-start="865" selection-end="865" vertical-scroll-proportion="0.3528302">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="23" selection-start="869" selection-end="869" vertical-scroll-proportion="0.5625">
+            <state line="178" column="1" selection-start="2200" selection-end="2200" vertical-scroll-proportion="-17.68">
               <folding />
             </state>
           </provider>
@@ -193,8 +194,8 @@
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-form.scss" />
-        <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/contact/index.php" />
       </list>
     </option>
   </component>
@@ -756,7 +757,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="re-sizing form inputs" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout adjustment" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -773,7 +774,6 @@
     <MESSAGE value="refining recent posts display" />
     <MESSAGE value="commenting customization to wp base code" />
     <MESSAGE value="text adjustment" />
-    <MESSAGE value="layout adjustment" />
     <MESSAGE value="replacing font awesome with fontello" />
     <MESSAGE value="something broke" />
     <MESSAGE value="fixing fontello issue" />
@@ -794,6 +794,7 @@
     <MESSAGE value="positioning adjustment" />
     <MESSAGE value="removing bootstrap form styling on font" />
     <MESSAGE value="re-sizing form inputs" />
+    <MESSAGE value="layout adjustment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -882,13 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="396" selection-end="399" vertical-scroll-proportion="-5.3461537">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="75" column="33" selection-start="1995" selection-end="3159" vertical-scroll-proportion="-47.192307">
@@ -898,7 +892,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="23" selection-start="869" selection-end="869" vertical-scroll-proportion="0.5625">
+        <state line="178" column="1" selection-start="2200" selection-end="2200" vertical-scroll-proportion="-17.68">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="41" selection-start="865" selection-end="865" vertical-scroll-proportion="0.3528302">
           <folding />
         </state>
       </provider>
