@@ -5,3 +5,15 @@ fieldset {
 input, textarea {
   width: 80%;
 }
+
+input[class="textbox"] {
+  color: $white;
+  background-color: $grey;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset;
+
+  &:focus {
+    border-color: rgba(82, 168, 236, 0.8);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+    outline: 0 none;
+  }
+}

@@ -13,7 +13,7 @@
 
 input[class="search-box-input"] {
   color: $white;
-  background-color: #5A5A5A;
+  background-color: $grey;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset;
 
   &:focus {
