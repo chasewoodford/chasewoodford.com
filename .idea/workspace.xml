@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout.scss" afterPath="$PROJECT_DIR$/css/sass/layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -122,10 +121,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="178" column="18" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.7908612">
+            <state line="178" column="18" selection-start="2210" selection-end="2210" vertical-scroll-proportion="-18.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_forms.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="670" selection-end="1025" vertical-scroll-proportion="0.397482">
               <folding />
             </state>
           </provider>
@@ -171,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-includes/default-widgets.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
@@ -187,6 +194,7 @@
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
       </list>
     </option>
   </component>
@@ -276,6 +284,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -773,11 +803,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="1" selection-start="898" selection-end="898" vertical-scroll-proportion="0.2176259" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_source/v2/fontello-db3163ee/css/fontello-codes.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="969" selection-end="1009" vertical-scroll-proportion="0.31282952" />
@@ -866,7 +891,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="178" column="18" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.7908612">
+        <state line="178" column="18" selection-start="2210" selection-end="2210" vertical-scroll-proportion="-18.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="670" selection-end="1025" vertical-scroll-proportion="0.397482">
           <folding />
         </state>
       </provider>
