@@ -35,23 +35,23 @@
                             <fieldset class="info_fieldset">
                                 <div id="note"></div>
                                 <div id="fields">
-                                    <div style="display:inline;float:left; width:20%">
+                                    <div style="display:inline;float:left; width:18%">
                                         <label for="name">Name</label>
                                     </div>
                                     <div style="display:inline;float:left; width:80%">
                                         <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" autofocus /><br />
                                     </div>
-                                    <div style="display:inline;float:left; width:20%">
+                                    <div style="display:inline;float:left; width:18%">
                                         <label for="email">Email</label>
                                     </div>
                                     <div style="display:inline;float:left; width:80%">
                                         <input id="email" class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" /><br />
                                     </div>
-                                    <div style="display:inline;float:left; width:20%">
+                                    <div style="display:inline;float:left; width:18%">
                                         <label for="comments">Comments</label>
                                     </div>
                                     <div style="display:inline;float:left; width:80%">
-                                        <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="6" cols="50" spellcheck="true"></textarea>
+                                        <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="4" cols="50" spellcheck="true"></textarea>
                                     </div>
                                     <div style="float:left; width: 100%;">
                                         <input class="formSend btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />
