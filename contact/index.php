@@ -20,13 +20,13 @@
             require('../blog/wp-blog-header.php');
             ?>
 
-            <article class="grid-8 hero post type-post">
+            <article class="grid-8 hero type-post">
                 <header>
                     <h3 class="title-background post-title">
                         contact
                     </h3>
                 </header>
-                <section class="content center">
+                <section class="content">
                     <p>
                         I generally don't take on freelance projects unless they are really awesome. But I'm always happy to chat it up free of charge. Drop me a line!
                     </p>
