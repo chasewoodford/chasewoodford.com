@@ -165,15 +165,11 @@ header {
   margin: 0 auto 60px;
 }
 
-.preview, .static {
+.preview, .static, .form {
   display: inline-block;
   margin: 0 10px 20px;
 
   &.main {
     margin: 20px 10px 0;
   }
-}
-
-.form {
-  display: inline-block;
 }
