@@ -106,7 +106,7 @@
       <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="19" selection-start="816" selection-end="816" vertical-scroll-proportion="0.7908612">
+            <state line="49" column="35" selection-start="795" selection-end="795" vertical-scroll-proportion="0.7908612">
               <folding />
             </state>
           </provider>
@@ -115,7 +115,7 @@
       <file leaf-file-name="variables.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="10" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+            <state line="8" column="0" selection-start="142" selection-end="159" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -903,14 +903,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="142" selection-end="159" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="19" selection-start="816" selection-end="816" vertical-scroll-proportion="0.7908612">
+        <state line="49" column="35" selection-start="795" selection-end="795" vertical-scroll-proportion="0.7908612">
           <folding />
         </state>
       </provider>
