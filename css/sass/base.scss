@@ -37,7 +37,7 @@ a:link, a:visited {
   @include transition(all .5s ease-in-out);
 
   &.inline {
-    border-bottom: 1px dotted $gray;
+    border-bottom: 1px dashed $gray;
   }
 }
 
@@ -47,6 +47,6 @@ a:hover, a:active, a:focus {
   @include transition(all .5s ease-in-out);
 
   &.inline {
-    border-bottom: 1px dotted $gray;
+    border-bottom: 1px dashed $blue;
   }
 }
