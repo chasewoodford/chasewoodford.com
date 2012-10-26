@@ -34,7 +34,7 @@ footer {
 a:link, a:visited {
   color: $gray;
   text-decoration: none;
-  @include transition(all 0.2s ease-in-out);
+  @include transition(all 0.5s ease-in-out);
 
   &.inline {
     color: $blue;
@@ -45,11 +45,9 @@ a:link, a:visited {
 a:hover, a:active, a:focus {
   color: $blue;
   text-decoration: none;
-  @include transition(all 0.2s ease-in-out);
+  @include transition(all 0.5s ease-in-out);
 
   &.inline {
     border-bottom: 1px dashed $blue;
-    font-style: italic;
-    text-shadow: $highlight-inlineText;
   }
 }
