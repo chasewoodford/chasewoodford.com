@@ -32,7 +32,7 @@ footer {
 }
 
 a:link, a:visited {
-  color: $light-gray;
+  color: $gray;
   text-decoration: none;
   @include transition(all .5s ease-in-out);
 }
