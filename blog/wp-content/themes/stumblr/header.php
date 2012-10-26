@@ -21,7 +21,7 @@
             <form action="" method="post">
                 <input type="text" name="text" class="search-box-input"/>
                 <button class="btn search-box-btn">
-                    <i class="icon-search icon-white"></i>
+                    <i class="icon-search-1 icon-white"></i>
                 </button>
             </form>
         </aside>
