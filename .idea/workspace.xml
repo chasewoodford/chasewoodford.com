@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/base.scss" afterPath="$PROJECT_DIR$/css/sass/base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/variables.scss" afterPath="$PROJECT_DIR$/css/sass/variables.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -116,7 +116,7 @@
       <file leaf-file-name="variables.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="30" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24460432">
+            <state line="12" column="57" selection-start="441" selection-end="441" vertical-scroll-proportion="0.36690646">
               <folding />
             </state>
           </provider>
@@ -911,7 +911,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24460432">
+        <state line="12" column="57" selection-start="441" selection-end="441" vertical-scroll-proportion="0.36690646">
           <folding />
         </state>
       </provider>
