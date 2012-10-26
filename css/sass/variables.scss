@@ -6,10 +6,11 @@ $light-gray:  #929292;
 $white:       #FFFFFF;
 
 // text-shadows
-$highlight-subtle:      0 -1px 0 rgba(140,140,140,0.9);
-$highlight-dropShadow:  0 2px 1px rgba(0, 0, 0, 0.5);
-$highlight-title:       0 1px 1px rgba(0, 0, 0, 0.5);
-$highlight-inlineText:  0 1px 1px rgba(0, 0, 0, 0.3);
+$highlight-subtle:            0 -1px 0 rgba(140,140,140,0.9);
+$highlight-dropShadow:        0 2px 1px rgba(0, 0, 0, 0.5);
+$highlight-title:             0 1px 1px rgba(0, 0, 0, 0.5);
+$highlight-inlineText:        0 1px 1px rgba(0, 0, 0, 0.2);
+$highlight-inlineTextHover:   0 1px 1px rgba(0, 0, 0, 0.6);
 
 // flex-grid
 $fg-column: 115px;

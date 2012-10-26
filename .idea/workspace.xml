@@ -104,19 +104,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="38" selection-start="798" selection-end="798" vertical-scroll-proportion="0.7908612">
+            <state line="50" column="43" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="variables.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="53" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+            <state line="8" column="30" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24460432">
               <folding />
             </state>
           </provider>
@@ -158,8 +158,8 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
-        <option value="$PROJECT_DIR$/css/sass/variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
+        <option value="$PROJECT_DIR$/css/sass/variables.scss" />
       </list>
     </option>
   </component>
@@ -902,16 +902,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="53" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+        <state line="50" column="43" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="38" selection-start="798" selection-end="798" vertical-scroll-proportion="0.7908612">
+        <state line="8" column="30" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24460432">
           <folding />
         </state>
       </provider>

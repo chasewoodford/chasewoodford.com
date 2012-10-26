@@ -38,6 +38,7 @@ a:link, a:visited {
 
   &.inline {
     color: $blue;
+    text-shadow: $highlight-inlineText;
   }
 }
 
@@ -47,6 +48,6 @@ a:hover, a:active, a:focus {
   @include transition(all 0.2s ease-in-out);
 
   &.inline {
-    text-shadow: $highlight-inlineText;
+    text-shadow: $highlight-inlineTextHover;
   }
 }
