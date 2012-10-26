@@ -106,7 +106,7 @@
       <file leaf-file-name="base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="29" selection-start="576" selection-end="576" vertical-scroll-proportion="0.40246046">
+            <state line="36" column="35" selection-start="582" selection-end="582" vertical-scroll-proportion="0.40246046">
               <folding />
             </state>
           </provider>
@@ -910,7 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="29" selection-start="576" selection-end="576" vertical-scroll-proportion="0.40246046">
+        <state line="36" column="35" selection-start="582" selection-end="582" vertical-scroll-proportion="0.40246046">
           <folding />
         </state>
       </provider>
