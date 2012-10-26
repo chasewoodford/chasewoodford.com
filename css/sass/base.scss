@@ -34,19 +34,21 @@ footer {
 a:link, a:visited {
   color: $gray;
   text-decoration: none;
-  @include transition(all .5s ease-in-out);
+  @include transition(all 0.2s ease-in-out);
 
   &.inline {
-    border-bottom: 1px dashed $gray;
+    color: $blue;
+    border-bottom: 1px dashed $blue;
   }
 }
 
 a:hover, a:active, a:focus {
   color: $blue;
   text-decoration: none;
-  @include transition(all .5s ease-in-out);
+  @include transition(all 0.2s ease-in-out);
 
   &.inline {
-    border-bottom: 1px dashed $blue;
+    color: $purple;
+    border-bottom: 1px dashed $purple;
   }
 }
