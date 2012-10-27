@@ -30,7 +30,7 @@
                     </h3>
                 </header>
                 <section class="content center">
-                    <div class="static main">
+                    <div class="blog-image">
                         <img src="../images/chase.png" alt="Chase sitting at his computer">
                     </div>
                     <p class="left">

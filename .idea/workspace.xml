@@ -4,7 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-work.scss" afterPath="$PROJECT_DIR$/css/sass/m-work.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/m-blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -80,16 +80,25 @@
       <file leaf-file-name="m-work.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="45" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
+            <state line="15" column="23" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="m-blog.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="14" selection-start="76" selection-end="76" vertical-scroll-proportion="0.091726616">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="28" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.5773585">
+            <state line="32" column="42" selection-start="1363" selection-end="1363" vertical-scroll-proportion="-11.115385">
               <folding />
             </state>
           </provider>
@@ -117,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/bootstrap/_forms.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-form.scss" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
@@ -131,8 +139,9 @@
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_sprites.scss" />
         <option value="$PROJECT_DIR$/css/sass/reset.scss" />
         <option value="$PROJECT_DIR$/css/sass/typography.scss" />
-        <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
+        <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
       </list>
     </option>
   </component>
@@ -644,7 +653,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding export icon to external links" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling images" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -657,7 +666,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="fixing fontello issue" />
     <MESSAGE value="removing font awesome again" />
     <MESSAGE value="changing search icon" />
     <MESSAGE value="updating quote marks" />
@@ -682,6 +690,7 @@
     <MESSAGE value="styling links" />
     <MESSAGE value="removing bootstrap sprites" />
     <MESSAGE value="adding export icon to external links" />
+    <MESSAGE value="styling images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -691,13 +700,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/post-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="259" column="33" selection-start="7018" selection-end="7018" vertical-scroll-proportion="-35.915092">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="74" selection-start="1742" selection-end="1742" vertical-scroll-proportion="-0.9607843">
@@ -789,16 +791,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
+    <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="45" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
+        <state line="32" column="42" selection-start="1363" selection-end="1363" vertical-scroll-proportion="-11.115385">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="28" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.5773585">
+        <state line="15" column="23" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="76" selection-end="76" vertical-scroll-proportion="0.091726616">
           <folding />
         </state>
       </provider>

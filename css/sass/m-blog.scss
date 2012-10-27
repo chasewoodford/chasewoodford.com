@@ -1,11 +1,11 @@
 #wrap { width:960px; margin-left:auto; margin-right:auto; }
 
 
-/* list Styles */
+// list Styles
 hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center no-repeat; border:0; outline:0; clear:both; height:10px;}
 
 
-/* sidebar styles */
+// sidebar styles
 
 .side-widget ul li a {
   display: block;
@@ -13,7 +13,7 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
   padding-left: 2px;
 }
 
-/* post and page styles */
+// post and page styles
 
 .type-post 		{ background:#FFF; }
 
@@ -34,7 +34,7 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .stumblr-category  {  display:inline; float:left; font-style:italic; color:#929292; font-size:11px; background:url(/blog/wp-content/themes/stumblr/images/light/cat.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px;}
 
 
-/* footer styles */
+// footer styles
 #footer-area 					{ width: 960px; display:inline; float:left; padding-top:10px; margin-top:20px; clear:both; background:url(/blog/wp-content/themes/stumblr/images/light/bg-row.png) top left  repeat-x; }
 .footer-widget 	 			{ width:300px; margin-right:20px; padding-top:15px; display:inline; float:left; font-size:12px; color:#454545; line-height:18px;   }
 .footer-widget ul 			{ margin:0px; padding:0px; clear:both; margin-top:7px;   }
@@ -42,25 +42,26 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .footer-widget ul li a 		{ display:block; line-height:22px; padding-bottom:2px; padding-left:2px; font-weight:300; text-transform:none; }
 .footer-widget .textwidget { font-size:12px; line-height:19px; color:#333;  }
 
-/* more widget styles */
+// more widget styles
 .widget_search label { display:none; }
 .widget_search input {  border:1px solid #8e8e8e; background:none; font-family:Arial, Helvetica, sans-serif; color:#555; font-size:12px; display:inline; float:left; height:20px; line-height:22px; outline:none; width:140px; padding:5px;  border-radius: 3px;  -moz-border-radius: 3px; }
 #searchsubmit { display:inline; float:left; width:32px; height:20px; line-height:20px; background:url(/blog/wp-content/themes/stumblr/images/light/search-light.png) top left  no-repeat; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px; }
 #searchsubmit:hover { display:inline; float:left; width:20px; height:20px; line-height:22px; background:url(/blog/wp-content/themes/stumblr/images/light/search-light.png) bottom left  no-repeat; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px;  }
 
-/* copyright styles */
+// copyright styles
 #copyright 			{ width: 960px; display:inline; float:left; padding-top:10px; margin-top:20px; clear:both; background:url(/blog/wp-content/themes/stumblr/images/light/bg-row.png) top left  repeat-x; margin-bottom:20px; }
 #copyright p 			{ padding-top:15px; color:#4f5356; font-size:12px; }
 
 
-/* post css3 styles */
+// post css3 styles
 .post 	{
   padding-bottom: 5px;
   @include box-shadow(0 8px 10px -6px black);
 }
 .page 	{  -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15); box-shadow: 0 1px 8px rgba(0,0,0,0.15); }
 .type-attachment	{  -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15); box-shadow: 0 1px 8px rgba(0,0,0,0.15); }
-/* pagination styles */
+
+// pagination styles
 .stuumblr-pagination { clear:both; padding:20px 0; position:relative; font-size:11px; line-height:13px; }
 .stuumblr-pagination span  { display:block; float:left; margin: 4px 4px 4px 0; padding:6px 9px 5px 9px;text-decoration:none; width:auto;color:#666; background-color:#fff;border: 1px solid #b3b3b3; border-radius: 3px;
   -webkit-box-shadow: 0 1px 1px rgba(255,255,255,0.78), inset 0 1px 0 white; -moz-box-shadow: 0 1px 1px rgba(255,255,255,0.78), inset 0 1px 0 white; box-shadow: 0 1px 1px rgba(255,255,255,0.78), inset 0 1px 0 white; background-color:#e5e5e5; }
@@ -71,7 +72,7 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .stuumblr-pagination .current {  color:#666;border: 1px solid #b3b3b3; border-radius: 3px;  -webkit-box-shadow: 0 1px 1px rgba(255,255,255,0.78), inset 0 1px 0 white;
   -moz-box-shadow: 0 1px 1px rgba(255,255,255,0.78), inset 0 1px 0 white; box-shadow: 0 1px 1px rgba(255,255,255,0.78), inset 0 1px 0 white; background-color:#fff;}
 
-/* comment styles */
+// comment styles
 #comment-form     { margin-top:20px;}
 .comments-area ol { list-style:none; margin:0; padding:0;  border-bottom:1px solid #8e8e8e; }
 .comments-area li { list-style:none; margin:0; padding:0; border-top:1px solid #8e8e8e; width:100%; clear:both; display:inline; float:left; margin-bottom:10px; padding:10px;  }
@@ -85,7 +86,7 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .comment-submit 	{ clear:both; width:120px; height:30px; line-height:25px; background:#e5e5e5; border:1px solid #8e8e8e;   }
 
 
-/* Additional and WordPress styles */
+// Additional and WordPress styles
 .clear 			{ clear:both;}
 .aligncenter	 	{ display: block; margin: 0 auto; }
 .alignleft		{ float: left; margin-right:20px; margin-top:20px; margin-bottom:10px; }
@@ -97,4 +98,11 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .bypostauthor  	{}
 blockquote 		{ font-size:2em; line-height:23px; color:#000; margin-left:20px; border-left: 1px dotted #999; padding-left:25px; margin-top:15px; margin-bottom:15px; }
 #respond { display:none; }
-/* end of css file */
+
+.blog-image img {
+  width: 100%;
+  margin: 0;
+  @include box-shadow(0 8px 10px -6px black);
+  vertical-align: middle;
+  @include box-sizing(border-box);
+}
