@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/m-work.scss" afterPath="$PROJECT_DIR$/css/sass/m-work.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,10 +77,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="m-work.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="m-work.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="47" selection-start="182" selection-end="203" vertical-scroll-proportion="0.23901582">
+            <state line="4" column="2" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,6 +113,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/work/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="38" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.6415094">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -134,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/m-form.scss" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/variables.scss" />
@@ -150,6 +159,7 @@
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/m-work.scss" />
+        <option value="$PROJECT_DIR$/work/index.php" />
       </list>
     </option>
   </component>
@@ -217,6 +227,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -236,20 +260,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -708,13 +718,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="60" selection-start="299" selection-end="299" vertical-scroll-proportion="0.16037735">
@@ -792,13 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="39" selection-start="1311" selection-end="1311" vertical-scroll-proportion="-10.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="101" column="11" selection-start="7264" selection-end="7264" vertical-scroll-proportion="0.0">
@@ -815,7 +811,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="47" selection-start="182" selection-end="203" vertical-scroll-proportion="0.23901582">
+        <state line="4" column="2" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="39" selection-start="1311" selection-end="1311" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="38" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.6415094">
           <folding />
         </state>
       </provider>
