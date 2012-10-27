@@ -3,7 +3,6 @@
 
   img {
     @include transition(all 0.2s ease-in-out);
-    border: 4px solid white;
     vertical-align: middle;
 
     &:hover {
