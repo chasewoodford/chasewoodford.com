@@ -1,7 +1,7 @@
 .search-box-input {
   width: 30%;
-  height: 14px;
-  margin-right: 14px;
+  height: 20px !important;
+  margin-right: 12px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   @include transition(all 0.5s ease-in-out);
