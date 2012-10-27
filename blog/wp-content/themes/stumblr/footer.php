@@ -3,7 +3,7 @@
         <p style="float:left;margin:0;padding:0;">
             &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
             <h2 class="bullet">&#8226;</h2>
-            <a href="<?php bloginfo('url'); ?>/feed?cat=-10">>RSS&nbsp;<i class="icon-rss"></i></a>
+            <a href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
          </p>
      </div>
 </footer>

@@ -49,5 +49,6 @@ a:hover, a:active, a:focus {
 
   &.inline {
     text-decoration: underline;
+    text-shadow: $highlight-inlineText;
   }
 }
