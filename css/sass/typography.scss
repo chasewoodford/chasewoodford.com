@@ -78,6 +78,13 @@ $font-Insign:         'Insign';
   vertical-align: text-top;
 }
 
+sup > [class^="icon-"],
+sup > [class*=" icon-"] {
+  display: inline-block;
+  width: auto;
+  vertical-align: text-top;
+}
+
 // fontello styles
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
