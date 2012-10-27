@@ -2,16 +2,6 @@
    
 	// Add RSS links to <head> section
 	add_theme_support('automatic-feed-links') ;
-
-    //
-    function myFilter($query) {
-        if ($query->is_feed) {
-            $query->set('cat','-10');
-        }
-        return $query;
-    }
-
-    add_filter('pre_get_posts','myFilter');
 	
 	// Load jQuery
 	if ( !function_exists('core_mods') ) {
