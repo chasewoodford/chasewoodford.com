@@ -104,7 +104,6 @@ $font-Insign:         'Insign';
 .icon-quote-left-alt:before     { content: '\275b'; }
 .icon-quote-right-alt:before    { content: '\275c'; }
 .icon-tag:before                { content: '\e70c'; }
-.icon-export:before             { content: '\e715'; }
 .icon-retweet:before            { content: '\e717'; }
 .icon-comment:before            { content: '\e718'; }
 .icon-chat:before               { content: '\e720'; }
@@ -115,7 +114,7 @@ $font-Insign:         'Insign';
 .icon-terminal:before           { content: '\e7ac'; }
 .icon-facebook:before           { content: '\f300'; }
 .icon-twitter-bird:before       { content: '\f303'; }
-.icon-github:before             { content: '\f308'; padding-top: 1px; }
+.icon-github:before             { content: '\f308'; }
 .icon-linkedin:before           { content: '\f31a'; }
 .icon-picture:before            { content: '\1f304'; }
 .icon-video:before              { content: '\1f3ac'; }
@@ -130,8 +129,6 @@ $font-Insign:         'Insign';
 .icon-download:before           { content: '\1f4e5'; }
 .icon-mobile:before             { content: '\1f4f1'; }
 .icon-search-1:before           { content: '\1f50e'; }
-.icon-link-1:before             { content: '\e800'; }
-.icon-link:before               { content: '\1f517'; }
 
 h1 {
   font-family: $font-Calluna, serif;
