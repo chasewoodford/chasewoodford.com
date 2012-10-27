@@ -99,10 +99,16 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 blockquote 		{ font-size:2em; line-height:23px; color:#000; margin-left:20px; border-left: 1px dotted #999; padding-left:25px; margin-top:15px; margin-bottom:15px; }
 #respond { display:none; }
 
-.blog-image img {
-  width: 200px;
+.blog-image-full img {
+  width: 400px;
   margin: 0;
   @include box-shadow(0 8px 10px -6px black);
   vertical-align: middle;
   @include box-sizing(border-box);
 }
+
+.blog-image-half img {
+  @extend .blog-image-full;
+  width: 200px;
+}
+
