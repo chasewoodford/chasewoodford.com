@@ -82,6 +82,8 @@ sup > [class^="icon-"],
 sup > [class*=" icon-"] {
   display: inline-block;
   width: auto;
+  height: auto;
+  line-height: auto;
   vertical-align: text-top;
 }
 

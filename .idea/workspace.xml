@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/typography.scss" afterPath="$PROJECT_DIR$/css/sass/typography.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -79,7 +80,7 @@
       <file leaf-file-name="typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="14" selection-start="2791" selection-end="2791" vertical-scroll-proportion="0.51978415">
+            <state line="85" column="19" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.58093524">
               <folding />
             </state>
           </provider>
@@ -705,7 +706,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating fontello" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjusting sup tag font styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -718,7 +719,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adding icons" />
     <MESSAGE value="tweaking fontello" />
     <MESSAGE value="adding picture" />
     <MESSAGE value="adding max-width to grid" />
@@ -743,6 +743,7 @@
     <MESSAGE value="updating blog styles" />
     <MESSAGE value="testing nested list styles" />
     <MESSAGE value="updating fontello" />
+    <MESSAGE value="adjusting sup tag font styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -845,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="14" selection-start="2791" selection-end="2791" vertical-scroll-proportion="0.51978415">
+        <state line="85" column="19" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.58093524">
           <folding />
         </state>
       </provider>
