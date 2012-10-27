@@ -43,8 +43,14 @@
                         <li>Experience</li>
                         <li>Education</li>
                         <li>Currently reading</li>
+                            <ul>
+                                <li>A list of books being read now</li>
+                                <li>Recommendations</li>
+                                <li>Looking forward to</li>
+                            </ul>
                         <li>Link to contact</li>
                         <li>Link portfolio/work</li>
+                        <li>Link to playground</li>
                     </ul>
                     <?php
                     include ("../social.php");
