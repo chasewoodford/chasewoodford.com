@@ -2,6 +2,16 @@
    
 	// Add RSS links to <head> section
 	add_theme_support('automatic-feed-links') ;
+
+    //
+    function myFilter($query) {
+        if ($query->is_feed) {
+            $query->set('cat','-10');
+        }
+        return $query;
+    }
+
+    add_filter('pre_get_posts','myFilter');
 	
 	// Load jQuery
 	if ( !function_exists('core_mods') ) {
@@ -143,6 +153,7 @@
      }
 	}
 
+    // Custom read more link after excerpt
     function new_excerpt_more($more) {
         global $post;
         return '... <br/><a class="no-shadow continue-reading inline" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
