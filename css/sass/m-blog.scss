@@ -117,3 +117,8 @@ blockquote 		{ font-size:2em; line-height:23px; color:#000; margin-left:20px; bo
   vertical-align: middle;
   @include box-sizing(border-box);
 }
+
+.update {
+  font-size: 70%;
+  margin: 0;
+}
