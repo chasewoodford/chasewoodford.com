@@ -33,6 +33,7 @@
 }
 
 .grid-8 {
+  overflow:hidden;
   margin: 0 auto;
   width: flex-grid(8); // 67.5%
 }
