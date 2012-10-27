@@ -69,6 +69,15 @@ $font-Insign:         'Insign';
   font-style: normal;
 }
 
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  line-height: 14px;
+  vertical-align: text-top;
+}
+
 // fontello styles
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
