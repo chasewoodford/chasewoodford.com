@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/bootstrap/_code.scss" afterPath="$PROJECT_DIR$/css/sass/bootstrap/_code.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss" afterPath="$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -77,15 +75,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_prism.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="80" selection-end="80" vertical-scroll-proportion="-1.36">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,16 +96,25 @@
       <file leaf-file-name="_code.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="2" selection-end="1400" vertical-scroll-proportion="0.0">
+            <state line="35" column="27" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_prism.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="27" selection-start="190" selection-end="190" vertical-scroll-proportion="0.2905983">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="17" selection-start="399" selection-end="399" vertical-scroll-proportion="0.7234042">
+            <state line="16" column="17" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -195,9 +193,9 @@
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/javascript/prism.js" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
-        <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_code.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
       </list>
     </option>
   </component>
@@ -790,7 +788,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="tweaking prism" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing bootstrap code styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -803,7 +801,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="styling contact form" />
     <MESSAGE value="test" />
     <MESSAGE value="positioning adjustment" />
     <MESSAGE value="removing bootstrap form styling on font" />
@@ -828,6 +825,7 @@
     <MESSAGE value="adding prism, refactoring sass" />
     <MESSAGE value="adding prism" />
     <MESSAGE value="tweaking prism" />
+    <MESSAGE value="removing bootstrap code styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -922,23 +920,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="80" selection-end="80" vertical-scroll-proportion="-1.36">
+        <state line="16" column="17" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="2" selection-end="1400" vertical-scroll-proportion="0.0">
+        <state line="35" column="27" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="17" selection-start="399" selection-end="399" vertical-scroll-proportion="0.7234042">
+        <state line="7" column="27" selection-start="190" selection-end="190" vertical-scroll-proportion="0.2905983">
           <folding />
         </state>
       </provider>
