@@ -105,7 +105,16 @@
       <file leaf-file-name="_prism.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="36" selection-start="446" selection-end="446" vertical-scroll-proportion="0.53276354">
+            <state line="24" column="45" selection-start="492" selection-end="492" vertical-scroll-proportion="0.6163142">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="115" column="2" selection-start="7362" selection-end="7405" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -850,11 +859,6 @@
         <state line="12" column="82" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="91" selection-start="7469" selection-end="7469" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/bootstrap/_sprites.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="2" selection-start="529" selection-end="557" vertical-scroll-proportion="0.029876977">
@@ -934,9 +938,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="2" selection-start="7362" selection-end="7405" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="36" selection-start="446" selection-end="446" vertical-scroll-proportion="0.53276354">
+        <state line="24" column="45" selection-start="492" selection-end="492" vertical-scroll-proportion="0.6163142">
           <folding />
         </state>
       </provider>
