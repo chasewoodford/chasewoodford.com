@@ -6,11 +6,11 @@
             <a href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
          </p>
      </div>
-    <script src="/javascript/prism.js"></script>
 </footer>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/javascript/jquery-1.7.min.js"><\/script>')</script>
+<script src="/javascript/prism.js"></script>
 <script src="/javascript/contact_form.js"></script>
 <script src="/javascript/chirp.min.js"></script>
 <script>Chirp({

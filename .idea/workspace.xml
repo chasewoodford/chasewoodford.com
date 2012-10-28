@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,10 +77,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_prism.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_prism.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="-12.92">
+            <state line="76" column="0" selection-start="1070" selection-end="1070" vertical-scroll-proportion="1.90625">
               <folding />
             </state>
           </provider>
@@ -114,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="48" selection-start="412" selection-end="412" vertical-scroll-proportion="0.25660378">
+            <state line="12" column="44" selection-start="620" selection-end="620" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
@@ -158,9 +159,9 @@
         <option value="$PROJECT_DIR$/css/sass/base.scss" />
         <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
         <option value="$PROJECT_DIR$/javascript/prism.js" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
+        <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
       </list>
     </option>
   </component>
@@ -863,13 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="-12.92">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/prism.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="443" column="2" selection-start="13779" selection-end="13779" vertical-scroll-proportion="0.0">
@@ -895,7 +889,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="48" selection-start="412" selection-end="412" vertical-scroll-proportion="0.25660378">
+        <state line="12" column="44" selection-start="620" selection-end="620" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_prism.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="1070" selection-end="1070" vertical-scroll-proportion="1.90625">
           <folding />
         </state>
       </provider>
