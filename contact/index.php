@@ -23,7 +23,7 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
-                        contact
+                        say hello
                     </h3>
                 </header>
                 <section class="content">
