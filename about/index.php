@@ -33,9 +33,9 @@
                     <div class="static main">
                         <img src="../images/chase.png" alt="Chase sitting at his computer">
                     </div>
-                    <h5 class="left lead">
+                    <p class="left lead">
                         I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA.
-                    </h5>
+                    </p>
                     <p class="left">
                         I work at <a class="inline" href="http://www.verilogue.com" title="verilogue.com" target="_blank">Verilogue<sup><i class="icon-popup"></i></sup></a>, a medical marketing research company, as part of a three man rock star development team. We build web sites and applications that bring the healthcare industry together to share information and enhance disease understanding, like <a class="inline" href="http://www.carecoach.com" title="carecoach.com" target="_blank">CareCoach.com<sup><i class="icon-popup"></i></sup></a>, which provides patients and caregivers tools to improve their communications with their healthcare providers.
                     </p>

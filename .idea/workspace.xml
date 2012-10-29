@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -76,19 +77,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="24" selection-start="1662" selection-end="1662" vertical-scroll-proportion="-12.423077">
+            <state line="37" column="23" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.60943395">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="187" column="12" selection-start="6151" selection-end="6151" vertical-scroll-proportion="0.32768363">
+            <state line="185" column="0" selection-start="6126" selection-end="6162" vertical-scroll-proportion="-6.28">
               <folding />
             </state>
           </provider>
@@ -148,8 +149,8 @@
         <option value="$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss" />
         <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
         <option value="$PROJECT_DIR$/contact/index.php" />
-        <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
+        <option value="$PROJECT_DIR$/about/index.php" />
       </list>
     </option>
   </component>
@@ -801,16 +802,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="24" selection-start="1662" selection-end="1662" vertical-scroll-proportion="-12.423077">
+        <state line="185" column="0" selection-start="6126" selection-end="6162" vertical-scroll-proportion="-6.28">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+    <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="12" selection-start="6151" selection-end="6151" vertical-scroll-proportion="0.32768363">
+        <state line="37" column="23" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.60943395">
           <folding />
         </state>
       </provider>
