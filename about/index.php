@@ -31,7 +31,7 @@
                 </header>
                 <section class="content center">
                     <div class="static main">
-                        <img src="../images/chase.png" alt="Chase sitting at his computer">
+                        <img src="/images/chase.png" alt="Chase sitting at his computer">
                     </div>
                     <p class="left lead">
                         I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA.

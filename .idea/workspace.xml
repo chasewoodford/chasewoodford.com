@@ -77,19 +77,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="23" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.60943395">
+            <state line="33" column="34" selection-start="1402" selection-end="1402" vertical-scroll-proportion="-9.807693">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="185" column="0" selection-start="6126" selection-end="6162" vertical-scroll-proportion="-6.28">
+            <state line="187" column="21" selection-start="6163" selection-end="6163" vertical-scroll-proportion="0.39171374">
               <folding />
             </state>
           </provider>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss" />
         <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
         <option value="$PROJECT_DIR$/contact/index.php" />
-        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
       </list>
     </option>
   </component>
@@ -802,16 +802,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+    <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="0" selection-start="6126" selection-end="6162" vertical-scroll-proportion="-6.28">
+        <state line="33" column="34" selection-start="1402" selection-end="1402" vertical-scroll-proportion="-9.807693">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="23" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.60943395">
+        <state line="187" column="21" selection-start="6163" selection-end="6163" vertical-scroll-proportion="0.39171374">
           <folding />
         </state>
       </provider>
