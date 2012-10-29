@@ -33,8 +33,11 @@
                     <div class="static main">
                         <img src="../images/chase.png" alt="Chase sitting at his computer">
                     </div>
+                    <h5 class="left lead">
+                        I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA.
+                    </h5>
                     <p class="left">
-                        I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA. I work at <a class="inline" href="http://www.verilogue.com" title="verilogue.com" target="_blank">Verilogue<sup><i class="icon-popup"></i></sup></a>, a medical marketing research company, as part of a three man rock star development team. We build web sites and applications that bring the healthcare industry together to share information and enhance disease understanding, like <a class="inline" href="http://www.carecoach.com" title="carecoach.com" target="_blank">CareCoach.com<sup><i class="icon-popup"></i></sup></a>, which provides patients and caregivers tools to improve their communications with their healthcare providers.
+                        I work at <a class="inline" href="http://www.verilogue.com" title="verilogue.com" target="_blank">Verilogue<sup><i class="icon-popup"></i></sup></a>, a medical marketing research company, as part of a three man rock star development team. We build web sites and applications that bring the healthcare industry together to share information and enhance disease understanding, like <a class="inline" href="http://www.carecoach.com" title="carecoach.com" target="_blank">CareCoach.com<sup><i class="icon-popup"></i></sup></a>, which provides patients and caregivers tools to improve their communications with their healthcare providers.
                     </p>
                     <p class="left">
                         I enjoy writing about web design, and throughout this site share my experience as a developer working for a small business at the intersection of Big Data and Big Pharma. In my spare time I like to compose music, which I link to from the <a class="inline" href="/playground" title="playground" target="_self">playground</a> along with all of my other side projects.

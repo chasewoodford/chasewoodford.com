@@ -142,6 +142,7 @@ sup > [class*=" icon-"] {
 .icon-mobile:before             { content: '\1f4f1'; }
 .icon-search-1:before           { content: '\1f50e'; }
 
+// chasewoodford.com
 h1 {
   font-family: $font-Calluna, serif;
   font-size: 40px; font-size: 2.5rem;  // 40/16
@@ -151,6 +152,7 @@ h1 {
   text-shadow: $highlight-subtle, $highlight-dropShadow;
 }
 
+// nav
 h2 {
   position: relative;
   float: left;
@@ -165,6 +167,7 @@ h2 {
   padding: 0 12px;
 }
 
+// blog title
 h3 {
   margin: 10px 0 0;
   font-family: $font-UbuntuLtReg, serif;
@@ -172,11 +175,17 @@ h3 {
   @include box-shadow(0 4px 6px rgba(0, 0, 0, 0.5) inset, 0 -2px 4px rgba(0, 0, 0, 0.2) inset);
 }
 
+// sidebar titles
 h4 {
   margin: 0;
   font-family: $font-UbuntuLtReg, serif;
   text-transform: lowercase;
   text-shadow: $highlight-subtle, $highlight-dropShadow;
+}
+
+// lead
+h5 {
+  font-size: 175%;
 }
 
 .nav-primary {
@@ -211,10 +220,6 @@ p {
 
 .no-shadow:hover {
   text-shadow: none !important;
-}
-
-.kansas:hover {
-  @extend h1;
 }
 
 body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact .nav-primary .contact h2, body.work .nav-primary .work h2 {
