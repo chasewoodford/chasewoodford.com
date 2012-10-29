@@ -143,7 +143,7 @@ sup > [class*=" icon-"] {
 .icon-search-1:before           { content: '\1f50e'; }
 
 // chasewoodford.com
-h1 {
+h1, .kansas:hover {
   font-family: $font-Calluna, serif;
   font-size: 40px; font-size: 2.5rem;  // 40/16
   line-height: 30px; line-height: 1.875rem; // 30/16
@@ -189,7 +189,6 @@ h4 {
   font-size: 150%;
   line-height: 36px;
   letter-spacing: -1px;
-
 }
 
 .nav-primary {
