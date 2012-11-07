@@ -2,20 +2,48 @@
 
 <?php get_header(); ?>
 
-<div id="post-area">
+<div id="post-area" class="grid-8">
 
 <?php if (have_posts()) : ?>
 <?php while (have_posts()) : the_post(); ?>	
 
    	  <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-                            <div class="title"><h1><?php the_title(); ?></h1></div>
+             <header>
+                 <h3 class="title-background">
+                     <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+                        <span class="blog-category" style="">
+                            <?php the_category(', ') ?>
+                        </span>
+                 </h3>
+             </header>
+             <section class="content">
+                 <?php the_content(''); ?>
+                 <div class="stumblr-meta">
+                     <p>
+                        <span class="stumblr-date">
+                            <?php   the_time('F Y'); ?>
+                        </span>
+                        <span class="stumblr-category">
+                            <?php
+                            $posttags = get_the_tags();
+                            if ($posttags) {
+                                foreach($posttags as $tag) {
+                                    echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
+                                }
+                            }
+                            ?>
+                        </span>
+                     </p>
+                 </div>
+             </section>
+<!--             <div class="title"><h1>--><?php //the_title(); ?><!--</h1></div>-->
 
-              <div class="content">
-              
-              
-                    <?php if ( has_post_thumbnail() ) { ?><div class="stumblr-image"><?php the_post_thumbnail( 'stumblr-large-image' );  ?></div><?php } ?>  
-                          
-              		<?php the_content(); ?>
+<!--              <div class="content">-->
+<!--              -->
+<!--              -->
+<!--                    --><?php //if ( has_post_thumbnail() ) { ?><!--<div class="stumblr-image">--><?php //the_post_thumbnail( 'stumblr-large-image' );  ?><!--</div>--><?php //} ?><!--  -->
+<!--                          -->
+<!--              		--><?php //the_content(); ?>
                     
                     <?php wp_link_pages(); ?>
 
@@ -24,11 +52,7 @@
 
 
               </div>
-            
-            <div class="stumblr-meta">
-            	<p><?php the_tags(); ?></p>
-                <p><span class="stumblr-date"><?php the_time(get_option('date_format')); ?></span> <span class="stumblr-category"> <?php the_category(', ') ?></span></p>
-            </div>
+
 
          
              

@@ -20,19 +20,19 @@
                 <?php the_content(''); ?>
                 <div class="stumblr-meta">
                     <p>
-                            <span class="stumblr-date">
-                                <?php   the_time('F Y'); ?>
-                            </span>
-                            <span class="stumblr-category">
-                                <?php
-                                $posttags = get_the_tags();
-                                if ($posttags) {
-                                    foreach($posttags as $tag) {
-                                        echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
-                                    }
+                        <span class="stumblr-date">
+                            <?php   the_time('F Y'); ?>
+                        </span>
+                        <span class="stumblr-category">
+                            <?php
+                            $posttags = get_the_tags();
+                            if ($posttags) {
+                                foreach($posttags as $tag) {
+                                    echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
                                 }
-                                ?>
-                            </span>
+                            }
+                            ?>
+                        </span>
                     </p>
                 </div>
             </section>

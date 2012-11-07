@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
 
-<div id="post-area">
+<div id="post-area" class="grid-8">
 
    	  	  <div id="post-<?php the_ID(); ?>" class="page type-page">
                             <div class="title"><h1>404 Error : Page Not Found</h1></div>
