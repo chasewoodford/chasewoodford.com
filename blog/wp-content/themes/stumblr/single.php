@@ -1,25 +1,25 @@
-
-
 <?php get_header(); ?>
 
-<div id="post-area" class="grid-8">
+<div class="grid-8">
+    <div id="post-area" class="grid-blog">
+    <?php if (have_posts()) : ?>
+    <?php while (have_posts()) : the_post(); ?>
 
-<?php if (have_posts()) : ?>
-<?php while (have_posts()) : the_post(); ?>	
-
-   	  <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-             <header>
-                 <h3 class="title-background">
-                     <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
-                        <span class="blog-category" style="">
-                            <?php the_category(', ') ?>
-                        </span>
-                 </h3>
-             </header>
-             <section class="content">
-                 <?php the_content(''); ?>
-                 <div class="stumblr-meta">
-                     <p>
+   	    <article class="hero post type-post">
+            <header>
+                <h3 class="title-background">
+                    <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+                    <span class="blog-category" style="">
+                        <?php the_category(', ') ?>
+                    </span>
+                </h3>
+            </header>
+            <section class="content">
+                <?php the_content(''); ?>
+                <?php wp_link_pages(); ?>
+                <?php comments_template(); ?>
+                <div class="stumblr-meta">
+                    <p>
                         <span class="stumblr-date">
                             <?php   the_time('F Y'); ?>
                         </span>
@@ -33,38 +33,28 @@
                             }
                             ?>
                         </span>
-                     </p>
-                 </div>
-             </section>
-<!--             <div class="title"><h1>--><?php //the_title(); ?><!--</h1></div>-->
+                    </p>
+                </div>
+            </section>
+            <div class="clear"></div>
+        </article>
 
-<!--              <div class="content">-->
-<!--              -->
-<!--              -->
-<!--                    --><?php //if ( has_post_thumbnail() ) { ?><!--<div class="stumblr-image">--><?php //the_post_thumbnail( 'stumblr-large-image' );  ?><!--</div>--><?php //} ?><!--  -->
-<!--                          -->
-<!--              		--><?php //the_content(); ?>
-                    
-                    <?php wp_link_pages(); ?>
+        <?php endwhile; ?>
 
+        <?php else : ?>
+        <?php endif; ?>
 
-                    <?php comments_template(); ?>
-
-
-              </div>
-
-
-         
-             
-	  <div class="clear"></div></div><!-- end post -->
-       
-       
-
-<?php endwhile; ?>
-<?php else : ?>
-<?php endif; ?>
     </div>
 
-    
- 
-<?php get_footer(); ?>
+    <div id="sidebar" class="grid-2">
+        <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
+        <div id="sidebar-widget-area">
+            <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
+        </div>
+        <?php }  ?>
+    </div>
+</div>
+
+<?php
+include ("footer.php");
+?>
