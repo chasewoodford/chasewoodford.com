@@ -4,7 +4,7 @@
     <div id="post-area" class="grid-blog">
     <?php if (have_posts()) : ?>
     <?php
-        query_posts( 'orderby=post_date&order=DESC' );
+
         while ( have_posts() ) : the_post();
     ?>
         <article class="hero post type-post">
