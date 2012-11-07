@@ -12,7 +12,7 @@
     <?php wp_head(); ?>
     <?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 </head>
-<body id="top" <?php body_class(); ?>>
+<body id="top" class="blog">
 <div class="wrapper">
     <header class="grid-8">
         <img class="logo pulse" src="../../../../images/logo.png" alt="logo"/>

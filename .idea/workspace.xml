@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,19 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="single.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="2" selection-start="1981" selection-end="1981" vertical-scroll-proportion="0.80754715">
+            <state line="59" column="2" selection-start="1981" selection-end="1981" vertical-scroll-proportion="-16.461538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="2015" selection-end="2047" vertical-scroll-proportion="-39.23077">
+            <state line="60" column="0" selection-start="2015" selection-end="2047" vertical-scroll-proportion="1.9245284">
               <folding />
             </state>
           </provider>
@@ -98,6 +98,15 @@
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="135" column="1" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="26" selection-start="472" selection-end="472" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
@@ -125,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/javascript/prism.js" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
@@ -141,6 +149,7 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/404.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
       </list>
     </option>
   </component>
@@ -674,7 +683,11 @@
       <created>1352248411117</created>
       <updated>1352248411117</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="updating single post styling">
+      <created>1352248968596</created>
+      <updated>1352248968596</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -765,7 +778,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing unused files, updating single post styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating single post styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -778,7 +791,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="layout adjustment" />
     <MESSAGE value="removing more bootstrap styling" />
     <MESSAGE value="styling forms" />
     <MESSAGE value="remove category from rss feed" />
@@ -803,6 +815,7 @@
     <MESSAGE value="adding source files to vcs" />
     <MESSAGE value="updating about page" />
     <MESSAGE value="removing unused files, updating single post styling" />
+    <MESSAGE value="updating single post styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -852,13 +865,6 @@
         <state line="2" column="49" selection-start="179" selection-end="179" vertical-scroll-proportion="0.062615104" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="1" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-admin/includes/file.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="5" selection-start="961" selection-end="961" vertical-scroll-proportion="-0.7056604">
@@ -880,16 +886,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="2015" selection-end="2047" vertical-scroll-proportion="-39.23077">
+        <state line="59" column="2" selection-start="1981" selection-end="1981" vertical-scroll-proportion="-16.461538">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="2" selection-start="1981" selection-end="1981" vertical-scroll-proportion="0.80754715">
+        <state line="135" column="1" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="472" selection-end="472" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="2015" selection-end="2047" vertical-scroll-proportion="1.9245284">
           <folding />
         </state>
       </provider>
