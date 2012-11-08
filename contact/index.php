@@ -27,8 +27,11 @@
                     </h3>
                 </header>
                 <section class="content">
-                        <p>
+                        <p class="lead left">
                             I'm always happy to chat. Feel free to drop me a line.
+                        </p>
+                        <p>
+                            Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
                         </p>
                         <form id="ajax-contact-form">
                             <fieldset class="info_fieldset">
