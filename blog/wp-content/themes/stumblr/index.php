@@ -4,9 +4,11 @@
     <div id="post-area" class="grid-blog">
     <?php if (have_posts()) : ?>
     <?php
-        // add the line below to page that doesn't affect category/archive views
-        // query_posts( 'cat=-10&orderby=post_date&order=DESC' );
+        if (is_home()) {
+            // add the line below to page that doesn't affect category/archive views
+        query_posts( 'cat=-10&orderby=post_date&order=DESC' ); }
         while ( have_posts() ) : the_post();
+
     ?>
         <article class="hero post type-post">
             <header>
