@@ -2,9 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/locales/default.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/media/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/screenshot-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/screenshot-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/screenshot-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/email_sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/facebook-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/google-plus-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/linkdex-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/score_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/twitter-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/waiting.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/wordpress-SEO-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/yoast-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/yoast-icon-grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/yoast-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/images/yoast-logo-rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-bg.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-bg_BG.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-bs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-bs_BA.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-cs_CZ.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-da_DK.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-de_DE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-el_GR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-es_ES.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-es_VE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-fa_IR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-fi.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-fr_FR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-he_IL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-hu.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-hu_HU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-id_ID.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-it_IT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-nb_NO.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-nl_NL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-pl_PL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-pt_BR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-pt_PT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-ru_RU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-sv_SE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-tr_TK.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo-zh_CN.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/disqus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/lib/api/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/lib/api/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/lib/api/disqus/disqus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/lib/api/disqus/json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/lib/api/disqus/url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/lib/wp-api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/lib/wp-cli.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/locales/default.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/locales/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/manage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/media/styles/manage-pre25.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/media/styles/manage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/scripts/export-comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/scripts/import-comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/upgrade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/disqus-comment-system/xd_receiver.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/TextStatistics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/ajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-metabox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-opengraph-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-pointers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-sitemaps-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/class-tracking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/internal-links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/metas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/network.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/permalinks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/rss.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/social.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/admin/pages/xml-sitemaps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/adminbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/edit-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/jquery.tablesorter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/metabox-classic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/metabox-fresh.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/metabox-tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/xml-sitemap-xsl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/xml-sitemap.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/xml-video-sitemap.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/css/yst_plugin_tools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/frontend/class-breadcrumbs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/frontend/class-frontend.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/frontend/class-opengraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/frontend/class-twitter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/inc/class-rewrite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/inc/class-sitemaps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/inc/wpseo-non-ajax-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/js/jquery-ui-autocomplete.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/js/wp-seo-admin-global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/js/wp-seo-admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/js/wp-seo-metabox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/languages/wordpress-seo.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/wordpress-seo/wp-seo.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -80,7 +191,52 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="351" selection-end="351" vertical-scroll-proportion="-5.8846154">
+            <state line="10" column="12" selection-start="351" selection-end="351" vertical-scroll-proportion="-6.5384617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playground/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="-2.3333333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sassulator/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="277" selection-end="277" vertical-scroll-proportion="0.4815864">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="45" selection-start="102" selection-end="102" vertical-scroll-proportion="-2.6153846">
               <folding />
             </state>
           </provider>
@@ -89,16 +245,16 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="107" selection-start="1848" selection-end="1853" vertical-scroll-proportion="-9.153846">
+            <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="28" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.49245283">
+            <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
               <folding />
             </state>
           </provider>
@@ -126,22 +282,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/style.scss" />
-        <option value="$PROJECT_DIR$/javascript/prism.js" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_code.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/bootstrap.scss" />
         <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
-        <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/page.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/404.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
-        <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
+        <option value="$PROJECT_DIR$/work/index.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php" />
+        <option value="$PROJECT_DIR$/about/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/playground/index.html" />
+        <option value="$PROJECT_DIR$/sassulator/index.html" />
       </list>
     </option>
   </component>
@@ -224,6 +380,86 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="contact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumblr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -587,7 +823,11 @@
       <created>1352332985985</created>
       <updated>1352332985985</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="adding lead sentence styling">
+      <created>1352333656424</created>
+      <updated>1352333656424</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -612,12 +852,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.49226806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28236914" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
@@ -628,7 +869,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19726859" sideWeight="0.6750842" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19726859" sideWeight="0.7222222" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -637,7 +878,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -678,7 +918,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="wp test" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lead sentence styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -691,7 +931,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="remove category from rss feed" />
     <MESSAGE value="styling links" />
     <MESSAGE value="removing bootstrap sprites" />
     <MESSAGE value="adding export icon to external links" />
@@ -716,6 +955,7 @@
     <MESSAGE value="updating single post styling" />
     <MESSAGE value="wp band aid" />
     <MESSAGE value="wp test" />
+    <MESSAGE value="adding lead sentence styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -725,26 +965,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="32" selection-start="1890" selection-end="1890" vertical-scroll-proportion="0.22830188" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="17" selection-start="5303" selection-end="5303" vertical-scroll-proportion="0.03954802" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="78" selection-start="909" selection-end="909" vertical-scroll-proportion="-5.8846154" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="49" selection-start="179" selection-end="179" vertical-scroll-proportion="0.062615104" />
@@ -775,11 +995,6 @@
         <state line="135" column="1" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.21968366" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="472" selection-end="472" vertical-scroll-proportion="0.25046042" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-load.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6037736" />
@@ -790,23 +1005,58 @@
         <state line="18" column="20" selection-start="269" selection-end="269" vertical-scroll-proportion="0.4383057" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
+    <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="351" selection-end="351" vertical-scroll-proportion="-5.8846154">
+        <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="107" selection-start="1848" selection-end="1853" vertical-scroll-proportion="-9.153846">
+        <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="28" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.49245283">
+        <state line="4" column="45" selection-start="102" selection-end="102" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="351" selection-end="351" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="-2.3333333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sassulator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="277" selection-end="277" vertical-scroll-proportion="0.4815864">
           <folding />
         </state>
       </provider>
