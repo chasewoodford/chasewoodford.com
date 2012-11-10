@@ -36,6 +36,9 @@
                             }
                             ?>
                         </span>
+                        <span class="stumblr-other-right">
+                            <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
+                        </span>
                     </p>
                 </div>
             </section>

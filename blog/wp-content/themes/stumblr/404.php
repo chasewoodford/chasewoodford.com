@@ -28,7 +28,7 @@
             
          
              
-     <div class="clear"></div></div><!-- end page -->
+     <div class="clear"></div></div>
        
        
 
