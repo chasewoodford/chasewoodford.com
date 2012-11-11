@@ -16,8 +16,7 @@
             </header>
             <section class="content">
                 <?php the_content(''); ?>
-                <?php wp_link_pages(); ?>
-                <?php comments_template(); ?>
+
                 <div class="stumblr-meta">
                     <p>
                         <span class="stumblr-date">
@@ -35,6 +34,9 @@
                         </span>
                     </p>
                 </div>
+
+                <?php wp_link_pages(); ?>
+                <?php comments_template(); ?>
             </section>
             <div class="clear"></div>
         </article>

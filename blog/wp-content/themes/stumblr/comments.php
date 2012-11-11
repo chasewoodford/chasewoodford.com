@@ -12,8 +12,10 @@
 
 <?php if ( have_comments() ) : ?>
 	
-  <div class="comments-area"> 
-	<h3><?php comments_number('No Comments', 'One Comment', '% Comments' );?></h3>
+  <div class="comments-area">
+      <p class="comments">
+          <strong><em>COMMENTS:</em></strong>
+      </p>
 
 	<div class="navigation">
 		<div class="next-posts"><?php previous_comments_link() ?></div>
@@ -47,10 +49,6 @@
 
 
 <div>
-
-	<p class="comments">
-        <strong><em>COMMENTS:</em></strong>
-    </p>
 
 	<div class="cancel-comment-reply">
 		<?php cancel_comment_reply_link(); ?>
