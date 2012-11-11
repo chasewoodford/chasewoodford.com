@@ -22,9 +22,9 @@
 
 <?php if ( comments_open() ) : ?>
 
-    <div class="cancel-comment-reply">
-        <?php cancel_comment_reply_link(); ?>
-    </div>
+<!--    <div class="cancel-comment-reply">-->
+<!--        --><?php //cancel_comment_reply_link(); ?>
+<!--    </div>-->
 
     <form action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" method="post" id="commentform">
 

@@ -9,7 +9,7 @@
 
     <!-- wp head -->
     <?php wp_head(); ?>
-    <?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
+<!--    --><?php //if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 </head>
 <body id="top" class="blog">
 <div class="wrapper">
