@@ -9,10 +9,10 @@
 			if ( !is_admin() ) {
 				wp_deregister_script('jquery');
 				wp_register_script('jquery', ("http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"));
-				wp_register_script('stumblr.functions', (get_template_directory_uri()."/js/functions.js"),'jquery',false,true);
+				wp_register_script('v2.functions', (get_template_directory_uri()."/js/functions.js"),'jquery',false,true);
 				
 				wp_enqueue_script('jquery');
-				wp_enqueue_script('stumblr.functions');
+				wp_enqueue_script('v2.functions');
 			}
 		}
 		core_mods();
@@ -32,14 +32,14 @@
     add_action('init', 'removeHeadLinks');
     remove_action('wp_head', 'wp_generator');
     
-	// Stumblr post thumbnails
+	// V2 post thumbnails
 	add_theme_support( 'post-thumbnails' );
-		add_image_size('stumblr-large-image', 740, 9999);
+		add_image_size('v2-large-image', 740, 9999);
 	
 	
 	// menu fallback
 	
-	function stumblr_addmenus() {
+	function v2_addmenus() {
 	register_nav_menus(
 		array(
 			'main_nav' => 'Main Menu',
@@ -47,16 +47,16 @@
 			);
 	}
 
-	add_action( 'init', 'stumblr_addmenus' );
+	add_action( 'init', 'v2_addmenus' );
 	
-	function stumblr_nav() {
+	function v2_nav() {
 		if ( function_exists( 'wp_nav_menu' ) )
-			wp_nav_menu( 'menu=main_nav&container_class=pagemenu&fallback_cb=stumblr_nav_fallback' );
+			wp_nav_menu( 'menu=main_nav&container_class=pagemenu&fallback_cb=v2_nav_fallback' );
 		else
-			stumblr_nav_fallback();
+			v2_nav_fallback();
 	}
 	
-	function stumblr_nav_fallback() {
+	function v2_nav_fallback() {
 		echo '<li><a href="';
 		echo home_url( '/' ); 
 		echo '">Home</a></li>';
@@ -67,7 +67,7 @@
 	if (function_exists('register_sidebar')) {
     	register_sidebar(array(
     		'name' => 'Side Widgets',
-    		'id'   => 'stumblr_widgets',
+    		'id'   => 'v2_widgets',
     		'description'   => 'Side Widget Area',
     		'before_widget' => '<div id="%1$s" class="side-widget %2$s">',
     		'after_widget'  => '</div>',
@@ -77,7 +77,7 @@
 		
 		register_sidebar(array(
     		'name' => 'Footer Widgets',
-    		'id'   => 'stumblr_footer',
+    		'id'   => 'v2_footer',
     		'description'   => 'Footer Widget Area',
     		'before_widget' => '<div id="%1$s" class="footer-widget %2$s">',
     		'after_widget'  => '</div>',
@@ -107,7 +107,7 @@
 
    // pagination
    
-  function stumblr_pagination($pages = '', $range = 2) {  
+  function v2_pagination($pages = '', $range = 2) {
      $showitems = ($range * 2)+1;  
 	 
      global $paged;
@@ -125,7 +125,7 @@
 
      if(1 != $pages)
      {
-         echo "<div class='stumblr-pagination'>";
+         echo "<div class='v2-pagination'>";
          if($paged > 2 && $paged > $range+1 && $showitems < $pages) echo "<a href='".get_pagenum_link(1)."'>&laquo;</a>";
          if($paged > 1 && $showitems < $pages) echo "<a href='".get_pagenum_link($paged - 1)."'>&lsaquo;</a>";
 

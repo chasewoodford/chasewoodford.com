@@ -81,5 +81,5 @@
 </div>
 
 <?php
-include ("../blog/wp-content/themes/stumblr/footer.php");
+include ("../blog/wp-content/themes/v2/footer.php");
 ?>

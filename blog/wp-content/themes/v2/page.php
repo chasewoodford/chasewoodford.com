@@ -12,7 +12,7 @@
 
               <div class="content">
                             
-                    <?php if ( has_post_thumbnail() ) { ?><div class="stumblr-image"><?php the_post_thumbnail( 'stumblr-large-image' );  ?></div><?php } ?>  
+                    <?php if ( has_post_thumbnail() ) { ?><div class="v2-image"><?php the_post_thumbnail( 'v2-large-image' );  ?></div><?php } ?>
                           
               		<?php the_content(); ?>
                     

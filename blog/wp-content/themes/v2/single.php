@@ -18,12 +18,12 @@
                 <?php the_content(''); ?>
                 <?php wp_link_pages(); ?>
                 <?php comments_template(); ?>
-                    <div class="stumblr-meta">
+                    <div class="v2-meta">
                         <p>
-                            <span class="stumblr-date">
+                            <span class="v2-date">
                                 <?php   the_time('F Y'); ?>
                             </span>
-                            <span class="stumblr-category">
+                            <span class="v2-category">
                                 <?php
                                 $posttags = get_the_tags();
                                 if ($posttags) {
@@ -48,9 +48,9 @@
     </div>
 
     <div id="sidebar" class="grid-2">
-        <?php if ( is_active_sidebar( 'stumblr_widgets')) { ?>
+        <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
         <div id="sidebar-widget-area">
-            <?php dynamic_sidebar( 'stumblr_widgets' ); ?>
+            <?php dynamic_sidebar( 'v2_widgets' ); ?>
         </div>
         <?php }  ?>
     </div>

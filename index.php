@@ -32,14 +32,14 @@
                 </header>
                 <section class="content">
                     <?php the_excerpt(); ?>
-                    <div class="stumblr-meta">
+                    <div class="v2-meta">
                         <p>
-                            <span class="stumblr-date">
+                            <span class="v2-date">
                                 <?php $arc_year = get_the_time('Y'); ?>
                                 <?php $arc_month = get_the_time('m'); ?>
                                 <?php the_time('F Y'); ?>
                             </span>
-                            <span class="stumblr-category">
+                            <span class="v2-category">
                                 <?php
                                     $posttags = get_the_tags();
                                     if ($posttags) {
@@ -49,7 +49,7 @@
                                     }
                                 ?>
                             </span>
-                            <span class="stumblr-other-right">
+                            <span class="v2-other-right">
                                 <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
                             </span>
                         </p>
@@ -64,5 +64,5 @@
     </div>
 </div>
 <?php
-include ("./blog/wp-content/themes/stumblr/footer.php");
+include ("./blog/wp-content/themes/v2/footer.php");
 ?>
