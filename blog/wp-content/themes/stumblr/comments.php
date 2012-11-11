@@ -46,7 +46,7 @@
 
 
 
-<div id="comment-form">
+<div>
 
 	<p class="comments">
         <strong><em>COMMENTS:</em></strong>
@@ -60,7 +60,7 @@
 <!--		<p>You must be <a href="--><?php //echo wp_login_url( get_permalink() ); ?><!--">logged in</a> to post a comment.</p>-->
 <!--	--><?php //else : ?>
 
-	<form action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" method="post">
+	<form action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" method="post" id="commentform">
 
 		<?php if ( is_user_logged_in() ) : ?>
 
