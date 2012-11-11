@@ -151,7 +151,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="22" selection-start="40" selection-end="40" vertical-scroll-proportion="0.091644205">
+            <state line="1" column="14" selection-start="17" selection-end="17" vertical-scroll-proportion="0.045822103">
               <folding />
             </state>
           </provider>
@@ -848,7 +848,11 @@
       <created>1352667542158</created>
       <updated>1352667542158</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="renaming theme">
+      <created>1352667667811</created>
+      <updated>1352667667811</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1093,7 +1097,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="40" selection-end="40" vertical-scroll-proportion="0.091644205">
+        <state line="1" column="14" selection-start="17" selection-end="17" vertical-scroll-proportion="0.045822103">
           <folding />
         </state>
       </provider>
