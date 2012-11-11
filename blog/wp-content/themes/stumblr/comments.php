@@ -48,7 +48,9 @@
 
 <div id="comment-form">
 
-	<p class="lead">Comments</p>
+	<p class="comments">
+        <strong><em>Comments</em></strong>
+    </p>
 
 	<div class="cancel-comment-reply">
 		<?php cancel_comment_reply_link(); ?>
@@ -70,7 +72,7 @@
 
 				<input type="text" name="email" id="email" value="Email *" size="22" class="text-input" tabindex="2" <?php if ($req) echo "aria-required='true'"; ?> />
 
-			<input type="text" name="url" id="url" value="Website *" size="22" class="text-input" tabindex="3" />
+<!--			<input type="text" name="url" id="url" value="Website *" size="22" class="text-input" tabindex="3" />-->
 		
   
 		<?php endif; ?>

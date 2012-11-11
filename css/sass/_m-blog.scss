@@ -118,12 +118,8 @@ blockquote 		{ font-size:2em; line-height:23px; color:#000; margin-left:20px; bo
   @include box-sizing(border-box);
 }
 
-.update {
+p.update, p.comments {
   font-size: 80%;
-  margin: 0;
-}
-
-p.update {
   margin: 20px 0 0 0;
 }
 
