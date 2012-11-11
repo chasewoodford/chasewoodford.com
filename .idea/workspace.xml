@@ -79,7 +79,7 @@
       <file leaf-file-name="_base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="36" selection-start="726" selection-end="736" vertical-scroll-proportion="0.6115993">
+            <state line="46" column="31" selection-start="731" selection-end="731" vertical-scroll-proportion="0.6115993">
               <folding />
             </state>
           </provider>
@@ -753,7 +753,11 @@
       <created>1352672792976</created>
       <updated>1352672792976</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="minor tweak to base styles">
+      <created>1352672943125</created>
+      <updated>1352672943125</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -972,7 +976,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="36" selection-start="726" selection-end="736" vertical-scroll-proportion="0.6115993">
+        <state line="46" column="31" selection-start="731" selection-end="731" vertical-scroll-proportion="0.6115993">
           <folding />
         </state>
       </provider>
