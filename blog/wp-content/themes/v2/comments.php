@@ -1,6 +1,6 @@
 <?php if ( have_comments() ) : ?>
 
-    <div style="overflow:hidden;">
+<div style="overflow:hidden;">
 
     <p class="comments">
       <strong><em>COMMENTS:</em></strong>
@@ -41,6 +41,12 @@
                 </div>
                 <div style="display:inline;float:left; width:80%">
                     <input type="text" name="email" id="email" value="" class="textbox" aria-required="true"/>
+                </div>
+                <div style="display:inline;float:left; width:18%">
+                    <label for="website">Website</label>
+                </div>
+                <div style="display:inline;float:left; width:80%">
+                    <input type="text" name="website" id="website" value="" class="textbox" aria-required="false"/>
                 </div>
                 <div style="display:inline;float:left; width:18%">
                     <label for="comment">Comment</label>
