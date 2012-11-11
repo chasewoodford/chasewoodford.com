@@ -4,6 +4,8 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -79,7 +81,7 @@
       <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="16" selection-start="2741" selection-end="2741" vertical-scroll-proportion="-0.026415095">
+            <state line="62" column="90" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.29433963">
               <folding />
             </state>
           </provider>
@@ -88,7 +90,7 @@
       <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="129" column="43" selection-start="7603" selection-end="7603" vertical-scroll-proportion="0.0">
+            <state line="125" column="20" selection-start="7545" selection-end="7545" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -766,7 +768,11 @@
       <created>1352599284601</created>
       <updated>1352599284601</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="wp comments styling">
+      <created>1352599774758</created>
+      <updated>1352599774758</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -977,13 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="43" selection-start="7603" selection-end="7603" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.xsd">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2320" column="6" selection-start="68338" selection-end="68338" vertical-scroll-proportion="0.3321617">
@@ -991,9 +990,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="20" selection-start="7545" selection-end="7545" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="16" selection-start="2741" selection-end="2741" vertical-scroll-proportion="-0.026415095">
+        <state line="62" column="90" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.29433963">
           <folding />
         </state>
       </provider>
