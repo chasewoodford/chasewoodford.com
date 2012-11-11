@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_base.scss" afterPath="$PROJECT_DIR$/css/sass/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_variables.scss" afterPath="$PROJECT_DIR$/css/sass/_variables.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,19 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_base.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="31" selection-start="731" selection-end="731" vertical-scroll-proportion="0.6115993">
+            <state line="46" column="31" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_variables.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="30" selection-start="294" selection-end="322" vertical-scroll-proportion="0.0">
+            <state line="10" column="57" selection-start="321" selection-end="321" vertical-scroll-proportion="0.3057554">
               <folding />
             </state>
           </provider>
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/css/style.css" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" />
-        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
       </list>
     </option>
   </component>
@@ -757,7 +757,11 @@
       <created>1352672943125</created>
       <updated>1352672943125</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="minor tweak to base styles">
+      <created>1352673013089</created>
+      <updated>1352673013089</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -967,16 +971,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="294" selection-end="322" vertical-scroll-proportion="0.0">
+        <state line="46" column="31" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="31" selection-start="731" selection-end="731" vertical-scroll-proportion="0.6115993">
+        <state line="10" column="57" selection-start="321" selection-end="321" vertical-scroll-proportion="0.3057554">
           <folding />
         </state>
       </provider>
