@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -77,19 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="5" selection-start="1142" selection-end="1142" vertical-scroll-proportion="0.4811321">
+            <state line="50" column="5" selection-start="1142" selection-end="1142" vertical-scroll-proportion="-9.807693">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="single.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="45" selection-start="1527" selection-end="1527" vertical-scroll-proportion="-16.461538">
+            <state line="18" column="16" selection-start="661" selection-end="732" vertical-scroll-proportion="0.26226416">
               <folding />
             </state>
           </provider>
@@ -149,8 +148,8 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
         <option value="$PROJECT_DIR$/css/compiled/style.css" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
       </list>
     </option>
   </component>
@@ -792,7 +791,11 @@
       <created>1352600268114</created>
       <updated>1352600268114</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="wp comments styling">
+      <created>1352600918547</created>
+      <updated>1352600918547</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1012,16 +1015,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="45" selection-start="1527" selection-end="1527" vertical-scroll-proportion="-16.461538">
+        <state line="50" column="5" selection-start="1142" selection-end="1142" vertical-scroll-proportion="-9.807693">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/comments.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="5" selection-start="1142" selection-end="1142" vertical-scroll-proportion="0.4811321">
+        <state line="18" column="16" selection-start="661" selection-end="732" vertical-scroll-proportion="0.26226416">
           <folding />
         </state>
       </provider>
