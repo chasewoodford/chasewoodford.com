@@ -49,7 +49,7 @@
 <div id="comment-form">
 
 	<p class="comments">
-        <strong><em>Comments</em></strong>
+        <strong><em>COMMENTS:</em></strong>
     </p>
 
 	<div class="cancel-comment-reply">
@@ -68,23 +68,38 @@
 
 		<?php else : ?>
 
-				<input type="text" name="author" id="author" value="Name *" size="22" class="text-input" tabindex="1" <?php if ($req) echo "aria-required='true'"; ?> />
+        <fieldset class="info_fieldset">
+            <div id="fields">
+                <div style="display:inline;float:left; width:18%">
+                    <label for="author">Name</label>
+                </div>
+                <div style="display:inline;float:left; width:80%">
+                    <input type="text" name="author" id="author" value="" class="text-input textbox" aria-required="true"/>
+                </div>
+                <div style="display:inline;float:left; width:18%">
+                    <label for="email">Email</label>
+                </div>
+                <div style="display:inline;float:left; width:80%">
+                    <input type="text" name="email" id="email" value="" class="text-input textbox" aria-required="true"/>
+                </div>
 
-				<input type="text" name="email" id="email" value="Email *" size="22" class="text-input" tabindex="2" <?php if ($req) echo "aria-required='true'"; ?> />
+        <?php endif; ?>
 
-<!--			<input type="text" name="url" id="url" value="Website *" size="22" class="text-input" tabindex="3" />-->
-		
-  
-		<?php endif; ?>
+                <div style="display:inline;float:left; width:18%">
+                    <label for="comments">Comments</label>
+                </div>
+                <div style="display:inline;float:left; width:80%">
+                    <textarea spellcheck="true" name="comment" id="comment" cols="50" rows="4" class="comment-input textbox textbox2"></textarea>
+                </div>
+                <div>
+                    <input name="submit" type="submit" value="submit comment" class="comment-submit formSend btn btn-large btn-primary">
+                </div>
+            </div>
+        </fieldset>
+	
+	   <div class="clear"></div>
 
-	
-			<textarea name="comment" id="comment" cols="58" rows="10" tabindex="4" class="comment-input">Comment</textarea>
-	
-	   <div class="clear"></div>	
-			<input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" class="comment-submit" />
-			<?php comment_id_fields(); ?>
-	
-		
+        <?php comment_id_fields(); ?>
 		<?php do_action('comment_form', $post->ID); ?>
 
 	</form>
