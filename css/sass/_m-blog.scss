@@ -2,7 +2,7 @@
 
 
 // list Styles
-hr 	{ background:url(/blog/wp-content/themes/v2/images/hr.jpg) top center no-repeat; border:0; outline:0; clear:both; height:10px;}
+hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center no-repeat; border:0; outline:0; clear:both; height:10px;}
 
 
 // sidebar styles
@@ -31,14 +31,14 @@ hr 	{ background:url(/blog/wp-content/themes/v2/images/hr.jpg) top center no-rep
 
 .v2-meta p { padding:0; margin:0; line-height:16px; margin-top:5px; margin-bottom:5px;}
 .v2-other-right { display:inline; float:right; font-style:italic; font-size:11px; line-height:16px; padding-left:20px; margin-right:0; }
-.v2-date { display:inline; float:left; font-style:italic; font-size:11px; background:url(/blog/wp-content/themes/v2/images/light/date.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px; }
+.v2-date { display:inline; float:left; font-style:italic; font-size:11px; background:url(/blog/wp-content/themes/stumblr/images/light/date.jpg) top left no-repeat; line-height:16px; padding-left:20px; margin-right:20px; }
 .v2-category  {
   display: inline;
   float: left;
   font-style: italic;
   color: $light-gray;
   font-size: 11px;
-  background: url(/blog/wp-content/themes/v2/images/light/cat.jpg) top left no-repeat;
+  background: url(/blog/wp-content/themes/stumblr/images/light/cat.jpg) top left no-repeat;
   line-height: 16px;
   padding-left: 20px;
   margin-right: 20px;
@@ -47,7 +47,7 @@ hr 	{ background:url(/blog/wp-content/themes/v2/images/hr.jpg) top center no-rep
 
 
 // footer styles
-#footer-area 					{ width: 960px; display:inline; float:left; padding-top:10px; margin-top:20px; clear:both; background:url(/blog/wp-content/themes/v2/images/light/bg-row.png) top left  repeat-x; }
+#footer-area 					{ width: 960px; display:inline; float:left; padding-top:10px; margin-top:20px; clear:both; background:url(/blog/wp-content/themes/stumblr/images/light/bg-row.png) top left  repeat-x; }
 .footer-widget 	 			{ width:300px; margin-right:20px; padding-top:15px; display:inline; float:left; font-size:12px; color:#454545; line-height:18px;   }
 .footer-widget ul 			{ margin:0px; padding:0px; clear:both; margin-top:7px;   }
 .footer-widget ul li 	 		{ float: left;  display:inline;  font-size: 13px; margin:0px; padding:0px; width:300px;    }
@@ -57,11 +57,11 @@ hr 	{ background:url(/blog/wp-content/themes/v2/images/hr.jpg) top center no-rep
 // more widget styles
 .widget_search label { display:none; }
 .widget_search input {  border:1px solid #8e8e8e; background:none; font-family:Arial, Helvetica, sans-serif; color:#555; font-size:12px; display:inline; float:left; height:20px; line-height:22px; outline:none; width:140px; padding:5px;  border-radius: 3px;  -moz-border-radius: 3px; }
-#searchsubmit { display:inline; float:left; width:32px; height:20px; line-height:20px; background:url(/blog/wp-content/themes/v2/images/light/search-light.png) top left  no-repeat; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px; }
-#searchsubmit:hover { display:inline; float:left; width:20px; height:20px; line-height:22px; background:url(/blog/wp-content/themes/v2/images/light/search-light.png) bottom left  no-repeat; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px;  }
+#searchsubmit { display:inline; float:left; width:32px; height:20px; line-height:20px; background:url(/blog/wp-content/themes/stumblr/images/light/search-light.png) top left  no-repeat; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px; }
+#searchsubmit:hover { display:inline; float:left; width:20px; height:20px; line-height:22px; background:url(/blog/wp-content/themes/stumblr/images/light/search-light.png) bottom left  no-repeat; border:none; text-indent:-9999px; margin-left:9px; margin-top:5px;  }
 
 // copyright styles
-#copyright 			{ width: 960px; display:inline; float:left; padding-top:10px; margin-top:20px; clear:both; background:url(/blog/wp-content/themes/v2/images/light/bg-row.png) top left  repeat-x; margin-bottom:20px; }
+#copyright 			{ width: 960px; display:inline; float:left; padding-top:10px; margin-top:20px; clear:both; background:url(/blog/wp-content/themes/stumblr/images/light/bg-row.png) top left  repeat-x; margin-bottom:20px; }
 #copyright p 			{ padding-top:15px; color:#4f5356; font-size:12px; }
 
 
