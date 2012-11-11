@@ -74,25 +74,25 @@
                     <label for="author">Name</label>
                 </div>
                 <div style="display:inline;float:left; width:80%">
-                    <input type="text" name="author" id="author" value="" class="text-input textbox" aria-required="true"/>
+                    <input type="text" name="author" id="author" value="" class="textbox" aria-required="true"/>
                 </div>
                 <div style="display:inline;float:left; width:18%">
                     <label for="email">Email</label>
                 </div>
                 <div style="display:inline;float:left; width:80%">
-                    <input type="text" name="email" id="email" value="" class="text-input textbox" aria-required="true"/>
+                    <input type="text" name="email" id="email" value="" class="textbox" aria-required="true"/>
                 </div>
 
-        <?php endif; ?>
+                <?php endif; ?>
 
                 <div style="display:inline;float:left; width:18%">
-                    <label for="comments">Comments</label>
+                    <label for="comment">Comment</label>
                 </div>
                 <div style="display:inline;float:left; width:80%">
-                    <textarea spellcheck="true" name="comment" id="comment" cols="50" rows="4" class="comment-input textbox textbox2"></textarea>
+                    <textarea spellcheck="true" name="comment" id="comment" cols="50" rows="4" class="textbox textbox2"></textarea>
                 </div>
                 <div>
-                    <input name="submit" type="submit" value="submit comment" class="comment-submit formSend btn btn-large btn-primary">
+                    <input name="submit" type="submit" value="submit comment" class="formSend btn btn-large btn-primary">
                 </div>
             </div>
         </fieldset>
