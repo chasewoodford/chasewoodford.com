@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,10 +76,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="112" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.21731123">
+            <state line="48" column="112" selection-start="1790" selection-end="1790" vertical-scroll-proportion="-4.5384617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="90" column="0" selection-start="5914" selection-end="5970" vertical-scroll-proportion="0.33214286">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="-6.5384617">
               <folding />
             </state>
           </provider>
@@ -117,12 +135,12 @@
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/page.php" />
-        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/css/style.css" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
+        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
       </list>
     </option>
   </component>
@@ -751,7 +769,11 @@
       <created>1352673216958</created>
       <updated>1352673216958</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="adding back website input for comments">
+      <created>1352673628469</created>
+      <updated>1352673628469</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -782,7 +804,7 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27946126" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
@@ -842,7 +864,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor tweak to base styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding back website input for comments" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -855,7 +877,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adjusting line-height on sup" />
     <MESSAGE value="adjusting padding on sup" />
     <MESSAGE value="adjust search box input" />
     <MESSAGE value="blog styling" />
@@ -880,6 +901,7 @@
     <MESSAGE value="comments styling" />
     <MESSAGE value="renaming theme" />
     <MESSAGE value="minor tweak to base styles" />
+    <MESSAGE value="adding back website input for comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -889,21 +911,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="54.923077" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-admin/themes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="88.26923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-admin/theme-install.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="36.5" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-admin/theme-editor.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="129.46153" />
@@ -970,9 +977,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="850" column="9" selection-start="27529" selection-end="27529" vertical-scroll-proportion="-0.9981132">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="112" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.21731123">
+        <state line="48" column="112" selection-start="1790" selection-end="1790" vertical-scroll-proportion="-4.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="0" selection-start="5914" selection-end="5970" vertical-scroll-proportion="0.33214286">
           <folding />
         </state>
       </provider>
