@@ -23,6 +23,7 @@ hr 	{ background:url(/blog/wp-content/themes/stumblr/images/hr.jpg) top center n
 .stumblr-image 			{ display:inline; float:left; margin-left:-40px; margin-bottom:10px;}
 
 .stumblr-meta {
+  overflow: hidden;
   clear: both;
   width: auto;
   border-top: 1px dotted #e2e2e2;

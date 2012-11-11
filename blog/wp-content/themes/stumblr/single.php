@@ -18,22 +18,23 @@
                 <?php the_content(''); ?>
                 <?php wp_link_pages(); ?>
                 <?php comments_template(); ?>
-                <div class="stumblr-meta">
-                    <p>
-                        <span class="stumblr-date">
-                            <?php   the_time('F Y'); ?>
-                        </span>
-                        <span class="stumblr-category">
-                            <?php
-                            $posttags = get_the_tags();
-                            if ($posttags) {
-                                foreach($posttags as $tag) {
-                                    echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
+                    <div class="stumblr-meta">
+                        <p>
+                            <span class="stumblr-date">
+                                <?php   the_time('F Y'); ?>
+                            </span>
+                            <span class="stumblr-category">
+                                <?php
+                                $posttags = get_the_tags();
+                                if ($posttags) {
+                                    foreach($posttags as $tag) {
+                                        echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
+                                    }
                                 }
-                            }
-                            ?>
-                        </span>
-                    </p>
+                                ?>
+                            </span>
+                        </p>
+                    </div>
                 </div>
             </section>
             <div class="clear"></div>
