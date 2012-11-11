@@ -8,7 +8,6 @@
 
     <ul class="comments">
         <?php wp_list_comments('type=comment&avatar_size=64'); ?>
-        <?php wp_list_comments(); ?>
     </ul>
 	
 <?php else : // this is displayed if there are no comments so far ?>
