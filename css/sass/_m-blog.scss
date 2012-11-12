@@ -88,8 +88,7 @@ hr 	{ background:url(/blog/wp-content/themes/v2/images/hr.jpg) top center no-rep
 #comment-form     { margin-top:20px;}
 .comments-area ol { list-style:none; margin:0; padding:0;  border-bottom:1px solid #8e8e8e; }
 .comments-area li { list-style:none; margin:0; padding:0; border-top:1px solid #8e8e8e; width:100%; clear:both; display:inline; float:left; margin-bottom:10px; padding:10px;  }
-.comment-meta  	{ display:none;}
-
+.comment-author 	{ font-size:16px; font-weight:bold; font-family: 'Droid Sans', sans-serif; }
 #comment-form 	{ width:50%; }
 .text-input 		{ clear:both; border:1px solid #8e8e8e; margin-bottom:5px; width:90%; padding:7px; font-family:Arial, Helvetica, sans-serif; color:#555; font-size:12px;  }
 .comment-input  	{ clear:both; border:1px solid #8e8e8e; margin-bottom:5px; width:90%; padding:7px; font-family:Arial, Helvetica, sans-serif; color:#555; font-size:12px;  }
@@ -103,11 +102,7 @@ hr 	{ background:url(/blog/wp-content/themes/v2/images/hr.jpg) top center no-rep
 .alignright		{ float: right; margin: 0 0 20px 20px; }
 .wp-caption		{  text-align: left; margin-top:5px; margin-bottom:5px; }
 .wp-caption-text  { margin-top:2px;  text-align:left; font-style:italic;  font-size:11px; color:#999; }
-.sticky    		{}
-.gallery-caption  {}
-.bypostauthor  	{}
 blockquote 		{ font-size:2em; line-height:23px; color:#000; margin-left:20px; border-left: 1px dotted #999; padding-left:25px; margin-top:15px; margin-bottom:15px; }
-#respond { display:none; }
 
 .blog-image img {
   width: auto;
@@ -132,34 +127,4 @@ ul.update {
   li {
     margin-bottom: 10px;
   }
-}
-
-ol.comments li {
-  margin: 0 0 10px 0;
-  padding: 0 0 10px 0;
-  border-bottom: 1px solid #eee;
-
-  &:last-child {
-    margin: 0;
-    padding: 0;
-    border-bottom: none
-  }
-}
-
-ol.comments li h3 {
-  font-size: 18px;
-  font-weight: bold;
-  line-height: 1.1;
-}
-
-ol.comments li p {
-  margin: 0 0 0 76px;
-  font-size: 14px;
-  line-height: 1.4;
-}
-
-ol.comments li p span.meta {
-  display: block;
-  font-size: 12px;
-  color: #999;
 }

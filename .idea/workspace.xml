@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -88,7 +89,7 @@
       <file leaf-file-name="comment-template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1360" column="12" selection-start="45269" selection-end="45269" vertical-scroll-proportion="-12.538462">
+            <state line="1356" column="75" selection-start="45042" selection-end="45042" vertical-scroll-proportion="-9.923077">
               <folding />
             </state>
           </provider>
@@ -97,7 +98,7 @@
       <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="16" selection-start="7628" selection-end="7628" vertical-scroll-proportion="0.44964027">
+            <state line="21" column="44" selection-start="559" selection-end="559" vertical-scroll-proportion="0.6420863">
               <folding />
             </state>
           </provider>
@@ -830,7 +831,11 @@
       <created>1352679633260</created>
       <updated>1352679633260</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="wp comment styling">
+      <created>1352679646922</created>
+      <updated>1352679646922</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1060,14 +1065,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1360" column="12" selection-start="45269" selection-end="45269" vertical-scroll-proportion="-12.538462">
+        <state line="1356" column="75" selection-start="45042" selection-end="45042" vertical-scroll-proportion="-9.923077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="16" selection-start="7628" selection-end="7628" vertical-scroll-proportion="0.44964027">
+        <state line="21" column="44" selection-start="559" selection-end="559" vertical-scroll-proportion="0.6420863">
           <folding />
         </state>
       </provider>
