@@ -1354,14 +1354,17 @@ class Walker_Comment extends Walker {
 		<?php endif; ?>
 		<div class="comment-author vcard">
 		    <?php if ($args['avatar_size'] != 0) echo get_avatar( $comment, $args['avatar_size'] ); ?>
-		    <?php printf(__('<cite class="fn">%s</cite> <span class="says">said:</span>'), get_comment_author_link()) ?>
+		    <div>
+                <?php printf(__('<cite class="fn">%s</cite> <span class="says">said:</span>'), get_comment_author_link()) ?>
+                <?php comment_text() ?>
+            </div>
 		</div>
         <?php if ($comment->comment_approved == '0') : ?>
 		    <em class="comment-awaiting-moderation"><?php _e('Your comment is awaiting moderation.') ?></em>
 		    <br />
         <?php endif; ?>
 
-		<?php comment_text() ?>
+
 
 		<?php if ( 'div' != $args['style'] ) : ?>
 		</div>

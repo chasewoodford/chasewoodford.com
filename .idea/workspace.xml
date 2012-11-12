@@ -88,7 +88,7 @@
       <file leaf-file-name="comment-template.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1361" column="8" selection-start="45287" selection-end="45287" vertical-scroll-proportion="-6.281132">
+            <state line="1358" column="16" selection-start="45134" selection-end="45134" vertical-scroll-proportion="0.45471698">
               <folding />
             </state>
           </provider>
@@ -842,7 +842,11 @@
       <created>1352680041622</created>
       <updated>1352680041622</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="removing unused modules">
+      <created>1352680243161</created>
+      <updated>1352680243161</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1079,7 +1083,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1361" column="8" selection-start="45287" selection-end="45287" vertical-scroll-proportion="-6.281132">
+        <state line="1358" column="16" selection-start="45134" selection-end="45134" vertical-scroll-proportion="0.45471698">
           <folding />
         </state>
       </provider>
