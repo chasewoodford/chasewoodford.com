@@ -1354,8 +1354,8 @@ class Walker_Comment extends Walker {
 		<?php endif; ?>
 		<div class="comment-author vcard">
 		    <?php if ($args['avatar_size'] != 0) echo get_avatar( $comment, $args['avatar_size'] ); ?>
-		    <div>
-                <?php printf(__('<cite class="fn">%s</cite> <span class="says">said:</span>'), get_comment_author_link()) ?>
+		    <div class="comment-text">
+                <?php printf(__('<cite>%s</cite> <span class="says">said:</span>'), get_comment_author_link()) ?>
                 <?php comment_text() ?>
             </div>
 		</div>
