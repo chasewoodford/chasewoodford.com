@@ -7,7 +7,7 @@
     </p>
 
     <ol class="comments">
-        <?php wp_list_comments('type=comment&avatar_size=64'); ?>
+        <?php wp_list_comments('type=comment&avatar_size=20'); ?>
     </ol>
 	
 <?php else : // this is displayed if there are no comments so far ?>
