@@ -4,7 +4,6 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -86,19 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment-template.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="comment-template.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1356" column="75" selection-start="45042" selection-end="45042" vertical-scroll-proportion="-9.923077">
+            <state line="1372" column="12" selection-start="45671" selection-end="45854" vertical-scroll-proportion="0.5188679">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="44" selection-start="559" selection-end="559" vertical-scroll-proportion="0.6420863">
+            <state line="21" column="44" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,8 +148,8 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
       </list>
     </option>
   </component>
@@ -835,7 +834,11 @@
       <created>1352679646922</created>
       <updated>1352679646922</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="wp comment styling">
+      <created>1352679853104</created>
+      <updated>1352679853104</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1063,16 +1066,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1356" column="75" selection-start="45042" selection-end="45042" vertical-scroll-proportion="-9.923077">
+        <state line="21" column="44" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="44" selection-start="559" selection-end="559" vertical-scroll-proportion="0.6420863">
+        <state line="1372" column="12" selection-start="45671" selection-end="45854" vertical-scroll-proportion="0.5188679">
           <folding />
         </state>
       </provider>

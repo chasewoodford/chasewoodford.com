@@ -1361,18 +1361,18 @@ class Walker_Comment extends Walker {
 		<br />
 <?php endif; ?>
 
-		<div class="comment-meta commentmetadata"><a href="<?php echo htmlspecialchars( get_comment_link( $comment->comment_ID ) ) ?>">
+<!--		<div class="comment-meta commentmetadata"><a href="--><?php //echo htmlspecialchars( get_comment_link( $comment->comment_ID ) ) ?><!--">-->
 			<?php
-				/* translators: 1: date, 2: time */
-				printf( __('%1$s at %2$s'), get_comment_date(),  get_comment_time()) ?></a><?php edit_comment_link(__('(Edit)'),'&nbsp;&nbsp;','' );
-			?>
-		</div>
+//				/* translators: 1: date, 2: time */
+//				printf( __('%1$s at %2$s'), get_comment_date(),  get_comment_time()) ?><!--</a>--><?php //edit_comment_link(__('(Edit)'),'&nbsp;&nbsp;','' );
+//			?>
+<!--		</div>-->
 
 		<?php comment_text() ?>
 
-		<div class="reply">
-		<?php comment_reply_link(array_merge( $args, array('add_below' => $add_below, 'depth' => $depth, 'max_depth' => $args['max_depth']))) ?>
-		</div>
+<!--		<div class="reply">-->
+<!--		--><?php //comment_reply_link(array_merge( $args, array('add_below' => $add_below, 'depth' => $depth, 'max_depth' => $args['max_depth']))) ?>
+<!--		</div>-->
 		<?php if ( 'div' != $args['style'] ) : ?>
 		</div>
 		<?php endif; ?>
