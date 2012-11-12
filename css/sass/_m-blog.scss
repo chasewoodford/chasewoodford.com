@@ -135,3 +135,33 @@ ul.update {
     margin-bottom: 10px;
   }
 }
+
+ol.comments li {
+  margin: 0 0 10px 0;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid #eee;
+
+  &:last-child {
+    margin: 0;
+    padding: 0;
+    border-bottom: none
+  }
+}
+
+ol.comments > .comment-author {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.1;
+}
+
+ol.comments li p {
+  margin: 0 0 0 76px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+ol.comments li p span.meta {
+  display: block;
+  font-size: 12px;
+  color: #999;
+}
