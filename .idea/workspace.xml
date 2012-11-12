@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -85,19 +86,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="23" selection-start="8042" selection-end="8042" vertical-scroll-proportion="0.8776978">
+            <state line="93" column="0" selection-start="6004" selection-end="6004" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment-template.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
+      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1350" column="8" selection-start="44586" selection-end="45867" vertical-scroll-proportion="-1.3333334">
+            <state line="269" column="1" selection-start="7667" selection-end="7667" vertical-scroll-proportion="0.9388489">
               <folding />
             </state>
           </provider>
@@ -125,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/social.php" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/functions.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/index.php" />
@@ -141,6 +141,7 @@
         <option value="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
       </list>
     </option>
   </component>
@@ -801,7 +802,11 @@
       <created>1352678420623</created>
       <updated>1352678420623</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="pears and wordpress merge">
+      <created>1352678436431</created>
+      <updated>1352678436431</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -959,13 +964,6 @@
         <state line="6" column="14" selection-start="125" selection-end="125" vertical-scroll-proportion="0.17926186" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="234" column="16" selection-start="7077" selection-end="7077" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="23" selection-start="672" selection-end="672" vertical-scroll-proportion="0.6420863">
@@ -1022,13 +1020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1350" column="8" selection-start="44586" selection-end="45867" vertical-scroll-proportion="-1.3333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="28" selection-start="142" selection-end="142" vertical-scroll-proportion="-3.9230769">
@@ -1036,9 +1027,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1350" column="8" selection-start="44586" selection-end="45867" vertical-scroll-proportion="0.13465346">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="23" selection-start="8042" selection-end="8042" vertical-scroll-proportion="0.8776978">
+        <state line="93" column="0" selection-start="6004" selection-end="6004" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="1" selection-start="7667" selection-end="7667" vertical-scroll-proportion="0.9388489">
           <folding />
         </state>
       </provider>
