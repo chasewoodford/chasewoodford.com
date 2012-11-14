@@ -11,11 +11,11 @@
 <body id="top">
 <div class="wrapper">
     <?php
-    include ('/header.php');
+    include ('./header.php');
     ?>
     <div class="grid-8">
         <?php
-        require('/blog/wp-blog-header.php');
+        require('./blog/wp-blog-header.php');
         ?>
         <?php
         query_posts( 'cat=-10&posts_per_page=1&orderby=post_date&order=DESC' );
@@ -50,7 +50,9 @@
                                 ?>
                             </span>
                             <span class="v2-other-right">
-                                <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
+                                <?php if (get_comments_number()) { ?>
+                                    <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
+                                <?php } ?>
                             </span>
                         </p>
                     </div>
@@ -64,5 +66,5 @@
     </div>
 </div>
 <?php
-include ("/blog/wp-content/themes/v2/footer.php");
+include ("./blog/wp-content/themes/v2/footer.php");
 ?>
