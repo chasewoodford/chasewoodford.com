@@ -50,17 +50,7 @@
                                 ?>
                             </span>
                             <span class="v2-other-right">
-                            <?php
-                                if ( comments_open() ) {
-                                    if ( $get_comments_number() == 0 ) {
-                                        $write_comments = 'no';
-                                    } else {
-                                        $write_comments = 'yes';
-                                } else {
-                                    $write_comments =  __('Comments are off for this post.');
-                                    }
-                                } ?>
-                                <?php if (get_comments_number()) { ?>
+                                <?php if (get_comments_number()) == 0 : ? { ?>
                                     <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
                                 <?php } ?>
                             </span>
