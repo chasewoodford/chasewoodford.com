@@ -42,15 +42,14 @@
 
                             if ( comments_open() ) {
                                 if ( $num_comments == 0 ) {
-                                    $comments = __('<a href="<?php comments_link(); ?>" class="no-shadow">Leave a comment</a>');
+                                    $comments = __('Leave a comment');
                                 } else {
-                                    $comments = __('<a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>');
+                                    $comments = __('Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?>');
                                 }
-                                $write_comments = $comments;
+                                $write_comments = '<a href="' . get_comments_link() .' class="no-shadow"">'. $comments.'</a>';
                             } else {
                                 $write_comments =  __('Comments are off for this post.');
                             }
-
                             ?>
                         </span>
                     </p>
