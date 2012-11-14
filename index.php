@@ -50,9 +50,9 @@
                                 ?>
                             </span>
                             <span class="v2-other-right">
-                                <?php if (get_comments_number() == 0) : { ?>
+                                <?php if (get_comments_number()) { ?>
                                     <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
-                                <?php } ?>
+                                <?php } else { ?> Leave a comment <?php } ?>
                             </span>
                         </p>
                     </div>
