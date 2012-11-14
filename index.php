@@ -5,17 +5,17 @@
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/compiled/style.css">
+    <link rel="stylesheet" href="/css/compiled/style.css">
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>
 <body id="top">
 <div class="wrapper">
     <?php
-    include ("./header.php");
+    include ('/header.php');
     ?>
     <div class="grid-8">
         <?php
-        require('./blog/wp-blog-header.php');
+        require('/blog/wp-blog-header.php');
         ?>
         <?php
         query_posts( 'cat=-10&posts_per_page=1&orderby=post_date&order=DESC' );
@@ -64,5 +64,5 @@
     </div>
 </div>
 <?php
-include ("./blog/wp-content/themes/v2/footer.php");
+include ("/blog/wp-content/themes/v2/footer.php");
 ?>
