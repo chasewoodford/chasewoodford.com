@@ -41,12 +41,18 @@
                             </span>
                             <span class="v2-category">
                                 <?php
-                                    $posttags = get_the_tags();
-                                    if ($posttags) {
-                                        foreach($posttags as $tag) {
-                                            echo '<a href="';echo bloginfo(url); echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;&nbsp;';
-                                        }
+                                $num_comments = get_comments_number();
+
+                                if ( comments_open() ) {
+                                    if ( $num_comments == 0 ) {
+                                        $comments = __('Leave a comment');
+                                    } else {
+                                        $comments = __('Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?>');
                                     }
+                                    $write_comments = '<a href="' . get_comments_link() .' class="no-shadow"">'. $comments.'</a>';
+                                } else {
+                                    $write_comments =  __('Comments are off for this post.');
+                                }
                                 ?>
                             </span>
                             <span class="v2-other-right">
