@@ -40,7 +40,7 @@
                             <?php if (get_comments_number() > 0) { ?>
                                 <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
                             <?php } else { ?>
-                                <a href="<?php comment_form(); ?>" class="no-shadow">post a comment</a>
+                                <a href="<?php comments_link(); ?>" class="no-shadow">post a comment</a>
                             <?php } ?>
                         </span>
                     </p>
