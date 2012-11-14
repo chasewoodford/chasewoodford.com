@@ -37,9 +37,21 @@
                             ?>
                         </span>
                         <span class="v2-other-right">
-                            <?php if (get_comments_number()) { ?>
-                                <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
-                            <?php } ?>
+                            <?php
+                            $num_comments = get_comments_number();
+
+                            if ( comments_open() ) {
+                                if ( $num_comments == 0 ) {
+                                    $comments = __('<a href="<?php comments_link(); ?>" class="no-shadow">Leave a comment</a>');
+                                } else {
+                                    $comments = __('<a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>');
+                                }
+                                $write_comments = $comments;
+                            } else {
+                                $write_comments =  __('Comments are off for this post.');
+                            }
+
+                            ?>
                         </span>
                     </p>
                 </div>
