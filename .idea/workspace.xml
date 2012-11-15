@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -86,9 +86,18 @@
         </entry>
       </file>
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="43" selection-start="751" selection-end="751" vertical-scroll-proportion="0.59484345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="39" selection-start="292" selection-end="292" vertical-scroll-proportion="0.12523021">
+            <state line="17" column="20" selection-start="934" selection-end="934" vertical-scroll-proportion="-11.115385">
               <folding />
             </state>
           </provider>
@@ -138,9 +147,9 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/work/index.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
         <option value="$PROJECT_DIR$/search-results.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
       </list>
     </option>
   </component>
@@ -922,7 +931,11 @@
       <created>1352942879025</created>
       <updated>1352942879025</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="adding google cse">
+      <created>1352942955196</created>
+      <updated>1352942955196</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1112,13 +1125,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="26" selection-start="734" selection-end="734" vertical-scroll-proportion="0.59484345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="32" selection-start="0" selection-end="2651" vertical-scroll-proportion="1.3471698">
@@ -1140,6 +1146,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="20" selection-start="934" selection-end="934" vertical-scroll-proportion="-11.115385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/search-results.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="48" selection-start="1234" selection-end="1234" vertical-scroll-proportion="-24.192308">
@@ -1147,9 +1160,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="39" selection-start="292" selection-end="292" vertical-scroll-proportion="0.12523021">
+        <state line="19" column="43" selection-start="751" selection-end="751" vertical-scroll-proportion="0.59484345">
           <folding />
         </state>
       </provider>
