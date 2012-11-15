@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search-results.php" afterPath="$PROJECT_DIR$/search-results.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,10 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="search-results.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="search-results.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/search-results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.65384614">
+            <state line="37" column="48" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.78084713">
               <folding />
             </state>
           </provider>
@@ -88,16 +88,25 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="45" selection-start="929" selection-end="929" vertical-scroll-proportion="-15.038462">
+            <state line="68" column="48" selection-start="3075" selection-end="3113" vertical-scroll-proportion="-15.807693">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="0.15653776">
+            <state line="5" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -139,8 +148,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
-        <option value="$PROJECT_DIR$/search-results.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/search-results.php" />
       </list>
     </option>
   </component>
@@ -914,7 +923,11 @@
       <created>1352942603089</created>
       <updated>1352942603089</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="adding google cse">
+      <created>1352942734570</created>
+      <updated>1352942734570</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1052,11 +1065,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/twentyeleven/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="561" column="17" selection-start="19319" selection-end="19319" vertical-scroll-proportion="0.08316832" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="16" selection-start="1057" selection-end="1059" vertical-scroll-proportion="0.33267328" />
@@ -1123,23 +1131,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search-results.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.65384614">
+        <state line="68" column="48" selection-start="3075" selection-end="3113" vertical-scroll-proportion="-15.807693">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="45" selection-start="929" selection-end="929" vertical-scroll-proportion="-15.038462">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="0.15653776">
+        <state line="5" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search-results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="48" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.78084713">
           <folding />
         </state>
       </provider>

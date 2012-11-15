@@ -35,5 +35,5 @@ require('./blog/wp-blog-header.php');
 </div>
 
 <?php
-include ("footer.php");
+include ("./blog/wp-content/themes/v2/footer.php");
 ?>
