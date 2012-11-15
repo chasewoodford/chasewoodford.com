@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="adding if statement to blog preview comment count display">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search-results.php" afterPath="$PROJECT_DIR$/search-results.php" />
     </list>
@@ -79,7 +79,7 @@
       <file leaf-file-name="search-results.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/search-results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="6" selection-start="103" selection-end="103" vertical-scroll-proportion="0.15653776">
+            <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="0.031307552">
               <folding />
             </state>
           </provider>
@@ -897,7 +897,11 @@
       <created>1352942384944</created>
       <updated>1352942384944</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="adding if statement to blog preview comment count display">
+      <created>1352942565030</created>
+      <updated>1352942565030</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -988,7 +992,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding google cse" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding if statement to blog preview comment count display" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1024,8 +1028,8 @@
     <MESSAGE value="adding if statement to comments display" />
     <MESSAGE value="wp comment display test" />
     <MESSAGE value="adding if else statement to comment display" />
-    <MESSAGE value="adding if statement to blog preview comment count display" />
     <MESSAGE value="adding google cse" />
+    <MESSAGE value="adding if statement to blog preview comment count display" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1122,7 +1126,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/search-results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="103" selection-end="103" vertical-scroll-proportion="0.15653776">
+        <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="0.031307552">
           <folding />
         </state>
       </provider>

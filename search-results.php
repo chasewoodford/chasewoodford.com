@@ -1,9 +1,10 @@
+<?php
+require('./blog/wp-blog-header.php');
+?>
+
 <?php get_header(); ?>
 
 <div class="grid-8">
-    <?php
-    require('./blog/wp-blog-header.php');
-    ?>
     <div id="post-area" class="grid-blog">
 
         <article class="hero post type-post">
