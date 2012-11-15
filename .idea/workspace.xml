@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search-results.php" afterPath="$PROJECT_DIR$/search-results.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,10 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="search-results.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="search-results.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search-results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="0.031307552">
+            <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
@@ -88,7 +88,16 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="671" selection-end="733" vertical-scroll-proportion="-10.461538">
+            <state line="23" column="45" selection-start="929" selection-end="929" vertical-scroll-proportion="-15.038462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="0.15653776">
               <folding />
             </state>
           </provider>
@@ -116,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/single.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/stumblr/page.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/css/style.css" />
@@ -132,6 +140,7 @@
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
         <option value="$PROJECT_DIR$/search-results.php" />
+        <option value="$PROJECT_DIR$/header.php" />
       </list>
     </option>
   </component>
@@ -901,7 +910,11 @@
       <created>1352942565030</created>
       <updated>1352942565030</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="adding google cse">
+      <created>1352942603089</created>
+      <updated>1352942603089</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -992,7 +1005,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding if statement to blog preview comment count display" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding google cse" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1028,8 +1041,8 @@
     <MESSAGE value="adding if statement to comments display" />
     <MESSAGE value="wp comment display test" />
     <MESSAGE value="adding if else statement to comment display" />
-    <MESSAGE value="adding google cse" />
     <MESSAGE value="adding if statement to blog preview comment count display" />
+    <MESSAGE value="adding google cse" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1110,23 +1123,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/search-results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="671" selection-end="733" vertical-scroll-proportion="-10.461538">
+        <state line="23" column="45" selection-start="929" selection-end="929" vertical-scroll-proportion="-15.038462">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search-results.php">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="0.031307552">
+        <state line="5" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="0.15653776">
           <folding />
         </state>
       </provider>

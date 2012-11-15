@@ -2,8 +2,8 @@
     <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
     <h1 class="sitename"><a class="kansas" href="/" title="home">chasewoodford.com</a></h1>
     <aside class="search-box">
-        <form action="" method="post">
-            <input type="text" name="text" class="search-box-input"/>
+        <form action="/search-results/" method="post">
+            <input type="text" name="q" class="search-box-input"/>
             <button class="btn search-box-btn">
                 <i class="icon-search-1"></i>
             </button>
