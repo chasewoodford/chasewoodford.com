@@ -41,7 +41,7 @@
                     <p class="left">
                         I enjoy writing about web design, and throughout this site share my experience as a developer working for a small business at the intersection of Big Data and Big Pharma.
                     </p>
-                    <p class="left lead section-title">
+                    <p class="left lead">
                         In my spare time...
                     </p>
                     <p class="left">
@@ -50,7 +50,7 @@
                     <p>
                         <?php currently_reading_book(); ?>
                     </p>
-                    <p class="left lead section-title">
+                    <p class="left lead">
                         Way back when...
                     </p>
                     <p class="left">
