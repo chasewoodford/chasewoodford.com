@@ -13,6 +13,12 @@ body {
   color: $gray;
 }
 
+.logo {
+  float: left;
+  width: 115px;
+  @include transition(all .5s ease-in-out);
+}
+
 footer {
   position: relative;
   clear: both;
@@ -45,6 +51,7 @@ a:hover, a:active, a:focus {
   color: $blue;
   text-decoration: none;
   text-shadow: $highlight-onDark;
+  outline: 0;
   @include transition(all 0.5s ease-in-out);
 
   &.inline {

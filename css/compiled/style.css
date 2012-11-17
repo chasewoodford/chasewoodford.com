@@ -441,17 +441,6 @@ audio:not([controls]) {
   display: none;
 }
 
-html {
-  font-size: 100%;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-}
-
-a:hover,
-a:active {
-  outline: 0;
-}
-
 sub,
 sup {
   position: relative;
@@ -473,10 +462,6 @@ img {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
-}
-
-#map_canvas img {
-  max-width: none;
 }
 
 button,
@@ -538,6 +523,16 @@ body {
   color: #5a5a5a;
 }
 
+.logo {
+  float: left;
+  width: 115px;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
 footer {
   position: relative;
   clear: both;
@@ -573,6 +568,7 @@ a:hover, a:active, a:focus {
   color: #0088cc;
   text-decoration: none;
   text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
+  outline: 0;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
@@ -1565,7 +1561,6 @@ legend + .control-group {
   border-color: #e6e6e6 #e6e6e6 #bfbfbf;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #e6e6e6;
-  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
   border: 1px solid #cccccc;
   *border: 0;
@@ -1583,7 +1578,7 @@ legend + .control-group {
   *background-color: #d9d9d9;
 }
 .btn:active, .btn.active {
-  background-color: #cccccc \9;
+  background-color: #cccccc;
 }
 .btn:first-child {
   *margin-left: 0;
@@ -1594,7 +1589,6 @@ legend + .control-group {
   text-decoration: none;
   background-color: #e6e6e6;
   *background-color: #d9d9d9;
-  /* Buttons in IE7 don't get borders, so darken on hover */
   background-position: 0 -15px;
   -webkit-transition: background-position 0.1s linear;
   -moz-transition: background-position 0.1s linear;
@@ -1603,16 +1597,10 @@ legend + .control-group {
   transition: background-position 0.1s linear;
 }
 
-.btn:focus {
-  outline: thin dotted #333;
-  outline: 5px auto -webkit-focus-ring-color;
-  outline-offset: -2px;
-}
-
 .btn.active,
 .btn:active {
   background-color: #e6e6e6;
-  background-color: #d9d9d9 \9;
+  background-color: #d9d9d9;
   background-image: none;
   outline: 0;
   -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -1704,7 +1692,6 @@ legend + .control-group {
   border-color: #0055cc #0055cc #003580;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #0055cc;
-  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
@@ -1712,7 +1699,7 @@ legend + .control-group {
   *background-color: #004ab3;
 }
 .btn-primary:active, .btn-primary.active {
-  background-color: #004099 \9;
+  background-color: #004099;
 }
 
 .btn-warning {
@@ -1728,7 +1715,6 @@ legend + .control-group {
   border-color: #f89406 #f89406 #ad6704;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #f89406;
-  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .btn-warning:hover, .btn-warning:active, .btn-warning.active, .btn-warning.disabled, .btn-warning[disabled] {
@@ -1736,7 +1722,7 @@ legend + .control-group {
   *background-color: #df8505;
 }
 .btn-warning:active, .btn-warning.active {
-  background-color: #c67605 \9;
+  background-color: #c67605;
 }
 
 .btn-danger {
@@ -1752,7 +1738,6 @@ legend + .control-group {
   border-color: #bd362f #bd362f #802420;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #bd362f;
-  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .btn-danger:hover, .btn-danger:active, .btn-danger.active, .btn-danger.disabled, .btn-danger[disabled] {
@@ -1760,7 +1745,7 @@ legend + .control-group {
   *background-color: #a9302a;
 }
 .btn-danger:active, .btn-danger.active {
-  background-color: #942a25 \9;
+  background-color: #942a25;
 }
 
 .btn-success {
@@ -1776,7 +1761,6 @@ legend + .control-group {
   border-color: #51a351 #51a351 #387038;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #51a351;
-  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .btn-success:hover, .btn-success:active, .btn-success.active, .btn-success.disabled, .btn-success[disabled] {
@@ -1784,7 +1768,7 @@ legend + .control-group {
   *background-color: #499249;
 }
 .btn-success:active, .btn-success.active {
-  background-color: #408140 \9;
+  background-color: #408140;
 }
 
 .btn-info {
@@ -1800,7 +1784,6 @@ legend + .control-group {
   border-color: #2f96b4 #2f96b4 #1f6377;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #2f96b4;
-  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .btn-info:hover, .btn-info:active, .btn-info.active, .btn-info.disabled, .btn-info[disabled] {
@@ -1808,7 +1791,7 @@ legend + .control-group {
   *background-color: #2a85a0;
 }
 .btn-info:active, .btn-info.active {
-  background-color: #24748c \9;
+  background-color: #24748c;
 }
 
 .btn-inverse {
@@ -1824,7 +1807,6 @@ legend + .control-group {
   border-color: #222222 #222222 black;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #222222;
-  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .btn-inverse:hover, .btn-inverse:active, .btn-inverse.active, .btn-inverse.disabled, .btn-inverse[disabled] {
@@ -1832,7 +1814,7 @@ legend + .control-group {
   *background-color: #151515;
 }
 .btn-inverse:active, .btn-inverse.active {
-  background-color: #090909 \9;
+  background-color: #090909;
 }
 
 button.btn,
@@ -2106,14 +2088,6 @@ input[class="search-box-input"]:focus {
   margin-right: auto;
 }
 
-hr {
-  background: url(/blog/wp-content/themes/v2/images/hr.jpg) top center no-repeat;
-  border: 0;
-  outline: 0;
-  clear: both;
-  height: 10px;
-}
-
 .side-widget ul li a {
   display: block;
   padding-bottom: 2px;
@@ -2299,23 +2273,6 @@ hr {
   margin-top: 5px;
 }
 
-#copyright {
-  width: 960px;
-  display: inline;
-  float: left;
-  padding-top: 10px;
-  margin-top: 20px;
-  clear: both;
-  background: url(/blog/wp-content/themes/v2/images/light/bg-row.png) top left repeat-x;
-  margin-bottom: 20px;
-}
-
-#copyright p {
-  padding-top: 15px;
-  color: #4f5356;
-  font-size: 12px;
-}
-
 .post {
   padding-bottom: 5px;
   -webkit-box-shadow: 0 8px 10px -6px black;
@@ -2335,7 +2292,7 @@ hr {
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15);
 }
 
-.stuumblr-pagination {
+.v2-pagination {
   clear: both;
   padding: 20px 0;
   position: relative;
@@ -2343,7 +2300,7 @@ hr {
   line-height: 13px;
 }
 
-.stuumblr-pagination span {
+.v2-pagination span {
   display: block;
   float: left;
   margin: 4px 4px 4px 0;
@@ -2360,7 +2317,7 @@ hr {
   background-color: #e5e5e5;
 }
 
-.stuumblr-pagination a {
+.v2-pagination a {
   display: block;
   float: left;
   margin: 4px 4px 4px 0;
@@ -2377,7 +2334,7 @@ hr {
   background-color: #e5e5e5;
 }
 
-.stuumblr-pagination a:hover {
+.v2-pagination a:hover {
   border: 1px solid #b3b3b3;
   border-radius: 3px;
   -webkit-box-shadow: 0 1px 1px rgba(255, 255, 255, 0.78), inset 0 1px 0 white;
@@ -2386,7 +2343,7 @@ hr {
   background-color: #fff;
 }
 
-.stuumblr-pagination .current {
+.v2-pagination .current {
   color: #666;
   border: 1px solid #b3b3b3;
   border-radius: 3px;
@@ -2459,52 +2416,6 @@ hr {
   line-height: 25px;
   background: #e5e5e5;
   border: 1px solid #8e8e8e;
-}
-
-.clear {
-  clear: both;
-}
-
-.aligncenter {
-  display: block;
-  margin: 0 auto;
-}
-
-.alignleft {
-  float: left;
-  margin-right: 20px;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-.alignright {
-  float: right;
-  margin: 0 0 20px 20px;
-}
-
-.wp-caption {
-  text-align: left;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-.wp-caption-text {
-  margin-top: 2px;
-  text-align: left;
-  font-style: italic;
-  font-size: 11px;
-  color: #999;
-}
-
-blockquote {
-  font-size: 2em;
-  line-height: 23px;
-  color: #000;
-  margin-left: 20px;
-  border-left: 1px dotted #999;
-  padding-left: 25px;
-  margin-top: 15px;
-  margin-bottom: 15px;
 }
 
 .blog-image img {
@@ -2592,14 +2503,4 @@ input[class="textbox"]:focus, textarea:focus {
 .formSend {
   float: right;
   width: 82%;
-}
-
-.logo {
-  float: left;
-  width: 115px;
-  -webkit-transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out;
-  -ms-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
 }

@@ -1,4 +1,3 @@
-//base
 @import "variables";
 @import "mixins";
 @import "typography";
@@ -11,18 +10,9 @@
 @import "bootstrap-buttons";
 @import "bootstrap-pagination";
 @import "prism";
-
-// modules
 @import "m-search";
 @import "m-tweet";
 @import "m-about";
 @import "m-blog";
 @import "m-work";
 @import "m-form";
-
-// misc
-.logo {
-  float: left;
-  width: 115px;
-  @include transition(all .5s ease-in-out);
-}
