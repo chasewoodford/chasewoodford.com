@@ -57,6 +57,7 @@
                         <li>Link portfolio/work</li>
                         <li>Link to playground</li>
                     </ul>
+                    <?php currently_reading_book(); ?>
                     <p class="left">
                         Other cool things can go here, but mostly this paragraph is here to test spacing.
                     </p>

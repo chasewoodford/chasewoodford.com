@@ -6,7 +6,6 @@ require('./blog/wp-blog-header.php');
 
 <div class="grid-8">
     <div id="post-area" class="grid-blog">
-
         <article class="hero post type-post">
             <section class="content">
                 <script>
@@ -22,9 +21,7 @@ require('./blog/wp-blog-header.php');
             </section>
             <div class="clear"></div>
         </article>
-
     </div>
-
     <div id="sidebar" class="grid-2">
         <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
         <div id="sidebar-widget-area">
