@@ -5,7 +5,11 @@
 @import "animations";
 @import "base";
 @import "layout";
-@import "bootstrap/bootstrap";
+@import "bootstrap-mixins";
+@import "bootstrap-forms";
+@import "bootstrap-component-animations";
+@import "bootstrap-buttons";
+@import "bootstrap-pagination";
 @import "prism";
 
 // modules
