@@ -1,18 +1,21 @@
-// Border Radius
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
   -moz-border-radius: $radius;
   border-radius: $radius;
 }
 
-// Box Shadows
-@mixin box-shadow($shadow1,$shadow2) {
+@mixin box-shadow($shadow) {
+  -webkit-box-shadow: $shadow;
+  -moz-box-shadow: $shadow;
+  box-shadow: $shadow;
+}
+
+@mixin box-shadow-multiArgs($shadow1,$shadow2) {
   -webkit-box-shadow: $shadow1, $shadow2;
   -moz-box-shadow: $shadow1, $shadow2;
   box-shadow: $shadow1, $shadow2;
 }
 
-// Transitions
 @mixin transition($transition) {
   -webkit-transition: $transition;
   -moz-transition: $transition;
@@ -21,7 +24,6 @@
   transition: $transition;
 }
 
-// Transformations
 @mixin rotate($degrees) {
   -webkit-transform: rotate($degrees);
   -moz-transform: rotate($degrees);
@@ -62,7 +64,6 @@
   transform: translate($x, $y, $z);
 }
 
-// Background sizing
 @mixin background-size($size) {
   -webkit-background-size: $size;
   -moz-background-size: $size;
@@ -70,7 +71,6 @@
   background-size: $size;
 }
 
-// Box sizing
 @mixin box-sizing($boxmodel) {
   -webkit-box-sizing: $boxmodel;
   -moz-box-sizing: $boxmodel;

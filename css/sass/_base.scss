@@ -1,4 +1,48 @@
-@import "_reset.scss";
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+  display: block;
+}
+
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+audio:not([controls]) {
+  display: none;
+}
+
+sub,
+sup {
+  position: relative;
+  font-size: 60%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
 
 html, body {
   height: 100%;
@@ -45,6 +89,7 @@ a:hover, a:active, a:focus {
   color: $blue;
   text-decoration: none;
   text-shadow: $highlight-onDark;
+  outline: 0;
   @include transition(all 0.5s ease-in-out);
 
   &.inline {
