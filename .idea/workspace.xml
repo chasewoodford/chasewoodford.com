@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -86,19 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="58" selection-start="3506" selection-end="3506" vertical-scroll-proportion="0.51320755">
+            <state line="51" column="47" selection-start="3411" selection-end="3411" vertical-scroll-proportion="-11.115385">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="61" selection-start="4301" selection-end="4301" vertical-scroll-proportion="-15.153846">
+            <state line="150" column="55" selection-start="4238" selection-end="4238" vertical-scroll-proportion="0.9358491">
               <folding />
             </state>
           </provider>
@@ -158,8 +157,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
         <option value="$PROJECT_DIR$/about/index.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
       </list>
     </option>
   </component>
@@ -1335,7 +1334,11 @@
       <created>1353278347944</created>
       <updated>1353278347944</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="limiting number of words show in excerpt">
+      <created>1353278598708</created>
+      <updated>1353278598708</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1426,7 +1429,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="swapping content for excerpt" />
+    <option name="LAST_COMMIT_MESSAGE" value="limiting number of words show in excerpt" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1439,7 +1442,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="restructuring" />
     <MESSAGE value="slight adjustment to anchor styling" />
     <MESSAGE value="wp test" />
     <MESSAGE value="from the root link updates" />
@@ -1464,6 +1466,7 @@
     <MESSAGE value="php loop test" />
     <MESSAGE value="php loop fix" />
     <MESSAGE value="swapping content for excerpt" />
+    <MESSAGE value="limiting number of words show in excerpt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1539,16 +1542,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
+    <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="61" selection-start="4301" selection-end="4301" vertical-scroll-proportion="-15.153846">
+        <state line="51" column="47" selection-start="3411" selection-end="3411" vertical-scroll-proportion="-11.115385">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="58" selection-start="3506" selection-end="3506" vertical-scroll-proportion="0.51320755">
+        <state line="150" column="55" selection-start="4238" selection-end="4238" vertical-scroll-proportion="0.9358491">
           <folding />
         </state>
       </provider>

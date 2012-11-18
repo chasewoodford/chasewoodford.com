@@ -150,13 +150,4 @@
     }
     add_filter('excerpt_more', 'new_excerpt_more');
 
-    // Custom show specified number of characters for excerpt
-    function string_limit_words($string, $word_limit) {
-        $words = explode(' ', $string, ($word_limit + 1));
-        if(count($words) > $word_limit)
-            array_pop($words);
-        return implode(' ', $words);
-    }
-?>
-
 ?>
