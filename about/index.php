@@ -47,7 +47,7 @@
                     </p>
                     <p class="left">
                         <?php while (have_posts()) : the_post(); ?>
-                        <?php query_posts('p=171'); ?>
+                        <?php query_posts('showposts=171'); ?>
 
                         <?php endwhile; ?>
 
