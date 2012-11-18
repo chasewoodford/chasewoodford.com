@@ -46,7 +46,7 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php include('../blog/page/book-realityIsBroken.php'); ?>
+                        <?php echo get_post_field('post_content', '171'); ?>
                     </p>
                     <p class="left lead">
                         { way back when }
