@@ -46,10 +46,8 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php
-                        $post_id = 171;
-                        $queried_post = get_post($post_id);
-                        ?>
+                        <?php query_posts('p=171'); ?>
+
                         <?php the_content(''); ?>
 
 
