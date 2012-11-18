@@ -79,7 +79,16 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="38" selection-start="3245" selection-end="3245" vertical-scroll-proportion="0.51320755">
+            <state line="52" column="49" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.6415094">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="16" selection-start="820" selection-end="845" vertical-scroll-proportion="-8.5">
               <folding />
             </state>
           </provider>
@@ -1109,7 +1118,11 @@
       <created>1353266372546</created>
       <updated>1353266372546</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="wp plugin test">
+      <created>1353266568930</created>
+      <updated>1353266568930</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1292,11 +1305,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/license.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1330,9 +1338,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="16" selection-start="820" selection-end="845" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="38" selection-start="3245" selection-end="3245" vertical-scroll-proportion="0.51320755">
+        <state line="52" column="49" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.6415094">
           <folding />
         </state>
       </provider>
