@@ -49,7 +49,10 @@
                         <?php query_posts( 'cat=51&posts_per_page=2&orderby=post_date&order=DESC' );
                         while (have_posts()) : the_post();
                         ?>
-                        <?php the_excerpt(); ?>
+                        <?php
+                        $excerpt = get_the_excerpt();
+                        echo string_limit_words($excerpt,0);
+                        ?>
                         <?php endwhile; ?>
                     </p>
                     <p class="left lead">
