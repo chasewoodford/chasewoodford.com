@@ -369,7 +369,7 @@ Version: 2.0.2
 				$returnval .= '				<div class="amazon-buying">'."\n";
 				$returnval .= '					<h2 class="amazon-asin-title"><a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'><span class="asin-title">'.$result["Title"].'</span></a></h2>'."\n";
 				if(isset($result["Author"])){
-				$returnval .= '					<span class="amazon-author">'.$appip_text_author.' '.$result["Author"].'</span><br />'."\n";
+				$returnval .= '					<span class="amazon-author">'.$appip_text_author.'</span><br />'."\n";
 				}
 				return $returnval;
 			}
