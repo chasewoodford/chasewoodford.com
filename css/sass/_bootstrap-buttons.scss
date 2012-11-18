@@ -6,7 +6,7 @@
   font-size: $baseFontSize;
   line-height: $baseLineHeight;
   *line-height: 20px;
-  color: $grayDark;
+  color: darken($gray, 15%);
   text-align: center;
   text-shadow: 0 1px 1px rgba(255,255,255,.75);
   vertical-align: middle;
@@ -21,7 +21,7 @@
 }
 
 .btn:hover {
-  color: $grayDark;
+  color: darken($gray, 15%);
   text-decoration: none;
   background-color: darken($white, 10%);
   *background-color: darken($white, 15%);
