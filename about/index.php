@@ -47,8 +47,7 @@
                     </p>
                     <p class="left">
 <!--                        --><?php //currently_reading_book(); ?>
-                        [AMAZONPRODUCT=1594202850]
-                        <?php include ('../blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php'); ?>
+                        <?php query_posts('p=171'); ?>
 
 
                     </p>
