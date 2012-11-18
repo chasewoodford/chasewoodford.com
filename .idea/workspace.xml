@@ -88,7 +88,7 @@
       <file leaf-file-name="search-results.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/search-results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.18968692">
+            <state line="7" column="58" selection-start="287" selection-end="287" vertical-scroll-proportion="0.21915285">
               <folding />
             </state>
           </provider>
@@ -97,7 +97,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="4" selection-start="595" selection-end="637" vertical-scroll-proportion="-7.8461537">
+            <state line="0" column="0" selection-start="0" selection-end="637" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -946,7 +946,11 @@
       <created>1353206849668</created>
       <updated>1353206849668</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="minor updates">
+      <created>1353207609705</created>
+      <updated>1353207609705</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1175,13 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="595" selection-end="637" vertical-scroll-proportion="-7.8461537">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
@@ -1189,9 +1186,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="637" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/search-results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="11" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.18968692">
+        <state line="7" column="58" selection-start="287" selection-end="287" vertical-scroll-proportion="0.21915285">
           <folding />
         </state>
       </provider>
