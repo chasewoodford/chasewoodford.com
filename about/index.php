@@ -46,8 +46,13 @@
                         { currently reading }
                     </p>
                     <p class="left">
-<!--                        --><?php //currently_reading_book(); ?>
-                        <?php get_a_post(171); ?>
+                        <?php
+                        $post_id = 171;
+                        $queried_post = get_post($post_id);
+                        $title = $queried_post->post_title;
+                        echo $title;
+                        echo $queried_post->post_content;
+                        ?>
 
 
                     </p>
