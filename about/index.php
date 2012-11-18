@@ -46,7 +46,9 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php echo get_post_field('post_content', '171'); ?>
+                        <?php
+                        $post_id = "171";
+                        echo get_post_field('post_content', $post_id); ?>
                     </p>
                     <p class="left lead">
                         { way back when }
