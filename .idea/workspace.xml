@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -87,7 +88,7 @@
       <file leaf-file-name="amazon-product-in-a-post.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="391" column="0" selection-start="18255" selection-end="18615" vertical-scroll-proportion="0.2625">
+            <state line="373" column="0" selection-start="17225" selection-end="17437" vertical-scroll-proportion="2.1958334">
               <folding>
                 <element signature="e#6#1435#0" expanded="true" />
               </folding>
@@ -1258,7 +1259,11 @@
       <created>1353269616696</created>
       <updated>1353269616696</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="wp plugin test">
+      <created>1353269755901</created>
+      <updated>1353269755901</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1475,7 +1480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="391" column="0" selection-start="18255" selection-end="18615" vertical-scroll-proportion="0.2625">
+        <state line="373" column="0" selection-start="17225" selection-end="17437" vertical-scroll-proportion="2.1958334">
           <folding>
             <element signature="e#6#1435#0" expanded="true" />
           </folding>

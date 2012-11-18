@@ -371,24 +371,24 @@ Version: 2.0.2
 				if(isset($result["Author"])){
 				$returnval .= '					<span class="amazon-author">'.$appip_text_author.' '.$result["Author"].'</span><br />'."\n";
 				}
-				if(isset($result["Director"])){
-				$returnval .= '					<span class="amazon-director-label">'.$appip_text_director.': </span><span class="amazon-director">'.$result["Director"].'</span><br />'."\n";
-				}
+//				if(isset($result["Director"])){
+//				$returnval .= '					<span class="amazon-director-label">'.$appip_text_director.': </span><span class="amazon-director">'.$result["Director"].'</span><br />'."\n";
+//				}
 				if(isset($result["Actors"])){
 				$returnval .= '					<span class="amazon-starring-label">'.$appip_text_starring.': </span><span class="amazon-starring">'.$result["Actors"].'</span><br />'."\n";
 				}
-				if(isset($result["Rating"])){
-				$returnval .= '					<span class="amazon-rating-label">Rating: </span><span class="amazon-rating">'.$result["Rating"].'</span><br />'."\n";
-				}
-				$returnval .= '				</div>'."\n";
-				$returnval .= '				<hr noshade="noshade" size="1" />'."\n";
-				$returnval .= '				<div align="left">'."\n";
-				$returnval .= '					<table class="amazon-product-price" cellpadding="0">'."\n";
-				if($extratext!=''){
-				$returnval .= '						<tr>'."\n";
-				$returnval .= '							<td class="amazon-post-text" colspan="2">'.$extratext.'</td>'."\n";
-				$returnval .= '						</tr>'."\n";
-				}
+//				if(isset($result["Rating"])){
+//				$returnval .= '					<span class="amazon-rating-label">Rating: </span><span class="amazon-rating">'.$result["Rating"].'</span><br />'."\n";
+//				}
+//				$returnval .= '				</div>'."\n";
+//				$returnval .= '				<hr noshade="noshade" size="1" />'."\n";
+//				$returnval .= '				<div align="left">'."\n";
+//				$returnval .= '					<table class="amazon-product-price" cellpadding="0">'."\n";
+//				if($extratext!=''){
+//				$returnval .= '						<tr>'."\n";
+//				$returnval .= '							<td class="amazon-post-text" colspan="2">'.$extratext.'</td>'."\n";
+//				$returnval .= '						</tr>'."\n";
+//				}
 //				If($result["PriceHidden"]==1 ){
 //					$returnval .= '						<tr>'."\n";
 //					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
