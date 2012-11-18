@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_animations.scss" afterPath="$PROJECT_DIR$/css/sass/_animations.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" afterPath="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_buttons.scss" afterPath="$PROJECT_DIR$/css/sass/_buttons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-form.scss" afterPath="$PROJECT_DIR$/css/sass/_m-form.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_variables.scss" afterPath="$PROJECT_DIR$/css/sass/_variables.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -84,19 +77,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_variables.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="6" vertical-scroll-proportion="0.0">
+            <state line="18" column="26" selection-start="638" selection-end="638" vertical-scroll-proportion="0.4586331">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="52" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.26618704">
+            <state line="96" column="52" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_buttons.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="22" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,17 +131,17 @@
         <option value="$PROJECT_DIR$/css/sass/_mixins.scss" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/robots.txt" />
-        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_animations.scss" />
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_buttons.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_buttons.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
       </list>
     </option>
   </component>
@@ -979,7 +981,11 @@
       <created>1353204956567</created>
       <updated>1353204956567</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="variable-izing">
+      <created>1353206250724</created>
+      <updated>1353206250724</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1124,13 +1130,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="194" selection-end="194" vertical-scroll-proportion="-3.4217925">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-about.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1211,16 +1210,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="6" vertical-scroll-proportion="0.0">
+        <state line="96" column="52" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="52" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.26618704">
+        <state line="7" column="22" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="638" selection-end="638" vertical-scroll-proportion="0.4586331">
           <folding />
         </state>
       </provider>
