@@ -46,7 +46,7 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php include('../blog/book-realityIsBroken.php'); ?>
+                        <?php include('../blog/page/book-realityIsBroken.php'); ?>
                     </p>
                     <p class="left lead">
                         { way back when }
