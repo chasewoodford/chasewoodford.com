@@ -24,7 +24,7 @@
 
 .fade {
   @include opacity(0);
-  @include transition(opacity .15s linear);
+  @include transition(opacity 0.15s linear);
   &.in {
     @include opacity(100);
   }
@@ -34,7 +34,7 @@
   position: relative;
   height: 0;
   overflow: hidden;
-  @include transition(height .35s ease);
+  @include transition(height 0.35s ease);
   &.in {
     height: auto;
   }

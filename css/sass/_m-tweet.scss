@@ -1,10 +1,10 @@
 #tweet-container {
   clear: both;
   @include box-sizing(border-box);
-  border-radius: 20px;
+  border-radius: $space;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) inset;
-  margin-bottom: 60px;
-  padding: 20px 30px 20px;
+  margin-bottom: $space*3;
+  padding: $space $space*1.5 $space;
   overflow: hidden;
 }
 
@@ -12,7 +12,7 @@
   display: inline;
   float: left;
   width: 88%;
-  margin: 0 auto 10px;
+  margin: 0 auto $space/2;
   font-family: $font-UbuntuLtIt;
   text-align: justify;
 }
@@ -21,7 +21,7 @@
   float: left;
   width: 5%;
   display: inline;
-  margin: 10px 0 0 0;
+  margin: $space/2 0 0 0;
   font-size: 30px;
   text-align: left;
   color: $blue;

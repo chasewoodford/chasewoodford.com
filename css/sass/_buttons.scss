@@ -1,11 +1,11 @@
 .btn {
   display: inline-block;
   @include ie7-inline-block();
-  padding: 4px 10px 4px;
+  padding: 4px $space/2 4px;
   margin-bottom: 0;
   font-size: $baseFontSize;
   line-height: $baseLineHeight;
-  *line-height: 20px;
+  *line-height: $space;
   color: darken($gray, 15%);
   text-align: center;
   text-shadow: 0 1px 1px rgba(255,255,255,.75);

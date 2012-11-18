@@ -45,13 +45,13 @@
                         In my spare time I like to compose music, which I link to from the <a class="inline" href="/playground" title="playground" target="_self">playground</a> along with all of my other side projects. I also spend a lot of time reading, mostly about web design and user experience with the occasional book on string theory or building time machines, you know, just to keep in the know.
                     </p>
                     <p class="left lead">
-                        currently reading
+                        { currently reading }
                     </p>
                     <p class="left">
                         <?php currently_reading_book(); ?>
                     </p>
                     <p class="left lead">
-                        way back when
+                        { way back when }
                     </p>
                     <p class="left">
                         I graduated from Temple University in 2007 with Summa Cum Laude honors, a bachelor's degree in Advertising and a minor in Sociology. I made the Dean's List a bunch of times, held several high ranking positions as a brother of the Alpha Tau Omega fraternity and was even robbed at gunpoint once. Pretty much your typical college experience.

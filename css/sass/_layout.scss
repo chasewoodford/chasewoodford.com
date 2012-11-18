@@ -3,32 +3,32 @@
 }
 
 .grid-2 {
-  margin: 0 auto 20px;
+  margin: 0 auto $space;
   width: flex-grid(2); // 16.875%
 }
 
 .grid-3 {
-  margin: 0 auto 20px;
+  margin: 0 auto $space;
   width: flex-grid(3); // 25.3125%
 }
 
 .grid-4 {
-  margin: 0 auto 20px;
+  margin: 0 auto $space;
   width: flex-grid(4); // 33.75%
 }
 
 .grid-5 {
-  margin: 0 auto 20px;
+  margin: 0 auto $space;
   width: flex-grid(5); // 42.1875%
 }
 
 .grid-6 {
-  margin: 0 auto 20px;
+  margin: 0 auto $space;
   width: flex-grid(6); // 50.625%
 }
 
 .grid-7 {
-  margin: 0 auto 20px;
+  margin: 0 auto $space;
   width: flex-grid(7); // 59.0625%
 }
 
@@ -110,7 +110,7 @@ header {
 }
 
 .hero {
-  margin: 30px auto 50px;
+  margin: $space*1.5 auto 50px;
 }
 
 .attribute {
@@ -124,12 +124,12 @@ header {
 
 .continue-reading {
   float: right;
-  padding: 5px 0 10px;
+  padding: $space/4 0 $space/2;
 }
 
 .title-background {
   display: block;
-  padding: 5px 20px;
+  padding: $space/4 $space;
   background: $blue;
 }
 
@@ -139,7 +139,7 @@ header {
 
 #sidebar {
   float: right;
-  margin: 10px 6% 0;
+  margin: $space/2 6% 0;
   text-align: right;
 }
 
@@ -147,34 +147,34 @@ header {
   display: inline;
   float: right;
   width: auto;
-  padding-top:15px;
-  margin-bottom: 20px;
+  padding-top: 15px;
+  margin-bottom: $space;
 }
 
 .side-widget ul {
   list-style: none;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   clear: both;
 }
 
 .side-widget ul li {
   float: right;
   display: block;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   width: 180px;
 }
 
 .preview-container {
-  margin: 0 auto 60px;
+  margin: 0 auto $space*3;
 }
 
 .preview, .static {
   display: inline-block;
-  margin: 0 10px 20px;
+  margin: 0 $space/2 $space;
 
   &.main {
-    margin: 20px 10px 0;
+    margin: $space $space/2 0;
   }
 }
