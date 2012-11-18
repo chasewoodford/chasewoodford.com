@@ -46,10 +46,12 @@
                     </p>
                     <p class="left lead">
                         currently reading
+                    </p>
+                    <p class="left">
                         <?php currently_reading_book(); ?>
                     </p>
                     <p class="left lead">
-                        .way-back-when {
+                        way back when
                     </p>
                     <p class="left">
                         I graduated from Temple University in 2007 with Summa Cum Laude honors, a bachelor's degree in Advertising and a minor in Sociology. I made the Dean's List a bunch of times, held several high ranking positions as a brother of the Alpha Tau Omega fraternity and was even robbed at gunpoint once. Pretty much your typical college experience.

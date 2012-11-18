@@ -190,10 +190,6 @@ h4 {
   line-height: 36px;
   letter-spacing: -1px;
 
-  &:after {
-    content: "}";
-  }
-
   &:not(:first-of-type) {
     margin: 40px 0 0 -10px;
   }
