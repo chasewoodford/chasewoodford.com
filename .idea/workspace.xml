@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="php loop test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
     </list>
@@ -88,7 +88,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="51" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.83396226">
+            <state line="52" column="38" selection-start="3450" selection-end="3450" vertical-scroll-proportion="0.4811321">
               <folding />
             </state>
           </provider>
@@ -1233,7 +1233,11 @@
       <created>1353276843256</created>
       <updated>1353276843256</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="php loop test">
+      <created>1353277255252</created>
+      <updated>1353277255252</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1324,7 +1328,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing broken php loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="php loop test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1337,7 +1341,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="pears and wordpress merge" />
     <MESSAGE value="wp comment styling" />
     <MESSAGE value="removing unused modules" />
     <MESSAGE value="restructuring" />
@@ -1362,6 +1365,7 @@
     <MESSAGE value="refactoring" />
     <MESSAGE value="styling recently consumed section" />
     <MESSAGE value="fixing broken php loop" />
+    <MESSAGE value="php loop test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1439,7 +1443,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="51" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.83396226">
+        <state line="52" column="38" selection-start="3450" selection-end="3450" vertical-scroll-proportion="0.4811321">
           <folding />
         </state>
       </provider>
