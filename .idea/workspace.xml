@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="revert">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" afterPath="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,11 +76,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="48" selection-start="3225" selection-end="3225" vertical-scroll-proportion="0.25660378">
+            <state line="48" column="48" selection-start="3225" selection-end="3225" vertical-scroll-proportion="-5.230769">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="amazon-product-in-a-post.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="395" column="12" selection-start="18528" selection-end="18528" vertical-scroll-proportion="0.5188679">
+              <folding>
+                <element signature="e#6#1435#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_animations.scss" />
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
@@ -123,6 +133,7 @@
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/page.php" />
         <option value="$PROJECT_DIR$/about/index.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
       </list>
     </option>
   </component>
@@ -270,6 +281,84 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon-product-in-a-post-plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon-product-in-a-post-plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1158,7 +1247,11 @@
       <created>1353268297122</created>
       <updated>1353268297122</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="wp plugin test">
+      <created>1353269257658</created>
+      <updated>1353269257658</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1194,6 +1287,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27946126" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1208,7 +1302,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1249,7 +1342,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="wp plugin test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1285,8 +1378,8 @@
     <MESSAGE value="idea test" />
     <MESSAGE value="variable-izing" />
     <MESSAGE value="minor updates" />
-    <MESSAGE value="wp plugin test" />
     <MESSAGE value="revert" />
+    <MESSAGE value="wp plugin test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1356,11 +1449,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="82" selection-start="928" selection-end="928" vertical-scroll-proportion="123.666664" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="16" selection-start="820" selection-end="845" vertical-scroll-proportion="-8.5" />
@@ -1373,8 +1461,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="48" selection-start="3225" selection-end="3225" vertical-scroll-proportion="0.25660378">
+        <state line="48" column="48" selection-start="3225" selection-end="3225" vertical-scroll-proportion="-5.230769">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="395" column="12" selection-start="18528" selection-end="18528" vertical-scroll-proportion="0.5188679">
+          <folding>
+            <element signature="e#6#1435#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

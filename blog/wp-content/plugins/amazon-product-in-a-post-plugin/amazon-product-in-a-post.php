@@ -395,10 +395,10 @@ Version: 2.0.2
 					$returnval .= '							<td class="amazon-list-price-label">'.$amazonhiddenmsg.'</td>'."\n";
 					$returnval .= '						</tr>'."\n"; 
 				}elseif($result["ListPrice"]!='0'){
-					$returnval .= '						<tr>'."\n";
-					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
-					$returnval .= '							<td class="amazon-list-price">'.  mb_convert_encoding($result["ListPrice"], $encodemode, mb_detect_encoding( $result["ListPrice"], "auto" )) .'</td>'."\n";
-					$returnval .= '						</tr>'."\n";
+//					$returnval .= '						<tr>'."\n";
+//					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
+//					$returnval .= '							<td class="amazon-list-price">'.  mb_convert_encoding($result["ListPrice"], $encodemode, mb_detect_encoding( $result["ListPrice"], "auto" )) .'</td>'."\n";
+//					$returnval .= '						</tr>'."\n";
 				}
 				if(isset($result["LowestNewPrice"])){
 					if($result["LowestNewPrice"]=='Too low to display'){
