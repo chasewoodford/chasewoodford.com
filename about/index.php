@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Chase Woodford &#124; Designer &amp; Developer</title>
+    <title>Chase Woodford &#124; About</title>
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/css/compiled/style.css">
@@ -11,14 +11,12 @@
 <div class="wrapper">
     <div class="main-content">
         <?php
-        include ("../header.php");
+        include ('../header.php');
         ?>
-
         <div class="grid-8">
             <?php
             require('../blog/wp-blog-header.php');
             ?>
-
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
@@ -60,7 +58,7 @@
                         But enough about me. If you want to know anything else, <a class="inline" href="/contact" title="contact" target="_self">drop me a line</a> or say hi on <a class="inline" href="https://twitter.com/chase1263070" title="twitter" target="_blank">Twitter<sup><i class="icon-popup"></i></sup></a>.
                     </p>
                     <?php
-                    include ("../social.php");
+                    include ('../social.php');
                     ?>
                 </section>
                 <div class="clear"></div>
@@ -68,7 +66,6 @@
         </div>
     </div>
 </div>
-
 <?php
-include ("../blog/wp-content/themes/v2/footer.php");
+include ('../blog/wp-content/themes/v2/footer.php');
 ?>
