@@ -328,9 +328,9 @@ Adapted By: Chase Woodford
 //				$returnval .= '				</div>'."\n";
 //				$returnval .= '				<div class="amazon-buying">'."\n";
 //				$returnval .= '					<h2 class="amazon-asin-title"><a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'></a></h2>'."\n";
-                if($extratext!=''){
-                    $returnval .= '							<p class="amazon-post-text">'.$extratext.'</p>'."\n";
-                }
+//                if($extratext!=''){
+//                    $returnval .= '							<p class="amazon-post-text">'.$extratext.'</p>'."\n";
+//                }
                 $returnval .= '				</div>'."\n";
 				return $returnval;
 			}

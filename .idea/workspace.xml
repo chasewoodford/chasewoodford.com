@@ -97,16 +97,7 @@
       <file leaf-file-name="amazon-product-in-a-post.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="301" column="29" selection-start="13179" selection-end="13189" vertical-scroll-proportion="0.33267328">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="55" selection-start="4238" selection-end="4238" vertical-scroll-proportion="-30.846153">
+            <state line="330" column="0" selection-start="15099" selection-end="15252" vertical-scroll-proportion="0.33267328">
               <folding />
             </state>
           </provider>
@@ -1389,7 +1380,11 @@
       <created>1353279414071</created>
       <updated>1353279414071</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="customizing plugin">
+      <created>1353279535735</created>
+      <updated>1353279535735</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1588,13 +1583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="55" selection-start="4238" selection-end="4238" vertical-scroll-proportion="-30.846153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="38" selection-start="3450" selection-end="3450" vertical-scroll-proportion="-11.769231">
@@ -1602,9 +1590,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="55" selection-start="4238" selection-end="4238" vertical-scroll-proportion="1.5132076">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="301" column="29" selection-start="13179" selection-end="13189" vertical-scroll-proportion="0.33267328">
+        <state line="330" column="0" selection-start="15099" selection-end="15252" vertical-scroll-proportion="0.33267328">
           <folding />
         </state>
       </provider>
