@@ -47,7 +47,7 @@
                     </p>
                     <p class="left">
                         <?
-                        $a = file_get_contents("http://www.chasewoodford.com/blog/books-realityIsBroken.php");
+                        $a = file_get_contents("http://www.chasewoodford.com/blog/book-realityIsBroken.php");
                         echo ($a);
                         ?>
 
