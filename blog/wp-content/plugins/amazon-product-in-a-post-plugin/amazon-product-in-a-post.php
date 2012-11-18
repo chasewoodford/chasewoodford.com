@@ -322,7 +322,6 @@ Adapted By: Chase Woodford
 				$returnval .= '				<div class="amazon-image-wrapper">'."\n";
 				$returnval .= '			        <a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
 				if($result['LargeImage']!=''){
-				//$returnval .= '				<a target="amazon-image" href="javascript: void(0)" onclick="artwindow=window.open(\'' .$result['LargeImage'] .'\',\'art\',\'directories=no, location=no, menubar=no, resizable=no, scrollbars=no, status=no, toolbar=no, width=400,height=525\');artwindow.focus();return false;"><span class="amazon-tiny">'.$appip_text_lgimage.'</span></a>'."\n";
 				$returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
 				}
                 if($extratext!=''){
@@ -340,7 +339,7 @@ Adapted By: Chase Woodford
 	    $base_url0 = '<'.'img src="';
 	    $base_url = $imgurl;
 	    $base_url1 = '"';
-	    $base_url1 = $base_url1.' class="amazon-image '.$class.'"';
+	    $base_url1 = $base_url1.$class.'"';
 	    $base_url1 = $base_url1.' />';
 		
 		if($base_url!=''){
