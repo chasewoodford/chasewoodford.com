@@ -389,12 +389,12 @@ Version: 2.0.2
 				$returnval .= '							<td class="amazon-post-text" colspan="2">'.$extratext.'</td>'."\n";
 				$returnval .= '						</tr>'."\n";
 				}
-				If($result["PriceHidden"]==1 ){
-					$returnval .= '						<tr>'."\n";
-					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
-					$returnval .= '							<td class="amazon-list-price-label">'.$amazonhiddenmsg.'</td>'."\n";
-					$returnval .= '						</tr>'."\n"; 
-				}elseif($result["ListPrice"]!='0'){
+//				If($result["PriceHidden"]==1 ){
+//					$returnval .= '						<tr>'."\n";
+//					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
+//					$returnval .= '							<td class="amazon-list-price-label">'.$amazonhiddenmsg.'</td>'."\n";
+//					$returnval .= '						</tr>'."\n";
+//				}elseif($result["ListPrice"]!='0'){
 //					$returnval .= '						<tr>'."\n";
 //					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
 //					$returnval .= '							<td class="amazon-list-price">'.  mb_convert_encoding($result["ListPrice"], $encodemode, mb_detect_encoding( $result["ListPrice"], "auto" )) .'</td>'."\n";
