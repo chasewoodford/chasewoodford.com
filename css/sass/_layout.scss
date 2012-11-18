@@ -179,6 +179,10 @@ header {
   }
 }
 
+body.blog .amazon-image-wrapper > p {
+  display: none;
+}
+
 .amazon-image-wrapper {
   display: inline;
   float: left;
