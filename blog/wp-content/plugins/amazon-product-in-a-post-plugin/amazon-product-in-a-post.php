@@ -6,17 +6,7 @@ Description: Quickly add a formatted Amazon Product (image, pricing and buy butt
 Author: Don Fischer
 Author URI: http://www.fischercreativemedia.com/
 Version: 2.0.2
-    Copyright (C) 2009-2012 Donald J. Fischer
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+Adapted By: Chase Woodford
 */
 
 // Warnings Quickfix
@@ -42,11 +32,11 @@ Version: 2.0.2
 	global $apippnewwindowhtml;
 	global $encodemode; //1.7 new
 	global $appip_text_lgimage;
-	global $appip_text_listprice; 
-	global $appip_text_newfrom; 
+	global $appip_text_listprice;
+	global $appip_text_newfrom;
 	global $appip_text_usedfrom;
 	global $appip_text_instock;
-	global $appip_text_outofstock; 
+	global $appip_text_outofstock;
 	global $appip_text_author;
 	global $appip_text_starring;
 	global $appip_text_director;
@@ -535,24 +525,9 @@ Version: 2.0.2
 			}
 		 return $text;
 	  }
-	function aws_prodinpost_addadminhead(){
-	  echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-product-in-a-post-styles-icons.css" type="text/css" media="screen" />'."\n";
-	}
-	function aws_prodinpost_addhead(){
-		global $aws_plugin_version;
-		$amazonStylesToUseMine = get_option("apipp_product_styles_mine"); //is box checked?
-		echo '<'.'!-- Amazon Product In a Post Plugin Styles & Scripts - Version '.$aws_plugin_version.' -->'."\n";
-		if($amazonStylesToUseMine=='true'){ //use there styles
-			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=custom" type="text/css" media="screen" />'."\n";
-		}else{ //use default styles
-			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=default" type="text/css" media="screen" />'."\n";
-		}
-		echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-lightbox.css" type="text/css" media="screen" />'."\n";
-		echo '<'.'!-- End Amazon Product In a Post Plugin Styles & Scripts-->'."\n";
-	}
+
 	function add_appip_jquery(){
 		wp_register_script('appip-amazonlightbox', WP_PLUGIN_URL . '/amazon-product-in-a-post-plugin/js/amazon-lightbox.js');
-		wp_enqueue_script('jquery');
 		wp_enqueue_script('appip-amazonlightbox'); 
 	}
 ?>
