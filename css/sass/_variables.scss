@@ -1,3 +1,5 @@
+$space: 20px;
+
 $black:                 #000 !default;
 $white:                 #fff !default;
 $blue:                  #0088CC !default;
@@ -15,7 +17,7 @@ $linkColor:             #08c !default;
 $linkColorHover:        darken($linkColor, 15%) !default;
 
 $baseFontSize:          13px !default;
-$baseLineHeight:        18px !default;
+$baseLineHeight:        $space !default;
 
 $btnBackground:                     $white !default;
 $btnBackgroundHighlight:            darken($white, 10%) !default;
@@ -69,7 +71,7 @@ $highlight-title:             0 1px 1px rgba(0, 0, 0, 0.5);
 $highlight-onDark:            1px 2px 1px rgba(0, 0, 0, 0.5);
 
 $fg-column: 115px;
-$fg-gutter: 20px;
+$fg-gutter: $space;
 $fg-max-columns: 12;
 
 @function flex-grid($columns, $container-columns: $fg-max-columns) {

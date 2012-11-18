@@ -7,14 +7,14 @@ html, body {
 body {
   background: url('../../images/bg.png') repeat;
   overflow-x: hidden;
-  font: normal 125%/1.4 $font-Calluna, serif; // 20/16, 28/20
+  font: normal 125%/1.4 $font-Calluna, serif;
   color: $gray;
 }
 
 .logo {
   float: left;
   width: 115px;
-  @include transition(all .5s ease-in-out);
+  @include transition(all 0.5s ease-in-out);
 }
 
 footer {
@@ -22,7 +22,7 @@ footer {
   clear: both;
   margin-bottom: 0 !important;
   margin-top: -30px !important;
-  height: 30px;
+  height: $space*1.5;
 }
 
 ::selection {
