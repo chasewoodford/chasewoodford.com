@@ -363,7 +363,7 @@ Version: 2.0.2
 				$returnval .= '					<a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
 				if($result['LargeImage']!=''){
 				//$returnval .= '				<a target="amazon-image" href="javascript: void(0)" onclick="artwindow=window.open(\'' .$result['LargeImage'] .'\',\'art\',\'directories=no, location=no, menubar=no, resizable=no, scrollbars=no, status=no, toolbar=no, width=400,height=525\');artwindow.focus();return false;"><span class="amazon-tiny">'.$appip_text_lgimage.'</span></a>'."\n";
-				$returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"><span class="amazon-tiny">'.$appip_text_lgimage.'</span></a>'."\n";
+				$returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
 				}
 				$returnval .= '				</div>'."\n";
 				$returnval .= '				<div class="amazon-buying">'."\n";
@@ -371,88 +371,6 @@ Version: 2.0.2
 				if(isset($result["Author"])){
 				$returnval .= '					<span class="amazon-author">'.$appip_text_author.' '.$result["Author"].'</span><br />'."\n";
 				}
-//				if(isset($result["Director"])){
-//				$returnval .= '					<span class="amazon-director-label">'.$appip_text_director.': </span><span class="amazon-director">'.$result["Director"].'</span><br />'."\n";
-//				}
-				if(isset($result["Actors"])){
-				$returnval .= '					<span class="amazon-starring-label">'.$appip_text_starring.': </span><span class="amazon-starring">'.$result["Actors"].'</span><br />'."\n";
-				}
-//				if(isset($result["Rating"])){
-//				$returnval .= '					<span class="amazon-rating-label">Rating: </span><span class="amazon-rating">'.$result["Rating"].'</span><br />'."\n";
-//				}
-//				$returnval .= '				</div>'."\n";
-//				$returnval .= '				<hr noshade="noshade" size="1" />'."\n";
-//				$returnval .= '				<div align="left">'."\n";
-//				$returnval .= '					<table class="amazon-product-price" cellpadding="0">'."\n";
-//				if($extratext!=''){
-//				$returnval .= '						<tr>'."\n";
-//				$returnval .= '							<td class="amazon-post-text" colspan="2">'.$extratext.'</td>'."\n";
-//				$returnval .= '						</tr>'."\n";
-//				}
-//				If($result["PriceHidden"]==1 ){
-//					$returnval .= '						<tr>'."\n";
-//					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
-//					$returnval .= '							<td class="amazon-list-price-label">'.$amazonhiddenmsg.'</td>'."\n";
-//					$returnval .= '						</tr>'."\n";
-//				}elseif($result["ListPrice"]!='0'){
-//					$returnval .= '						<tr>'."\n";
-//					$returnval .= '							<td class="amazon-list-price-label">'.$appip_text_listprice.':</td>'."\n";
-//					$returnval .= '							<td class="amazon-list-price">'.  mb_convert_encoding($result["ListPrice"], $encodemode, mb_detect_encoding( $result["ListPrice"], "auto" )) .'</td>'."\n";
-//					$returnval .= '						</tr>'."\n";
-//				}
-//				if(isset($result["LowestNewPrice"])){
-//					if($result["LowestNewPrice"]=='Too low to display'){
-//						$newPrice = 'Check Amazon For Pricing';
-//					}else{
-//						$newPrice = $result["LowestNewPrice"];
-//					}
-//					$returnval .= '						<tr>'."\n";
-//					$returnval .= '							<td class="amazon-new-label">'.$appip_text_newfrom.':</td>'."\n";
-//					if($result["TotalNew"]>0){
-//						$returnval .= '							<td class="amazon-new">'. mb_convert_encoding($newPrice , $encodemode, mb_detect_encoding( $newPrice, "auto" )).' <span class="instock">'.$appip_text_instock.'</span></td>'."\n";
-//					}else{
-//						$returnval .= '							<td class="amazon-new">'. mb_convert_encoding($newPrice , $encodemode, mb_detect_encoding( $newPrice, "auto" )).' <span class="outofstock">'.$appip_text_outofstock.'</span></td>'."\n";
-//					}
-//					$returnval .= '						</tr>'."\n";
-//				}
-//				if(isset($result["LowestUsedPrice"])){
-//					$returnval .= '						<tr>'."\n";
-//					$returnval .= '							<td class="amazon-used-label">'.$appip_text_usedfrom.':</td>'."\n";
-//					if($result["TotalUsed"]>0){
-//
-//						$returnval .= '						<td class="amazon-used">'. mb_convert_encoding($result["LowestUsedPrice"], $encodemode, mb_detect_encoding( $result["LowestUsedPrice"], "auto" )) .' <span class="instock">'.$appip_text_instock.'</span></td>'."\n";
-//					}else{
-//						$returnval .= '						<td class="amazon-new">'. mb_convert_encoding($result["LowestNewPrice"], $encodemode, mb_detect_encoding( $result["LowestUsedPrice"], "auto" )) . ' <span class="outofstock">'.$appip_text_outofstock.'</span></td>'."\n";
-//					}
-//					$returnval .= '						</tr>'."\n";
-//				}
-//				$returnval .= '						<tr>'."\n";
-//				$returnval .= '							<td valign="top" colspan="2">'."\n";
-//				$returnval .= '								<div class="amazon-dates">'."\n";
-//				if(isset($result["ReleaseDate"])){
-//					if(strtotime($result["ReleaseDate"]) > strtotime(date("Y-m-d",time()))){
-//				$returnval .= '									<span class="amazon-preorder"><br />'.$appip_text_releasedon.' '.date("F j, Y", strtotime($result["ReleaseDate"])).'.</span>'."\n";
-//					}else{
-//				$returnval .= '									<span class="amazon-release-date">'.$appip_text_reldate.' '.date("F j, Y", strtotime($result["ReleaseDate"])).'.</span>'."\n";
-//					}
-//				}
-//				$returnval .= '									<br /><div><a style="display:block;margin-top:8px;margin-bottom:5px;width:165px;" '. $apippnewwindowhtml .' href="' . $result["URL"] .'"><img src="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/images/'.$buyamzonbutton.'" border="0" style="border:0 none !important;margin:0px !important;background:transparent !important;" /></a></div>'."\n";
-//				if($extrabutton==1 && $aws_partner_locale!='.com'){
-//				//$returnval .= '									<br /><div><a style="display:block;margin-top:8px;margin-bottom:5px;width:165px;" '. $apippnewwindowhtml .' href="' . $result["URL"] .'"><img src="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/images/buyamzon-button.png" border="0" style="border:0 none !important;margin:0px !important;background:transparent !important;"/></a></div>'."\n";
-//				}
-//				$returnval .= '								</div>'."\n";
-//				$returnval .= '							</td>'."\n";
-//				$returnval .= '						</tr>'."\n";
-//				If(!isset($result["LowestUsedPrice"]) && !isset($result["LowestNewPrice"]) && !isset($result["ListPrice"])){
-//					$returnval .= '						<tr>'."\n";
-//					$returnval .= '							<td class="amazon-price-save-label" colspan="2">'.$appip_text_notavalarea.'</td>'."\n";
-//					$returnval .= '						</tr>'."\n";
-//				}
-//				$returnval .= '					</table>'."\n";
-//				$returnval .= '				</div>'."\n";
-//				$returnval .= '			</td>'."\n";
-//				$returnval .= '		</tr>'."\n";
-//				$returnval .= '	</table>'."\n";
 				return $returnval;
 			}
 		}
