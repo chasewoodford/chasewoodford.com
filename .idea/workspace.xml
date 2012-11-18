@@ -88,7 +88,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="24" selection-start="3357" selection-end="3357" vertical-scroll-proportion="0.6415094">
+            <state line="48" column="51" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.83396226">
               <folding />
             </state>
           </provider>
@@ -1229,7 +1229,11 @@
       <created>1353276750614</created>
       <updated>1353276750614</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="fixing broken php loop">
+      <created>1353276843256</created>
+      <updated>1353276843256</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1435,7 +1439,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="24" selection-start="3357" selection-end="3357" vertical-scroll-proportion="0.6415094">
+        <state line="48" column="51" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.83396226">
           <folding />
         </state>
       </provider>

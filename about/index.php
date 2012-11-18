@@ -46,7 +46,7 @@
                         { recently consumed }
                     </p>
                     <p class="left">
-                        <?php query_posts( 'cat=51&posts_per_page=2&orderby=post_date&order=DESC' );
+                        <?php query_posts( 'cat=51&orderby=post_date&order=DESC' );
                         if(have_posts()) : the_post();
                         ?>
                         <?php the_content(); ?>
