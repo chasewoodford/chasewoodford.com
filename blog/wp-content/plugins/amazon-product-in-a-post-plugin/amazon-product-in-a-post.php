@@ -339,7 +339,6 @@ Adapted By: Chase Woodford
 	    $base_url0 = '<'.'img src="';
 	    $base_url = $imgurl;
 	    $base_url1 = '"';
-//	    $base_url1 = $base_url1.' class="amazon-image '.$class.'"';
 	    $base_url1 = $base_url1.' />';
 		
 		if($base_url!=''){
