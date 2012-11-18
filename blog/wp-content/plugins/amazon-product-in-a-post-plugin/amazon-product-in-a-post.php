@@ -325,15 +325,15 @@ Adapted By: Chase Woodford
 				//$returnval .= '				<a target="amazon-image" href="javascript: void(0)" onclick="artwindow=window.open(\'' .$result['LargeImage'] .'\',\'art\',\'directories=no, location=no, menubar=no, resizable=no, scrollbars=no, status=no, toolbar=no, width=400,height=525\');artwindow.focus();return false;"><span class="amazon-tiny">'.$appip_text_lgimage.'</span></a>'."\n";
 				$returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
 				}
-				$returnval .= '				</div>'."\n";
+//				$returnval .= '				</div>'."\n";
 //				$returnval .= '				<div class="amazon-buying">'."\n";
 //				$returnval .= '					<h2 class="amazon-asin-title"><a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'></a></h2>'."\n";
-//                if($extratext!=''){
+                if($extratext!=''){
 //                    $returnval .= '						<div>'."\n";
-//                    $returnval .= '							<p class="amazon-post-text" colspan="2">'.$extratext.'</p>'."\n";
+                    $returnval .= '							<p class="amazon-post-text" colspan="2">'.$extratext.'</p>'."\n";
 //                    $returnval .= '						</div>'."\n";
-//                }
-//                $returnval .= '				</div>'."\n";
+                }
+                $returnval .= '				</div>'."\n";
 				return $returnval;
 			}
 		}
