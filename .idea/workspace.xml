@@ -79,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="8" selection-start="2945" selection-end="2979" vertical-scroll-proportion="-11.230769">
+            <state line="20" column="80" selection-start="769" selection-end="828" vertical-scroll-proportion="-6.0">
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="24" selection-start="3390" selection-end="3390" vertical-scroll-proportion="0.6415094">
+            <state line="50" column="24" selection-start="3357" selection-end="3357" vertical-scroll-proportion="0.6415094">
               <folding />
             </state>
           </provider>
@@ -1225,7 +1225,11 @@
       <created>1353276707753</created>
       <updated>1353276707753</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="fixing broken php loop">
+      <created>1353276750614</created>
+      <updated>1353276750614</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1424,14 +1428,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="8" selection-start="2945" selection-end="2979" vertical-scroll-proportion="-11.230769">
+        <state line="20" column="80" selection-start="769" selection-end="828" vertical-scroll-proportion="-6.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="24" selection-start="3390" selection-end="3390" vertical-scroll-proportion="0.6415094">
+        <state line="50" column="24" selection-start="3357" selection-end="3357" vertical-scroll-proportion="0.6415094">
           <folding />
         </state>
       </provider>
