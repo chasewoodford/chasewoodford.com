@@ -46,7 +46,8 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php currently_reading_book(); ?>
+<!--                        --><?php //currently_reading_book(); ?>
+                        [AMAZONPRODUCT=1594202850]
                     </p>
                     <p class="left lead">
                         { way back when }
