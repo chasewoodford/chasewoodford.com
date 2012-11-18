@@ -43,12 +43,10 @@
                         In my spare time I like to compose music, which I link to from the <a class="inline" href="/playground" title="playground" target="_self">playground</a> along with all of my other side projects. I also spend a lot of time reading, mostly about web design and user experience with the occasional book on string theory or building time machines, you know, just to keep in the know.
                     </p>
                     <p class="left lead">
-                        { currently reading }
+                        { recently consumed }
                     </p>
                     <p class="left">
-                        <?php
-                        $post_id = "171";
-                        echo get_post_field('post_content', $post_id, 'attribute'); ?>
+
                     </p>
                     <p class="left lead">
                         { way back when }
