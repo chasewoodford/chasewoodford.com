@@ -2,7 +2,9 @@
 require('./blog/wp-blog-header.php');
 ?>
 
-<?php get_header(); ?>
+<?php
+include ('./header.php');
+?>
 
 <div class="grid-8">
     <div id="post-area" class="grid-blog">
@@ -32,5 +34,5 @@ require('./blog/wp-blog-header.php');
 </div>
 
 <?php
-include ("./blog/wp-content/themes/v2/footer.php");
+include ('./blog/wp-content/themes/v2/footer.php');
 ?>
