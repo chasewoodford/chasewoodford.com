@@ -46,8 +46,8 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php while (have_posts()) : the_post(); ?>
                         <?php query_posts('showposts=171'); ?>
+                        <?php while (have_posts()) : the_post(); ?>
 
                         <?php endwhile; ?>
 
