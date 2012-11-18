@@ -79,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="50" selection-start="3430" selection-end="3430" vertical-scroll-proportion="0.45471698">
+            <state line="49" column="50" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.39056605">
               <folding />
             </state>
           </provider>
@@ -1098,7 +1098,11 @@
       <created>1353265032361</created>
       <updated>1353265032361</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="wp plugin test">
+      <created>1353265148540</created>
+      <updated>1353265148540</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1319,7 +1323,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="50" selection-start="3430" selection-end="3430" vertical-scroll-proportion="0.45471698">
+        <state line="49" column="50" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.39056605">
           <folding />
         </state>
       </provider>
