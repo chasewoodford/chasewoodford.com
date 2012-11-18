@@ -106,7 +106,7 @@
       <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="182" column="16" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.73110723">
+            <state line="181" column="36" selection-start="2306" selection-end="2306" vertical-scroll-proportion="0.7012302">
               <folding />
             </state>
           </provider>
@@ -1391,7 +1391,11 @@
       <created>1353279893442</created>
       <updated>1353279893442</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="customizing plugin">
+      <created>1353280040812</created>
+      <updated>1353280040812</updated>
+    </task>
+    <option name="localTasksCounter" value="207" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1606,7 +1610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="16" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.73110723">
+        <state line="181" column="36" selection-start="2306" selection-end="2306" vertical-scroll-proportion="0.7012302">
           <folding />
         </state>
       </provider>
