@@ -298,21 +298,6 @@ Version: 2.0.2
 	function getSingleAmazonProduct($asin='',$extratext='',$extrabutton=0){
 		global $public_key, $private_key, $aws_partner_id,$aws_partner_locale,$amazonhiddenmsg,$amazonerrormsg,$apippopennewwindow,$apippnewwindowhtml;
 		global $appip_text_lgimage;
-//		global $appip_text_listprice;
-//		global $appip_text_newfrom;
-//		global $appip_text_usedfrom;
-//		global $appip_text_instock;
-//		global $appip_text_outofstock;
-		global $appip_text_author;
-		global $appip_text_starring;
-//		global $appip_text_director;
-//		global $appip_text_reldate;
-//		global $appip_text_preorder;
-//		global $appip_text_releasedon;
-//		global $appip_text_notavalarea;
-//		global $buyamzonbutton;
-//		global $addestrabuybutton;
-//		global $encodemode;
 		global $post;
 		//$apippOpenNewWindow = get_post_meta($post->ID,'amazon-product-newwindow',true);
 		//if($apippOpenNewWindow!='3'){$apippnewwindowhtml=' target="amazonwin" ';}
@@ -356,6 +341,7 @@ Version: 2.0.2
 			}else{
 
 				$result = FormatASINResult($pxml);
+
 				$returnval .= '				<div class="amazon-image-wrapper">'."\n";
 				$returnval .= '					<a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
 				if($result['LargeImage']!=''){
@@ -365,13 +351,6 @@ Version: 2.0.2
 				$returnval .= '				</div>'."\n";
 				$returnval .= '				<div class="amazon-buying">'."\n";
 				$returnval .= '					<h2 class="amazon-asin-title"><a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'><span class="asin-title">'.$result["Title"].'</span></a></h2>'."\n";
-				if(isset($result["Author"])){
-				$returnval .= '					<span class="amazon-author">'.$result["Author"].'</span><br />'."\n";
-				}
-
-				if(isset($result["Actors"])){
-				$returnval .= '					<span class="amazon-starring-label">'.$appip_text_starring.': </span><span class="amazon-starring">'.$result["Actors"].'</span><br />'."\n";
-				}
 
 				return $returnval;
 			}
@@ -569,9 +548,24 @@ Version: 2.0.2
 			}
 		 return $text;
 	  }
-
+	function aws_prodinpost_addadminhead(){
+	  echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-product-in-a-post-styles-icons.css" type="text/css" media="screen" />'."\n";
+	}
+	function aws_prodinpost_addhead(){
+		global $aws_plugin_version;
+		$amazonStylesToUseMine = get_option("apipp_product_styles_mine"); //is box checked?
+		echo '<'.'!-- Amazon Product In a Post Plugin Styles & Scripts - Version '.$aws_plugin_version.' -->'."\n";
+		if($amazonStylesToUseMine=='true'){ //use there styles
+			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=custom" type="text/css" media="screen" />'."\n";
+		}else{ //use default styles
+			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=default" type="text/css" media="screen" />'."\n";
+		}
+		echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-lightbox.css" type="text/css" media="screen" />'."\n";
+		echo '<'.'!-- End Amazon Product In a Post Plugin Styles & Scripts-->'."\n";
+	}
 	function add_appip_jquery(){
 		wp_register_script('appip-amazonlightbox', WP_PLUGIN_URL . '/amazon-product-in-a-post-plugin/js/amazon-lightbox.js');
+		wp_enqueue_script('jquery');
 		wp_enqueue_script('appip-amazonlightbox'); 
 	}
 ?>

@@ -88,7 +88,7 @@
       <file leaf-file-name="amazon-product-in-a-post.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="314" column="27" selection-start="13573" selection-end="13820" vertical-scroll-proportion="0.85833335">
+            <state line="299" column="35" selection-start="13342" selection-end="13342" vertical-scroll-proportion="0.28333333">
               <folding>
                 <element signature="e#6#1435#0" expanded="true" />
               </folding>
@@ -1295,7 +1295,11 @@
       <created>1353270664733</created>
       <updated>1353270664733</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="wp plugin test">
+      <created>1353270769775</created>
+      <updated>1353270769775</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1512,7 +1516,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="27" selection-start="13573" selection-end="13820" vertical-scroll-proportion="0.85833335">
+        <state line="299" column="35" selection-start="13342" selection-end="13342" vertical-scroll-proportion="0.28333333">
           <folding>
             <element signature="e#6#1435#0" expanded="true" />
           </folding>
