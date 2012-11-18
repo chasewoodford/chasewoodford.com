@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="php loop test">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
     </list>
@@ -79,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="80" selection-start="769" selection-end="828" vertical-scroll-proportion="-6.0">
+            <state line="33" column="20" selection-start="1411" selection-end="1434" vertical-scroll-proportion="-6.6538463">
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="38" selection-start="3450" selection-end="3450" vertical-scroll-proportion="0.4811321">
+            <state line="51" column="47" selection-start="3411" selection-end="3411" vertical-scroll-proportion="0.4490566">
               <folding />
             </state>
           </provider>
@@ -1237,7 +1237,11 @@
       <created>1353277255252</created>
       <updated>1353277255252</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="php loop fix">
+      <created>1353277285210</created>
+      <updated>1353277285210</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1328,7 +1332,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="php loop test" />
+    <option name="LAST_COMMIT_MESSAGE" value="php loop fix" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1341,7 +1345,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="wp comment styling" />
     <MESSAGE value="removing unused modules" />
     <MESSAGE value="restructuring" />
     <MESSAGE value="slight adjustment to anchor styling" />
@@ -1366,6 +1369,7 @@
     <MESSAGE value="styling recently consumed section" />
     <MESSAGE value="fixing broken php loop" />
     <MESSAGE value="php loop test" />
+    <MESSAGE value="php loop fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1436,14 +1440,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="80" selection-start="769" selection-end="828" vertical-scroll-proportion="-6.0">
+        <state line="33" column="20" selection-start="1411" selection-end="1434" vertical-scroll-proportion="-6.6538463">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="38" selection-start="3450" selection-end="3450" vertical-scroll-proportion="0.4811321">
+        <state line="51" column="47" selection-start="3411" selection-end="3411" vertical-scroll-proportion="0.4490566">
           <folding />
         </state>
       </provider>
