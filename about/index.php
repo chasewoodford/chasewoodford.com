@@ -54,9 +54,6 @@
                     <p class="left">
                         I graduated from Temple University in 2007 with Summa Cum Laude honors, a bachelor's degree in Advertising and a minor in Sociology. I made the Dean's List a bunch of times, held several high ranking positions as a brother of the Alpha Tau Omega fraternity and was even robbed at gunpoint once. Pretty much your typical college experience.
                     </p>
-                    <p class="left lead">
-                        }
-                    </p>
                     <p class="left">
                         But enough about me. If you want to know anything else, <a class="inline" href="/contact" title="contact" target="_self">drop me a line</a> or say hi on <a class="inline" href="https://twitter.com/chase1263070" title="twitter" target="_blank">Twitter<sup><i class="icon-popup"></i></sup></a>.
                     </p>
