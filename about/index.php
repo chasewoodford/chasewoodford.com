@@ -46,10 +46,10 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php query_posts('showposts=171'); ?>
-                        <?php while (have_posts()) : the_post(); ?>
-
-                        <?php endwhile; ?>
+                        <?
+                        $a = file_get_contents("http://www.chasewoodford.com/blog/books-realityIsBroken.php");
+                        echo ($a);
+                        ?>
 
 
                     </p>
