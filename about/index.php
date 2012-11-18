@@ -48,6 +48,10 @@
                     <p class="left">
 <!--                        --><?php //currently_reading_book(); ?>
                         <?php query_posts('p=171'); ?>
+                    <?php while (have_posts()) : the_post(); ?>
+
+                    <?php the_content(); ?>
+                    <?php endwhile;?>
 
 
                     </p>
