@@ -16,16 +16,16 @@ if($post)
 // Check name
 if(!$name)
 	{
-		$error .= 'I think you forget to enter your name.<br />';
+		$error .= 'Please enter your name.<br />';
 	}
 // Check email
 if(!$email)
 	{
-		$error .= 'I think you forget to enter your e-mail id.<br />';
+		$error .= 'Please enter your e-mail id.<br />';
 	}
 if($email && !ValidateEmail($email))
 	{
-		$error .= 'Invalid E-mail id !!!<br />';
+		$error .= 'Please enter a valid email.<br />';
 	}
 if(!$error)
 	{
