@@ -46,9 +46,10 @@
                         { recently consumed }
                     </p>
                     <p class="left">
-                        <?php query_posts('p=179'); if(have_posts()) : the_post(); ?>
-                        <?php the_content(); ?>
-                        <?php endif; ?>
+                        <?php
+                        query_posts( 'cat=51&posts_per_page=2&orderby=post_date&order=DESC' );
+                        while ( have_posts() ) : the_post();
+                        ?>
                     </p>
                     <p class="left lead">
                         { way back when }
