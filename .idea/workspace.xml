@@ -79,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="3232" selection-end="3232" vertical-scroll-proportion="0.545283">
+            <state line="48" column="24" selection-start="3177" selection-end="3177" vertical-scroll-proportion="0.51320755">
               <folding />
             </state>
           </provider>
@@ -1126,7 +1126,11 @@
       <created>1353266707550</created>
       <updated>1353266707550</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="wp plugin test">
+      <created>1353266829853</created>
+      <updated>1353266829853</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1328,13 +1332,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-7.8461537">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="82" selection-start="928" selection-end="928" vertical-scroll-proportion="123.666664">
@@ -1349,9 +1346,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="3232" selection-end="3232" vertical-scroll-proportion="0.545283">
+        <state line="48" column="24" selection-start="3177" selection-end="3177" vertical-scroll-proportion="0.51320755">
           <folding />
         </state>
       </provider>

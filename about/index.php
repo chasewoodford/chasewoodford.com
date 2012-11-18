@@ -46,9 +46,9 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php query_posts('p=171'); ?>
 
-                        <?php the_content(''); ?>
+
+                        <?php the_content('p=171'); ?>
 
 
                     </p>
