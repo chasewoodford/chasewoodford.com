@@ -330,7 +330,7 @@ Adapted By: Chase Woodford
 //				$returnval .= '					<h2 class="amazon-asin-title"><a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'></a></h2>'."\n";
                 if($extratext!=''){
 //                    $returnval .= '						<div>'."\n";
-                    $returnval .= '							<p class="amazon-post-text" colspan="2">'.$extratext.'</p>'."\n";
+//                    $returnval .= '							<p class="amazon-post-text" colspan="2">'.$extratext.'</p>'."\n";
 //                    $returnval .= '						</div>'."\n";
                 }
                 $returnval .= '				</div>'."\n";
