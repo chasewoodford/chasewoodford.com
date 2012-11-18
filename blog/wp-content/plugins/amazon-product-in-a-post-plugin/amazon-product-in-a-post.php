@@ -320,16 +320,13 @@ Adapted By: Chase Woodford
 				$result = FormatASINResult($pxml);
 
 				$returnval .= '				<div class="amazon-image-wrapper">'."\n";
-				$returnval .= '					<a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
+				$returnval .= '			        <a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
 				if($result['LargeImage']!=''){
 				//$returnval .= '				<a target="amazon-image" href="javascript: void(0)" onclick="artwindow=window.open(\'' .$result['LargeImage'] .'\',\'art\',\'directories=no, location=no, menubar=no, resizable=no, scrollbars=no, status=no, toolbar=no, width=400,height=525\');artwindow.focus();return false;"><span class="amazon-tiny">'.$appip_text_lgimage.'</span></a>'."\n";
-				$returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
+//				$returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
 				}
-//				$returnval .= '				</div>'."\n";
-//				$returnval .= '				<div class="amazon-buying">'."\n";
-//				$returnval .= '					<h2 class="amazon-asin-title"><a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'></a></h2>'."\n";
                 if($extratext!=''){
-                    $returnval .= 						$extratext;
+                    $returnval .= 				$extratext;
                 }
                 $returnval .= '				</div>'."\n";
 				return $returnval;
