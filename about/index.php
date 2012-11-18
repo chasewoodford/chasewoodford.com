@@ -47,7 +47,7 @@
                     </p>
                     <p class="left">
 <!--                        --><?php //currently_reading_book(); ?>
-                        <?php include('../blog/book-realityisbroken/'); ?>
+                        <?php get_a_post(171); ?>
 
 
                     </p>
