@@ -67,8 +67,6 @@ Version: 2.0.2
 	require_once("inc/aws_signed_request.php"); //major workhorse for plugin
 	require_once("inc/amazon-product-in-a-post-tools.php"); //edit box for plugin
 	require_once("inc/amazon-product-in-a-post-options.php"); //admin options for plugin
-	require_once("inc/amazon-product-in-a-post-translations.php"); //translations for plugin
-	require_once("inc/amazon-product-in-a-post-styles-product.php"); //styles for plugin
 
 //upgrade check. Lets me add/change the default style etc to fix/add new items during updrages.
 	$thisstyleversion=get_option('apipp_product_styles_default_version');
@@ -188,15 +186,6 @@ Version: 2.0.2
 		$private_key = "oKUKoxCKgsmN1pmNbBYYi6DT9vMJfNMdt3Q1VUfJ"; //Developer Secret AWS Key
 	}
 	
-	if(isset($_GET['awspage'])){ //future item for search results
-		if(is_numeric($_GET['awspage'])){
-			$awspagequery = (int)$wpdb->escape($_GET['awspage']);
-		}
-	}
-	if($awspagequery>1){ //future item for search results
-		$awsPageRequest = $awspagequery;
-	}
-	
 	if(trim(get_option("apipp_product_styles")) == ''){ //reset to default styles if user deletes styles in admin
 		update_option("apipp_product_styles",$thedefaultapippstyle);
 	}
@@ -204,11 +193,9 @@ Version: 2.0.2
 // Filters & Hooks
 	
 	add_filter('the_content', 'aws_prodinpost_filter_content', 10); //hook content - we will filter the override after
-	add_filter('the_excerpt', 'aws_prodinpost_filter_excerpt', 10); //hook excerpt - we will filter the override after 
-	add_action('wp_head','aws_prodinpost_addhead',10); //add styles to head
+	add_filter('the_excerpt', 'aws_prodinpost_filter_excerpt', 10); //hook excerpt - we will filter the override after
 	add_action('wp','add_appip_jquery'); //enqueue scripts
 	add_action('admin_head','aws_prodinpost_addadminhead',10); //add admin styles to admin head
-	//add_action('wp','aws_prodinpost_cartsetup', 1, 2); //Future Item
 
 // Functions
 	function appip_deinstall() {
@@ -351,7 +338,7 @@ Version: 2.0.2
 				$returnval .= '				</div>'."\n";
 				$returnval .= '				<div class="amazon-buying">'."\n";
 				$returnval .= '					<h2 class="amazon-asin-title"><a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'></a></h2>'."\n";
-
+                $returnval .= '				</div>'."\n";
 				return $returnval;
 			}
 		}
