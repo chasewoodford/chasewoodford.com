@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="wp plugin test">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
     </list>
@@ -79,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="99" selection-start="3344" selection-end="3344" vertical-scroll-proportion="0.39056605">
+            <state line="51" column="50" selection-start="3430" selection-end="3430" vertical-scroll-proportion="0.45471698">
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
       <file leaf-file-name="amazon-product-in-a-post.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="82" selection-start="928" selection-end="928" vertical-scroll-proportion="-3.3333333">
+            <state line="10" column="82" selection-start="928" selection-end="928" vertical-scroll-proportion="76.666664">
               <folding />
             </state>
           </provider>
@@ -1094,7 +1094,11 @@
       <created>1353263503872</created>
       <updated>1353263503872</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="wp plugin test">
+      <created>1353265032361</created>
+      <updated>1353265032361</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1308,14 +1312,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="82" selection-start="928" selection-end="928" vertical-scroll-proportion="-3.3333333">
+        <state line="10" column="82" selection-start="928" selection-end="928" vertical-scroll-proportion="76.666664">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="99" selection-start="3344" selection-end="3344" vertical-scroll-proportion="0.39056605">
+        <state line="51" column="50" selection-start="3430" selection-end="3430" vertical-scroll-proportion="0.45471698">
           <folding />
         </state>
       </provider>

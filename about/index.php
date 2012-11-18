@@ -48,6 +48,8 @@
                     <p class="left">
 <!--                        --><?php //currently_reading_book(); ?>
                         <?php include ('../blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php'); ?>
+
+                        [AMAZONPRODUCT=1594202850]
                     </p>
                     <p class="left lead">
                         { way back when }
