@@ -48,7 +48,7 @@
                     <p class="left">
                         <?php
                         $post_id = "171";
-                        echo get_post_field('post_content', $post_id, 'edit'); ?>
+                        echo get_post_field('post_content', $post_id, 'attribute'); ?>
                     </p>
                     <p class="left lead">
                         { way back when }
