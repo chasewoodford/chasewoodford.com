@@ -356,9 +356,6 @@ Version: 2.0.2
 			}else{
 
 				$result = FormatASINResult($pxml);
-//				$returnval  = '	<br /><table cellpadding="0"class="amazon-product-table">'."\n";
-//				$returnval .= '		<tr>'."\n";
-//				$returnval .= '			<td valign="top">'."\n";
 				$returnval .= '				<div class="amazon-image-wrapper">'."\n";
 				$returnval .= '					<a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
 				if($result['LargeImage']!=''){
@@ -371,16 +368,9 @@ Version: 2.0.2
 				if(isset($result["Author"])){
 				$returnval .= '					<span class="amazon-author">'.$result["Author"].'</span><br />'."\n";
 				}
-//				if(isset($result["Director"])){
-//				$returnval .= '					<span class="amazon-director-label">'.$appip_text_director.': </span><span class="amazon-director">'.$result["Director"].'</span><br />'."\n";
-//				}
+
 				if(isset($result["Actors"])){
 				$returnval .= '					<span class="amazon-starring-label">'.$appip_text_starring.': </span><span class="amazon-starring">'.$result["Actors"].'</span><br />'."\n";
-				}
-
-				$returnval .= '									<br /><div><a style="display:block;margin-top:8px;margin-bottom:5px;width:165px;" '. $apippnewwindowhtml .' href="' . $result["URL"] .'"><img src="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/images/'.$buyamzonbutton.'" border="0" style="border:0 none !important;margin:0px !important;background:transparent !important;" /></a></div>'."\n";
-				if($extrabutton==1 && $aws_partner_locale!='.com'){
-				//$returnval .= '									<br /><div><a style="display:block;margin-top:8px;margin-bottom:5px;width:165px;" '. $apippnewwindowhtml .' href="' . $result["URL"] .'"><img src="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/images/buyamzon-button.png" border="0" style="border:0 none !important;margin:0px !important;background:transparent !important;"/></a></div>'."\n";
 				}
 
 				return $returnval;
@@ -579,24 +569,23 @@ Version: 2.0.2
 			}
 		 return $text;
 	  }
-	function aws_prodinpost_addadminhead(){
-	  echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-product-in-a-post-styles-icons.css" type="text/css" media="screen" />'."\n";
-	}
-	function aws_prodinpost_addhead(){
-		global $aws_plugin_version;
-		$amazonStylesToUseMine = get_option("apipp_product_styles_mine"); //is box checked?
-		echo '<'.'!-- Amazon Product In a Post Plugin Styles & Scripts - Version '.$aws_plugin_version.' -->'."\n";
-		if($amazonStylesToUseMine=='true'){ //use there styles
-			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=custom" type="text/css" media="screen" />'."\n";
-		}else{ //use default styles
-			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=default" type="text/css" media="screen" />'."\n";
-		}
-		echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-lightbox.css" type="text/css" media="screen" />'."\n";
-		echo '<'.'!-- End Amazon Product In a Post Plugin Styles & Scripts-->'."\n";
-	}
+//	function aws_prodinpost_addadminhead(){
+//	  echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-product-in-a-post-styles-icons.css" type="text/css" media="screen" />'."\n";
+//	}
+//	function aws_prodinpost_addhead(){
+//		global $aws_plugin_version;
+//		$amazonStylesToUseMine = get_option("apipp_product_styles_mine"); //is box checked?
+//		echo '<'.'!-- Amazon Product In a Post Plugin Styles & Scripts - Version '.$aws_plugin_version.' -->'."\n";
+//		if($amazonStylesToUseMine=='true'){ //use there styles
+//			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=custom" type="text/css" media="screen" />'."\n";
+//		}else{ //use default styles
+//			echo '<link rel="stylesheet" href="'.get_bloginfo('url').'/index.php?apipp_style=default" type="text/css" media="screen" />'."\n";
+//		}
+//		echo '<link rel="stylesheet" href="'.WP_PLUGIN_URL.'/amazon-product-in-a-post-plugin/css/amazon-lightbox.css" type="text/css" media="screen" />'."\n";
+//		echo '<'.'!-- End Amazon Product In a Post Plugin Styles & Scripts-->'."\n";
+//	}
 	function add_appip_jquery(){
 		wp_register_script('appip-amazonlightbox', WP_PLUGIN_URL . '/amazon-product-in-a-post-plugin/js/amazon-lightbox.js');
-		wp_enqueue_script('jquery'); 
 		wp_enqueue_script('appip-amazonlightbox'); 
 	}
 ?>
