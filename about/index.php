@@ -46,12 +46,7 @@
                         { currently reading }
                     </p>
                     <p class="left">
-                        <?php
-                        $a = file_get_contents("http://www.chasewoodford.com/blog/book-realityIsBroken.php");
-                        echo ($a);
-                        ?>
-
-
+                        <?php include('../blog/book-realityIsBroken.php'); ?>
                     </p>
                     <p class="left lead">
                         { way back when }
