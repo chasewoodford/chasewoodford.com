@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_bootstrap-buttons.scss" afterPath="$PROJECT_DIR$/css/sass/_bootstrap-buttons.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_bootstrap-forms.scss" afterPath="$PROJECT_DIR$/css/sass/_bootstrap-forms.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss" afterPath="$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_variables.scss" afterPath="$PROJECT_DIR$/css/sass/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-form.scss" afterPath="$PROJECT_DIR$/css/sass/_m-form.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -89,10 +86,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+      <file leaf-file-name="_bootstrap-forms.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-forms.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="0" selection-start="1861" selection-end="1861" vertical-scroll-proportion="1.4340949">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_m-form.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="1" selection-start="1774" selection-end="1774" vertical-scroll-proportion="0.94024605">
               <folding />
             </state>
           </provider>
@@ -120,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/bootstrap/_buttons.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/bootstrap/_variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/_mixins.scss" />
@@ -136,6 +141,7 @@
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-buttons.scss" />
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss" />
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-forms.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
       </list>
     </option>
   </component>
@@ -967,7 +973,11 @@
       <created>1353196714843</created>
       <updated>1353196714843</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="removing unused bootstrap">
+      <created>1353198568536</created>
+      <updated>1353198568536</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1161,13 +1171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="411" column="4" selection-start="12628" selection-end="12628" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1182,16 +1185,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-forms.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="19" selection-start="1774" selection-end="1774" vertical-scroll-proportion="2.808436">
+        <state line="48" column="0" selection-start="1861" selection-end="1861" vertical-scroll-proportion="-0.37434095">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="0" selection-start="1861" selection-end="1861" vertical-scroll-proportion="1.4340949">
+        <state line="411" column="4" selection-start="12628" selection-end="12628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="1774" selection-end="1774" vertical-scroll-proportion="0.94024605">
           <folding />
         </state>
       </provider>
