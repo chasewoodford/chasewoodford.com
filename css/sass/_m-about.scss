@@ -5,8 +5,5 @@ body.about .amazon-image-wrapper > p {
 }
 
 img.amazon-product {
-  width: 100%;
   @include box-shadow(0 8px 10px -6px black);
-  vertical-align: middle;
-  @include box-sizing(border-box);
 }
