@@ -1,9 +1,8 @@
 code, pre {
-padding: 0 3px 2px;
-@include font-family-monospace;
-font-size: $baseFontSize - 1;
-color: darken($gray, 15%);
-@include border-radius(3px);
+  padding: 0 3px 2px;
+  @include font-family-monospace;
+  font-size: $baseFontSize - 1;
+  color: darken($gray, 15%);
 }
 
 code {
@@ -17,7 +16,7 @@ pre {
   display: block;
   padding: ($baseLineHeight - 1) / 2;
   margin: 0 0 $baseLineHeight / 2;
-  font-size: $baseFontSize * .925; // 13px to 12px
+  font-size: $baseFontSize;
   line-height: $baseLineHeight;
   word-break: break-all;
   word-wrap: break-word;
