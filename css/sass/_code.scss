@@ -1,7 +1,7 @@
 code, pre {
   padding: 0 3px 2px;
   @include font-family-monospace;
-  font-size: 110%;
+  font-size: 90%;
   color: darken($gray, 15%);
 }
 
@@ -16,7 +16,7 @@ pre {
   display: block;
   padding: ($baseLineHeight - 1) / 2;
   margin: 0 0 $baseLineHeight / 2;
-  font-size: 110%;
+  font-size: 90%;
   word-break: break-all;
   word-wrap: break-word;
   white-space: pre;
