@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_code.scss" afterPath="$PROJECT_DIR$/css/sass/_code.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" afterPath="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_variables.scss" afterPath="$PROJECT_DIR$/css/sass/_variables.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -77,10 +77,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_code.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_code.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="34" selection-start="598" selection-end="598" vertical-scroll-proportion="0.4622144">
+            <state line="26" column="34" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,7 +89,7 @@
       <file leaf-file-name="_bootstrap-mixins.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="32" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.0">
+            <state line="115" column="30" selection-start="2319" selection-end="2334" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,10 +104,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_variables.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="89" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+            <state line="9" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.27517986">
               <folding />
             </state>
           </provider>
@@ -156,10 +156,10 @@
         <option value="$PROJECT_DIR$/css/sass/_m-about.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/_code.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
       </list>
     </option>
   </component>
@@ -1337,7 +1337,11 @@
       <created>1353286933962</created>
       <updated>1353286933962</updated>
     </task>
-    <option name="localTasksCounter" value="219" />
+    <task id="LOCAL-00219" summary="fixing code display">
+      <created>1353287097151</created>
+      <updated>1353287097151</updated>
+    </task>
+    <option name="localTasksCounter" value="220" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1537,13 +1541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="32" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1551,16 +1548,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="89" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+        <state line="26" column="34" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="34" selection-start="598" selection-end="598" vertical-scroll-proportion="0.4622144">
+        <state line="115" column="30" selection-start="2319" selection-end="2334" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.27517986">
           <folding />
         </state>
       </provider>
