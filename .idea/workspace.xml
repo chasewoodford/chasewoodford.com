@@ -4,7 +4,6 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_code.scss" afterPath="$PROJECT_DIR$/css/sass/_code.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_variables.scss" afterPath="$PROJECT_DIR$/css/sass/_variables.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -80,7 +79,7 @@
       <file leaf-file-name="_code.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="94" selection-end="94" vertical-scroll-proportion="-0.22495607">
+            <state line="18" column="18" selection-start="337" selection-end="337" vertical-scroll-proportion="0.25307557">
               <folding />
             </state>
           </provider>
@@ -1345,7 +1344,11 @@
       <created>1353287820960</created>
       <updated>1353287820960</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="adding back bootstrap code styling">
+      <created>1353288013909</created>
+      <updated>1353288013909</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1568,7 +1571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="94" selection-end="94" vertical-scroll-proportion="-0.22495607">
+        <state line="18" column="18" selection-start="337" selection-end="337" vertical-scroll-proportion="0.25307557">
           <folding />
         </state>
       </provider>
