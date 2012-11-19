@@ -336,7 +336,7 @@ Adapted By: Chase Woodford
 	//Amazon Product Image from ASIN function - Returns HTML Image Code
 	function awsImageGrabber($imgurl, $class=""){
 		global $asin;
-	    $base_url0 = '<'.'img src="';
+	    $base_url0 = '<'.'img class="amazon-product" src="';
 	    $base_url = $imgurl;
 	    $base_url1 = '"';
 	    $base_url1 = $base_url1.' />';
