@@ -24,8 +24,7 @@ pre {
   white-space: pre-wrap;
   background-color: #f5f5f5;
   border: 1px solid #ccc; // fallback for IE7-8
-  border: 1px solid rgba(0,0,0,.15);
-  @include border-radius(4px);
+  border: 1px solid rgba(0, 0, 0, 0.15);
 
   &.prettyprint {
     margin-bottom: $baseLineHeight;
