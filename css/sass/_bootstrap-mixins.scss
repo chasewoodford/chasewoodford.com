@@ -1,14 +1,3 @@
-// Mixins
-// Snippets of reusable CSS to develop faster and keep code readable
-// -----------------------------------------------------------------
-
-
-// UTILITY MIXINS
-// --------------------------------------------------
-
-// Clearfix
-// --------
-// For clearing floats like a boss h5bp.com/q
 @mixin clearfix {
   *zoom: 1;
   &:before,
@@ -25,8 +14,6 @@
   @include clearfix();
 }
 
-// Webkit-style focus
-// ------------------
 @mixin tab-focus() {
   // Default
   outline: thin dotted #333;
@@ -35,16 +22,12 @@
   outline-offset: -2px;
 }
 
-// Center-align a block level element
-// ----------------------------------
 @mixin center-block() {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-// IE7 inline-block
-// ----------------
 @mixin ie7-inline-block() {
   *display: inline; // IE7 inline-block hack
   *zoom: 1;
@@ -130,7 +113,7 @@
   font-family: $sansFontFamily;
 }
 @mixin font-family-monospace() {
-  font-family: $monoFontFamily;
+  font-family: $font-UbuntuLtReg;
 }
 @mixin font-shorthand($size: $baseFontSize, $weight: normal, $lineHeight: $baseLineHeight) {
   font-size: $size;
