@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-about.scss" afterPath="$PROJECT_DIR$/css/sass/_m-about.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -88,7 +89,7 @@
       <file leaf-file-name="_m-about.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-about.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="28" selection-start="157" selection-end="157" vertical-scroll-proportion="0.40614334">
+            <state line="6" column="24" selection-start="128" selection-end="128" vertical-scroll-proportion="0.34812286">
               <folding />
             </state>
           </provider>
@@ -1443,7 +1444,11 @@
       <created>1353289050085</created>
       <updated>1353289050085</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="styling product shots">
+      <created>1353289139623</created>
+      <updated>1353289139623</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1672,7 +1677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-about.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="28" selection-start="157" selection-end="157" vertical-scroll-proportion="0.40614334">
+        <state line="6" column="24" selection-start="128" selection-end="128" vertical-scroll-proportion="0.34812286">
           <folding />
         </state>
       </provider>
