@@ -1,7 +1,7 @@
 code, pre {
   padding: 0 3px 2px;
   @include font-family-monospace;
-  font-size: $baseFontSize - 1;
+  font-size: $baseFontSize;
   color: darken($gray, 15%);
 }
 
