@@ -5,6 +5,7 @@ body.about .amazon-image-wrapper > p {
 }
 
 img.amazon-product {
+  border: 1px solid #e1e1e8;
   @include box-shadow(0 8px 10px -6px black);
   @include transition(all 0.2s ease-in-out);
   vertical-align: middle;
