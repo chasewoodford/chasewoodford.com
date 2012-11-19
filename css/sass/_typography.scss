@@ -180,6 +180,16 @@ h4, .h4 {
     font-style: italic;
     letter-spacing: 2px;
   }
+
+  &:after {
+    content: "";
+    display: block;
+    position: relative;
+    height: 12px;
+    right: 30%;
+    width: 100%;
+    border-bottom: 1px dashed $gray;
+  }
 }
 
 .bullet {
