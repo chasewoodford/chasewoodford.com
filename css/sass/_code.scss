@@ -5,10 +5,7 @@ code, pre {
 }
 
 code {
-  padding: 2px 4px;
   color: $purple;
-  background-color: #f7f7f9;
-  border: 1px solid #e1e1e8;
 }
 
 pre {
@@ -58,11 +55,6 @@ pre[class*="language-"] {
   border: 1px solid rgba(0,0,0,.15);
   color: $white;
   @include box-shadow(0 8px 10px -6px black);
-}
-
-:not(pre) > code[class*="language-"] {
-  padding: 0.1em;
-  border-radius: 0.3em;
 }
 
 .token.comment, .token.prolog, .token.doctype, .token.cdata {
