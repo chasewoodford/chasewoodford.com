@@ -85,19 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="0" selection-start="3167" selection-end="3442" vertical-scroll-proportion="0.0">
+            <state line="16" column="31" selection-start="541" selection-end="547" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,7 +106,7 @@
       <file leaf-file-name="_code.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="17" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.21875">
+            <state line="93" column="16" selection-start="1693" selection-end="1699" vertical-scroll-proportion="0.40625">
               <folding />
             </state>
           </provider>
@@ -1462,7 +1453,11 @@
       <created>1353375076449</created>
       <updated>1353375076449</updated>
     </task>
-    <option name="localTasksCounter" value="242" />
+    <task id="LOCAL-00242" summary="adding MoOx scss extension to prism">
+      <created>1353375155349</created>
+      <updated>1353375155349</updated>
+    </task>
+    <option name="localTasksCounter" value="243" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1661,9 +1656,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="541" selection-end="547" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
+        <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.35852373">
           <folding />
         </state>
       </provider>
@@ -1675,23 +1684,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="3167" selection-end="3442" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="17" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.21875">
+        <state line="93" column="16" selection-start="1693" selection-end="1699" vertical-scroll-proportion="0.40625">
           <folding />
         </state>
       </provider>
