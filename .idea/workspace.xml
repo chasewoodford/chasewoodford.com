@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/prism.js" afterPath="$PROJECT_DIR$/javascript/prism.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_code.scss" afterPath="$PROJECT_DIR$/css/sass/_code.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -88,7 +88,7 @@
       <file leaf-file-name="style.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="18" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+            <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -97,7 +97,7 @@
       <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="31" selection-start="415" selection-end="421" vertical-scroll-proportion="0.0">
+            <state line="85" column="0" selection-start="3167" selection-end="3442" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,25 +106,25 @@
       <file leaf-file-name="_bootstrap-mixins.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="23" selection-start="2984" selection-end="2984" vertical-scroll-proportion="0.0">
+            <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_code.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_code.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="87" vertical-scroll-proportion="0.0">
+            <state line="97" column="17" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.7908612">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prism.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="prism.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/prism.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.9388489">
+            <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -175,10 +175,10 @@
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
         <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_code.scss" />
         <option value="$PROJECT_DIR$/javascript/prism.js" />
+        <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_code.scss" />
       </list>
     </option>
   </component>
@@ -1450,7 +1450,11 @@
       <created>1353374462784</created>
       <updated>1353374462784</updated>
     </task>
-    <option name="localTasksCounter" value="239" />
+    <task id="LOCAL-00239" summary="adding MoOx scss extension to prism">
+      <created>1353374566748</created>
+      <updated>1353374566748</updated>
+    </task>
+    <option name="localTasksCounter" value="240" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1640,9 +1644,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
+    <entry file="file://$PROJECT_DIR$/javascript/prism.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="23" selection-start="2984" selection-end="2984" vertical-scroll-proportion="0.0">
+        <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1654,33 +1667,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+        <state line="85" column="0" selection-start="3167" selection-end="3442" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="415" selection-end="421" vertical-scroll-proportion="0.0">
+        <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="87" vertical-scroll-proportion="0.0">
+        <state line="97" column="17" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.7908612">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/prism.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.9388489">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
