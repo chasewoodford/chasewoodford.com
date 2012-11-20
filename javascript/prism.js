@@ -447,6 +447,31 @@ Prism.languages.java = {
  Begin prism-scss.js
  ***********************************************/
 
+Prism.fn = Prism.fn || {};
+
+// Taken from Dabblet source & renamed
+Prism.fn.createRegExp = function(str, replacements, flags) {
+    for(var id in replacements) {
+        var replacement = replacements[id],
+            idRegExp = RegExp('{{' + id + '}}', 'gi');
+
+        if(replacement.source) {
+            replacement = replacement.source.replace(/^\^|\$$/g, '');
+        }
+
+// Don't add extra parentheses if they already exist
+        str = str.replace(RegExp('\\(' + idRegExp.source + '\\)', 'gi'), '(' + replacement + ')');
+
+        str = str.replace(idRegExp, '(?:' + replacement + ')');
+    }
+
+    return RegExp(str, flags);
+};
+
+Prism.regExp = Prism.regExp || {};
+
+Prism.regExp.number = /-?\d*\.?\d+/;
+
 Prism.languages.sass = Prism.languages.scss = {
     'comment': {
         pattern: /(^|[^\\])(\/\*[\w\W]*?\*\/|\/\/.*?(\r?\n|$))/g,
