@@ -113,7 +113,7 @@
   font-family: $sansFontFamily;
 }
 @mixin font-family-monospace() {
-  font-family: $monoFontFamily;
+  font-family: $font-Mono;
 }
 @mixin font-shorthand($size: $baseFontSize, $weight: normal, $lineHeight: $baseLineHeight) {
   font-size: $size;
