@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_code.scss" afterPath="$PROJECT_DIR$/css/sass/_code.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/prism.js" afterPath="$PROJECT_DIR$/javascript/prism.js" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -112,11 +112,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_code.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_code.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="29" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.9560633">
+            <state line="0" column="0" selection-start="0" selection-end="87" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prism.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/prism.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="446" column="17" selection-start="13847" selection-end="13847" vertical-scroll-proportion="-1.2014389">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/search-results.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/page.php" />
@@ -168,6 +178,7 @@
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/css/sass/_code.scss" />
+        <option value="$PROJECT_DIR$/javascript/prism.js" />
       </list>
     </option>
   </component>
@@ -222,6 +233,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1417,7 +1442,11 @@
       <created>1353372821247</created>
       <updated>1353372821247</updated>
     </task>
-    <option name="localTasksCounter" value="237" />
+    <task id="LOCAL-00237" summary="update to inline code display">
+      <created>1353373201326</created>
+      <updated>1353373201326</updated>
+    </task>
+    <option name="localTasksCounter" value="238" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1637,8 +1666,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="29" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.9560633">
+        <state line="0" column="0" selection-start="0" selection-end="87" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/prism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="446" column="17" selection-start="13847" selection-end="13847" vertical-scroll-proportion="-1.2014389">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
