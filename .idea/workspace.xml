@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_code.scss" afterPath="$PROJECT_DIR$/css/sass/_code.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -115,7 +116,7 @@
       <file leaf-file-name="_code.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="17" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.7908612">
+            <state line="85" column="16" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.45772058">
               <folding />
             </state>
           </provider>
@@ -307,7 +308,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.CSS" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.SASS" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
@@ -1454,7 +1455,11 @@
       <created>1353374566748</created>
       <updated>1353374566748</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="adding MoOx scss extension to prism">
+      <created>1353374903206</created>
+      <updated>1353374903206</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1683,7 +1688,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="17" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.7908612">
+        <state line="85" column="16" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.45772058">
           <folding />
         </state>
       </provider>
