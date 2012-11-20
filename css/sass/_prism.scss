@@ -1,6 +1,6 @@
 code[class*="language-"],
 pre[class*="language-"] {
-  background-color: #f5f5f5;
+  background: url('../../images/bg.png') repeat;
   direction: ltr;
   text-align: left;
   white-space: pre;
@@ -34,11 +34,12 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: slategray;
+  background: url('../../images/bg.png') repeat;
+  color: $gray;
 }
 
 .token.punctuation {
-  color: #999;
+  color: $white;
 }
 
 .namespace {
@@ -47,35 +48,33 @@ pre[class*="language-"] {
 
 .token.property,
 .token.tag,
+.token.url,
 .token.boolean,
 .token.number {
-  color: #905;
+  color: #59A9F7;
 }
 
 .token.selector,
 .token.attr-name,
-.token.string {
-  color: #690;
+.token.string, .style .token.string, .language-css .token.string, {
+  color: #99FF99;
 }
 
 .token.operator,
-.token.entity,
-.token.url,
-.language-css .token.string,
-.style .token.string {
-  color: #a67f59;
-  background: hsla(0,0%,100%,.5);
+.token.entity
+ {
+  color: #FEBF18;
 }
 
 .token.atrule,
 .token.attr-value,
 .token.keyword {
-  color: #07a;
+  color: #0099FF;
 }
 
 .token.regex,
 .token.important {
-  color: #e90;
+  color: #FF0000;
 }
 
 .token.important {
