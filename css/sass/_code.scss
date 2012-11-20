@@ -74,8 +74,12 @@ pre[class*="language-"] {
   color: #59A9F7;
 }
 
-.token.selector, .token.url, .token.attr-name, .token.string, .style .token.string, .language-css .token.string, {
+.token.selector, .token.attr-name, .token.string, .style .token.string, .language-css .token.string, {
   color: #99FF99;
+}
+
+.token.url {
+  color: #FFFFFF;
 }
 
 .token.property, .token.operator, .token.entity {
