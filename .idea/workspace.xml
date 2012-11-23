@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="adding MoOx scss extension to prism">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_code.scss" afterPath="$PROJECT_DIR$/css/sass/_code.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,57 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="206" column="29" selection-start="6268" selection-end="6268" vertical-scroll-proportion="0.0">
+            <state line="33" column="20" selection-start="1411" selection-end="1434" vertical-scroll-proportion="-10.461538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="31" selection-start="541" selection-end="547" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_bootstrap-mixins.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_code.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="16" selection-start="1693" selection-end="1699" vertical-scroll-proportion="0.40625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prism.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/prism.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="2" selection-start="185" selection-end="198" vertical-scroll-proportion="0.0">
+            <state line="51" column="47" selection-start="3411" selection-end="3411" vertical-scroll-proportion="0.6471698">
               <folding />
             </state>
           </provider>
@@ -159,7 +121,6 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/page.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
-        <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-about.scss" />
@@ -170,6 +131,7 @@
         <option value="$PROJECT_DIR$/javascript/prism.js" />
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/_code.scss" />
+        <option value="$PROJECT_DIR$/about/index.php" />
       </list>
     </option>
   </component>
@@ -273,7 +235,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
@@ -284,9 +263,6 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
     </panes>
   </component>
@@ -307,11 +283,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="chasewoodford.com/test" serverId="01c08253-437f-43c0-8bc7-6ecd3f806820" uploadOnCheckin="01c08253-437f-43c0-8bc7-6ecd3f806820" notifyRemoteChanges="true">
     <servers>
@@ -432,6 +408,17 @@
         <option name="RakeTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="e1ad2e42-aa0f-44e0-9184-540bba86cac2" server_name="chasewoodford.com">
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="FtpUpload" enabled="false">
+          <server_id />
+          <server_name />
+        </option>
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="RakeTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -440,17 +427,6 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="RakeTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="e1ad2e42-aa0f-44e0-9184-540bba86cac2" server_name="chasewoodford.com">
-      <method>
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="FtpUpload" enabled="false">
-          <server_id />
-          <server_name />
-        </option>
         <option name="Maven.BeforeRunTask" enabled="false" />
         <option name="RakeTask" enabled="false" />
       </method>
@@ -1457,7 +1433,11 @@
       <created>1353375155349</created>
       <updated>1353375155349</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="adding MoOx scss extension to prism">
+      <created>1353375197962</created>
+      <updated>1353375197962</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1488,13 +1468,11 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27946126" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1508,6 +1486,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1605,19 +1585,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="20" selection-start="1411" selection-end="1434" vertical-scroll-proportion="-6.6538463" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="150" column="55" selection-start="4238" selection-end="4238" vertical-scroll-proportion="1.5132076" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="38" selection-start="3450" selection-end="3450" vertical-scroll-proportion="-11.769231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
@@ -1642,51 +1612,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="185" selection-end="198" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="2" selection-start="185" selection-end="198" vertical-scroll-proportion="0.029876977" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/prism.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.9388489" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="541" selection-end="547" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="31" selection-start="541" selection-end="547" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.35852373">
-          <folding />
-        </state>
+        <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.35852373" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="29" selection-start="6268" selection-end="6268" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="206" column="29" selection-start="6268" selection-end="6268" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="16" selection-start="1693" selection-end="1699" vertical-scroll-proportion="0.40625">
+        <state line="44" column="42" selection-start="804" selection-end="804" vertical-scroll-proportion="0.375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="20" selection-start="1411" selection-end="1434" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="47" selection-start="3411" selection-end="3411" vertical-scroll-proportion="0.6471698">
           <folding />
         </state>
       </provider>
