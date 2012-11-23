@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,19 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default-widgets.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-includes/default-widgets.php">
+      <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="565" column="90" selection-start="23117" selection-end="23117" vertical-scroll-proportion="-3.2307692">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="213" column="2" selection-start="4801" selection-end="4840" vertical-scroll-proportion="0.7553957">
+            <state line="21" column="10" selection-start="663" selection-end="663" vertical-scroll-proportion="-0.6679245">
               <folding />
             </state>
           </provider>
@@ -116,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/page.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
@@ -132,6 +122,7 @@
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/default-widgets.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
       </list>
     </option>
   </component>
@@ -1533,7 +1524,15 @@
       <created>1353632229440</created>
       <updated>1353632229440</updated>
     </task>
-    <option name="localTasksCounter" value="248" />
+    <task id="LOCAL-00248" summary="styling recently consumed post">
+      <created>1353632297466</created>
+      <updated>1353632297466</updated>
+    </task>
+    <task id="LOCAL-00249" summary="styling recently consumed post">
+      <created>1353632313793</created>
+      <updated>1353632313793</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1671,11 +1670,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript/prism.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="537" column="2" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.9388489" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="145" column="5" selection-start="3383" selection-end="3383" vertical-scroll-proportion="0.0" />
@@ -1769,6 +1763,13 @@
     <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="213" column="2" selection-start="4801" selection-end="4840" vertical-scroll-proportion="0.7553957">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="10" selection-start="663" selection-end="663" vertical-scroll-proportion="-0.6679245">
           <folding />
         </state>
       </provider>
