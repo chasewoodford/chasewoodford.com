@@ -1,6 +1,6 @@
-<div style="overflow:hidden;">
+<div>
 
-    <p class="comments left lead">
+    <p class="left lead">
         Comments
     </p>
 
