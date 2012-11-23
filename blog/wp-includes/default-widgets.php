@@ -563,8 +563,8 @@ class WP_Widget_Recent_Posts extends WP_Widget {
  			$number = 10;
 
 		$r = new WP_Query( apply_filters( 'widget_posts_args', array( 'posts_per_page' => $number, 'no_found_rows' => true, 'post_status' => 'publish', 'ignore_sticky_posts' => true ) ) );
-		// This is a Chase Woodford addition to *not* display Poetry category in Recent Posts
-        $r->query('cat=-10');
+		// This is a Chase Woodford addition to *not* display Poetry and Recently Consumed category in Recent Posts
+        $r->query('cat=-10,-51');
         if ($r->have_posts()) :
 ?>
 		<?php echo $before_widget; ?>
