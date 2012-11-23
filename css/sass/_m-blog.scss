@@ -211,10 +211,10 @@ ul.update {
 
 body.blog .amazon-image-wrapper {
   width: 100%;
+  margin-top: 20px;
+  text-align: center;
 
   & > img {
-    margin-top: 20px;
-    text-align: center;
     @include box-shadow(0 8px 10px -6px black);
   }
 }
