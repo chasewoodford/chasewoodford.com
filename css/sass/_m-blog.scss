@@ -210,7 +210,11 @@ ul.update {
 }
 
 body.blog .amazon-image-wrapper {
-  margin-top: 20px;
-  text-align: center;
-  @include box-shadow(0 8px 10px -6px black);
+  width: 100%;
+
+  & > img {
+    margin-top: 20px;
+    text-align: center;
+    @include box-shadow(0 8px 10px -6px black);
+  }
 }
