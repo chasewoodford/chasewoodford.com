@@ -1,7 +1,7 @@
 <div style="overflow:hidden;">
 
-    <p class="comments">
-        <strong><em>COMMENTS:</em></strong>
+    <p class="comments left lead">
+        Comments
     </p>
 
     <?php if ( have_comments() ) : ?>
@@ -18,7 +18,7 @@
     <?php if ( comments_open() ) : ?>
 
         <p class="comments">
-            <strong><em>COMMENTS:</em></strong>
+            <strong><em>LEAVE A COMMENT:</em></strong>
         </p>
 
         <div class="cancel-comment-reply">

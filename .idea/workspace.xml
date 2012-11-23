@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="updating comments styling">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
     </list>
@@ -79,7 +79,7 @@
       <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="10" selection-start="663" selection-end="663" vertical-scroll-proportion="-0.6679245">
+            <state line="3" column="8" selection-start="75" selection-end="75" vertical-scroll-proportion="0.09622642">
               <folding />
             </state>
           </provider>
@@ -1532,7 +1532,11 @@
       <created>1353632313793</created>
       <updated>1353632313793</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <task id="LOCAL-00250" summary="updating comments styling">
+      <created>1353632975279</created>
+      <updated>1353632975279</updated>
+    </task>
+    <option name="localTasksCounter" value="251" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1623,7 +1627,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling recently consumed post" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating comments styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1636,7 +1640,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="wp plugin test" />
     <MESSAGE value="refactoring" />
     <MESSAGE value="styling recently consumed section" />
     <MESSAGE value="fixing broken php loop" />
@@ -1661,6 +1664,7 @@
     <MESSAGE value="styling amazon product posts" />
     <MESSAGE value="removing recently consumed category from recent posts feed" />
     <MESSAGE value="styling recently consumed post" />
+    <MESSAGE value="updating comments styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1769,7 +1773,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="663" selection-end="663" vertical-scroll-proportion="-0.6679245">
+        <state line="3" column="8" selection-start="75" selection-end="75" vertical-scroll-proportion="0.09622642">
           <folding />
         </state>
       </provider>
