@@ -1,41 +1,5 @@
 <footer id="footer" class="grid-8">
 
-    <div id="foot_link">
-        <div id="foot_nav">
-            <div class="footcol">
-                <a href="#"><img alt="logo" src="" style="height:58px;width:103px;border-width:0px;"/></a>
-            </div>
-
-            <ul>
-                <li class="fLinkMain footcol">
-                    <a href="#">
-                        <span>Links</span>
-                    </a>
-
-                    <ul>
-                        <li class="fLinkSub"><a href="http://www.intuniv.com/non-stimulant-adhd-medication/adhd-medicine.aspx">
-                            Link 1</a></li>
-                        <li class="fLinkSub"><a href="http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-dosing.aspx">
-                            Link 2</a></li>
-                        <li class="fLinkSub"><a href="http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-side-effects.aspx">
-                            Link 3</a></li>
-                    </ul>
-                </li>
-
-                <li class="fLinkMain footcol">
-                    <a href="#">
-                        <span>Other Links</span>
-                    </a>
-
-                    <ul>
-                        <li class="fLinkSub"><a href="http://www.intuniv.com/attention-deficit-hyperactivity-disorder/causes-of-adhd.aspx">
-                            Causes of ADHD</a></li>
-                        <li class="fLinkSub"><a href="http://www.intuniv.com/attention-deficit-hyperactivity-disorder/symptoms-of-adhd.aspx">
-                            Symptoms of ADHD</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
 
         <div class="copyright" role="contentinfo" style="clear:both">
             <p style="float:left;margin:0;padding:0;">
@@ -44,8 +8,6 @@
                 <a href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
             </p>
         </div>
-
-    </div>
 
 </footer>
 </body>
