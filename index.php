@@ -10,7 +10,7 @@
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
     <link rel="stylesheet" href="/css/compiled/style.css">
     <link href="www.chasewoodford.com" rel="canonical" />
-    <script src="common.js" type="text/javascript"></script>
+    <script src="/javascript/common.js" type="text/javascript"></script>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>
 <body id="top">

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_common.scss" afterPath="$PROJECT_DIR$/css/sass/_common.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -117,7 +115,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="49" selection-start="992" selection-end="992" vertical-scroll-proportion="0.24716981">
+            <state line="12" column="38" selection-start="570" selection-end="570" vertical-scroll-proportion="0.38490567">
               <folding />
             </state>
           </provider>
@@ -1669,7 +1667,11 @@
       <created>1356208946126</created>
       <updated>1356208946126</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <task id="LOCAL-00270" summary="restarting design">
+      <created>1356209162968</created>
+      <updated>1356209162968</updated>
+    </task>
+    <option name="localTasksCounter" value="271" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1914,7 +1916,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="49" selection-start="992" selection-end="992" vertical-scroll-proportion="0.24716981">
+        <state line="12" column="38" selection-start="570" selection-end="570" vertical-scroll-proportion="0.38490567">
           <folding />
         </state>
       </provider>
