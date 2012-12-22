@@ -4,7 +4,6 @@
  }
 .pagination ul {
   display: inline-block;
-  @include ie7-inline-block();
   margin-left: 0;
   margin-bottom: 0;
   @include border-radius(3px);

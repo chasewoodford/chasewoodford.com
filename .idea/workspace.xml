@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\footer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\header.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\bg-row.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\date.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\more.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\search-light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\images\light\search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\js\functions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\css\sass\_reset.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/404.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/404.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/page.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/search.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_animations.scss" afterPath="$PROJECT_DIR$/css/sass/_animations.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_base.scss" afterPath="$PROJECT_DIR$/css/sass/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" afterPath="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss" afterPath="$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_buttons.scss" afterPath="$PROJECT_DIR$/css/sass/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_code.scss" afterPath="$PROJECT_DIR$/css/sass/_code.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-about.scss" afterPath="$PROJECT_DIR$/css/sass/_m-about.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-work.scss" afterPath="$PROJECT_DIR$/css/sass/_m-work.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_mixins.scss" afterPath="$PROJECT_DIR$/css/sass/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_variables.scss" afterPath="$PROJECT_DIR$/css/sass/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/style.scss" afterPath="$PROJECT_DIR$/css/sass/style.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -76,19 +110,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
+      <file leaf-file-name="_layout.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="21" selection-end="21" vertical-scroll-proportion="0.064150944">
+            <state line="65" column="1" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
+      <file leaf-file-name="_code.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="19" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.0">
+            <state line="2" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="201" column="1" selection-start="6365" selection-end="6365" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="204" selection-end="205" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_buttons.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="30" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shortcut.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/shortcut.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_bootstrap-pagination.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="26" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_bootstrap-mixins.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="31" selection-start="3081" selection-end="3081" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_mixins.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_mixins.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="0" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_animations.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_animations.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="6" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -116,22 +222,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
-        <option value="$PROJECT_DIR$/css/sass/_m-about.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_prism.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
-        <option value="$PROJECT_DIR$/css/sass/style.scss" />
-        <option value="$PROJECT_DIR$/javascript/prism.js" />
-        <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_code.scss" />
-        <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/default-widgets.php" />
-        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
+        <option value="$PROJECT_DIR$/css/sass/_base.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
+        <option value="$PROJECT_DIR$/css/sass/style.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_m-work.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_m-about.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_animations.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_code.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_mixins.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_buttons.scss" />
       </list>
     </option>
   </component>
@@ -171,6 +277,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,119 +308,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,9 +327,6 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
@@ -1553,7 +1547,11 @@
       <created>1353633568894</created>
       <updated>1353633568894</updated>
     </task>
-    <option name="localTasksCounter" value="253" />
+    <task id="LOCAL-00253" summary="updating comments styling">
+      <created>1353633590559</created>
+      <updated>1353633590559</updated>
+    </task>
+    <option name="localTasksCounter" value="254" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1578,24 +1576,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.49226806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27946126" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22685888" sideWeight="0.53535354" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22685888" sideWeight="0.7222222" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1604,6 +1600,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1691,108 +1689,114 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="541" selection-end="547" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.35852373" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="29" selection-start="6268" selection-end="6268" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="42" selection-start="804" selection-end="804" vertical-scroll-proportion="0.375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="47" selection-start="3411" selection-end="3411" vertical-scroll-proportion="-13.192307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="20" selection-start="1411" selection-end="1434" vertical-scroll-proportion="-6.5384617">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/page.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="16" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/search.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.5966851">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="49" selection-start="2453" selection-end="2463" vertical-scroll-proportion="-9.923077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/widgets.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1124" column="43" selection-start="35005" selection-end="35005" vertical-scroll-proportion="20.09804">
-          <folding>
-            <element signature="e#6#502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="23" selection-start="1647" selection-end="1647" vertical-scroll-proportion="2.2132075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/default-widgets.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="565" column="90" selection-start="23117" selection-end="23117" vertical-scroll-proportion="-3.2307692">
+        <state line="68" column="31" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="213" column="2" selection-start="4801" selection-end="4840" vertical-scroll-proportion="0.7553957">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="1" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="19" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.0">
+        <state line="65" column="1" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_animations.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="21" selection-end="21" vertical-scroll-proportion="0.064150944">
+        <state line="22" column="6" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="26" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="201" column="1" selection-start="6365" selection-end="6365" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="204" selection-end="205" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="0" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="31" selection-start="3081" selection-end="3081" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="30" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/shortcut.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

@@ -48,34 +48,12 @@
   width: flex-grid(10); // 84.375%
 }
 
-.grid-blog {
-  margin-left: 6%;
-  width: flex-grid(8); // 67.5%
-}
-
 .wrapper {
   clear: both;
   margin: 0;
   width: flex-grid(12);
   min-height: 100%;
   height: auto;
-}
-
-.main-content {
-  padding-bottom: 15px;
-}
-
-header {
-  overflow: hidden;
-  padding-top: 15px;
-}
-
-.sitename {
-  position: relative;
-  top: 15px;
-  float: left;
-  vertical-align: top;
-  margin: 0;
 }
 
 .search-box {
@@ -85,99 +63,6 @@ header {
   width: 50%;
   vertical-align: top;
   text-align: right;
-}
-
-.nav-primary {
-  float: left;
-  position: relative;
-  margin: 25px 0;
-}
-
-.inline {
-  display: inline;
-}
-
-.left {
-  text-align: left;
-}
-
-.center {
-  text-align: center;
-}
-
-.right {
-  text-align: right;
-}
-
-.hero {
-  overflow: hidden;
-  margin: $space*1.5 auto 50px;
-}
-
-.attribute {
-  float: left;
-  padding: 0;
-}
-
-.twitter-button, .blog-category {
-  float: right;
-}
-
-.continue-reading {
-  float: right;
-  padding: $space/4 0 $space/2;
-}
-
-.title-background {
-  display: block;
-  padding: $space/4 $space;
-  background: $blue;
-}
-
-#post-area {
-  float: left;
-}
-
-#sidebar {
-  float: right;
-  margin: $space/2 6% 0;
-  text-align: right;
-}
-
-.side-widget {
-  display: inline;
-  float: right;
-  width: auto;
-  padding-top: 15px;
-  margin-bottom: $space;
-}
-
-.side-widget ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  clear: both;
-}
-
-.side-widget ul li {
-  float: right;
-  display: block;
-  margin: 0;
-  padding: 0;
-  width: 180px;
-}
-
-.preview-container {
-  margin: 0 auto $space*3;
-}
-
-.preview, .static {
-  display: inline-block;
-  margin: 0 $space/2 $space;
-
-  &.main {
-    margin: $space $space/2 0;
-  }
 }
 
 .amazon-image-wrapper {

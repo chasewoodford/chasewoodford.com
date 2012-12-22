@@ -1,68 +1,52 @@
-<div>
-
-    <p class="left lead">
-        Comments
-    </p>
-
-    <?php if ( have_comments() ) : ?>
-        <ol class="comments">
-            <?php wp_list_comments('type=comment&avatar_size=20'); ?>
-        </ol>
-    <?php else : // this is displayed if there are no comments so far ?>
-        <?php if ( comments_open() ) : ?>
-            <!-- If comments are open, but there are no comments. -->
-        <?php else : // comments are closed ?>
-	    <?php endif; ?>
-    <?php endif; ?>
-
-    <?php if ( comments_open() ) : ?>
-
-        <p class="comments">
-            <strong><em>LEAVE A COMMENT:</em></strong>
-        </p>
-
-        <div class="cancel-comment-reply">
-            <?php cancel_comment_reply_link(); ?>
-        </div>
-
-        <form action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" method="post" id="commentform">
-
-            <fieldset class="info_fieldset">
-                <div id="fields">
-                    <div style="display:inline;float:left; width:18%">
-                        <label for="author">Name</label>
-                    </div>
-                    <div style="display:inline;float:left; width:80%">
-                        <input type="text" name="author" id="author" value="" class="textbox" aria-required="true"/>
-                    </div>
-                    <div style="display:inline;float:left; width:18%">
-                        <label for="email">Email</label>
-                    </div>
-                    <div style="display:inline;float:left; width:80%">
-                        <input type="text" name="email" id="email" value="" class="textbox" aria-required="true"/>
-                    </div>
-                    <div style="display:inline;float:left; width:18%">
-                        <label for="website">Website</label>
-                    </div>
-                    <div style="display:inline;float:left; width:80%">
-                        <input type="text" name="website" id="website" value="" class="textbox" aria-required="false"/>
-                    </div>
-                    <div style="display:inline;float:left; width:18%">
-                        <label for="comment">Comment</label>
-                    </div>
-                    <div style="display:inline;float:left; width:80%">
-                        <textarea spellcheck="true" name="comment" id="comment" cols="50" rows="4" class="textbox textbox2"></textarea>
-                    </div>
-                    <div>
-                        <input name="submit" type="submit" value="submit comment" class="formSend btn btn-large btn-primary">
-                    </div>
-                </div>
-            </fieldset>
-
-            <?php comment_id_fields(); ?>
-            <?php do_action('comment_form', $post->ID); ?>
-
-        </form>
-
-    <?php endif; ?>
+<?php
+/**
+ * The template for displaying Comments.
+ *
+ * The area of the page that contains both current comments
+ * and the comment form. The actual display of comments is
+ * handled by a callback to starkers_comment() which is
+ * located in the functions.php file.
+ *
+ * @package 	WordPress
+ * @subpackage 	Starkers
+ * @since 		Starkers 4.0
+ */
+?>
+<div id="comments">
+	<?php if ( post_password_required() ) : ?>
+	<p>This post is password protected. Enter the password to view any comments</p>
 </div>
+
+	<?php
+			/* Stop the rest of comments.php from being processed,
+			 * but don't kill the script entirely -- we still have
+			 * to fully load the template.
+			 */
+			return;
+		endif;
+	?>
+
+	<?php // You can start editing here -- including this comment! ?>
+
+	<?php if ( have_comments() ) : ?>
+
+	<h2><?php comments_number(); ?></h2>
+
+	<ol>
+		<?php wp_list_comments( array( 'callback' => 'starkers_comment' ) ); ?>
+	</ol>
+
+	<?php
+		/* If there are no comments and comments are closed, let's leave a little note, shall we?
+		 * But we don't want the note on pages or post types that do not support comments.
+		 */
+		elseif ( ! comments_open() && ! is_page() && post_type_supports( get_post_type(), 'comments' ) ) :
+	?>
+	
+	<p>Comments are closed</p>
+	
+	<?php endif; ?>
+
+	<?php comment_form(); ?>
+
+</div><!-- #comments -->

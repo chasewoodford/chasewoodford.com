@@ -29,13 +29,3 @@
     @include opacity(100);
   }
 }
-
-.collapse {
-  position: relative;
-  height: 0;
-  overflow: hidden;
-  @include transition(height 0.35s ease);
-  &.in {
-    height: auto;
-  }
-}

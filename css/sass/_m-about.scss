@@ -3,13 +3,3 @@ body.about .amazon-image-wrapper > p {
   font-size: 12px;
   text-align: justify;
 }
-
-img.amazon-product {
-  @include box-shadow(0 8px 10px -6px black);
-  @include transition(all 0.2s ease-in-out);
-  vertical-align: middle;
-
-  &:hover {
-    @include box-shadow(0 8px 10px -6px $blue);
-  }
-}
