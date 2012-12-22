@@ -157,7 +157,6 @@ h3, .h3 {
   margin: $space/2 0 0;
   font-family: $font-UbuntuLtReg, serif;
   text-transform: lowercase;
-  @include box-shadow-multiArgs(0 4px 6px rgba(0, 0, 0, 0.5) inset, 0 -2px 4px rgba(0, 0, 0, 0.2) inset);
 }
 
 // sidebar titles
