@@ -386,9 +386,52 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 .grid-10 { margin: 0 auto; width: 83.125%; }
 
+.grid-blog { margin-left: 6%; width: 66.25%; }
+
 .wrapper { clear: both; margin: 0; width: 100%; min-height: 100%; height: auto; }
 
+.main-content { padding-bottom: 15px; }
+
+header { overflow: hidden; padding-top: 15px; }
+
+.sitename { position: relative; top: 15px; float: left; vertical-align: top; margin: 0; }
+
 .search-box { position: relative; top: 15px; float: right; width: 50%; vertical-align: top; text-align: right; }
+
+.nav-primary { float: left; position: relative; margin: 25px 0; }
+
+.inline { display: inline; }
+
+.left { text-align: left; }
+
+.center { text-align: center; }
+
+.right { text-align: right; }
+
+.hero { overflow: hidden; margin: 30px auto 50px; }
+
+.attribute { float: left; padding: 0; }
+
+.twitter-button, .blog-category { float: right; }
+
+.continue-reading { float: right; padding: 5px 0 10px; }
+
+.title-background { display: block; padding: 5px 20px; background: #0088cc; }
+
+#post-area { float: left; }
+
+#sidebar { float: right; margin: 10px 6% 0; text-align: right; }
+
+.side-widget { display: inline; float: right; width: auto; padding-top: 15px; margin-bottom: 20px; }
+
+.side-widget ul { list-style: none; margin: 0; padding: 0; clear: both; }
+
+.side-widget ul li { float: right; display: block; margin: 0; padding: 0; width: 180px; }
+
+.preview-container { margin: 0 auto 60px; }
+
+.preview, .static { display: inline-block; margin: 0 10px 20px; }
+.preview.main, .static.main { margin: 20px 10px 0; }
 
 .amazon-image-wrapper { display: inline; float: left; width: 50%; }
 

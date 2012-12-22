@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -94,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="10" selection-start="6033" selection-end="6033" vertical-scroll-proportion="0.60251796">
+            <state line="197" column="10" selection-start="6033" selection-end="6033" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="186" column="1" selection-start="2363" selection-end="2363" vertical-scroll-proportion="0.9380692">
               <folding />
             </state>
           </provider>
@@ -142,7 +152,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="573" selection-end="573" vertical-scroll-proportion="-0.0">
+            <state line="52" column="0" selection-start="2892" selection-end="2892" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -179,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/sass/_bootstrap-pagination.scss" />
         <option value="$PROJECT_DIR$/css/sass/_code.scss" />
         <option value="$PROJECT_DIR$/css/sass/_bootstrap-mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/_buttons.scss" />
@@ -195,6 +204,7 @@
         <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
       </list>
     </option>
   </component>
@@ -1742,7 +1752,11 @@
       <created>1356210190176</created>
       <updated>1356210190176</updated>
     </task>
-    <option name="localTasksCounter" value="280" />
+    <task id="LOCAL-00280" summary="restarting design">
+      <created>1356210257638</created>
+      <updated>1356210257638</updated>
+    </task>
+    <option name="localTasksCounter" value="281" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1773,6 +1787,7 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27946126" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
@@ -1783,7 +1798,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22685888" sideWeight="0.7222222" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22685888" sideWeight="0.53535354" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1792,7 +1807,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1880,13 +1894,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="176" selection-end="176" vertical-scroll-proportion="0.17926186">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="2" selection-start="1227" selection-end="1227" vertical-scroll-proportion="0.80754715">
@@ -1931,7 +1938,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="573" selection-end="573" vertical-scroll-proportion="-0.0">
+        <state line="52" column="0" selection-start="2892" selection-end="2892" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
@@ -1987,7 +1994,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="10" selection-start="6033" selection-end="6033" vertical-scroll-proportion="0.60251796">
+        <state line="197" column="10" selection-start="6033" selection-end="6033" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="186" column="1" selection-start="2363" selection-end="2363" vertical-scroll-proportion="0.9380692">
           <folding />
         </state>
       </provider>
