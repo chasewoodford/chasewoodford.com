@@ -72,19 +72,15 @@
             </ul>
         </div>
 
-        <div class="clearBoth"></div>
-
-        <div class="copyright" role="contentinfo">
+        <div class="copyright" role="contentinfo" style="clear:both">
             <p style="float:left;margin:0;padding:0;">
                 &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
-            <h2 class="bullet">&#8226;</h2>
-            <a href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
+                <span class="bullet">&#8226;</span>
+                <a href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
             </p>
         </div>
 
     </div>
-
-    <div class="clearBoth"></div>
 
 </footer>
 </body>

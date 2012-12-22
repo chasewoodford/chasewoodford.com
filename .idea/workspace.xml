@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\parts\shared\footer.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\parts\shared\header.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\parts\shared\html-footer.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\parts\shared\html-header.php" afterPath="" />
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="restarting design">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
     </list>
@@ -84,16 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="796" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="1072" selection-end="1072" vertical-scroll-proportion="-13.076923">
+            <state line="91" column="39" selection-start="4179" selection-end="4179" vertical-scroll-proportion="-15.807693">
               <folding />
             </state>
           </provider>
@@ -102,7 +88,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="9" selection-start="4004" selection-end="4004" vertical-scroll-proportion="2.8226416">
+            <state line="77" column="50" selection-start="3802" selection-end="3802" vertical-scroll-proportion="0.48679245">
               <folding />
             </state>
           </provider>
@@ -1725,7 +1711,11 @@
       <created>1356211220347</created>
       <updated>1356211220348</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="restarting design">
+      <created>1356219662037</created>
+      <updated>1356219662037</updated>
+    </task>
+    <option name="localTasksCounter" value="289" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1762,6 +1752,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27946126" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1775,7 +1766,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1918,13 +1908,6 @@
         <state line="19" column="42" selection-start="411" selection-end="411" vertical-scroll-proportion="0.56766254" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="796" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="1072" selection-end="1072" vertical-scroll-proportion="-13.076923">
@@ -1932,9 +1915,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="39" selection-start="4179" selection-end="4179" vertical-scroll-proportion="-15.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="9" selection-start="4004" selection-end="4004" vertical-scroll-proportion="2.8226416">
+        <state line="77" column="50" selection-start="3802" selection-end="3802" vertical-scroll-proportion="0.48679245">
           <folding />
         </state>
       </provider>
