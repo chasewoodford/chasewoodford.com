@@ -97,7 +97,7 @@
       <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="195" column="1" selection-start="6021" selection-end="6021" vertical-scroll-proportion="0.8255396">
+            <state line="197" column="10" selection-start="6033" selection-end="6033" vertical-scroll-proportion="0.60251796">
               <folding />
             </state>
           </provider>
@@ -142,7 +142,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="-0.0">
+            <state line="9" column="0" selection-start="573" selection-end="573" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -1738,7 +1738,11 @@
       <created>1356210021928</created>
       <updated>1356210021928</updated>
     </task>
-    <option name="localTasksCounter" value="279" />
+    <task id="LOCAL-00279" summary="restarting design">
+      <created>1356210190176</created>
+      <updated>1356210190176</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1927,7 +1931,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="-0.0">
+        <state line="9" column="0" selection-start="573" selection-end="573" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
@@ -1983,7 +1987,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="1" selection-start="6021" selection-end="6021" vertical-scroll-proportion="0.8255396">
+        <state line="197" column="10" selection-start="6033" selection-end="6033" vertical-scroll-proportion="0.60251796">
           <folding />
         </state>
       </provider>

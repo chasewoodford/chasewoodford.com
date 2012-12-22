@@ -195,8 +195,13 @@ h4, .h4 {
   padding: 0 12px;
 }
 
-.copyright, .attribute {
+.copyright {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
+}
+
+.attribute {
+  font: normal 75%/1 $font-CallunaReg, serif;
+  line-height: 20px;
 }
 
 body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact .nav-primary .contact h2, body.work .nav-primary .work h2 {
