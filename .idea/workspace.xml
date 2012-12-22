@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_base.scss" afterPath="$PROJECT_DIR$/css/sass/_base.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -142,7 +141,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-0.0">
+            <state line="4" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -1730,7 +1729,11 @@
       <created>1356209952511</created>
       <updated>1356209952511</updated>
     </task>
-    <option name="localTasksCounter" value="277" />
+    <task id="LOCAL-00277" summary="restarting design">
+      <created>1356209988166</created>
+      <updated>1356209988167</updated>
+    </task>
+    <option name="localTasksCounter" value="278" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1926,7 +1929,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-0.0">
+        <state line="4" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>

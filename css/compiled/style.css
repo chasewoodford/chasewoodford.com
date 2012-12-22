@@ -202,6 +202,8 @@ a:hover, a:active { color: #005581; text-decoration: underline; }
 
 .logo { float: left; width: 115px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
 
+footer { position: relative; clear: both; margin-bottom: 0 !important; margin-top: -30px !important; height: 30px; }
+
 ::selection { background: #0088cc; color: white; }
 
 ::-moz-selection { background: #0088cc; color: white; }
