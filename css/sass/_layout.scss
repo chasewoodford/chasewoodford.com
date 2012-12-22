@@ -87,33 +87,6 @@ header {
   text-align: right;
 }
 
-.nav-primary {
-  float: left;
-  position: relative;
-  margin: 25px 0;
-}
-
-.inline {
-  display: inline;
-}
-
-.left {
-  text-align: left;
-}
-
-.center {
-  text-align: center;
-}
-
-.right {
-  text-align: right;
-}
-
-.hero {
-  overflow: hidden;
-  margin: $space*1.5 auto 50px;
-}
-
 .attribute {
   float: left;
   padding: 0;
@@ -130,7 +103,7 @@ header {
 
 .title-background {
   display: block;
-  padding: $space/4 $space;
+  padding: $space/4;
   background: $blue;
 }
 
@@ -165,19 +138,6 @@ header {
   margin: 0;
   padding: 0;
   width: 180px;
-}
-
-.preview-container {
-  margin: 0 auto $space*3;
-}
-
-.preview, .static {
-  display: inline-block;
-  margin: 0 $space/2 $space;
-
-  &.main {
-    margin: $space $space/2 0;
-  }
 }
 
 .amazon-image-wrapper {
