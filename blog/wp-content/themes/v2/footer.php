@@ -3,70 +3,35 @@
     <div id="foot_link">
         <div id="foot_nav">
             <div class="footcol">
-                <a href="http://www.intuniv.com/" target=
-                    "_blank"><img alt="Shire" src=
-                    "Default.aspx_files/logo_ftr_intuniv.png" style=
-                    "height:58px;width:103px;border-width:0px;" /></a>
+                <a href="#"><img alt="logo" src="" style="height:58px;width:103px;border-width:0px;"/></a>
             </div>
 
             <ul>
                 <li class="fLinkMain footcol">
-                    <a href=
-                           "http://www.intuniv.com/non-stimulant-adhd-medication/">
-                        <span>What is INTUNIV?</span></a>
+                    <a href="#">
+                        <span>Links</span>
+                    </a>
 
                     <ul>
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/adhd-medicine.aspx">
-                            Why INTUNIV?</a></li>
-
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-dosing.aspx">
-                            How to Take</a></li>
-
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-side-effects.aspx">
-                            Side Effects</a></li>
+                        <li class="fLinkSub"><a href="http://www.intuniv.com/non-stimulant-adhd-medication/adhd-medicine.aspx">
+                            Link 1</a></li>
+                        <li class="fLinkSub"><a href="http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-dosing.aspx">
+                            Link 2</a></li>
+                        <li class="fLinkSub"><a href="http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-side-effects.aspx">
+                            Link 3</a></li>
                     </ul>
                 </li>
 
                 <li class="fLinkMain footcol">
-                    <a href=
-                           "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/">
-                        <span>Understanding ADHD</span></a>
+                    <a href="#">
+                        <span>Other Links</span>
+                    </a>
 
                     <ul>
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/causes-of-adhd.aspx">
+                        <li class="fLinkSub"><a href="http://www.intuniv.com/attention-deficit-hyperactivity-disorder/causes-of-adhd.aspx">
                             Causes of ADHD</a></li>
-
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/symptoms-of-adhd.aspx">
+                        <li class="fLinkSub"><a href="http://www.intuniv.com/attention-deficit-hyperactivity-disorder/symptoms-of-adhd.aspx">
                             Symptoms of ADHD</a></li>
-
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/treating-adhd.aspx">
-                            Treating ADHD</a></li>
-
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/managing-adhd.aspx">
-                            Managing ADHD</a></li>
-
-                        <li class="fLinkSub"><a href=
-                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/working-with-doctors.aspx">
-                            Working With Doctors</a></li>
-                    </ul>
-                </li>
-
-                <li class="fLinkMain footcol">
-                    <ul>
-                        <li class="fLinkMain"><a href=
-                                                     "http://www.intuniv.com/does-my-child-have-adhd.aspx">
-                            <span>Parent Resources</span></a></li>
-
-                        <li class="fLinkMain"><a href=
-                                                     "http://www.intuniv.com/adhd-information.aspx"><span>
-                                FAQ</span></a></li>
                     </ul>
                 </li>
             </ul>
