@@ -157,7 +157,7 @@ h3, .h3 {
   margin: $space/2 0 0;
   font-family: $font-UbuntuLtReg, serif;
   text-transform: lowercase;
-  & .post-title {
+  & > a.post-title {
     color: $white;
   }
 }

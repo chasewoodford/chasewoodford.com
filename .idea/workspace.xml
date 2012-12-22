@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -97,7 +98,7 @@
       <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="159" column="4" selection-start="5442" selection-end="5442" vertical-scroll-proportion="0.4664179">
+            <state line="159" column="2" selection-start="5440" selection-end="5440" vertical-scroll-proportion="0.4664179">
               <folding />
             </state>
           </provider>
@@ -1763,7 +1764,11 @@
       <created>1356210739418</created>
       <updated>1356210739418</updated>
     </task>
-    <option name="localTasksCounter" value="283" />
+    <task id="LOCAL-00283" summary="restarting design">
+      <created>1356210831415</created>
+      <updated>1356210831415</updated>
+    </task>
+    <option name="localTasksCounter" value="284" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2008,7 +2013,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="4" selection-start="5442" selection-end="5442" vertical-scroll-proportion="0.4664179">
+        <state line="159" column="2" selection-start="5440" selection-end="5440" vertical-scroll-proportion="0.4664179">
           <folding />
         </state>
       </provider>
