@@ -12,7 +12,7 @@
   display: inline;
   float: left;
   width: 88%;
-  margin: 0 auto $space/2;
+  margin: $space/4 auto $space/2;
   font-family: $font-UbuntuLtIt;
   text-align: justify;
 }
@@ -21,7 +21,6 @@
   float: left;
   width: 5%;
   display: inline;
-  margin: $space/2 0 0 0;
   font-size: 30px;
   text-align: left;
   color: $blue;
