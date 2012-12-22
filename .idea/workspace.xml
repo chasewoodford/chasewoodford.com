@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_source/v2/headerBackground.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/bg-row.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/date.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/search-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/images/light/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/external/starkers-utilities.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/js/site.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/html-footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/html-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/tag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2_old/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -106,84 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="118" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="30" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.6136986">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2_old/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="92" selection-start="363" selection-end="363" vertical-scroll-proportion="-4.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="2" selection-start="1227" selection-end="1227" vertical-scroll-proportion="-16.461538">
-              <folding>
-                <element signature="e#6#498#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.6153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html-footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/html-footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2_old/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="0" selection-start="2619" selection-end="2651" vertical-scroll-proportion="-15.153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="3" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.08">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_mixins.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/_mixins.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="184" column="0" selection-start="5313" selection-end="5313" vertical-scroll-proportion="0.0">
+            <state line="35" column="10" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.9358491">
               <folding />
             </state>
           </provider>
@@ -224,9 +129,9 @@
         <option value="$PROJECT_DIR$/css/sass/_mixins.scss" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/javascript/common.js" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -384,92 +289,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="v2_old" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chasewoodford.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shared" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1720,7 +1539,11 @@
       <created>1356207129332</created>
       <updated>1356207129332</updated>
     </task>
-    <option name="localTasksCounter" value="256" />
+    <task id="LOCAL-00256" summary="restarting design">
+      <created>1356207202612</created>
+      <updated>1356207202612</updated>
+    </task>
+    <option name="localTasksCounter" value="257" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1745,11 +1568,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.49226806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1893,13 +1716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="118" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="184" column="76" selection-start="8437" selection-end="8437" vertical-scroll-proportion="0.96045196">
@@ -1909,7 +1725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="0" selection-start="5313" selection-end="5313" vertical-scroll-proportion="0.0">
+        <state line="184" column="0" selection-start="5313" selection-end="5313" vertical-scroll-proportion="0.9622302">
           <folding />
         </state>
       </provider>
@@ -1923,14 +1739,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.08">
+        <state line="6" column="3" selection-start="176" selection-end="176" vertical-scroll-proportion="0.17926186">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="2" selection-start="1227" selection-end="1227" vertical-scroll-proportion="-16.461538">
+        <state line="36" column="2" selection-start="1227" selection-end="1227" vertical-scroll-proportion="0.80754715">
           <folding>
             <element signature="e#6#498#0" expanded="true" />
           </folding>
@@ -1939,7 +1755,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.6153846">
+        <state line="4" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.12523021">
           <folding />
         </state>
       </provider>
@@ -1953,21 +1769,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2_old/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="2619" selection-end="2651" vertical-scroll-proportion="-15.153846">
+        <state line="70" column="0" selection-start="2619" selection-end="2651" vertical-scroll-proportion="0.7433962">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2_old/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="92" selection-start="363" selection-end="363" vertical-scroll-proportion="-4.576923">
+        <state line="7" column="92" selection-start="363" selection-end="363" vertical-scroll-proportion="0.2245283">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="118" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="30" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.6136986">
+        <state line="35" column="10" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.9358491">
           <folding />
         </state>
       </provider>

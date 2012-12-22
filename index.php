@@ -18,6 +18,22 @@
     <?php
     include ('./header.php');
     ?>
+    <div class="" id="header">
+        <div id="hdr_inner">
+            <div class="links">
+                <a href="#">One</a> <a href="#">Two</a> <a href=
+                                                               "#">Three</a> <a href="#">Four</a>
+            </div>
+
+            <div class="logo_intuniv"></div>
+
+            <div class="safety">
+                <p>Lorem Ipsum.</p>
+            </div>
+        </div>
+
+        <div class="clearBoth"></div>
+    </div>
     <div class="grid-8">
         <?php
         require('./blog/wp-blog-header.php');
