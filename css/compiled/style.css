@@ -169,6 +169,8 @@ h4, .h4 { margin: 0; font-family: "UbuntuLtReg", serif; text-transform: lowercas
 .lead:not(:first-of-type) { margin: 40px 0 0; font-style: italic; letter-spacing: 2px; }
 .lead:after { content: ""; display: block; position: relative; height: 12px; right: 30%; width: 100%; border-bottom: 1px dashed #5a5a5a; }
 
+.bullet { padding: 0 12px; }
+
 .copyright, .attribute { font: normal 75%/1 "UbuntuLtReg", serif; }
 
 body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact .nav-primary .contact h2, body.work .nav-primary .work h2 { color: #0088cc; text-shadow: 0 2px 1px rgba(0, 0, 0, 0.5); }
