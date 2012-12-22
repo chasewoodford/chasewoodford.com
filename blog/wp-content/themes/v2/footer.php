@@ -1,5 +1,4 @@
-<footer id="footer" class="grid-8">
-
+<footer class="grid-8">
 
         <div class="copyright" role="contentinfo" style="clear:both">
             <p style="float:left;margin:0;padding:0;">
