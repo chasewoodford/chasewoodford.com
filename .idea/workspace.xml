@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -86,19 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="41" selection-start="4221" selection-end="4221" vertical-scroll-proportion="-15.807693">
+            <state line="83" column="66" selection-start="3972" selection-end="3972" vertical-scroll-proportion="0.48679245">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="378" selection-end="4785" vertical-scroll-proportion="0.28867924">
+            <state line="9" column="0" selection-start="378" selection-end="4785" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
@@ -149,8 +148,8 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -1570,7 +1569,11 @@
       <created>1356207349039</created>
       <updated>1356207349040</updated>
     </task>
-    <option name="localTasksCounter" value="259" />
+    <task id="LOCAL-00259" summary="restarting design">
+      <created>1356207466158</created>
+      <updated>1356207466158</updated>
+    </task>
+    <option name="localTasksCounter" value="260" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1808,16 +1811,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="41" selection-start="4221" selection-end="4221" vertical-scroll-proportion="-15.807693">
+        <state line="9" column="0" selection-start="378" selection-end="4785" vertical-scroll-proportion="-5.8846154">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="378" selection-end="4785" vertical-scroll-proportion="0.28867924">
+        <state line="83" column="66" selection-start="3972" selection-end="3972" vertical-scroll-proportion="0.48679245">
           <folding />
         </state>
       </provider>

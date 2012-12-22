@@ -81,13 +81,13 @@
 <!--            </div>-->
 <!--        </div>-->
 <!---->
-<!--        <div class="clearBoth"></div><!-- Main Content End -->-->
+<!--        <div class="clearBoth"></div><!-- Main Content End -->
 <!--    </div>-->
 <!---->
 <!--    <div id="isi">-->
 <!--        <p>Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem-->
 <!--            ipsum.</p>-->
-<!--    </div><!-- Footer -->-->
+<!--    </div><!-- Footer -->
 </div>
 <?php
 include ("./blog/wp-content/themes/v2/footer.php");
