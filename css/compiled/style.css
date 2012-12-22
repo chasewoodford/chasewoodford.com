@@ -190,7 +190,7 @@ body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact
 .fade { opacity: 0; filter: alpha(opacity=0); -webkit-transition: opacity 0.15s linear; -moz-transition: opacity 0.15s linear; -ms-transition: opacity 0.15s linear; -o-transition: opacity 0.15s linear; transition: opacity 0.15s linear; }
 .fade.in { opacity: 1; filter: alpha(opacity=100); }
 
-body { background-color: white; overflow-x: hidden; font: normal 125%/1.4 "Calluna", serif; color: #5a5a5a; }
+body { background-color: white; overflow-x: hidden; font: 14px/1.36em "Calluna", serif; color: #5a5a5a; }
 
 ul, li, p, img, h1, h2, h3, h4 { margin: 0; padding: 0; list-style: none; border: 0; }
 
