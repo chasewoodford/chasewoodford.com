@@ -1,98 +1,92 @@
-<footer class="grid-8">
-     <div class="copyright" role="contentinfo">
-        <p style="float:left;margin:0;padding:0;">
-            &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
+<footer id="footer" class="grid-8">
+
+    <div id="foot_link">
+        <div id="foot_nav">
+            <div class="footcol">
+                <a href="http://www.intuniv.com/" target=
+                    "_blank"><img alt="Shire" src=
+                    "Default.aspx_files/logo_ftr_intuniv.png" style=
+                    "height:58px;width:103px;border-width:0px;" /></a>
+            </div>
+
+            <ul>
+                <li class="fLinkMain footcol">
+                    <a href=
+                           "http://www.intuniv.com/non-stimulant-adhd-medication/">
+                        <span>What is INTUNIV?</span></a>
+
+                    <ul>
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/adhd-medicine.aspx">
+                            Why INTUNIV?</a></li>
+
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-dosing.aspx">
+                            How to Take</a></li>
+
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-side-effects.aspx">
+                            Side Effects</a></li>
+                    </ul>
+                </li>
+
+                <li class="fLinkMain footcol">
+                    <a href=
+                           "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/">
+                        <span>Understanding ADHD</span></a>
+
+                    <ul>
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/causes-of-adhd.aspx">
+                            Causes of ADHD</a></li>
+
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/symptoms-of-adhd.aspx">
+                            Symptoms of ADHD</a></li>
+
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/treating-adhd.aspx">
+                            Treating ADHD</a></li>
+
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/managing-adhd.aspx">
+                            Managing ADHD</a></li>
+
+                        <li class="fLinkSub"><a href=
+                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/working-with-doctors.aspx">
+                            Working With Doctors</a></li>
+                    </ul>
+                </li>
+
+                <li class="fLinkMain footcol">
+                    <ul>
+                        <li class="fLinkMain"><a href=
+                                                     "http://www.intuniv.com/does-my-child-have-adhd.aspx">
+                            <span>Parent Resources</span></a></li>
+
+                        <li class="fLinkMain"><a href=
+                                                     "http://www.intuniv.com/adhd-information.aspx"><span>
+                                FAQ</span></a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+        <div class="clearBoth"></div>
+
+        <div class="copyright" role="contentinfo">
+            <p style="float:left;margin:0;padding:0;">
+                &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
             <h2 class="bullet">&#8226;</h2>
             <a href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
-         </p>
-     </div>
+            </p>
+        </div>
+
+    </div>
+
+    <div class="clearBoth"></div>
+
 </footer>
-<!--<div id="footer">-->
-<!--    <div id="foot_link">-->
-<!--        <div id="foot_nav">-->
-<!--            <div class="footcol">-->
-<!--                <a href="http://www.intuniv.com/" target=-->
-<!--                    "_blank"><img alt="Shire" src=-->
-<!--                    "Default.aspx_files/logo_ftr_intuniv.png" style=-->
-<!--                    "height:58px;width:103px;border-width:0px;" /></a>-->
-<!--            </div>-->
-<!---->
-<!--            <ul>-->
-<!--                <li class="fLinkMain footcol">-->
-<!--                    <a href=-->
-<!--                           "http://www.intuniv.com/non-stimulant-adhd-medication/">-->
-<!--                        <span>What is INTUNIV?</span></a>-->
-<!---->
-<!--                    <ul>-->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/adhd-medicine.aspx">-->
-<!--                            Why INTUNIV?</a></li>-->
-<!---->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-dosing.aspx">-->
-<!--                            How to Take</a></li>-->
-<!---->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/non-stimulant-adhd-medication/intuniv-side-effects.aspx">-->
-<!--                            Side Effects</a></li>-->
-<!--                    </ul>-->
-<!--                </li>-->
-<!---->
-<!--                <li class="fLinkMain footcol">-->
-<!--                    <a href=-->
-<!--                           "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/">-->
-<!--                        <span>Understanding ADHD</span></a>-->
-<!---->
-<!--                    <ul>-->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/causes-of-adhd.aspx">-->
-<!--                            Causes of ADHD</a></li>-->
-<!---->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/symptoms-of-adhd.aspx">-->
-<!--                            Symptoms of ADHD</a></li>-->
-<!---->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/treating-adhd.aspx">-->
-<!--                            Treating ADHD</a></li>-->
-<!---->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/managing-adhd.aspx">-->
-<!--                            Managing ADHD</a></li>-->
-<!---->
-<!--                        <li class="fLinkSub"><a href=-->
-<!--                                                    "http://www.intuniv.com/attention-deficit-hyperactivity-disorder/working-with-doctors.aspx">-->
-<!--                            Working With Doctors</a></li>-->
-<!--                    </ul>-->
-<!--                </li>-->
-<!---->
-<!--                <li class="fLinkMain footcol">-->
-<!--                    <ul>-->
-<!--                        <li class="fLinkMain"><a href=-->
-<!--                                                     "http://www.intuniv.com/does-my-child-have-adhd.aspx">-->
-<!--                            <span>Parent Resources</span></a></li>-->
-<!---->
-<!--                        <li class="fLinkMain"><a href=-->
-<!--                                                     "http://www.intuniv.com/adhd-information.aspx"><span>-->
-<!--                                FAQ</span></a></li>-->
-<!--                    </ul>-->
-<!--                </li>-->
-<!--            </ul>-->
-<!--        </div>-->
-<!---->
-<!--        <div class="clearBoth"></div>-->
-<!---->
-<!--        <div id="foot_copyrt">-->
-<!--            <div class="footcol copyrt">-->
-<!--                ©2012 chasewoodford.com-->
-<!--            </div>-->
-<!---->
-<!--            <div class="clearBoth"></div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!---->
-<!--    <div class="clearBoth"></div>-->
-<!--</div>-->
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/javascript/jquery-1.7.min.js"><\/script>')</script>
