@@ -5,6 +5,23 @@ body {
   color: $gray;
 }
 
+ul, li, p, img, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border: 0;
+}
+
+a {
+  &:link, &:visited {
+    color: #29AEDF;
+  }
+  &:hover, &:active {
+    color: #005581;
+    text-decoration: none;
+  }
+}
+
 .logo {
   float: left;
   width: 115px;
