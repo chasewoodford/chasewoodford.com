@@ -1,0 +1,185 @@
+/*#evokeModalDialogGrayout { background: transparent url("http://www.intuniv.com/images/backgrounds/lightbox.png") repeat left top; }*/
+
+/* general and resets */
+body {
+  font:14px/1.36em arial, helvetica, sans-serif; color:#333;
+  margin:auto 0;
+  background:#FFF;
+}
+.clearBoth { clear:both; }
+
+ul, li, p, img, h1, h2, h3, h4  { margin:0; padding:0; list-style:none; border:0; }
+h1, .h1 { font:34px/34px "VAG Rounded W01 Bold"; color:#005581; margin-bottom:20px; }
+h2, .h2 { font:18px/20px "VAG Rounded W01 Bold"; color:#005581; margin-bottom:4px; }
+h3, .h3 { font:16px/16px "VAG Rounded W01 Bold"; color:#005581; margin-bottom:4px; }
+p       { margin-bottom:.93em; }
+a:link, a:visited { color:#29AEDF; }
+a:hover, a:active { color:#005581; text-decoration:none; }
+
+small { font-size:0.66em; }
+
+/* header */
+#header {
+  position:fixed; top:0px; left:0px; z-index:90;
+  width:100%; height:150px;
+  background:url('headerBackground.png') repeat-x 0px 0px;
+}
+#header.scroll { background-position:0px -163px; }
+#hdr_inner {
+  position:relative; margin:auto;
+  width:965px; height:150px;
+}
+#hdr_inner .links {
+  width:99%; height:23px;
+  display:inline-block; text-align:right; margin-top:1px;
+}
+#hdr_inner .links a { font:bold .79em arial; color:#FFF; text-decoration:none; }
+#hdr_inner .links a:hover { text-decoration:underline; }
+#hdr_inner .logo_intuniv  {
+  position:absolute; top:36px; left:0;
+  width:160px; height:90px;
+}
+#hdr_inner .share {
+  position:absolute; top:30px; right:8px; z-index:9;
+  width:120px; height:20px;
+}
+#hdr_inner .share span { position:relative; display:block; top:5px; font:bold 11px arial; color:#7e7e7e; float:left; }
+#hdr_inner .share a    { display:block; width:27px; height:27px; text-indent:-9999px; float:right;
+  background:url('http://www.intuniv.com/images/icons/icon_facebook.png') no-repeat 0 0; }
+
+#hdr_inner .safety     {
+  position:absolute; top:33px; right:5px; width:635px;
+  font:12px Arial, Helvetica, sans-serif; color:#6b6b6b;
+}
+#hdr_inner .safety_hdr { font:14px "VAG Rounded W01 Bold"; color:#015581; }
+#hdr_inner a           { font-weight:bold;color:#faa635; }
+
+/* positioning */
+#content        { position:relative; width:965px; padding:157px 0 0 0; margin:auto; }
+#leftcol        { float:left; width:216px; margin-right:34px; margin-left:0px; }
+#rightcol       { float:right; width:209px; margin-right:3px;  }
+#inner_content  { float:left; width:460px; position:relative; }
+#inner_content.noCallout { width:708px;	}
+#inner_content.fullpage  { width:965px;	}
+
+
+/* footer */
+#isi {
+  width:893px; color:#3b3b3b;
+  margin:15px auto 100px auto; padding:35px 35px 0px 35px;
+  background:#edf3f6 url('http://www.intuniv.com/images/backgrounds/bg_isi_top.png') no-repeat left top;
+}
+#footer             { width:965px; margin:auto; padding-bottom:20px; }
+#foot_link 		    { padding:65px 8px 0px 8px; }
+#foot_copyrt		{ border-top:1px solid #fff; padding-top:15px; margin-top:20px; font-size:.86em; line-height:17px; color:#fff; }
+#foot_copyrt .mlr	{ padding:13px 0 0 8px; font-size:.96em; color:#fff; }
+#footer .footcol	{ padding-left:24px; width:130px; float:left; }
+#footer .divider	{ border-left:1px solid #fff; height:auto; margin-left:20px; }
+#footer .copyrt	    { width:770px; padding-top:4px; color:#005581; }
+.fLinkMain a		{ display:block; font:bold .93em arial; color:#0088CC; text-decoration:none; padding-bottom:12px; }
+.fLinkSub a			{ display:block; font:normal .93em arial; color:#0088CC; text-decoration:none; padding-bottom:10px; }
+.fLinkMain a:hover,.fLinkSub a:hover { color:#015581; text-decoration: underline; }
+
+/* nav */
+#nav {
+  position:relative; z-index:9;
+  width:965px; height:65px;
+  margin:0px 0px 40px 0px; padding:0px;
+  list-style-type:none; zoom:1;
+}
+#nav li {
+  float:left; position:relative;
+  width:152px; height:65px;
+  margin:0px 0px 0px 10px; padding:0px;
+  background:url('http://www.intuniv.com/images/backgrounds/bg_nav_sprite.png') no-repeat 0 0;
+}
+#nav li:first-child { margin-left:0px; }
+#nav li:hover,
+#nav li.current:hover   { background-position:0px -200px; }
+#nav li.nodrop:hover    { background-position:-256px -200px; }
+#nav li.current         { background-position:0px -100px; }
+#nav li.nodrop          { background-position:-256px 0px; }
+#nav li.current.nodrop  { background-position:-256px -100px; }
+#nav li a {
+  display:block; width:128px; height:50px;
+  font:17px/18px "VAG Rounded W01 Bold"; color:#fff; text-decoration:none;
+  padding:15px 12px 0px 12px;
+}
+#nav li ul {
+  display:none; width:222px; padding:24px 0px 0px 0px;
+  position:absolute; left:0px; top:65px;
+  background:url('http://www.intuniv.com/images/backgrounds/bg_nav_sprite.png') no-repeat 0px -265px;
+}
+#nav li:hover ul { display:block; }
+#nav li ul li    {
+  float:none; margin:0px; padding:0px; background:none; width:auto; height:auto;
+  background:url('http://www.intuniv.com/images/backgrounds/bg_nav_sprite.png') no-repeat -278px -300px;
+}
+#nav li ul li:hover { background-position:-278px -300px; }
+#nav li ul li.last-child { background-position:right bottom; }
+#nav li ul li a {
+  width:auto; height:auto; border-top:1px solid #e5eef3;
+  margin:0 8px 0px 7px; padding:10px 0px 10px 16px;
+  font:14px "VAG Rounded W01 Bold"; color:#faa635;
+}
+#nav li ul li.currentSub a,
+#nav li ul li a:hover { color:#005581; }
+#nav li ul li:first-child a { border-top-width:0px; }
+#nav li ul li.last-child a  { background-color:transparent; margin:0px 7px 7px 7px; padding-bottom:14px; }
+
+
+/* individual page nav */
+#pagenav { margin-bottom:30px; }
+#pagenav li li {
+  margin-bottom:10px; width:216px; height:39px;
+  background:url('http://www.intuniv.com/images/buttons/btn_pagenav_sprite.png') no-repeat 0 -39px; }
+#pagenav li li a {
+  display:block; padding:11px 10px 0px 13px; height:28px;
+  font:1em "VAG Rounded W01 Bold"; color:#fff; text-decoration:none;
+}
+#pagenav li li a:hover   { background:url('http://www.intuniv.com/images/buttons/btn_pagenav_sprite.png') no-repeat bottom left; }
+#pagenav li li.current a, #pagenav li li.current a:hover { background:url('http://www.intuniv.com/images/buttons/btn_pagenav_sprite.png') no-repeat top left; }
+#pagenav li.heading a    { display:none; }
+#pagenav li.heading li a { display:block; }
+
+/* inTune Nav */
+#inTuneNav { margin-bottom:20px; }
+.inTuneNav_top {
+  width:216px; height:111px;
+  background:#fff url('http://www.intuniv.com/images/callouts/bg_intuneNav_top.png') no-repeat top center;
+  font:.86em "VAG Rounded W01 Bold"; color:#8c8c8c;
+}
+.inTuneNav_top div { padding:66px 15px 5px 15px; }
+#inTuneNav li  {
+  border:1px solid #aab8c0; border-bottom:none;
+  width:214px; height:32px;
+  background:#e6f3fa url('http://www.intuniv.com/images/callouts/bg_intuneNav_sprite.png') no-repeat 0 0;
+}
+#inTuneNav li.inTuneNav_profile          { background-position:4px 7px;     }
+#inTuneNav li.inTuneNav_profile:hover,
+#inTuneNav li.inTuneNav_profile.current  { background-position:4px -194px;  }
+#inTuneNav li.inTuneNav_tracker          { background-position:4px -28px;   }
+#inTuneNav li.inTuneNav_tracker:hover,
+#inTuneNav li.inTuneNav_tracker.current  { background-position:4px -228px;  }
+#inTuneNav li.inTuneNav_remind	         { background-position:4px -65px;   }
+#inTuneNav li.inTuneNav_remind:hover,
+#inTuneNav li.inTuneNav_remind.current	 { background-position:4px -264px;  }
+#inTuneNav li.inTuneNav_coupon	         { background-position:4px -99px;   }
+#inTuneNav li.inTuneNav_coupon:hover,
+#inTuneNav li.inTuneNav_coupon.current	 { background-position:4px -299px;  }
+#inTuneNav li.inTuneNav_logout           {
+  padding-bottom:5px; width:216px; border-right:0; border-left:0;
+  background:#e6f3fa url('http://www.intuniv.com/images/callouts/bg_intuneNav_bot.png') no-repeat bottom center;
+}
+#inTuneNav li.inTuneNav_logout:hover     { background-image:url('http://www.intuniv.com/images/callouts/bg_intuneNav_bot_over.png'); }
+#inTuneNav li:hover,#inTuneNav li.current{ background-color:#005581; }
+
+#inTuneNav li a{
+  display:block;
+  border-top:1px solid #fff;
+  padding:8px 13px 5px 32px;
+  font:.93em "VAG Rounded W01 Bold"; color:#005581; text-decoration:none;
+}
+#inTuneNav li a:hover, #inTuneNav li.current a { color:#fff; }
+#inTuneNav li.inTuneNav_logout a         { background:url('http://www.intuniv.com/images/callouts/bg_intuneNav_sprite.png') no-repeat 4px -138px; border-right:1px solid #aab8c0; border-left:1px solid #aab8c0; }
+#inTuneNav li.inTuneNav_logout a:hover   { background-position:4px -338px; }
