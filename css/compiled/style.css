@@ -161,7 +161,8 @@ h1, .h1, .kansas:hover { font-family: "CallunaRegular", serif; font-size: 40px; 
 
 h2, .h2 { position: relative; float: left; margin: 0; padding: 0; font-size: 16px; letter-spacing: 1px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
 
-h3, .h3 { margin: 10px 0 0; font-family: "UbuntuLtReg", serif; text-transform: lowercase; color: white; }
+h3, .h3 { margin: 10px 0 0; font-family: "UbuntuLtReg", serif; text-transform: lowercase; }
+h3 .post-title, .h3 .post-title { color: white; }
 
 h4, .h4 { margin: 0; font-family: "UbuntuLtReg", serif; text-transform: lowercase; text-shadow: 0 -1px 0 rgba(140, 140, 140, 0.9), 0 2px 1px rgba(0, 0, 0, 0.5); }
 
