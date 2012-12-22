@@ -203,6 +203,7 @@ ul, li, p, img, h1, h2, h3, h4 { margin: 0; padding: 0; list-style: none; border
 a { -webkit-transition: color 0.2s ease-out; -moz-transition: color 0.2s ease-out; -ms-transition: color 0.2s ease-out; -o-transition: color 0.2s ease-out; transition: color 0.2s ease-out; }
 a:link, a:visited { color: #0088cc; text-decoration: none; }
 a:hover, a:active { color: #005581; text-decoration: underline; }
+a.no-decoration { text-decoration: none; }
 
 .logo { float: left; width: 115px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
 

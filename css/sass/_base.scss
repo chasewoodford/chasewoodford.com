@@ -28,6 +28,9 @@ a {
     color: $blueDark;
     text-decoration: underline;
   }
+  &.no-decoration {
+    text-decoration: none;
+  }
 }
 
 .logo {
