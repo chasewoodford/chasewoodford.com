@@ -18,7 +18,7 @@
     <?php
     include ('./header.php');
     ?>
-    <div class="grid-8">
+    <div class="grid-8" style="padding-top:150px;">
         <?php
         require('./blog/wp-blog-header.php');
         ?>
