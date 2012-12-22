@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_base.scss" afterPath="$PROJECT_DIR$/css/sass/_base.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -80,7 +79,7 @@
       <file leaf-file-name="_base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="342" selection-end="342" vertical-scroll-proportion="0.6572935">
+            <state line="20" column="20" selection-start="335" selection-end="335" vertical-scroll-proportion="0.59753954">
               <folding />
             </state>
           </provider>
@@ -1573,7 +1572,11 @@
       <created>1356207671131</created>
       <updated>1356207671132</updated>
     </task>
-    <option name="localTasksCounter" value="262" />
+    <task id="LOCAL-00262" summary="restarting design">
+      <created>1356207887849</created>
+      <updated>1356207887849</updated>
+    </task>
+    <option name="localTasksCounter" value="263" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1820,7 +1823,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="342" selection-end="342" vertical-scroll-proportion="0.6572935">
+        <state line="20" column="20" selection-start="335" selection-end="335" vertical-scroll-proportion="0.59753954">
           <folding />
         </state>
       </provider>

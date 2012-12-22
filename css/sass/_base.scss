@@ -14,11 +14,12 @@ ul, li, p, img, h1, h2, h3, h4 {
 
 a {
   &:link, &:visited {
-    color: #29AEDF;
+    color: $blue;
+    text-decoration: none;
   }
   &:hover, &:active {
-    color: #005581;
-    text-decoration: none;
+    color: $blueDark;
+    text-decoration: underline;
   }
 }
 

@@ -194,8 +194,8 @@ body { background-color: white; overflow-x: hidden; font: normal 125%/1.4 "Callu
 
 ul, li, p, img, h1, h2, h3, h4 { margin: 0; padding: 0; list-style: none; border: 0; }
 
-a:link, a:visited { color: #29AEDF; }
-a:hover, a:active { color: #005581; text-decoration: none; }
+a:link, a:visited { color: #0088cc; text-decoration: none; }
+a:hover, a:active { color: #015581; text-decoration: underline; }
 
 .logo { float: left; width: 115px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
 
