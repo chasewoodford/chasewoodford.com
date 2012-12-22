@@ -4,7 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_base.scss" afterPath="$PROJECT_DIR$/css/sass/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -77,19 +77,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="39" selection-start="4179" selection-end="4179" vertical-scroll-proportion="-15.807693">
+            <state line="13" column="50" selection-start="635" selection-end="635" vertical-scroll-proportion="0.41698113">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="39" selection-start="317" selection-end="317" vertical-scroll-proportion="0.19245283">
+            <state line="17" column="0" selection-start="814" selection-end="814" vertical-scroll-proportion="-9.923077">
               <folding />
             </state>
           </provider>
@@ -133,7 +133,6 @@
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/css/sass/_common.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
@@ -142,6 +141,7 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -1745,7 +1745,11 @@
       <created>1356220423770</created>
       <updated>1356220423770</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="restarting design">
+      <created>1356220532483</created>
+      <updated>1356220532483</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1940,13 +1944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="39" selection-start="4179" selection-end="4179" vertical-scroll-proportion="-15.807693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="26" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
@@ -1956,7 +1953,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="39" selection-start="317" selection-end="317" vertical-scroll-proportion="0.19245283">
+        <state line="17" column="0" selection-start="814" selection-end="814" vertical-scroll-proportion="-9.923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="50" selection-start="635" selection-end="635" vertical-scroll-proportion="0.41698113">
           <folding />
         </state>
       </provider>

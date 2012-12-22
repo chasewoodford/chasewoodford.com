@@ -10,7 +10,21 @@
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
     <link rel="stylesheet" href="/css/compiled/style.css">
     <link href="www.chasewoodford.com" rel="canonical" />
+    <script src="/javascript/chirp.min.js"></script>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <script>Chirp({
+        user: 'chase1263070', //Twitter username
+        max: 1, //Maximum number of tweets to show
+        count: 1, //Total tweets to retrieve
+        retweets: false, //Show/Don't show retweets
+        replies: false,  //Show/Don't show replies
+        cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
+        target: 'tweet-container', //Where the tweet gets loaded
+        templates: {
+            tweet: '<div class="quote-before icon-quote-right-alt"></div><div class="tweet"><p>{{html}}</p></div><div class="quote-after icon-quote-left-alt"></div><div class="attribute">{{time_ago}}&nbsp;via&nbsp;{{source}}</div><div class="twitter-button"><a href="https://twitter.com/chase1263070" class="twitter-follow-button attribute" data-show-count="false" data-lang="en">Follow @chase1263070</a></div>'
+        }
+    })</script>
+
 </head>
 <body id="top">
 <div class="wrapper">

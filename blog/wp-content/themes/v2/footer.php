@@ -15,19 +15,6 @@
 <script src="/javascript/common.js" type="text/javascript"></script>
 <script src="/javascript/prism.js"></script>
 <script src="/javascript/contact_form.js"></script>
-<script src="/javascript/chirp.min.js"></script>
-<script>Chirp({
-    user: 'chase1263070', //Twitter username
-    max: 1, //Maximum number of tweets to show
-    count: 1, //Total tweets to retrieve
-    retweets: false, //Show/Don't show retweets
-    replies: false,  //Show/Don't show replies
-    cacheExpire: 1000 * 60 * 2, //Number of milliseconds to cache tweets
-    target: 'tweet-container', //Where the tweet gets loaded
-    templates: {
-        tweet: '<div class="quote-before icon-quote-right-alt"></div><div class="tweet"><p>{{html}}</p></div><div class="quote-after icon-quote-left-alt"></div><div class="attribute">{{time_ago}}&nbsp;via&nbsp;{{source}}</div><div class="twitter-button"><a href="https://twitter.com/chase1263070" class="twitter-follow-button attribute" data-show-count="false" data-lang="en">Follow @chase1263070</a></div>'
-    }
-})</script>
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-28396921-1']);
