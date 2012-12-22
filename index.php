@@ -69,6 +69,25 @@
         ?>
         <article id="tweet-container" class="grid-10"></article>
     </div>
+<!--    <div id="content">-->
+<!--        <div id="home_content">-->
+<!--            <div id="home_mainBanner" style=-->
+<!--                "width: 1256px; left: -145.5px;">-->
+<!--                <div class="copy" id="hero" style="left: 330px;">-->
+<!--                    If your child is taking a stimulant<br />-->
+<!--                    and still experiencing symptoms of ADHD,<br />-->
+<!--                    there may be more you can do to help.-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!---->
+<!--        <div class="clearBoth"></div><!-- Main Content End -->-->
+<!--    </div>-->
+<!---->
+<!--    <div id="isi">-->
+<!--        <p>Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem-->
+<!--            ipsum.</p>-->
+<!--    </div><!-- Footer -->-->
 </div>
 <?php
 include ("./blog/wp-content/themes/v2/footer.php");
