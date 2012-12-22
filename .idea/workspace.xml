@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -80,7 +79,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="50" selection-start="635" selection-end="635" vertical-scroll-proportion="0.41698113">
+            <state line="13" column="19" selection-start="808" selection-end="808" vertical-scroll-proportion="0.41698113">
               <folding />
             </state>
           </provider>
@@ -1749,7 +1748,11 @@
       <created>1356220532483</created>
       <updated>1356220532483</updated>
     </task>
-    <option name="localTasksCounter" value="295" />
+    <task id="LOCAL-00295" summary="restarting design">
+      <created>1356220655655</created>
+      <updated>1356220655655</updated>
+    </task>
+    <option name="localTasksCounter" value="296" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1960,7 +1963,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="50" selection-start="635" selection-end="635" vertical-scroll-proportion="0.41698113">
+        <state line="13" column="19" selection-start="808" selection-end="808" vertical-scroll-proportion="0.41698113">
           <folding />
         </state>
       </provider>
