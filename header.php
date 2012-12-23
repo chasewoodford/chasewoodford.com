@@ -18,14 +18,14 @@
 <!--</header>-->
 <div class="" id="header">
     <div id="hdr_inner">
-        <div class="hear-links">
+        <div class="header-links">
             <a class="header-links" href="#">One</a><span class="bullet">&bull;</span>
             <a class="header-links" href="#">Two</a><span class="bullet">&bull;</span>
             <a class="header-links" href="#">Three</a><span class="bullet">&bull;</span>
             <a class="header-links" href="#">Four</a>
         </div>
 
-        <div class="logo_intuniv"></div>
+        <div class="logo"></div>
 
         <div class="safety">
             <p>Lorem Ipsum.</p>

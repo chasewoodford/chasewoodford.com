@@ -219,18 +219,14 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 ::-moz-selection { background: #0088cc; color: white; }
 
-/* positioning */
-#content { position: relative; width: 965px; padding: 157px 0 0 0; margin: auto; }
+/* header */
+#hdr_inner .links { color: white; }
 
-#leftcol { float: left; width: 216px; margin-right: 34px; margin-left: 0px; }
+#hdr_inner .logo { position: absolute; top: 36px; left: 0; width: 160px; height: 90px; }
 
-#rightcol { float: right; width: 209px; margin-right: 3px; }
+#hdr_inner .safety { position: absolute; top: 33px; right: 5px; width: 635px; font: 12px Arial, Helvetica, sans-serif; color: #6b6b6b; }
 
-#inner_content { float: left; width: 460px; position: relative; }
-
-#inner_content.noCallout { width: 708px; }
-
-#inner_content.fullpage { width: 965px; }
+#hdr_inner .safety_hdr { font: 14px "VAG Rounded W01 Bold"; color: #015581; }
 
 /* footer */
 #isi { width: 893px; color: #3b3b3b; margin: 15px auto 100px auto; padding: 35px 35px 0px 35px; background: #edf3f6 url("http://www.intuniv.com/images/backgrounds/bg_isi_top.png") no-repeat left top; }
