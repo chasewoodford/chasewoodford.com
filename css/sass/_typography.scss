@@ -144,12 +144,10 @@ h1, .h1, .kansas:hover {
 // nav
 h2, .h2 {
   position: relative;
-  float: left;
   margin: 0;
   padding: 0;
-  font-size: 16px;
-  letter-spacing: 1px;
-  @include transition(all 0.5s ease-in-out);
+  font-size: 40px;
+  @include transition(color 0.5s ease-out);
 }
 
 // blog title
@@ -206,11 +204,6 @@ h4, .h4 {
 
 .copyright, .header-link {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
-}
-
-.nav-link {
-  font: normal 125%/1 $font-CallunaReg, serif;
-  line-height: 20px;
 }
 
 .attribute {
