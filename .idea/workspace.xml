@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_common.scss" afterPath="$PROJECT_DIR$/css/sass/_common.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -86,19 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="207" column="1" selection-start="6153" selection-end="6153" vertical-scroll-proportion="0.0">
+            <state line="210" column="26" selection-start="6197" selection-end="6197" vertical-scroll-proportion="0.51079136">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_common.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_common.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="67" selection-end="67" vertical-scroll-proportion="0.091726616">
+            <state line="3" column="16" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,10 +146,10 @@
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
-        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_common.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
       </list>
     </option>
   </component>
@@ -1820,7 +1819,11 @@
       <created>1356224237482</created>
       <updated>1356224237482</updated>
     </task>
-    <option name="localTasksCounter" value="315" />
+    <task id="LOCAL-00315" summary="restarting design">
+      <created>1356224312943</created>
+      <updated>1356224312943</updated>
+    </task>
+    <option name="localTasksCounter" value="316" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2019,9 +2022,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="207" column="1" selection-start="6153" selection-end="6153" vertical-scroll-proportion="0.0">
+        <state line="3" column="16" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -2033,9 +2036,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="67" selection-end="67" vertical-scroll-proportion="0.091726616">
+        <state line="210" column="26" selection-start="6197" selection-end="6197" vertical-scroll-proportion="0.51079136">
           <folding />
         </state>
       </provider>

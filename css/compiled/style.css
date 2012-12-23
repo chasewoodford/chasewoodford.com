@@ -177,7 +177,7 @@ h4, .h4 { margin: 0; font-family: "UbuntuLtReg", serif; text-transform: lowercas
 
 .copyright, .header-links { font: normal 75%/1 "UbuntuLtReg", serif; }
 
-.header-links { color: white; }
+.header-links { color: white !important; }
 
 .attribute { font: normal 75%/1 "CallunaRegular", serif; line-height: 20px; }
 
