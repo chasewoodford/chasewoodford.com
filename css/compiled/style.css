@@ -537,7 +537,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 #header.scroll { background-position: 0px -163px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\0000378}}
-#hdr_inner { position: relative; margin: auto; max-width: 1024px; height: 150px; }
+#hdr_inner { position: relative; margin: auto; max-width: 1024px; height: 140px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\0000385}}
 #hdr_inner .links { display: inline-block; width: 100%; height: 23px; margin-top: 1px; text-align: right; }
@@ -646,9 +646,6 @@ button.btn.btn-mini, input[type="submit"].btn.btn-mini { *padding-top: 1px; *pad
 .search-box-btn, .search-box-btn:active { margin: -6px 0 0 -6px; border-width: 1px 1px 1px 0; border-style: dotted dotted dotted none; border-color: #0088cc; background-color: white; background-image: none; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; color: #0088cc; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000318}}
 .search-box-btn:hover, .search-box-btn:active:hover { background-color: white; color: #005581; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000324}}
-.icon-search.icon-white { font-size: 16px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-tweet\.scss}line{font-family:\000031}}
 #tweet-container { clear: both; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box; border-radius: 20px; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) inset; margin-bottom: 60px; padding: 20px 30px 20px; overflow: hidden; }
