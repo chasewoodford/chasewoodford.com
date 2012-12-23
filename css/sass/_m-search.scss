@@ -5,7 +5,7 @@
   border-color: $blue;
 }
 
-.search-box-btn {
+.search-box-btn, .search-box-btn:active {
   margin: -6px 0 0 -6px;
   border-width: 1px 1px 1px 0;
   border-style: dotted dotted dotted none;

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-search.scss" afterPath="$PROJECT_DIR$/css/sass/_m-search.scss" />
     </list>
     <ignored mask="*.scssc" />
@@ -97,7 +98,7 @@
       <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="21" selection-start="465" selection-end="465" vertical-scroll-proportion="0.56766254">
+            <state line="7" column="39" selection-start="173" selection-end="173" vertical-scroll-proportion="0.20913884">
               <folding />
             </state>
           </provider>
@@ -2033,7 +2034,11 @@
       <created>1356233710847</created>
       <updated>1356233710847</updated>
     </task>
-    <option name="localTasksCounter" value="356" />
+    <task id="LOCAL-00356" summary="restarting design">
+      <created>1356233802865</created>
+      <updated>1356233802865</updated>
+    </task>
+    <option name="localTasksCounter" value="357" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2266,7 +2271,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="21" selection-start="465" selection-end="465" vertical-scroll-proportion="0.56766254">
+        <state line="7" column="39" selection-start="173" selection-end="173" vertical-scroll-proportion="0.20913884">
           <folding />
         </state>
       </provider>
