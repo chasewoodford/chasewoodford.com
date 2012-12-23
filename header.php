@@ -1,5 +1,5 @@
 <div id="header" role="banner">
-    <div id="hdr_inner" class="grid-8">
+    <div class="grid-8 header-inner">
         <div class="links" role="navigation">
             <a class="header-link" href="/" title="home" tabindex="6">home</a><span class="bullet">&bull;</span>
             <a class="header-link" href="#" tabindex="7">resume</a><span class="bullet">&bull;</span>

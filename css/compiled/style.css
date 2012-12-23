@@ -323,7 +323,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 /* header */
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_common\.scss}line{font-family:\000032}}
-#hdr_inner .links { color: white; }
+.header-inner .links { color: white; }
 
 /* footer */
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_common\.scss}line{font-family:\000035}}
@@ -537,10 +537,10 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 #header.scroll { background-position: 0px -163px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\0000378}}
-#hdr_inner { position: relative; padding: 0 2px; margin: auto; max-width: 1024px; height: 100px; }
+.header-inner { position: relative; padding: 0 2px; margin: auto; max-width: 1024px; height: 100px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\0000386}}
-#hdr_inner .links { display: inline-block; width: 100%; height: 23px; margin-top: 1px; text-align: right; }
+.header-inner .links { display: inline-block; width: 100%; height: 23px; margin-top: 1px; text-align: right; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\0000394}}
 .nav-primary { float: left; width: 75%; margin-top: 5px; text-align: left; }
