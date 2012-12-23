@@ -90,8 +90,15 @@
   text-align: right;
 }
 
+.nav-primary {
+  float: left;
+  width: 75%;
+  margin-top: 7px;
+  text-align: left;
+}
+
 .nav-link {
-  margin-right: 5%;
+  margin-right: 10%;
 }
 
 .main-content {
@@ -99,10 +106,9 @@
 }
 
 .search-box {
-  position: absolute;
-  top: 48px;
-  right: 0;
-  width: 50%;
+  float: right;
+  width: 25%;
+  margin-top: 7px;
   text-align: right;
 }
 
