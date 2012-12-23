@@ -18,7 +18,7 @@
 <!--</header>-->
 <div class="" id="header">
     <div id="hdr_inner">
-        <div class="links">
+        <div class="hear-links">
             <a class="header-links" href="#">One</a><span class="bullet">&bull;</span>
             <a class="header-links" href="#">Two</a><span class="bullet">&bull;</span>
             <a class="header-links" href="#">Three</a><span class="bullet">&bull;</span>

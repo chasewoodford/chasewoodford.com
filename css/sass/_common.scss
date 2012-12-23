@@ -1,24 +1,3 @@
-/* header */
-#hdr_inner .links { color: $white; }
-
-#hdr_inner .logo_intuniv  {
-  position:absolute; top:36px; left:0;
-  width:160px; height:90px;
-}
-#hdr_inner .share {
-  position:absolute; top:30px; right:8px; z-index:9;
-  width:120px; height:20px;
-}
-#hdr_inner .share span { position:relative; display:block; top:5px; font:bold 11px arial; color:#7e7e7e; float:left; }
-#hdr_inner .share a    { display:block; width:27px; height:27px; text-indent:-9999px; float:right;
-  background:url('http://www.intuniv.com/images/icons/icon_facebook.png') no-repeat 0 0; }
-
-#hdr_inner .safety     {
-  position:absolute; top:33px; right:5px; width:635px;
-  font:12px Arial, Helvetica, sans-serif; color:#6b6b6b;
-}
-#hdr_inner .safety_hdr { font:14px "VAG Rounded W01 Bold"; color:#015581; }
-#hdr_inner a           { font-weight:bold;color:#faa635; }
 
 /* positioning */
 #content        { position:relative; width:965px; padding:157px 0 0 0; margin:auto; }
