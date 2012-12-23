@@ -378,8 +378,6 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 #header.scroll { background-position: 0px -163px; }
 
-#hdr_inner .logo { position: absolute; top: 36px; left: 0; width: 160px; height: 90px; }
-
 #hdr_inner { position: relative; margin: auto; width: 100%; max-width: 1024px; height: 150px; }
 
 #hdr_inner .links { display: inline-block; width: 99%; height: 23px; margin-top: 1px; text-align: right; }
