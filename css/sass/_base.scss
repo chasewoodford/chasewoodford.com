@@ -31,6 +31,9 @@ a {
   &.no-decoration {
     text-decoration: none;
   }
+  &.header-links {
+    color: $white;
+  }
 }
 
 .logo {

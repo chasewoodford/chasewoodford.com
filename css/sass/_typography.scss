@@ -201,14 +201,11 @@ h4, .h4 {
 
 .bullet {
   padding: 0 12px;
+  font-size: 14px;
 }
 
 .copyright, .header-links {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
-}
-
-.header-links {
-  color: $white !important;
 }
 
 .attribute {
