@@ -689,15 +689,13 @@ input, textarea { width: 100%; }
 textarea { height: auto; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000365}}
-textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], input[class="textbox"] .uneditable-input { border: 1px solid #cccccc; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; color: white; background-color: #5a5a5a; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000372}}
-textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, input[class="textbox"] .uneditable-input:focus { border-color: rgba(82, 168, 236, 0.8); box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset, 0 0 8px rgba(82, 168, 236, 0.6); outline: 0 none; }
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], input[class="textbox"] .uneditable-input { color: #0088cc; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000378}}
 input[disabled], select[disabled], textarea[disabled], input[readonly], select[readonly], textarea[readonly] { cursor: not-allowed; background-color: gray; border-color: #ddd; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000387}}
 input[type="radio"][disabled], input[type="checkbox"][disabled], input[type="radio"][readonly], input[type="checkbox"][readonly] { background-color: transparent; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\0000391}}
 .formSend { float: right; width: 82%; }
