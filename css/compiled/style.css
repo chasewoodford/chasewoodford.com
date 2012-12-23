@@ -159,7 +159,7 @@ sup > [class^="icon-"], sup > [class*=" icon-"] { display: inline-block; width: 
 
 h1, .h1, .kansas:hover { font-family: "CallunaRegular", serif; font-size: 40px; line-height: 30px; letter-spacing: -3px; color: #5a5a5a; text-shadow: 0 -1px 0 rgba(140, 140, 140, 0.9), 0 2px 1px rgba(0, 0, 0, 0.5); }
 
-h2, .h2 { position: relative; margin: 0; padding: 0; font-size: 40px; -webkit-transition: color 0.5s ease-out; -moz-transition: color 0.5s ease-out; -ms-transition: color 0.5s ease-out; -o-transition: color 0.5s ease-out; transition: color 0.5s ease-out; }
+h2, .h2 { position: relative; margin: 0; padding: 0; font-size: 50px; -webkit-transition: color 0.5s ease-out; -moz-transition: color 0.5s ease-out; -ms-transition: color 0.5s ease-out; -o-transition: color 0.5s ease-out; transition: color 0.5s ease-out; }
 
 h3, .h3 { margin: 10px 0 0; font-family: "UbuntuLtReg", serif; text-transform: lowercase; }
 
@@ -366,6 +366,8 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 #hdr_inner { position: relative; margin: auto; width: 100%; max-width: 1024px; height: 150px; }
 
 #hdr_inner .links { display: inline-block; width: 100%; height: 23px; margin-top: 1px; text-align: right; }
+
+.nav-link { margin-right: 5%; }
 
 .main-content { padding-bottom: 15px; }
 
