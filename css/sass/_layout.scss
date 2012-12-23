@@ -96,11 +96,10 @@
 }
 
 .search-box {
-  position: relative;
-  top: 15px;
-  float: right;
+  position: absolute;
+  top: 48px;
+  right: 0;
   width: 50%;
-  vertical-align: top;
   text-align: right;
 }
 

@@ -37,8 +37,10 @@ a {
 }
 
 .logo {
-  float: left;
-  width: 115px;
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 57.5px;
   @include transition(all 0.5s ease-in-out);
 }
 

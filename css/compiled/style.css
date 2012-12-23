@@ -210,7 +210,7 @@ a:hover, a:active { color: #005581; text-decoration: underline; }
 a.no-decoration { text-decoration: none; }
 a.header-links { color: white; }
 
-.logo { float: left; width: 115px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
+.logo { position: absolute; top: 36px; left: 0; width: 57.5px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
 
 footer { position: relative; clear: both; margin-bottom: 0 !important; margin-top: -30px !important; height: 30px; }
 
@@ -384,7 +384,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 .main-content { padding-bottom: 15px; }
 
-.search-box { position: relative; top: 15px; float: right; width: 50%; vertical-align: top; text-align: right; }
+.search-box { position: absolute; top: 48px; right: 0; width: 50%; text-align: right; }
 
 .attribute { float: left; padding: 0; }
 
