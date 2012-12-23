@@ -97,7 +97,7 @@
       <file leaf-file-name="_common.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="37" selection-start="51" selection-end="51" vertical-scroll-proportion="0.06115108">
+            <state line="2" column="51" selection-start="101" selection-end="101" vertical-scroll-proportion="0.06115108">
               <folding />
             </state>
           </provider>
@@ -1791,7 +1791,11 @@
       <created>1356223250668</created>
       <updated>1356223250668</updated>
     </task>
-    <option name="localTasksCounter" value="308" />
+    <task id="LOCAL-00308" summary="restarting design">
+      <created>1356223437543</created>
+      <updated>1356223437543</updated>
+    </task>
+    <option name="localTasksCounter" value="309" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2006,7 +2010,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="37" selection-start="51" selection-end="51" vertical-scroll-proportion="0.06115108">
+        <state line="2" column="51" selection-start="101" selection-end="101" vertical-scroll-proportion="0.06115108">
           <folding />
         </state>
       </provider>
