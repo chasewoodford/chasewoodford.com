@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-search.scss" afterPath="$PROJECT_DIR$/css/sass/_m-search.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -86,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-search.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="82" selection-end="82" vertical-scroll-proportion="0.14938489">
+            <state line="6" column="13" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,7 +107,25 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="26" selection-start="615" selection-end="615" vertical-scroll-proportion="-7.8461537">
+            <state line="12" column="26" selection-start="615" selection-end="615" vertical-scroll-proportion="-7.8076925">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="42" selection-start="4182" selection-end="4182" vertical-scroll-proportion="-15.807693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="55" selection-start="150" selection-end="150" vertical-scroll-proportion="0.09622642">
               <folding />
             </state>
           </provider>
@@ -136,7 +154,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/header.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_common.scss" />
@@ -151,6 +168,7 @@
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-search.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
       </list>
     </option>
   </component>
@@ -2034,7 +2052,15 @@
       <created>1356278727343</created>
       <updated>1356278727343</updated>
     </task>
-    <option name="localTasksCounter" value="385" />
+    <task id="LOCAL-00385" summary="redesigning search">
+      <created>1356278815992</created>
+      <updated>1356278815992</updated>
+    </task>
+    <task id="LOCAL-00386" summary="redesigning search">
+      <created>1356278855707</created>
+      <updated>1356278855707</updated>
+    </task>
+    <option name="localTasksCounter" value="387" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2177,11 +2203,6 @@
         <state line="19" column="42" selection-start="411" selection-end="411" vertical-scroll-proportion="0.56766254" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="29" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.16981132" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="2" selection-start="475" selection-end="561" vertical-scroll-proportion="0.0" />
@@ -2227,13 +2248,6 @@
         <state line="21" column="2" selection-start="281" selection-end="322" vertical-scroll-proportion="-14.28" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="24" selection-start="906" selection-end="932" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="14" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
@@ -2248,16 +2262,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="615" selection-end="615" vertical-scroll-proportion="-7.8461537">
+        <state line="6" column="13" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="82" selection-end="82" vertical-scroll-proportion="0.14938489">
+        <state line="12" column="26" selection-start="615" selection-end="615" vertical-scroll-proportion="-7.8076925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="42" selection-start="4182" selection-end="4182" vertical-scroll-proportion="-15.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="55" selection-start="150" selection-end="150" vertical-scroll-proportion="0.09622642">
           <folding />
         </state>
       </provider>
