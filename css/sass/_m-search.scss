@@ -1,6 +1,7 @@
 .search-box-input {
   float: right;
   width: auto;
+  border: none;
   color: $blue;
   &:hover, &:active {
     border: none;
@@ -10,6 +11,7 @@
 .search-box-btn, .search-box-btn:active {
   float: right;
   margin: 0;
+  border: none;
   background-color: $white;
   background-image: none;
   @include box-shadow(none);
