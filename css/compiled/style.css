@@ -552,33 +552,33 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 .main-content { padding-bottom: 15px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003108}}
-.search-box { float: right; width: auto; margin-top: 5px; text-align: right; }
+.search-box { float: right; padding: 0 2px; width: auto; margin-top: 5px; text-align: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003116}}
 .attribute { float: left; padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003121}}
 .twitter-button, .blog-category { float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003124}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003125}}
 .continue-reading { float: right; padding: 5px 0 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003129}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003130}}
 #post-area { float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003134}}
 #sidebar { float: right; margin: 10px 6% 0; text-align: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003140}}
 .side-widget { display: inline; float: right; width: auto; padding-top: 15px; margin-bottom: 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003147}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003148}}
 .side-widget ul { list-style: none; margin: 0; padding: 0; clear: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003154}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003155}}
 .side-widget ul li { float: right; display: block; margin: 0; padding: 0; width: 180px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_layout\.scss}line{font-family:\00003163}}
 .amazon-image-wrapper { display: inline; float: left; width: 50%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_buttons\.scss}line{font-family:\000031}}
