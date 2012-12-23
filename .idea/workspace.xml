@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-form.scss" afterPath="$PROJECT_DIR$/css/sass/_m-form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-search.scss" afterPath="$PROJECT_DIR$/css/sass/_m-search.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -85,10 +86,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-form.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-form.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="11" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.04393673">
+            <state line="67" column="11" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="21" selection-start="99" selection-end="99" vertical-scroll-proportion="0.17926186">
               <folding />
             </state>
           </provider>
@@ -152,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/javascript/common.js" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
@@ -168,6 +177,7 @@
         <option value="$PROJECT_DIR$/css/sass/_common.scss" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_m-search.scss" />
       </list>
     </option>
   </component>
@@ -1947,7 +1957,11 @@
       <created>1356231442462</created>
       <updated>1356231442462</updated>
     </task>
-    <option name="localTasksCounter" value="339" />
+    <task id="LOCAL-00339" summary="restarting design">
+      <created>1356231532132</created>
+      <updated>1356231532132</updated>
+    </task>
+    <option name="localTasksCounter" value="340" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2171,7 +2185,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="11" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.04393673">
+        <state line="67" column="11" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="99" selection-end="99" vertical-scroll-proportion="0.17926186">
           <folding />
         </state>
       </provider>

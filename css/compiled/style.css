@@ -640,19 +640,12 @@ button.btn.btn-small, input[type="submit"].btn.btn-small { *padding-top: 3px; *p
 button.btn.btn-mini, input[type="submit"].btn.btn-mini { *padding-top: 1px; *padding-bottom: 1px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000031}}
-.search-box-input { width: 30%; height: 18px !important; margin-right: 12px; border-top-right-radius: 0; border-bottom-right-radius: 0; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000039}}
-.search-box-input:focus { width: 60%; }
+.search-box-input { width: 60%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000314}}
-input[class="search-box-input"] { color: white; background-color: #5a5a5a; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000319}}
-input[class="search-box-input"]:focus { border-color: rgba(82, 168, 236, 0.8); box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2) inset, 0 0 8px rgba(82, 168, 236, 0.6); outline: 0 none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000035}}
+.search-box-btn { margin: 0 0 0 -20px; border-color: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000326}}
-.search-box-btn { margin: -9px 0 0 -20px; border-color: none; border-radius: 0 4px 4px 0; box-shadow: -2px 0 2px rgba(0, 0, 0, 0.2); }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000310}}
 .icon-search.icon-white { font-size: 16px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-tweet\.scss}line{font-family:\000031}}
