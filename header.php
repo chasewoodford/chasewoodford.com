@@ -19,9 +19,9 @@
 <div class="" id="header">
     <div id="hdr_inner">
         <div class="links">
-            <a href="#">One</a>&nbsp;|&nbsp;
-            <a href="#">Two</a>&nbsp;|&nbsp;
-            <a href="#">Three</a>&nbsp;|&nbsp;
+            <a href="#">One</a><h2 class="bullet">&bull;</h2>
+            <a href="#">Two</a><h2 class="bullet">&bull;</h2>
+            <a href="#">Three</a><h2 class="bullet">&bull;</h2>
             <a href="#">Four</a>
         </div>
 
