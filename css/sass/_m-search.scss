@@ -15,6 +15,10 @@
   @include box-shadow(none);
   color: $blue;
   @include border-radius(0);
+  &:hover {
+    background-color: $white;
+    color: $blueDark;
+  }
 }
 
 .icon-search.icon-white {
