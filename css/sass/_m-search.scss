@@ -11,6 +11,8 @@
   border-style: dotted dotted dotted none;
   border-color: $blue;
   background-color: $white;
+  background-image: none;
+  @include box-shadow(none);
   color: $blue;
   @include border-radius(0);
 }
