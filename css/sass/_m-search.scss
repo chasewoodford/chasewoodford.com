@@ -4,7 +4,7 @@
 
 .search-box-btn {
   margin: -6px 0 0 -6px;
-  border-color: none;
+  background-color: $blue;
   @include border-radius(0 4px 4px 0);
 }
 
