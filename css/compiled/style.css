@@ -220,7 +220,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 /* header */
 #hdr_inner .links { color: white; }
 
-#hdr_inner .links a { font-size: 75%; color: white; }
+#hdr_inner .links a { font-size: 75%; font-weight: normal; color: white; }
 
 #hdr_inner .logo_intuniv { position: absolute; top: 36px; left: 0; width: 160px; height: 90px; }
 
