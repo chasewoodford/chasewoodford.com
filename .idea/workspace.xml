@@ -133,7 +133,7 @@
       <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="18" selection-start="226" selection-end="226" vertical-scroll-proportion="0.3096539">
+            <state line="10" column="11" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3096539">
               <folding />
             </state>
           </provider>
@@ -2059,7 +2059,11 @@
       <created>1356236757751</created>
       <updated>1356236757751</updated>
     </task>
-    <option name="localTasksCounter" value="378" />
+    <task id="LOCAL-00378" summary="restarting design">
+      <created>1356236842013</created>
+      <updated>1356236842013</updated>
+    </task>
+    <option name="localTasksCounter" value="379" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2302,7 +2306,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="226" selection-end="226" vertical-scroll-proportion="0.3096539">
+        <state line="10" column="11" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3096539">
           <folding />
         </state>
       </provider>
