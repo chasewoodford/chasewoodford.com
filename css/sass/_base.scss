@@ -19,7 +19,7 @@ ul, li, p, img, h1, h2, h3, h4 {
 }
 
 a {
-  @include transition(color 0.2s ease-out);
+  //@include transition(color 0.2s ease-out);
   &:link, &:visited {
     color: $blue;
     text-decoration: none;

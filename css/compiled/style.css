@@ -236,37 +236,37 @@ sup > [class^="icon-"], sup > [class*=" icon-"] { display: inline-block; width: 
 h1, .h1, .kansas:hover { font-family: "CallunaRegular", serif; font-size: 40px; line-height: 30px; letter-spacing: -3px; color: #5a5a5a; text-shadow: 0 -1px 0 rgba(140, 140, 140, 0.9), 0 2px 1px rgba(0, 0, 0, 0.5); }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003145}}
-h2, .h2 { position: relative; margin: 0; padding: 0; font-size: 50px; -webkit-transition: color 0.2s ease-out; -moz-transition: color 0.2s ease-out; -ms-transition: color 0.2s ease-out; -o-transition: color 0.2s ease-out; transition: color 0.2s ease-out; }
+h2, .h2 { position: relative; margin: 0; padding: 0; font-size: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003154}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003153}}
 h3, .h3 { margin: 10px 0 0; font-family: "UbuntuLtReg", serif; text-transform: lowercase; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003161}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003160}}
 h4, .h4 { margin: 0; font-family: "UbuntuLtReg", serif; text-transform: lowercase; text-shadow: 0 -1px 0 rgba(140, 140, 140, 0.9), 0 2px 1px rgba(0, 0, 0, 0.5); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003169}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003168}}
 .lead { margin: 20px 0 0 0; font-size: 150%; line-height: 36px; letter-spacing: -1px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003175}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003174}}
 .lead:not(:first-of-type) { margin: 40px 0 0; font-style: italic; letter-spacing: 2px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003180}}
 .lead:after { content: ""; display: block; position: relative; height: 12px; right: 30%; width: 100%; border-bottom: 1px dashed #5a5a5a; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003191}}
 .left { float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003196}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003195}}
 .right { float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003200}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003199}}
 .bullet { padding: 0 12px; font-size: 14px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003205}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003204}}
 .copyright, .header-link { font: normal 75%/1 "UbuntuLtReg", serif; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003208}}
 .attribute { font: normal 75%/1 "CallunaRegular", serif; line-height: 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_typography\.scss}line{font-family:\00003213}}
 body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact .nav-primary .contact h2, body.work .nav-primary .work h2 { color: #0088cc; text-shadow: 0 2px 1px rgba(0, 0, 0, 0.5); }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_animations\.scss}line{font-family:\000031}}
@@ -298,8 +298,6 @@ body { background-color: white; overflow-x: hidden; font: 18px/1.5em "CallunaReg
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000314}}
 ul, li, p, img, h1, h2, h3, h4 { margin: 0; padding: 0; list-style: none; border: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000321}}
-a { -webkit-transition: color 0.2s ease-out; -moz-transition: color 0.2s ease-out; -ms-transition: color 0.2s ease-out; -o-transition: color 0.2s ease-out; transition: color 0.2s ease-out; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000323}}
 a:link, a:visited { color: #0088cc; text-decoration: none; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000327}}
