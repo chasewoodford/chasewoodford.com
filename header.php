@@ -23,6 +23,5 @@
             <a class="nav-link no-decoration blog" href="/blog" title="blog"><span class="h2">blog</span></a>
         </nav>
 
-        <div class="clearfix"></div>
     </div>
 </div>

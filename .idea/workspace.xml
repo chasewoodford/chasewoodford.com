@@ -79,7 +79,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="30" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.8126195">
+            <state line="17" column="16" selection-start="803" selection-end="803" vertical-scroll-proportion="0.55258125">
               <folding />
             </state>
           </provider>
@@ -1965,7 +1965,11 @@
       <created>1356235164568</created>
       <updated>1356235164568</updated>
     </task>
-    <option name="localTasksCounter" value="365" />
+    <task id="LOCAL-00365" summary="restarting design">
+      <created>1356235294672</created>
+      <updated>1356235294672</updated>
+    </task>
+    <option name="localTasksCounter" value="366" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2200,7 +2204,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.8126195">
+        <state line="17" column="16" selection-start="803" selection-end="803" vertical-scroll-proportion="0.55258125">
           <folding />
         </state>
       </provider>
