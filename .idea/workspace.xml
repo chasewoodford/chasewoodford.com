@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_source/v2/headerBackground.psd" afterPath="$PROJECT_DIR$/_source/v2/headerBackground.psd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headerBackground.png" afterPath="$PROJECT_DIR$/images/headerBackground.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -1774,7 +1771,11 @@
       <created>1356221704170</created>
       <updated>1356221704170</updated>
     </task>
-    <option name="localTasksCounter" value="301" />
+    <task id="LOCAL-00301" summary="restarting design">
+      <created>1356222261302</created>
+      <updated>1356222261302</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
