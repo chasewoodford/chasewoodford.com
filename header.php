@@ -10,10 +10,10 @@
         <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
 
         <nav class="nav-primary">
-            <a class="nav-link about" href="/about" title="about"><h2>about</h2></a>
-            <a class="nav-link work" href="/work" title="work"><h2>work</h2></a>
-            <a class="nav-link blog" href="/blog" title="blog"><h2>blog</h2></a>
-            <a class="nav-link contact" href="/contact" title="contact"><h2>contact</h2></a>
+            <a class="about" href="/about" title="about"><span class="h2">about</span></a>
+            <a class="work" href="/work" title="work"><span class="h2">work</span></a>
+            <a class="blog" href="/blog" title="blog"><span class="h2">blog</span></a>
+            <a class="contact" href="/contact" title="contact"><span class="h2">contact</span></a>
         </nav>
 
         <aside class="search-box">
