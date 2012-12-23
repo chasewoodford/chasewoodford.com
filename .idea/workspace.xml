@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_common.scss" afterPath="$PROJECT_DIR$/css/sass/_common.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -94,19 +94,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_common.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_common.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="39" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="2" column="36" selection-start="50" selection-end="50" vertical-scroll-proportion="0.06115108">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="0" selection-start="1270" selection-end="1288" vertical-scroll-proportion="0.2231986">
+            <state line="89" column="0" selection-start="1270" selection-end="1288" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,10 +146,10 @@
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
-        <option value="$PROJECT_DIR$/css/sass/_common.scss" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_common.scss" />
       </list>
     </option>
   </component>
@@ -1783,7 +1783,11 @@
       <created>1356223116981</created>
       <updated>1356223116981</updated>
     </task>
-    <option name="localTasksCounter" value="306" />
+    <task id="LOCAL-00306" summary="restarting design">
+      <created>1356223176420</created>
+      <updated>1356223176420</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1975,9 +1979,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="39" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="21" column="44" selection-start="1185" selection-end="1185" vertical-scroll-proportion="-13.730769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="0" selection-start="1270" selection-end="1288" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1989,16 +2000,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="44" selection-start="1185" selection-end="1185" vertical-scroll-proportion="-13.730769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="0" selection-start="1270" selection-end="1288" vertical-scroll-proportion="0.2231986">
+        <state line="2" column="36" selection-start="50" selection-end="50" vertical-scroll-proportion="0.06115108">
           <folding />
         </state>
       </provider>
