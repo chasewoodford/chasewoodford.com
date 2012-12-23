@@ -1,13 +1,11 @@
 <footer class="grid-8">
-
-        <div class="copyright" role="contentinfo" style="clear:both">
-            <p style="float:left;margin:0;padding:0 2px;">
-                &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
-                <span class="bullet">&#8226;</span>
-                <a class="no-decoration" href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
-            </p>
-        </div>
-
+    <div class="copyright" role="contentinfo" style="clear:both">
+        <p style="float:left;margin:0;padding:0 2px;">
+            &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
+            <span class="bullet">&#8226;</span>
+            <a class="no-decoration" href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss"></i></a>
+        </p>
+    </div>
 </footer>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
