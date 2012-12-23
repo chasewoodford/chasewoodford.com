@@ -106,7 +106,7 @@
       <file leaf-file-name="_buttons.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="26" selection-start="349" selection-end="349" vertical-scroll-proportion="-1.6731107">
+            <state line="13" column="19" selection-start="393" selection-end="398" vertical-scroll-proportion="0.20913884">
               <folding />
             </state>
           </provider>
@@ -2021,7 +2021,11 @@
       <created>1356233405002</created>
       <updated>1356233405002</updated>
     </task>
-    <option name="localTasksCounter" value="353" />
+    <task id="LOCAL-00353" summary="restarting design">
+      <created>1356233524549</created>
+      <updated>1356233524549</updated>
+    </task>
+    <option name="localTasksCounter" value="354" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2254,7 +2258,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="349" selection-end="349" vertical-scroll-proportion="-1.6731107">
+        <state line="13" column="19" selection-start="393" selection-end="398" vertical-scroll-proportion="0.20913884">
           <folding />
         </state>
       </provider>
