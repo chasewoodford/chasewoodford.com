@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-search.scss" afterPath="$PROJECT_DIR$/css/sass/_m-search.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -89,7 +89,7 @@
       <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="15" selection-start="31" selection-end="31" vertical-scroll-proportion="0.029876977">
+            <state line="27" column="18" selection-start="503" selection-end="503" vertical-scroll-proportion="0.80667835">
               <folding />
             </state>
           </provider>
@@ -2026,7 +2026,11 @@
       <created>1356278449192</created>
       <updated>1356278449192</updated>
     </task>
-    <option name="localTasksCounter" value="383" />
+    <task id="LOCAL-00383" summary="redesigning search">
+      <created>1356278554311</created>
+      <updated>1356278554311</updated>
+    </task>
+    <option name="localTasksCounter" value="384" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2249,7 +2253,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="15" selection-start="31" selection-end="31" vertical-scroll-proportion="0.029876977">
+        <state line="27" column="18" selection-start="503" selection-end="503" vertical-scroll-proportion="0.80667835">
           <folding />
         </state>
       </provider>

@@ -8,8 +8,9 @@
   width: auto;
   border: none;
   color: $blue;
-  &:hover, &:active {
+  &:hover, &:active, &:focus {
     border: none;
+    outline: none;
   }
 }
 
@@ -22,7 +23,9 @@
   @include box-shadow(none);
   color: $blue;
   @include border-radius(0);
-  &:hover {
+  &:hover, &:active, &:focus {
+    border: none;
+    outline: none;
     background-color: $white;
     color: $blueDark;
   }
