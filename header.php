@@ -1,10 +1,10 @@
 <div id="header">
     <div id="hdr_inner" class="grid-8">
         <div class="links">
-            <a class="header-link" href="#">One</a><span class="bullet">&bull;</span>
+            <a class="header-link" href="/" title="home">home</a><span class="bullet">&bull;</span>
             <a class="header-link" href="#">Two</a><span class="bullet">&bull;</span>
             <a class="header-link" href="#">Three</a><span class="bullet">&bull;</span>
-            <a class="header-link" href="/contact" title="contact">Contact</a>
+            <a class="header-link" href="/contact" title="contact">contact</a>
         </div>
 
 <!--        <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>-->
