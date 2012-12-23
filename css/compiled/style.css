@@ -218,7 +218,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 ::-moz-selection { background: #0088cc; color: white; }
 
 /* header */
-#hdr_inner .links a { font: bold 0.5em; color: #FFF; }
+#hdr_inner .links a { font-size: 0.55em; color: #FFF; }
 
 #hdr_inner .logo_intuniv { position: absolute; top: 36px; left: 0; width: 160px; height: 90px; }
 
