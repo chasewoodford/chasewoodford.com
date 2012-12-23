@@ -633,12 +633,12 @@ button.btn.btn-small, input[type="submit"].btn.btn-small { *padding-top: 3px; *p
 button.btn.btn-mini, input[type="submit"].btn.btn-mini { *padding-top: 1px; *padding-bottom: 1px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000031}}
-.search-box-input { width: 60%; border-width: 1px; border-style: dotted none dotted dotted; border-color: #0088cc; }
+.search-box-input { width: 60%; border-width: 1px 0 1px 1px; border-style: dotted none dotted dotted; border-color: #0088cc; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000038}}
-.search-box-btn { margin: -6px 0 0 -6px; border-color: #0088cc; border-style: dotted dotted dotted none; background-color: white; color: #0088cc; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; }
+.search-box-btn { margin: -6px 0 0 -6px; border-width: 1px 1px 1px 0; border-style: dotted dotted dotted none; border-color: #0088cc; background-color: white; color: #0088cc; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000318}}
 .icon-search.icon-white { font-size: 16px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-tweet\.scss}line{font-family:\000031}}

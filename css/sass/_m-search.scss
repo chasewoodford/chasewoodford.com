@@ -1,14 +1,15 @@
 .search-box-input {
   width: 60%;
-  border-width: 1px;
+  border-width: 1px 0 1px 1px;
   border-style: dotted none dotted dotted;
   border-color: $blue;
 }
 
 .search-box-btn {
   margin: -6px 0 0 -6px;
-  border-color: $blue;
+  border-width: 1px 1px 1px 0;
   border-style: dotted dotted dotted none;
+  border-color: $blue;
   background-color: $white;
   color: $blue;
   @include border-radius(0);
