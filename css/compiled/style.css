@@ -643,9 +643,9 @@ button.btn.btn-mini, input[type="submit"].btn.btn-mini { *padding-top: 1px; *pad
 .search-box-input { width: 60%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000035}}
-.search-box-btn { margin: 0 0 0 -20px; border-color: none; }
+.search-box-btn { margin: 0 0 0 -20px; border-color: none; -webkit-border-radius: 0 4px 4px 0; -moz-border-radius: 0 4px 4px 0; border-radius: 0 4px 4px 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000311}}
 .icon-search.icon-white { font-size: 16px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-tweet\.scss}line{font-family:\000031}}
