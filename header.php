@@ -16,7 +16,7 @@
 <!--        <a class="contact" href="/contact" title="contact"><h2>contact</h2></a>-->
 <!--    </nav>-->
 <!--</header>-->
-<header class="" id="header">
+<div class="" id="header">
     <div id="hdr_inner">
         <div class="links">
             <a href="#">One</a>&nbsp;|&nbsp;
@@ -33,4 +33,4 @@
     </div>
 
     <div class="clearBoth"></div>
-</header>
+</div>
