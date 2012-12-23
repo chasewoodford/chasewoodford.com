@@ -142,7 +142,7 @@
       <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="9" selection-start="478" selection-end="483" vertical-scroll-proportion="-20.4">
+            <state line="21" column="2" selection-start="281" selection-end="322" vertical-scroll-proportion="-10.2">
               <folding />
             </state>
           </provider>
@@ -160,7 +160,7 @@
       <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="12" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.6049618">
+            <state line="75" column="35" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.41030535">
               <folding />
             </state>
           </provider>
@@ -1973,7 +1973,11 @@
       <created>1356235429517</created>
       <updated>1356235429517</updated>
     </task>
-    <option name="localTasksCounter" value="367" />
+    <task id="LOCAL-00367" summary="restarting design">
+      <created>1356235471744</created>
+      <updated>1356235471744</updated>
+    </task>
+    <option name="localTasksCounter" value="368" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2194,7 +2198,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="9" selection-start="478" selection-end="483" vertical-scroll-proportion="-20.4">
+        <state line="21" column="2" selection-start="281" selection-end="322" vertical-scroll-proportion="-10.2">
           <folding />
         </state>
       </provider>
@@ -2208,7 +2212,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="12" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.6049618">
+        <state line="75" column="35" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.41030535">
           <folding />
         </state>
       </provider>
