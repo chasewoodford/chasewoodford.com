@@ -203,8 +203,12 @@ h4, .h4 {
   padding: 0 12px;
 }
 
-.copyright {
+.copyright, .header-links {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
+}
+
+.header-links {
+  color: $white;
 }
 
 .attribute {

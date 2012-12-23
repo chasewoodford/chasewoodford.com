@@ -175,7 +175,9 @@ h4, .h4 { margin: 0; font-family: "UbuntuLtReg", serif; text-transform: lowercas
 
 .bullet { padding: 0 12px; }
 
-.copyright { font: normal 75%/1 "UbuntuLtReg", serif; }
+.copyright, .header-links { font: normal 75%/1 "UbuntuLtReg", serif; }
+
+.header-links { color: white; }
 
 .attribute { font: normal 75%/1 "CallunaRegular", serif; line-height: 20px; }
 
@@ -219,8 +221,6 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 /* header */
 #hdr_inner .links { color: white; }
-
-#hdr_inner .links a { font-size: 75%; font-weight: normal; color: white; }
 
 #hdr_inner .logo_intuniv { position: absolute; top: 36px; left: 0; width: 160px; height: 90px; }
 

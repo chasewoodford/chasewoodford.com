@@ -19,10 +19,10 @@
 <div class="" id="header">
     <div id="hdr_inner">
         <div class="links">
-            <a href="#">One</a><span class="bullet">&bull;</span>
-            <a href="#">Two</a><span class="bullet">&bull;</span>
-            <a href="#">Three</a><span class="bullet">&bull;</span>
-            <a href="#">Four</a>
+            <a class="header-links" href="#">One</a><span class="bullet">&bull;</span>
+            <a class="header-links" href="#">Two</a><span class="bullet">&bull;</span>
+            <a class="header-links" href="#">Three</a><span class="bullet">&bull;</span>
+            <a class="header-links" href="#">Four</a>
         </div>
 
         <div class="logo_intuniv"></div>
