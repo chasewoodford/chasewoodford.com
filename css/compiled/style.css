@@ -214,7 +214,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 ::-moz-selection { background: #0088cc; color: white; }
 
 /* header */
-#hdr_inner .links a { font: bold 0.62em arial; color: #FFF; }
+#hdr_inner .links a { font: bold 0.55em; color: #FFF; }
 
 #hdr_inner .logo_intuniv { position: absolute; top: 36px; left: 0; width: 160px; height: 90px; }
 
@@ -387,7 +387,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 #hdr_inner { position: relative; margin: auto; width: 100%; max-width: 1024px; height: 150px; }
 
-#hdr_inner .links { display: inline-block; width: 99%; height: 23px; margin-top: 1px; text-align: right; }
+#hdr_inner .links { display: inline-block; width: 99%; height: 20px; text-align: right; }
 
 .main-content { padding-bottom: 15px; }
 
