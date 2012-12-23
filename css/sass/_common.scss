@@ -1,18 +1,5 @@
 /* header */
-#header {
-  position:fixed; top:0px; left:0px; z-index:90;
-  width:100%; height:150px;
-  background:url('/images/headerBackground.png') repeat-x 0px 0px;
-}
-#header.scroll { background-position:0px -163px; }
-#hdr_inner {
-  position:relative; margin:auto;
-  width:965px; height:150px;
-}
-#hdr_inner .links {
-  width:99%; height:23px;
-  display:inline-block; text-align:right; margin-top:1px;
-}
+
 #hdr_inner .links a { font:bold .79em arial; color:#FFF; text-decoration:none; }
 #hdr_inner .links a:hover { text-decoration:underline; }
 #hdr_inner .logo_intuniv  {

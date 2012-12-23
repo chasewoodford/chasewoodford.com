@@ -16,11 +16,13 @@
 <!--        <a class="contact" href="/contact" title="contact"><h2>contact</h2></a>-->
 <!--    </nav>-->
 <!--</header>-->
-<div class="" id="header">
+<header class="" id="header">
     <div id="hdr_inner">
         <div class="links">
-            <a href="#">One</a> <a href="#">Two</a> <a href=
-                                                           "#">Three</a> <a href="#">Four</a>
+            <a href="#">One</a>&nbsp;|&nbsp;
+            <a href="#">Two</a>&nbsp;|&nbsp;
+            <a href="#">Three</a>&nbsp;|&nbsp;
+            <a href="#">Four</a>
         </div>
 
         <div class="logo_intuniv"></div>
@@ -31,4 +33,4 @@
     </div>
 
     <div class="clearBoth"></div>
-</div>
+</header>
