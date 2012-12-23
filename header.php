@@ -7,12 +7,12 @@
             <a class="header-link" href="/contact" title="contact">Contact</a>
         </div>
 
-        <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
+<!--        <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>-->
 
         <nav class="nav-primary" style="margin-top: 7px; margin-left: 75px;">
-            <a class="nav-link about" href="/about" title="about"><span class="h2">about</span></a>
-            <a class="nav-link work" href="/work" title="work"><span class="h2">work</span></a>
-            <a class="nav-link blog" href="/blog" title="blog"><span class="h2">blog</span></a>
+            <a class="nav-link no-decoration about" href="/about" title="about"><span class="h2">about</span></a>
+            <a class="nav-link no-decoration work" href="/work" title="work"><span class="h2">work</span></a>
+            <a class="nav-link no-decoration blog" href="/blog" title="blog"><span class="h2">blog</span></a>
         </nav>
 
         <aside class="search-box">
