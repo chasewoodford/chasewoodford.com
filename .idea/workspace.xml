@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_buttons.scss" afterPath="$PROJECT_DIR$/css/sass/_buttons.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
     </list>
     <ignored mask="*.scssc" />
@@ -76,10 +77,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="31" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.59484345">
+            <state line="19" column="35" selection-start="1058" selection-end="1058" vertical-scroll-proportion="-12.423077">
               <folding />
             </state>
           </provider>
@@ -103,10 +104,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_buttons.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_buttons.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="8" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.0">
+            <state line="69" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.014059754">
               <folding />
             </state>
           </provider>
@@ -170,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/style.scss" />
         <option value="$PROJECT_DIR$/css/sass/_variables.scss" />
@@ -186,6 +186,7 @@
         <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-search.scss" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/css/sass/_buttons.scss" />
       </list>
     </option>
   </component>
@@ -1981,7 +1982,11 @@
       <created>1356231900120</created>
       <updated>1356231900120</updated>
     </task>
-    <option name="localTasksCounter" value="343" />
+    <task id="LOCAL-00343" summary="restarting design">
+      <created>1356232255606</created>
+      <updated>1356232255606</updated>
+    </task>
+    <option name="localTasksCounter" value="344" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2205,16 +2210,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="8" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.0">
+        <state line="19" column="35" selection-start="1058" selection-end="1058" vertical-scroll-proportion="-12.423077">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.59484345">
+        <state line="69" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.014059754">
           <folding />
         </state>
       </provider>

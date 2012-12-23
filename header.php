@@ -17,7 +17,7 @@
         <aside class="search-box">
             <form action="/search-results/">
                 <input type="text" name="q" class="search-box-input"/>
-                <button class="search-box-btn">
+                <button class="btn search-box-btn">
                     <i class="icon-search-1"></i>
                 </button>
             </form>
