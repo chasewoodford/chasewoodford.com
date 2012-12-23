@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -104,10 +103,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="52" selection-start="934" selection-end="934" vertical-scroll-proportion="0.60943395">
+            <state line="19" column="52" selection-start="934" selection-end="934" vertical-scroll-proportion="-12.423077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="149" column="17" selection-start="5245" selection-end="5251" vertical-scroll-proportion="0.59322035">
               <folding />
             </state>
           </provider>
@@ -146,7 +154,6 @@
       <list>
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/parts/shared/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_common.scss" />
         <option value="$PROJECT_DIR$/css/sass/_buttons.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
@@ -160,6 +167,7 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
       </list>
     </option>
   </component>
@@ -2075,7 +2083,11 @@
       <created>1356280822845</created>
       <updated>1356280822845</updated>
     </task>
-    <option name="localTasksCounter" value="393" />
+    <task id="LOCAL-00393" summary="minor layout adjustment">
+      <created>1356281226688</created>
+      <updated>1356281226688</updated>
+    </task>
+    <option name="localTasksCounter" value="394" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2223,11 +2235,6 @@
         <state line="16" column="2" selection-start="475" selection-end="561" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="17" selection-start="685" selection-end="687" vertical-scroll-proportion="71.12" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="21" selection-start="1423" selection-end="1423" vertical-scroll-proportion="-17.0" />
@@ -2300,7 +2307,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="52" selection-start="934" selection-end="934" vertical-scroll-proportion="0.60943395">
+        <state line="19" column="52" selection-start="934" selection-end="934" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="17" selection-start="5245" selection-end="5251" vertical-scroll-proportion="0.59322035">
           <folding />
         </state>
       </provider>
