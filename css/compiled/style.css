@@ -210,7 +210,7 @@ a { -webkit-transition: color 0.2s ease-out; -moz-transition: color 0.2s ease-ou
 a:link, a:visited { color: #0088cc; text-decoration: none; }
 a:hover, a:active { color: #005581; text-decoration: underline; }
 a.no-decoration { text-decoration: none; }
-a.header-links { color: white; }
+a.header-link { color: white; }
 
 .logo { position: absolute; top: 36px; left: 0; width: 57.5px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
 
