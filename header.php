@@ -6,7 +6,7 @@
             <a class="header-link" href="/contact" title="contact">contact</a>
         </div>
 
-<!--        <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>-->
+        <!--<img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>-->
 
         <nav class="nav-primary">
             <a class="nav-link no-decoration about" href="/about" title="about"><span class="h2">about</span></a>
@@ -24,6 +24,4 @@
         </aside>
 
     </div>
-
-    <div class="clearBoth"></div>
 </div>
