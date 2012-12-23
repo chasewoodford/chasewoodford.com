@@ -80,7 +80,7 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="24" selection-start="1505" selection-end="1505" vertical-scroll-proportion="-11.730769">
+            <state line="27" column="24" selection-start="1498" selection-end="1498" vertical-scroll-proportion="-11.730769">
               <folding />
             </state>
           </provider>
@@ -98,7 +98,7 @@
       <file leaf-file-name="_common.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="356" selection-end="356" vertical-scroll-proportion="-2.913669">
+            <state line="3" column="16" selection-start="67" selection-end="67" vertical-scroll-proportion="0.091726616">
               <folding />
             </state>
           </provider>
@@ -1816,7 +1816,11 @@
       <created>1356224120682</created>
       <updated>1356224120682</updated>
     </task>
-    <option name="localTasksCounter" value="314" />
+    <task id="LOCAL-00314" summary="restarting design">
+      <created>1356224237482</created>
+      <updated>1356224237482</updated>
+    </task>
+    <option name="localTasksCounter" value="315" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2015,13 +2019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="24" selection-start="1505" selection-end="1505" vertical-scroll-proportion="-11.730769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="207" column="1" selection-start="6153" selection-end="6153" vertical-scroll-proportion="0.0">
@@ -2029,9 +2026,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="24" selection-start="1498" selection-end="1498" vertical-scroll-proportion="-11.730769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="356" selection-end="356" vertical-scroll-proportion="-2.913669">
+        <state line="3" column="16" selection-start="67" selection-end="67" vertical-scroll-proportion="0.091726616">
           <folding />
         </state>
       </provider>
