@@ -1,15 +1,7 @@
 /* header */
 #hdr_inner .links { color: $white; }
 
-#hdr_inner .logo  {
-  position: absolute;
-  top: 36px;
-  left: 0;
-  width: 115px;
-  height: 100px;
-}
-
-#hdr_inner .safety     {
+#hdr_inner nav {
   position:absolute; top:33px; right:5px; width:635px;
   font:12px Arial, Helvetica, sans-serif; color:#6b6b6b;
 }

@@ -221,9 +221,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 /* header */
 #hdr_inner .links { color: white; }
 
-#hdr_inner .logo { position: absolute; top: 36px; left: 0; width: 160px; height: 90px; }
-
-#hdr_inner .safety { position: absolute; top: 33px; right: 5px; width: 635px; font: 12px Arial, Helvetica, sans-serif; color: #6b6b6b; }
+#hdr_inner nav { position: absolute; top: 33px; right: 5px; width: 635px; font: 12px Arial, Helvetica, sans-serif; color: #6b6b6b; }
 
 /* positioning */
 #content { position: relative; width: 965px; padding: 157px 0 0 0; margin: auto; }
@@ -387,8 +385,6 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 #hdr_inner .links { display: inline-block; width: 99%; height: 23px; margin-top: 1px; text-align: right; }
 
 .main-content { padding-bottom: 15px; }
-
-.sitename { position: relative; top: 15px; float: left; vertical-align: top; margin: 0; }
 
 .search-box { position: relative; top: 15px; float: right; width: 50%; vertical-align: top; text-align: right; }
 
