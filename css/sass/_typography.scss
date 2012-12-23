@@ -204,8 +204,13 @@ h4, .h4 {
   font-size: 14px;
 }
 
-.copyright, .header-links {
+.copyright, .header-link {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
+}
+
+.nav-link {
+  font: normal 125%/1 $font-CallunaReg, serif;
+  line-height: 20px;
 }
 
 .attribute {

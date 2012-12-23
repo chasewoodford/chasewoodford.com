@@ -1,19 +1,19 @@
 <div id="header">
     <div id="hdr_inner" class="grid-8">
         <div class="links">
-            <a class="header-links" href="#">One</a><span class="bullet">&bull;</span>
-            <a class="header-links" href="#">Two</a><span class="bullet">&bull;</span>
-            <a class="header-links" href="#">Three</a><span class="bullet">&bull;</span>
-            <a class="header-links" href="#">Four</a>
+            <a class="header-link" href="#">One</a><span class="bullet">&bull;</span>
+            <a class="header-link" href="#">Two</a><span class="bullet">&bull;</span>
+            <a class="header-link" href="#">Three</a><span class="bullet">&bull;</span>
+            <a class="header-link" href="#">Four</a>
         </div>
 
         <img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>
 
         <nav class="nav-primary">
-            <a class="about" href="/about" title="about"><h2>about</h2></a>
-            <a class="work" href="/work" title="work"><h2>work</h2></a>
-            <a class="blog" href="/blog" title="blog"><h2>blog</h2></a>
-            <a class="contact" href="/contact" title="contact"><h2>contact</h2></a>
+            <a class="nav-link about" href="/about" title="about"><h2>about</h2></a>
+            <a class="nav-link work" href="/work" title="work"><h2>work</h2></a>
+            <a class="nav-link blog" href="/blog" title="blog"><h2>blog</h2></a>
+            <a class="nav-link contact" href="/contact" title="contact"><h2>contact</h2></a>
         </nav>
 
         <aside class="search-box">
