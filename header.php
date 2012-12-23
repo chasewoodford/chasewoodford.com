@@ -1,5 +1,5 @@
-<div class="grid-8" id="header">
-    <div id="hdr_inner">
+<div id="header">
+    <div id="hdr_inner" class="grid-8">
         <div class="links">
             <a class="header-links" href="#">One</a><span class="bullet">&bull;</span>
             <a class="header-links" href="#">Two</a><span class="bullet">&bull;</span>
