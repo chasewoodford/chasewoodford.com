@@ -11,7 +11,7 @@
   vertical-align: middle;
   cursor: pointer;
   border: 1px solid transparent;
-  @include border-radius(0 4px 4px 0);
+  @include border-radius(0);
 }
 
 .btn:hover {
