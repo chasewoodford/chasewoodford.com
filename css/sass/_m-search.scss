@@ -1,9 +1,11 @@
 .search-box-input {
   width: 60%;
+  border: 1px dotted $blue;
 }
 
 .search-box-btn {
   margin: -6px 0 0 -6px;
+  border-style: dotted dotted dotted none;
   background-color: $blue;
   @include border-radius(0 4px 4px 0);
 }

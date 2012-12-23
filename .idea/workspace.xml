@@ -4,6 +4,7 @@
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_buttons.scss" afterPath="$PROJECT_DIR$/css/sass/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-search.scss" afterPath="$PROJECT_DIR$/css/sass/_m-search.scss" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
@@ -94,19 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-search.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="26" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+            <state line="7" column="42" selection-start="150" selection-end="150" vertical-scroll-proportion="0.20913884">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_buttons.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_buttons.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="18" selection-start="391" selection-end="391" vertical-scroll-proportion="0.41827768">
+            <state line="12" column="31" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -184,8 +185,8 @@
         <option value="$PROJECT_DIR$/css/sass/_common.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/css/sass/_m-search.scss" />
         <option value="$PROJECT_DIR$/css/sass/_buttons.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_m-search.scss" />
       </list>
     </option>
   </component>
@@ -1993,7 +1994,11 @@
       <created>1356232710022</created>
       <updated>1356232710022</updated>
     </task>
-    <option name="localTasksCounter" value="346" />
+    <task id="LOCAL-00346" summary="restarting design">
+      <created>1356232749142</created>
+      <updated>1356232749142</updated>
+    </task>
+    <option name="localTasksCounter" value="347" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2217,16 +2222,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+        <state line="12" column="31" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_buttons.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="391" selection-end="391" vertical-scroll-proportion="0.41827768">
+        <state line="7" column="42" selection-start="150" selection-end="150" vertical-scroll-proportion="0.20913884">
           <folding />
         </state>
       </provider>
