@@ -10,10 +10,10 @@
 
         <aside class="search-box">
             <form action="/search-results/">
-                <input type="text" name="q" class="search-box-input"/>
                 <button class="btn search-box-btn">
                     <i class="icon-search-1"></i>
                 </button>
+                <input type="text" name="q" class="search-box-input"/>
             </form>
         </aside>
 

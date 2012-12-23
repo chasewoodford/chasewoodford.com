@@ -640,11 +640,11 @@ button.btn.btn-small, input[type="submit"].btn.btn-small { *padding-top: 3px; *p
 button.btn.btn-mini, input[type="submit"].btn.btn-mini { *padding-top: 1px; *padding-bottom: 1px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000031}}
-.search-box-input { width: 60%; border-width: 1px 0 1px 1px; border-style: dotted none dotted dotted; border-color: #0088cc; }
+.search-box-input { float: right; width: 60%; border-width: 1px 0 1px 1px; border-style: dotted none dotted dotted; border-color: #0088cc; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\000039}}
 .search-box-btn, .search-box-btn:active { float: right; margin: 0 0 0 -6px; border-width: 1px 1px 1px 0; border-style: dotted dotted dotted none; border-color: #0088cc; background-color: white; background-image: none; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; color: #0088cc; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-search\.scss}line{font-family:\0000320}}
 .search-box-btn:hover, .search-box-btn:active:hover { background-color: white; color: #005581; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-tweet\.scss}line{font-family:\000031}}
