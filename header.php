@@ -9,7 +9,7 @@
         <!--<img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>-->
 
         <aside class="search-box">
-            <form action="/search-results/">
+            <form class="quick-search" action="/search-results/">
                 <button class="btn search-box-btn">
                     <i class="icon-search-1"></i>
                 </button>
