@@ -380,7 +380,7 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 
 #hdr_inner { position: relative; margin: auto; width: 100%; max-width: 1024px; height: 150px; }
 
-#hdr_inner .links { display: inline-block; width: 99%; height: 23px; margin-top: 1px; text-align: right; }
+#hdr_inner .links { display: inline-block; width: 100%; height: 23px; margin-top: 1px; text-align: right; }
 
 .main-content { padding-bottom: 15px; }
 
