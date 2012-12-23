@@ -2,8 +2,7 @@
     <div id="hdr_inner" class="grid-8">
         <div class="links">
             <a class="header-link" href="/" title="home">home</a><span class="bullet">&bull;</span>
-            <a class="header-link" href="#">Two</a><span class="bullet">&bull;</span>
-            <a class="header-link" href="#">Three</a><span class="bullet">&bull;</span>
+            <a class="header-link" href="#">resume</a><span class="bullet">&bull;</span>
             <a class="header-link" href="/contact" title="contact">contact</a>
         </div>
 
