@@ -667,6 +667,9 @@ button.btn.btn-mini, input[type="submit"].btn.btn-mini { *padding-top: 1px; *pad
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-about\.scss}line{font-family:\000031}}
 body.about .amazon-image-wrapper > p { padding: 0 30px 20px; font-size: 12px; text-align: justify; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-blog\.scss}line{font-family:\000031}}
+.hero.post { margin-bottom: 60px; padding: 0 2px; }
+
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_m-form\.scss}line{font-family:\000031}}
 form { width: 100%; margin: 0; }
 
