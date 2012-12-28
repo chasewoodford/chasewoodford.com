@@ -28,10 +28,10 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background">
-                        <span class="blog-category" style="">
+                        <span class="blog-category clearfix">
                             <?php the_category(', ') ?>&nbsp;>
                         </span>
-                        <a class="post-title lead" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>
+                        <a class="post-title" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>
                     </h3>
                 </header>
                 <section class="content">
