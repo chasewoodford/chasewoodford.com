@@ -29,9 +29,9 @@
                 <header>
                     <h3 class="title-background">
                         <span class="blog-category" style="">
-                            <?php the_category(', ') ?>
-                        </span>  >
-                        <a class="post-title" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>
+                            <?php the_category(', ') ?>&nbsp;>
+                        </span>
+                        <a class="post-title lead" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>
                     </h3>
                 </header>
                 <section class="content">
