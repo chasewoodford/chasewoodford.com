@@ -192,7 +192,9 @@ h4, .h4 {
   @extend .lead;
   &:after {
     right: 0;
-    margin-bottom: $space;
+    height: auto;
+    margin-bottom: $space/2;
+    padding-bottom: $space/2;
   }
 }
 
@@ -209,7 +211,7 @@ h4, .h4 {
   font-size: 14px;
 }
 
-.copyright, .header-link {
+.copyright, .blog-category, .header-link {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
 }
 

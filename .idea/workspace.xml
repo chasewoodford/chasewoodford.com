@@ -3,18 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656650081" ignored="false" />
-    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656297260" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656701774" ignored="false" />
+    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656860226" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656090572" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656361443" ignored="false" />
-    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656697894" ignored="false" />
+    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356657171503" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="194" column="25" selection-start="5990" selection-end="5990" vertical-scroll-proportion="0.5591398">
+            <state line="198" column="1" selection-start="6047" selection-end="6047" vertical-scroll-proportion="0.03046595">
               <folding />
             </state>
           </provider>
@@ -2154,7 +2153,11 @@
       <created>1356656657394</created>
       <updated>1356656657394</updated>
     </task>
-    <option name="localTasksCounter" value="409" />
+    <task id="LOCAL-00409" summary="adjusting  header styling">
+      <created>1356656716128</created>
+      <updated>1356656716128</updated>
+    </task>
+    <option name="localTasksCounter" value="410" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2250,7 +2253,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="adjusting  header styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
@@ -2332,7 +2335,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="42" selection-start="115" selection-end="115" vertical-scroll-proportion="0.24908425" />
+        <state line="8" column="42" selection-start="115" selection-end="115" vertical-scroll-proportion="0.24908425">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
@@ -2386,7 +2391,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="194" column="25" selection-start="5990" selection-end="5990" vertical-scroll-proportion="0.5591398">
+        <state line="198" column="1" selection-start="6047" selection-end="6047" vertical-scroll-proportion="0.03046595">
           <folding />
         </state>
       </provider>
