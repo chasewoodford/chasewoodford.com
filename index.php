@@ -35,7 +35,7 @@
                     </h3>
                 </header>
                 <section class="content">
-                    <?php the_excerpt('Read on...'); ?>
+                    <?php the_excerpt(); ?>
                     <div class="v2-meta">
                         <p>
                             <span class="v2-date">
