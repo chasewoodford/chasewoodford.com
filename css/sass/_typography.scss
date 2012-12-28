@@ -190,7 +190,9 @@ h4, .h4 {
 
 .post-title {
   @extend .lead;
-  border-bottom: none;
+  &:after {
+    right: 0;
+  }
 }
 
 .left {

@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="test">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656279652" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656496102" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656297260" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656090572" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656361443" ignored="false" />
-    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656478628" ignored="false" />
+    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356656578311" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="21" selection-start="5960" selection-end="5960" vertical-scroll-proportion="0.68105066">
+            <state line="194" column="3" selection-start="5968" selection-end="5968" vertical-scroll-proportion="0.8595041">
               <folding />
             </state>
           </provider>
@@ -2147,7 +2146,11 @@
       <created>1356655991501</created>
       <updated>1356655991501</updated>
     </task>
-    <option name="localTasksCounter" value="407" />
+    <task id="LOCAL-00407" summary="adjusting  header styling">
+      <created>1356656503066</created>
+      <updated>1356656503066</updated>
+    </task>
+    <option name="localTasksCounter" value="408" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2174,6 +2177,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32663316" sideWeight="0.49226806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2763819" sideWeight="0.48969072" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4639866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2183,12 +2187,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33109245" sideWeight="0.50322163" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22651514" sideWeight="0.5360134" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22651514" sideWeight="0.67336684" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -2196,10 +2201,8 @@
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32663316" sideWeight="0.49226806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2241,7 +2244,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjusting  header styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2254,7 +2257,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="minor tweak to plugin" />
     <MESSAGE value="styling product shots" />
     <MESSAGE value="updating prism color scheme" />
     <MESSAGE value="changing font for code/pre" />
@@ -2279,6 +2281,7 @@
     <MESSAGE value="adjusting read more link" />
     <MESSAGE value="removing extra stuff" />
     <MESSAGE value="test" />
+    <MESSAGE value="adjusting  header styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2379,7 +2382,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="21" selection-start="5960" selection-end="5960" vertical-scroll-proportion="0.68105066">
+        <state line="194" column="3" selection-start="5968" selection-end="5968" vertical-scroll-proportion="0.8595041">
           <folding />
         </state>
       </provider>
