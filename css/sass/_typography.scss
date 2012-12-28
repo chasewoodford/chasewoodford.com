@@ -192,6 +192,7 @@ h4, .h4 {
   @extend .lead;
   &:after {
     right: 0;
+    margin-bottom: $space;
   }
 }
 
