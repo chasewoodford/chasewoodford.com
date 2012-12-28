@@ -36,30 +36,6 @@
                 </header>
                 <section class="content">
                     <?php the_excerpt(); ?>
-                    <div class="v2-meta">
-                        <p>
-                            <span class="v2-date">
-                                <?php $arc_year = get_the_time('Y'); ?>
-                                <?php $arc_month = get_the_time('m'); ?>
-                                <?php the_time('F Y'); ?>
-                            </span>
-                            <span class="v2-category">
-                                <?php
-                                    $posttags = get_the_tags();
-                                    if ($posttags) {
-                                        foreach($posttags as $tag) {
-                                            echo '<a href="';echo bloginfo(url); echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;&nbsp;';
-                                        }
-                                    }
-                                ?>
-                            </span>
-                            <span class="v2-other-right">
-                                <?php if (get_comments_number() > 0) { ?>
-                                    <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
-                                <?php } ?>
-                            </span>
-                        </p>
-                    </div>
                 </section>
                 <div class="clear"></div>
             </article>
@@ -68,25 +44,6 @@
         ?>
         <article id="tweet-container" class="grid-10"></article>
     </div>
-<!--    <div id="content">-->
-<!--        <div id="home_content">-->
-<!--            <div id="home_mainBanner" style=-->
-<!--                "width: 1256px; left: -145.5px;">-->
-<!--                <div class="copy" id="hero" style="left: 330px;">-->
-<!--                    If your child is taking a stimulant<br />-->
-<!--                    and still experiencing symptoms of ADHD,<br />-->
-<!--                    there may be more you can do to help.-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!---->
-<!--        <div class="clearBoth"></div><!-- Main Content End -->
-<!--    </div>-->
-<!---->
-<!--    <div id="isi">-->
-<!--        <p>Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem-->
-<!--            ipsum.</p>-->
-<!--    </div><!-- Footer -->
 </div>
 <?php
 include ("./blog/wp-content/themes/v2/footer.php");
