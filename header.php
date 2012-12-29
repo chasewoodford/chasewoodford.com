@@ -6,7 +6,7 @@
             <a class="header-link" href="/contact" title="contact" tabindex="8">contact</a>
         </div>
         <!--<img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>-->
-        <aside class="search-box" role="search">
+        <aside class="right search-box" role="search">
             <form class="quick-search" action="/search-results/">
                 <input type="text" name="q" class="search-box-input" tabindex="4"/>
                 <button class="btn search-box-btn" tabindex="5">

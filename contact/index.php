@@ -19,7 +19,7 @@
             ?>
             <article class="grid-8 hero post type-post">
                 <header>
-                    <h3 class="title-background post-title">
+                    <h3 class="title-bar">
                         say hello
                     </h3>
                 </header>

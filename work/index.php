@@ -19,7 +19,7 @@
             ?>
             <article class="grid-8 hero post type-post">
                 <header>
-                    <h3 class="title-background post-title">
+                    <h3 class="title-bar">
                         portfolio
                         <span class="blog-category" style="">
                             <a title="download resume" href="#"><i class="icon-doc"></i><span style="margin-left:4px">resume</span></a><span style="padding: 0 10px; font-size:12px">&nbsp;/&nbsp;</span><a title="contact me" href="../contact"><i class="icon-chat"></i><span style="margin-left:5px">contact</span></a>
