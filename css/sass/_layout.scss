@@ -137,8 +137,7 @@
   width: 49%;
   text-align: right;
   & > span {
-    padding: 0 10px;
-    font-size: 12px;
+    padding: 0 $space/4;
   }
   & > a > span {
     display: inline;

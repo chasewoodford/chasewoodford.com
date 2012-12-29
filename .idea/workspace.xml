@@ -3,18 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746614701" ignored="false" />
-    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746515128" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746710989" ignored="false" />
+    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746848355" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746507054" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356743389650" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746322541" ignored="false" />
-    <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746692505" ignored="false" />
+    <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746732505" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356743418858" ignored="false" />
     <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356745619860" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,10 +89,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="204" column="3" selection-start="6126" selection-end="6126" vertical-scroll-proportion="0.0">
+            <state line="234" column="11" selection-start="6620" selection-end="6620" vertical-scroll-proportion="0.7258065">
               <folding />
             </state>
           </provider>
@@ -106,10 +107,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="10" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.7618214">
+            <state line="139" column="24" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -152,9 +153,9 @@
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
       </list>
     </option>
   </component>
@@ -2129,7 +2130,11 @@
       <created>1356746619587</created>
       <updated>1356746619587</updated>
     </task>
-    <option name="localTasksCounter" value="424" />
+    <task id="LOCAL-00424" summary="redoing page title displays">
+      <created>1356746716584</created>
+      <updated>1356746716584</updated>
+    </task>
+    <option name="localTasksCounter" value="425" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2354,13 +2359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="3" selection-start="6126" selection-end="6126" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_common.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="9" selection-start="662" selection-end="662" vertical-scroll-proportion="0.17448406">
@@ -2377,7 +2375,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="10" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.7618214">
+        <state line="139" column="24" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="11" selection-start="6620" selection-end="6620" vertical-scroll-proportion="0.7258065">
           <folding />
         </state>
       </provider>
