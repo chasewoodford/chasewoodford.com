@@ -136,7 +136,7 @@
   display: inline-block;
   width: 49%;
   text-align: right;
-  & > span {
+  & > a > span {
     display: inline;
     width: auto;
     padding-left: $space/4;
