@@ -12,7 +12,7 @@
  * @subpackage 	Starkers
  * @since 		Starkers 4.0
  */
-?>>
+?>
 
 <?php if ( have_posts() ): ?>
 
@@ -20,7 +20,7 @@
     <?php
     include ('../../../../header.php');
     ?>
-<ol>
+    <ol>
 <?php while ( have_posts() ) : the_post(); ?>
 	<li>
 		<article>
