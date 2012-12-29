@@ -17,7 +17,7 @@
             <?php
             require('../blog/wp-blog-header.php');
             ?>
-            <article class="grid-8 hero">
+            <article class="grid-8">
                 <header>
                     <h3 class="page-title-bar">
                         <div class="page-title">oh hai</div>
