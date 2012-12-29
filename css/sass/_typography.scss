@@ -224,3 +224,7 @@ body.about .nav-primary .about h2, body.blog .nav-primary .blog h2, body.contact
   color: $blue;
   text-shadow: $highlight-dropShadow;
 }
+
+.page-links > a {
+  font-size: 12px;
+}
