@@ -29,7 +29,7 @@
                     </h3>
                 </header>
                 <section>
-                    <div>
+                    <div class="image-main">
                         <img src="/images/chase.png" alt="Chase sitting at his computer">
                     </div>
                     <p class="left lead-font">

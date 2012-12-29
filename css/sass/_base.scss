@@ -36,6 +36,13 @@ a {
   }
 }
 
+p {
+  margin-bottom: $space/2;
+  + p {
+    margin-bottom: $space;
+  }
+}
+
 .logo {
   position: absolute;
   top: 36px;
