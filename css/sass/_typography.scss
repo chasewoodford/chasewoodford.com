@@ -182,7 +182,9 @@ h4, .h4 {
 
 .lead-font {
   @extend .lead;
-  border-bottom: none;
+  &:after {
+    border-bottom: none;
+  }
 }
 
 .title-bar {
