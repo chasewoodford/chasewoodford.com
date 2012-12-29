@@ -55,6 +55,16 @@ img {
   @include transition(all 0.5s ease-in-out);
 }
 
+.well {
+  clear: both;
+  @include box-sizing(border-box);
+  border-radius: $space;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) inset;
+  margin-bottom: $space*3;
+  padding: $space $space*1.5 $space;
+  overflow: hidden;
+}
+
 footer {
   position: relative;
   clear: both;
