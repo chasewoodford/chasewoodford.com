@@ -15,10 +15,11 @@
 ?>>
 
 <?php if ( have_posts() ): ?>
+
+<h2>Latest Posts</h2>
     <?php
     include ('../../../../header.php');
     ?>
-<h2>Latest Posts</h2>
 <ol>
 <?php while ( have_posts() ) : the_post(); ?>
 	<li>
