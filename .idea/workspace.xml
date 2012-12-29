@@ -9,12 +9,12 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746563137" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746614701" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746515128" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746507054" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356743389650" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746322541" ignored="false" />
-    <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746607577" ignored="false" />
+    <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746692505" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356743418858" ignored="false" />
     <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356745619860" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,7 +100,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="48" selection-start="970" selection-end="970" vertical-scroll-proportion="-10.461538">
+            <state line="25" column="48" selection-start="963" selection-end="970" vertical-scroll-proportion="-10.461538">
               <folding />
             </state>
           </provider>
@@ -109,7 +109,7 @@
       <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="10" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.67250437">
+            <state line="140" column="10" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.7618214">
               <folding />
             </state>
           </provider>
@@ -2125,7 +2125,11 @@
       <created>1356746568217</created>
       <updated>1356746568217</updated>
     </task>
-    <option name="localTasksCounter" value="423" />
+    <task id="LOCAL-00423" summary="redoing page title displays">
+      <created>1356746619587</created>
+      <updated>1356746619587</updated>
+    </task>
+    <option name="localTasksCounter" value="424" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2366,14 +2370,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="48" selection-start="970" selection-end="970" vertical-scroll-proportion="-10.461538">
+        <state line="25" column="48" selection-start="963" selection-end="970" vertical-scroll-proportion="-10.461538">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="10" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.67250437">
+        <state line="140" column="10" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.7618214">
           <folding />
         </state>
       </provider>
