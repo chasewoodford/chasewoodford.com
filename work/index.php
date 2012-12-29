@@ -19,7 +19,7 @@
             ?>
             <article class="grid-8 hero">
                 <header>
-                    <h3 class="title-bar">
+                    <h3 class="page-title-bar">
                         <div class="page-title">portfolio</div>
                         <div class="page-links">
                             <a title="download resume" href="#"><i class="icon-doc" aria-hidden="true"></i><span style="margin-left:4px">resume</span></a><span style="padding: 0 10px; font-size:12px">&nbsp;/&nbsp;</span><a title="contact me" href="../contact"><i class="icon-chat"></i><span style="margin-left:5px">contact</span></a>
@@ -32,7 +32,7 @@
                             <img src="http://placehold.it/400x200">
                         </a>
                     </div>
-                    <p class="lead">
+                    <p class="lead-font">
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
                     </p>
                     <p>
