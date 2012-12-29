@@ -170,12 +170,6 @@ h4, .h4 {
   line-height: 36px;
   letter-spacing: -1px;
 
-  &:not(:first-of-type) {
-    margin: $space*2 0 0;
-    font-style: italic;
-    letter-spacing: 2px;
-  }
-
   &:after {
     content: "";
     display: block;
@@ -184,6 +178,11 @@ h4, .h4 {
     height: 12px;
     border-bottom: 1px dashed $gray;
   }
+}
+
+.lead-font {
+  @extend .lead;
+  border-bottom: none;
 }
 
 .title-bar {

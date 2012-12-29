@@ -28,11 +28,11 @@
                         </div>
                     </h3>
                 </header>
-                <section class="content center">
-                    <div class="static main">
+                <section>
+                    <div>
                         <img src="/images/chase.png" alt="Chase sitting at his computer">
                     </div>
-                    <p class="left lead">
+                    <p class="left lead-font">
                         I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA.
                     </p>
                     <p class="left">
