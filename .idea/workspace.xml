@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_base.scss" afterPath="$PROJECT_DIR$/css/sass/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/social.php" afterPath="$PROJECT_DIR$/social.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -12,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356751710210" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356752489581" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356751609307" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356751633838" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -158,7 +155,7 @@
       <file leaf-file-name="social.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/social.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+            <state line="5" column="35" selection-start="797" selection-end="797" vertical-scroll-proportion="0.15977444">
               <folding />
             </state>
           </provider>
@@ -199,11 +196,11 @@
         <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/about/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
-        <option value="$PROJECT_DIR$/social.php" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/social.php" />
       </list>
     </option>
   </component>
@@ -2270,7 +2267,11 @@
       <created>1356751714915</created>
       <updated>1356751714915</updated>
     </task>
-    <option name="localTasksCounter" value="440" />
+    <task id="LOCAL-00440" summary="refactoring wells">
+      <created>1356752496907</created>
+      <updated>1356752496907</updated>
+    </task>
+    <option name="localTasksCounter" value="441" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2411,13 +2412,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/category-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="36" selection-start="6453" selection-end="6453" vertical-scroll-proportion="-1.4901961">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -2516,9 +2510,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1501" column="2" selection-start="43866" selection-end="43866" vertical-scroll-proportion="0.33274958">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/social.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+        <state line="5" column="35" selection-start="797" selection-end="797" vertical-scroll-proportion="0.15977444">
           <folding />
         </state>
       </provider>
