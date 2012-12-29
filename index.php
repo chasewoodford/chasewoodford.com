@@ -41,7 +41,7 @@
         <?php
         endwhile;
         ?>
-        <article id="tweet-container" class="grid-10 well"></article>
+        <article id="tweet-container" class="grid-10"></article>
     </div>
 </div>
 <?php
