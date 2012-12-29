@@ -22,9 +22,9 @@
                     <h3 class="page-title-bar">
                         <div class="page-title">oh hai</div>
                         <div class="page-links">
-                            <a title="view portfolio" href="/work"><i class="icon-picture"></i><span style="width:auto;display:inline;padding:0 0 0 5px;">portfolio</span></a>
-                            <span style="font-size:12px; padding: 0 10px;">/</span>
-                            <a title="download resume" href="#"><i class="icon-doc"></i><span style="width:auto;display:inline;padding:0 0 0 5px;">resume</span></a>
+                            <a title="view portfolio" href="/work"><i class="icon-picture"></i><span>portfolio</span></a>
+                            <span class="divider">/</span>
+                            <a title="download resume" href="#"><i class="icon-doc"></i><span>resume</span></a>
                         </div>
                     </h3>
                 </header>

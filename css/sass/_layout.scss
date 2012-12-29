@@ -136,4 +136,13 @@
   display: inline-block;
   width: 49%;
   text-align: right;
+  & > span {
+    display: inline;
+    width: auto;
+    padding-left: $space/4;
+    &.divider {
+      padding: 0 10px;
+      font-size: 12px;
+    }
+  }
 }
