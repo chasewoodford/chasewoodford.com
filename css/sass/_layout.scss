@@ -120,14 +120,6 @@
   padding: $space/4 0 $space/2;
 }
 
-.blog-category {
-  display: inline-block;
-  width: 49%;
-  padding-left: 1%;
-  text-align: right;
-  @include box-sizing(border-box);
-}
-
 .amazon-image-wrapper {
   display: inline;
   float: left;
