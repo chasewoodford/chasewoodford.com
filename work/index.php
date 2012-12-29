@@ -17,7 +17,7 @@
             <?php
             require('../blog/wp-blog-header.php');
             ?>
-            <article class="grid-8 hero post type-post">
+            <article class="grid-8 hero">
                 <header>
                     <h3 class="title-bar">
                         <div class="page-title">portfolio</div>
@@ -26,16 +26,16 @@
                         </div>
                     </h3>
                 </header>
-                <section class="content center">
-                    <div class="static main">
+                <section>
+                    <div class="image-main">
                         <a href="#">
                             <img src="http://placehold.it/400x200">
                         </a>
                     </div>
-                    <p class="lead left">
+                    <p class="lead">
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
                     </p>
-                    <p class="left">
+                    <p>
                         Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
                     </p>
                 </section>
@@ -43,16 +43,6 @@
             </article>
 
             <section class="grid-12 preview-container">
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
                 <div class="preview">
                     <a href="#">
                         <img src="http://placehold.it/200x100">
