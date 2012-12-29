@@ -20,7 +20,7 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-bar">
-                        say hello
+                        <div class="page-title">say hello</div>
                     </h3>
                 </header>
                 <section class="content">
