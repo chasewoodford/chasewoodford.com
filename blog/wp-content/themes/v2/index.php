@@ -12,8 +12,12 @@
  * @subpackage 	Starkers
  * @since 		Starkers 4.0
  */
-?>
+?>>
+
 <?php if ( have_posts() ): ?>
+    <?php
+    include ('../../../../header.php');
+    ?>
 <h2>Latest Posts</h2>
 <ol>
 <?php while ( have_posts() ) : the_post(); ?>
@@ -31,5 +35,5 @@
 <?php endif; ?>
 
 <?php
-include ("./footer.php");
+include ("footer.php");
 ?>
