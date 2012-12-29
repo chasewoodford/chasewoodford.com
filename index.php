@@ -28,7 +28,7 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3>
-                        <span class="blog-category clearfix">
+                        <span class="clearfix">
                             <?php the_category(', ') ?>&nbsp;>
                         </span>
                         <a class="title-bar" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>

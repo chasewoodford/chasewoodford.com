@@ -21,7 +21,7 @@
                 <header>
                     <h3 class="title-bar">
                         <div>oh hai</div>
-                        <div class="blog-category">
+                        <div>
                             <a title="view portfolio" href="/work"><i class="icon-picture"></i><span style="margin-left:6px">portfolio</span></a><span style="font-size:12px; padding: 0 10px;">&nbsp;/&nbsp;</span><a title="download resume" href="#"><i class="icon-doc"></i><span style="margin-left:4px">resume</span></a>
                         </div>
                     </h3>
