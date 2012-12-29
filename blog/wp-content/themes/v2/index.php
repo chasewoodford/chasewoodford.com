@@ -13,14 +13,11 @@
  * @since 		Starkers 4.0
  */
 ?>
+<?php Starkers_Utilities::get_template_parts( array( 'parts/shared/html-header', 'parts/shared/header' ) ); ?>
 
 <?php if ( have_posts() ): ?>
-
-<h2>Latest Posts</h2>
-    <?php
-    include ('../../../../header.php');
-    ?>
-    <ol>
+<h2>Latest Posts</h2>	
+<ol>
 <?php while ( have_posts() ) : the_post(); ?>
 	<li>
 		<article>
@@ -35,6 +32,4 @@
 <h2>No posts to display</h2>
 <?php endif; ?>
 
-<?php
-include ("footer.php");
-?>
+<?php Starkers_Utilities::get_template_parts( array( 'parts/shared/footer','parts/shared/html-footer') ); ?>
