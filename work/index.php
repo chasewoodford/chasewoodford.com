@@ -63,6 +63,7 @@
                         <img src="http://placehold.it/200x100">
                     </a>
                 </div>
+                <div class="clear"></div>
             </section>
         </div>
     </div>

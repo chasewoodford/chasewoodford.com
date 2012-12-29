@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-work.scss" afterPath="$PROJECT_DIR$/css/sass/_m-work.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/index.php" afterPath="$PROJECT_DIR$/work/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753264277" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753694782" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753042897" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753257806" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -90,19 +90,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/work/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="24" selection-start="830" selection-end="830" vertical-scroll-proportion="-5.423077">
+            <state line="65" column="41" selection-start="2820" selection-end="2820" vertical-scroll-proportion="0.6165413">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-work.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-work.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-work.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="19" selection-start="101" selection-end="101" vertical-scroll-proportion="0.18681319">
+            <state line="6" column="19" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,8 +164,8 @@
         <option value="$PROJECT_DIR$/social.php" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
-        <option value="$PROJECT_DIR$/work/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-work.scss" />
+        <option value="$PROJECT_DIR$/work/index.php" />
       </list>
     </option>
   </component>
@@ -2256,7 +2256,11 @@
       <created>1356753269848</created>
       <updated>1356753269848</updated>
     </task>
-    <option name="localTasksCounter" value="446" />
+    <task id="LOCAL-00446" summary="begin restyling of work page">
+      <created>1356753699091</created>
+      <updated>1356753699091</updated>
+    </task>
+    <option name="localTasksCounter" value="447" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2495,16 +2499,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-work.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="24" selection-start="830" selection-end="830" vertical-scroll-proportion="-5.423077">
+        <state line="6" column="19" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-work.scss">
+    <entry file="file://$PROJECT_DIR$/work/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="101" selection-end="101" vertical-scroll-proportion="0.18681319">
+        <state line="65" column="41" selection-start="2820" selection-end="2820" vertical-scroll-proportion="0.6165413">
           <folding />
         </state>
       </provider>
