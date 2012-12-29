@@ -1,13 +1,9 @@
 <!DOCTYPE HTML>
-<!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
-<!--[if lt IE 7 ]><html class="no-js ie6" lang="en"><![endif]-->
-<!--[if IE 7 ]><html class="no-js ie7" lang="en"><![endif]-->
-<!--[if IE 8 ]><html class="no-js ie8" lang="en"><![endif]-->
-<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<html>
+<head>
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width">
     <meta content="" name="keywords" />
     <meta content="" name="description" />
     <meta content="" name="google-site-verification" />
@@ -25,3 +21,7 @@
 </head>
 <body id="top" <?php body_class(); ?>>
 <div class="wrapper">
+    <?php
+    include ('../../../../header.php');
+    ?>
+    <article class="grid-8">
