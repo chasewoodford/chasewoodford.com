@@ -12,12 +12,12 @@
     <link href="www.chasewoodford.com" rel="canonical" />
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>
-<body id="top">
+<body id="top" class="home">
 <div class="wrapper">
     <?php
     include ('./header.php');
     ?>
-    <div class="grid-8 main-content" role="main">
+    <div class="grid-8 hero" role="main">
         <?php
         require('./blog/wp-blog-header.php');
         ?>
@@ -25,7 +25,7 @@
         query_posts( 'cat=-10,-51&posts_per_page=1&orderby=post_date&order=DESC' );
         while ( have_posts() ) : the_post();
         ?>
-        <article class="grid-8 hero post type-post">
+        <article class="grid-8">
             <header>
                 <h3>
                     <span class="blog-category clearfix">
