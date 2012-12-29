@@ -10,7 +10,9 @@
             <form class="quick-search" action="/search-results/">
                 <input type="text" name="q" class="search-box-input" tabindex="4"/>
                 <button class="btn search-box-btn" tabindex="5">
-                    <i class="icon-search-1"></i>
+                    <i class="icon-search-1">
+                        <span class="hide-text">Search</span>
+                    </i>
                 </button>
             </form>
         </aside>

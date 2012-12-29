@@ -22,7 +22,7 @@
                     <h3 class="title-bar">
                         <div class="page-title">portfolio</div>
                         <div class="page-links">
-                            <a title="download resume" href="#"><i class="icon-doc"></i><span style="margin-left:4px">resume</span></a><span style="padding: 0 10px; font-size:12px">&nbsp;/&nbsp;</span><a title="contact me" href="../contact"><i class="icon-chat"></i><span style="margin-left:5px">contact</span></a>
+                            <a title="download resume" href="#"><i class="icon-doc" aria-hidden="true"></i><span style="margin-left:4px">resume</span></a><span style="padding: 0 10px; font-size:12px">&nbsp;/&nbsp;</span><a title="contact me" href="../contact"><i class="icon-chat"></i><span style="margin-left:5px">contact</span></a>
                         </div>
                     </h3>
                 </header>
