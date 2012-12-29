@@ -17,7 +17,7 @@
     <?php
     include ('./header.php');
     ?>
-    <div class="grid-8" style="padding: 120px 2px 0;" role="main">
+    <div class="grid-8 main-content" role="main">
         <?php
         require('./blog/wp-blog-header.php');
         ?>
@@ -25,19 +25,19 @@
         query_posts( 'cat=-10,-51&posts_per_page=1&orderby=post_date&order=DESC' );
         while ( have_posts() ) : the_post();
         ?>
-            <article class="grid-8 hero post type-post">
-                <header>
-                    <h3>
-                        <span class="blog-category clearfix">
-                            <?php the_category(', ') ?>&nbsp;>
-                        </span>
-                        <a class="title-bar" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>
-                    </h3>
-                </header>
-                <section class="content">
-                    <?php the_excerpt(); ?>
-                </section>
-            </article>
+        <article class="grid-8">
+            <header>
+                <h3>
+                    <span class="blog-category clearfix">
+                        <?php the_category(', ') ?>&nbsp;>
+                    </span>
+                    <a class="title-bar" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>
+                </h3>
+            </header>
+            <section class="content">
+                <?php the_excerpt(); ?>
+            </section>
+        </article>
         <?php
         endwhile;
         ?>

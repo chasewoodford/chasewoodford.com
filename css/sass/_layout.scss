@@ -100,8 +100,12 @@
   margin-right: 10%;
 }
 
-.main-content {
+.content-wrapper {
   padding-bottom: $space*2;
+}
+
+.main-content {
+  padding: 120px 2px 0;
 }
 
 .search-box {

@@ -9,11 +9,11 @@
 </head>
 <body id="top" class="work">
 <div class="wrapper">
-    <div class="main-content">
+    <div class="content-wrapper">
         <?php
         include ('../header.php');
         ?>
-        <div class="grid-8" style="padding: 120px 2px 0;" role="main">
+        <div class="grid-8 main-content" role="main">
             <?php
             require('../blog/wp-blog-header.php');
             ?>
