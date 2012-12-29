@@ -150,3 +150,12 @@
   padding: $space/2 0 $space;
   text-align: center;
 }
+
+.social-bar {
+  display: table;
+  padding-top: $space;
+  text-align: center;
+  > span {
+    display: table-cell;
+  }
+}
