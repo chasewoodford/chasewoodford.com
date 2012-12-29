@@ -14,7 +14,7 @@
  */
 ?>
 <?php
-require('../../../../header.php');
+inlude ('../../../../header.php');
 ?>
 
 <?php if ( have_posts() ): ?>
