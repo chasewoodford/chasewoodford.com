@@ -63,8 +63,8 @@
                         <img src="http://placehold.it/200x100">
                     </a>
                 </div>
-                <div class="clear"></div>
             </section>
+            <div class="clear"></div>
         </div>
     </div>
 </div>
