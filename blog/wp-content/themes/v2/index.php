@@ -13,10 +13,6 @@
  * @since 		Starkers 4.0
  */
 ?>
-<?php
-inlude ('../../../../header.php');
-?>
-
 <?php if ( have_posts() ): ?>
 <h2>Latest Posts</h2>
 <ol>
