@@ -13,10 +13,12 @@
  * @since 		Starkers 4.0
  */
 ?>
-<?php Starkers_Utilities::get_template_parts( array( 'parts/shared/html-header', 'parts/shared/header' ) ); ?>
+<?php
+require('../../../../header.php');
+?>
 
 <?php if ( have_posts() ): ?>
-<!--<h2>Latest Posts</h2>	-->
+<h2>Latest Posts</h2>
 <ol>
 <?php while ( have_posts() ) : the_post(); ?>
 	<li>
