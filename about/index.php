@@ -19,7 +19,7 @@
             ?>
             <article class="grid-8 hero post type-post">
                 <header>
-                    <h3 class="title-bar">
+                    <h3 class="page-title-bar">
                         <div class="page-title">oh hai</div>
                         <div class="page-links">
                             <a title="view portfolio" href="/work"><i class="icon-picture"></i><span style="width:auto;display:inline;padding:0 0 0 5px;">portfolio</span></a>

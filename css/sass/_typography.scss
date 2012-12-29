@@ -188,7 +188,7 @@ h4, .h4 {
   }
 }
 
-.title-bar{
+.title-bar {
   @extend .lead;
   &:after {
     right: 0;
@@ -196,6 +196,11 @@ h4, .h4 {
     margin-bottom: $space/2;
     padding-bottom: $space/2;
   }
+}
+
+.page-title-bar {
+  @extend .title-bar;
+  padding-bottom: 0;
 }
 
 .left {
