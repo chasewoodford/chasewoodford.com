@@ -20,10 +20,10 @@
             <article class="grid-8 hero post type-post">
                 <header>
                     <h3 class="title-background post-title">
-                        oh hai
-                        <span class="blog-category" style="">
+                        <div class="left">oh hai</div>
+                        <div class="right blog-category">
                             <a title="view portfolio" href="/work"><i class="icon-picture"></i><span style="margin-left:6px">portfolio</span></a><span style="font-size:12px; padding: 0 10px;">&nbsp;/&nbsp;</span><a title="download resume" href="#"><i class="icon-doc"></i><span style="margin-left:4px">resume</span></a>
-                        </span>
+                        </div>
                     </h3>
                 </header>
                 <section class="content center">
