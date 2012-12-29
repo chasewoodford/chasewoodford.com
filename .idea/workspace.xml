@@ -9,11 +9,11 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356747124476" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356747154587" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746848355" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746507054" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356743389650" ignored="false" />
-    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356747149660" ignored="false" />
+    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356747253510" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356746732505" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356743418858" ignored="false" />
     <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356745619860" ignored="false" />
@@ -91,7 +91,7 @@
       <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="231" column="23" selection-start="6615" selection-end="6615" vertical-scroll-proportion="0.7096774">
+            <state line="230" column="19" selection-start="6591" selection-end="6591" vertical-scroll-proportion="0.6792115">
               <folding />
             </state>
           </provider>
@@ -2145,7 +2145,11 @@
       <created>1356747129988</created>
       <updated>1356747129988</updated>
     </task>
-    <option name="localTasksCounter" value="428" />
+    <task id="LOCAL-00428" summary="fixing nav highlighting">
+      <created>1356747159504</created>
+      <updated>1356747159504</updated>
+    </task>
+    <option name="localTasksCounter" value="429" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2393,7 +2397,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="23" selection-start="6615" selection-end="6615" vertical-scroll-proportion="0.7096774">
+        <state line="230" column="19" selection-start="6591" selection-end="6591" vertical-scroll-proportion="0.6792115">
           <folding />
         </state>
       </provider>

@@ -228,7 +228,7 @@ h4, .h4 {
 }
 
 body.about .nav-primary .about span.h2, body.blog .nav-primary .blog span.h2, body.contact .nav-primary .contact span.h2, body.work .nav-primary .work span.h2 {
-  @extend a:active;
+  color: $blueDark;
   text-decoration: none;
 }
 
