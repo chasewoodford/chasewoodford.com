@@ -608,9 +608,9 @@ p + p {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000346}}
 img {
   border: 2px solid;
-  -webkit-box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 0.5);
-  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 0.5); }
+  -webkit-box-shadow: 0 8px 10px -6px black;
+  -moz-box-shadow: 0 8px 10px -6px black;
+  box-shadow: 0 8px 10px -6px black; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000351}}
 .logo {
