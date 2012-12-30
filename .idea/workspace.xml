@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/screenshot.png" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/screenshot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -11,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356828724470" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356829333491" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356757970462" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356758339877" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -21,7 +19,7 @@
     <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356751606269" ignored="false" />
     <file path="/social.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356751819245" ignored="false" />
     <file path="/_m-work.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753685633" ignored="false" />
-    <file path="/style.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356829296066" ignored="false" />
+    <file path="/style.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356829692136" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="25" selection-start="311" selection-end="311" vertical-scroll-proportion="0.32749563">
+            <state line="5" column="44" selection-start="147" selection-end="147" vertical-scroll-proportion="0.14886165">
               <folding />
             </state>
           </provider>
@@ -2375,7 +2373,11 @@
       <created>1356828729620</created>
       <updated>1356828729620</updated>
     </task>
-    <option name="localTasksCounter" value="470" />
+    <task id="LOCAL-00470" summary="test">
+      <created>1356829341545</created>
+      <updated>1356829341545</updated>
+    </task>
+    <option name="localTasksCounter" value="471" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2592,13 +2594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="36" selection-start="990" selection-end="1012" vertical-scroll-proportion="-15.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/compiled/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -2613,9 +2608,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="36" selection-start="990" selection-end="1012" vertical-scroll-proportion="-15.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="25" selection-start="311" selection-end="311" vertical-scroll-proportion="0.32749563">
+        <state line="5" column="44" selection-start="147" selection-end="147" vertical-scroll-proportion="0.14886165">
           <folding />
         </state>
       </provider>
