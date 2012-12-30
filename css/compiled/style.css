@@ -608,16 +608,11 @@ p + p {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000346}}
 img {
   border: 2px solid;
-  -webkit-box-shadow: 0 8px 10px -6px black;
-  -moz-box-shadow: 0 8px 10px -6px black;
-  box-shadow: 0 8px 10px -6px black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000349}}
-img a:hover {
-  -webkit-box-shadow: 0 8px 10px -6px #0088cc;
-  -moz-box-shadow: 0 8px 10px -6px #0088cc;
-  box-shadow: 0 8px 10px -6px #0088cc; }
+  -webkit-box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 0.5); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000351}}
 .logo {
   position: absolute;
   top: 36px;
@@ -629,7 +624,7 @@ img a:hover {
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000359}}
 footer {
   position: relative;
   clear: both;
@@ -637,12 +632,12 @@ footer {
   margin-top: -30px !important;
   height: 30px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000367}}
 ::selection {
   background: #0088cc;
   color: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000372}}
 ::-moz-selection {
   background: #0088cc;
   color: white; }
