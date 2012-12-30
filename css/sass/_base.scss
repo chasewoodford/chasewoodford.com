@@ -44,7 +44,8 @@ p {
 }
 
 img {
-  border: 5px solid;
+  border: 2px solid;
+  @include box-shadow(0 8px 10px -6px $black);
 }
 
 .logo {
