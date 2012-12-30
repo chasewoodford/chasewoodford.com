@@ -611,8 +611,13 @@ img {
   -webkit-box-shadow: 0 8px 10px -6px black;
   -moz-box-shadow: 0 8px 10px -6px black;
   box-shadow: 0 8px 10px -6px black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000349}}
+img:hover {
+  -webkit-box-shadow: 0 8px 10px -6px #0088cc;
+  -moz-box-shadow: 0 8px 10px -6px #0088cc;
+  box-shadow: 0 8px 10px -6px #0088cc; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000354}}
 .logo {
   position: absolute;
   top: 36px;
@@ -624,7 +629,7 @@ img {
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000362}}
 footer {
   position: relative;
   clear: both;
@@ -632,12 +637,12 @@ footer {
   margin-top: -30px !important;
   height: 30px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000370}}
 ::selection {
   background: #0088cc;
   color: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000375}}
 ::-moz-selection {
   background: #0088cc;
   color: white; }
