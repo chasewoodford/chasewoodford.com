@@ -3,13 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356828063805" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356828526632" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356757970462" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356758339877" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -100,19 +101,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="96" selection-start="2508" selection-end="2508" vertical-scroll-proportion="0.7669173">
+            <state line="68" column="69" selection-start="2481" selection-end="2481" vertical-scroll-proportion="-15.692307">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="43" selection-start="157" selection-end="191" vertical-scroll-proportion="0.0">
+            <state line="8" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.2437276">
               <folding />
             </state>
           </provider>
@@ -165,8 +166,8 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/style.css" />
       </list>
     </option>
   </component>
@@ -2365,7 +2366,11 @@
       <created>1356828076966</created>
       <updated>1356828076966</updated>
     </task>
-    <option name="localTasksCounter" value="468" />
+    <task id="LOCAL-00468" summary="test">
+      <created>1356828532047</created>
+      <updated>1356828532047</updated>
+    </task>
+    <option name="localTasksCounter" value="469" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2459,7 +2464,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating info on wp stylesheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2494,9 +2499,9 @@
     <MESSAGE value="begin restyling of contact page" />
     <MESSAGE value="minor update to home page layout" />
     <MESSAGE value="begin restyling blog" />
-    <MESSAGE value="test" />
     <MESSAGE value="adding original starkers wp theme" />
     <MESSAGE value="updating info on wp stylesheet" />
+    <MESSAGE value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2596,16 +2601,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/style.css">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="43" selection-start="157" selection-end="191" vertical-scroll-proportion="0.0">
+        <state line="68" column="69" selection-start="2481" selection-end="2481" vertical-scroll-proportion="-15.692307">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="96" selection-start="2508" selection-end="2508" vertical-scroll-proportion="0.7669173">
+        <state line="8" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.2437276">
           <folding />
         </state>
       </provider>
