@@ -612,7 +612,7 @@ img {
   -moz-box-shadow: 0 8px 10px -6px black;
   box-shadow: 0 8px 10px -6px black; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/svn\/chasewoodford\.com\/css\/sass\/_base\.scss}line{font-family:\0000349}}
-img a:hover {
+img > a:hover {
   -webkit-box-shadow: 0 8px 10px -6px #0088cc;
   -moz-box-shadow: 0 8px 10px -6px #0088cc;
   box-shadow: 0 8px 10px -6px #0088cc; }
