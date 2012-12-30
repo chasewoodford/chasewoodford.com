@@ -13,6 +13,7 @@
 
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
     <link rel="canonical" href="www.chasewoodford.com" />
+    <link rel="stylesheet" href="/css/compiled/style.css">
 
     <?php wp_head(); ?>
 </head>
