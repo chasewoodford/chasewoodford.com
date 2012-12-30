@@ -21,6 +21,6 @@
 <body id="top" <?php body_class(); ?>>
 <div class="wrapper">
     <?php
-    include ('../../../../header.php');
+    include ('http://www.chasewoodford.com/header.php');
     ?>
     <article class="grid-8">
