@@ -14,8 +14,6 @@
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
     <link rel="canonical" href="www.chasewoodford.com" />
 
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
     <?php wp_head(); ?>
 </head>
 <body id="top" <?php body_class(); ?>>
