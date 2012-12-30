@@ -17,7 +17,7 @@
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
     <?php wp_head(); ?>
-    <link rel="stylesheet" href="/css/compiled/style.css">
+    <link rel="stylesheet" href="../css/compiled/style.css">
 </head>
 <body id="top" <?php body_class(); ?>>
 <div class="wrapper">
