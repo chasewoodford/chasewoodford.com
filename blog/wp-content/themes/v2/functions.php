@@ -25,7 +25,7 @@
 
 	======================================================================================================================== */
 
-//	add_theme_support('post-thumbnails');
+	add_theme_support('post-thumbnails');
 
 	// register_nav_menus(array('primary' => 'Primary Navigation'));
 
@@ -35,9 +35,9 @@
 
 	======================================================================================================================== */
 
-//	add_action( 'wp_enqueue_scripts', 'starkers_script_enqueuer' );
+	add_action( 'wp_enqueue_scripts', 'starkers_script_enqueuer' );
 
-//	add_filter( 'body_class', array( 'Starkers_Utilities', 'add_slug_to_body_class' ) );
+	add_filter( 'body_class', array( 'Starkers_Utilities', 'add_slug_to_body_class' ) );
 
 	/* ========================================================================================================================
 
