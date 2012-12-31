@@ -4,14 +4,12 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <meta content="" name="keywords" />
     <meta content="" name="description" />
-    <meta content="" name="google-site-verification" />
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
 
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
 
     <link rel="stylesheet" href="/css/compiled/style.css">
-    <link href="www.chasewoodford.com" rel="canonical" />
 
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>

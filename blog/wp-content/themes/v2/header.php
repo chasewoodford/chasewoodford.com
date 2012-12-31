@@ -1,18 +1,15 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <meta name="viewport" content="width=device-width">
     <meta content="" name="keywords" />
     <meta content="" name="description" />
-    <meta content="" name="google-site-verification" />
     <meta name="author" content="Chase Woodford">
 
-    <title>Chase Woodford &#124; <?php wp_title( '|' ); ?></title>
+    <title>Chase Woodford &#124; <?php is_home() ? bloginfo('description') : wp_title(''); ?></title>
 
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
-    <link rel="canonical" href="www.chasewoodford.com" />
     <link rel="stylesheet" href="/css/compiled/style.css">
 
     <?php wp_head(); ?>
