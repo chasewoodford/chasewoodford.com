@@ -1,20 +1,20 @@
 <?php include('header.php') ?>
 
 <div class="grid-8">
-    <div id="post-area" class="grid-blog">
+    <div id="post-area" class="grid-blog" role="main">
         <?php if (have_posts()) : ?>
         <?php
         if (is_home()) {
             query_posts( 'cat=-10&orderby=post_date&order=DESC' ); }
         while ( have_posts() ) : the_post();
         ?>
-        <article class="hero post type-post">
+        <article class="main-content hero">
             <header>
-                <h3 class="title-background">
-                    <a class="post-title" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
-                        <span class="blog-category" style="">
-                            <?php the_category(', ') ?>
-                        </span>
+                <h3>
+                    <span class="blog-category clearfix">
+                        <?php the_category(', ') ?>&nbsp;>
+                    </span>
+                    <a class="title-bar" href="<?php the_permalink() ?>" title="view full post"><?php the_title(); ?></a>
                 </h3>
             </header>
             <section class="content">
