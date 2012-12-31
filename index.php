@@ -15,13 +15,9 @@
 </head>
 <body id="top" class="home">
 <div class="wrapper">
-    <?php
-    include ('./header.php');
-    ?>
+    <?php include ('./header.php') ?>
     <div class="grid-8 hero" role="main">
-        <?php
-        require('./blog/wp-blog-header.php');
-        ?>
+        <?php require('./blog/wp-blog-header.php') ?>
         <?php
         query_posts( 'cat=-10,-51&posts_per_page=1&orderby=post_date&order=DESC' );
         while ( have_posts() ) : the_post();
@@ -32,7 +28,7 @@
                     <span class="blog-category clearfix">
                         <?php the_category(', ') ?>&nbsp;>
                     </span>
-                    <a class="title-bar" href="<?php the_permalink() ?>" title="View full post"><?php the_title(); ?></a>
+                    <a class="title-bar" href="<?php the_permalink() ?>" title="view full post"><?php the_title(); ?></a>
                 </h3>
             </header>
             <section class="content">
@@ -45,6 +41,4 @@
         <article id="tweet-container" class="grid-10"></article>
     </div>
 </div>
-<?php
-include ("./blog/wp-content/themes/v2/footer.php");
-?>
+<?php include ('./blog/wp-content/themes/v2/footer.php') ?>
