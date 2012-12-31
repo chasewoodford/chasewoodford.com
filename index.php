@@ -22,7 +22,7 @@
         query_posts( 'cat=-10,-51&posts_per_page=1&orderby=post_date&order=DESC' );
         while ( have_posts() ) : the_post();
         ?>
-        <article class="grid-8 main-content hero">
+        <article class="grid-8 main-content hero clearfix">
             <header>
                 <h3>
                     <span class="blog-category clearfix">
