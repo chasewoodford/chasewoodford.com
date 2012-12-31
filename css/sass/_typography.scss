@@ -240,7 +240,8 @@ body.about .nav-primary .about span.h2, body.blog .nav-primary .blog span.h2, bo
   margin-bottom: $space*1.5;
   li {
     font: normal 75%/1 $font-UbuntuLtReg, serif;
-    text-align: right;
     margin: $space/10 0 $space/2;
+    text-align: right;
+    text-transform: lowercase;
   }
 }
