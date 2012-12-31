@@ -12,8 +12,8 @@
     if (function_exists('register_sidebar')) {
         register_sidebar(array(
             'name' => 'Side Widgets',
-            'id'   => 'v2_widgets',
-            'description'   => 'Side Widget Area',
+            'id'   => 'sidebar-widgets',
+            'description'   => 'sidebar-widget',
             'before_widget' => '<div id="%1$s" class="side-widget %2$s">',
             'after_widget'  => '</div>',
             'before_title'  => '<h4>',
@@ -40,7 +40,7 @@
 
         if(1 != $pages)
         {
-            echo "<div class='v2-pagination'>";
+            echo "<div class='pagination'>";
             if($paged > 2 && $paged > $range+1 && $showitems < $pages) echo "<a href='".get_pagenum_link(1)."'>&laquo;</a>";
             if($paged > 1 && $showitems < $pages) echo "<a href='".get_pagenum_link($paged - 1)."'>&lsaquo;</a>";
 
@@ -61,6 +61,6 @@
     // Custom read more link after excerpt
     function new_excerpt_more($more) {
         global $post;
-        return '... <br/><a class="no-shadow continue-reading inline" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
+        return '... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
     }
     add_filter('excerpt_more', 'new_excerpt_more');
