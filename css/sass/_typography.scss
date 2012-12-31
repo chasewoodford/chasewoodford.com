@@ -158,7 +158,7 @@ h3, .h3 {
 
 // sidebar
 h4, .h4 {
-  margin: 0;
+  margin-bottom: $space/2;
   font-family: $font-UbuntuLtReg, serif;
   text-align: right;
   text-transform: lowercase;
@@ -239,5 +239,5 @@ body.about .nav-primary .about span.h2, body.blog .nav-primary .blog span.h2, bo
 .side-widget li {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
   text-align: right;
-  margin-bottom: $space;
+  margin-bottom: $space/2;
 }
