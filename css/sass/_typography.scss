@@ -236,8 +236,11 @@ body.about .nav-primary .about span.h2, body.blog .nav-primary .blog span.h2, bo
   letter-spacing: normal;
 }
 
-.side-widget li {
-  font: normal 75%/1 $font-UbuntuLtReg, serif;
-  text-align: right;
-  margin-bottom: $space/2;
+.side-widget {
+  margin-bottom: $space;
+  li {
+    font: normal 75%/1 $font-UbuntuLtReg, serif;
+    text-align: right;
+    margin: $space/2 0;
+  }
 }
