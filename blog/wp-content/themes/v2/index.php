@@ -22,29 +22,28 @@
                 <div class="v2-meta">
                     <p>
                         <span class="v2-date">
-                            <?php   the_time('F Y'); ?>
+                            <?php the_time('F Y'); ?>
                         </span>
                         <span class="v2-category">
                             <?php
                             $posttags = get_the_tags();
                             if ($posttags) {
                                 foreach($posttags as $tag) {
-                                    echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '" class="no-shadow">' . $tag->name . '</a>&nbsp;&nbsp;';
+                                    echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '">' . $tag->name . '</a>&nbsp;&nbsp;';
                                 }
                             }
                             ?>
                         </span>
                         <span class="v2-other-right">
                             <?php if (get_comments_number() > 0) { ?>
-                                <a href="<?php comments_link(); ?>" class="no-shadow">Comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
+                                <a href="<?php comments_link(); ?>">comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
                             <?php } else { ?>
-                                <a href="<?php comments_link(); ?>" class="no-shadow">post a comment</a>
+                                <a href="<?php comments_link(); ?>">post a comment</a>
                             <?php } ?>
                         </span>
                     </p>
                 </div>
             </section>
-            <div class="clear"></div>
         </article>
 
         <?php endwhile; ?>
@@ -56,7 +55,7 @@
         <?php echo paginate_links( $args ) ?>
     </div>
 
-    <div id="sidebar" class="grid-2 right">
+    <div id="sidebar" class="grid-2 right" role="complementary">
         <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
             <div id="sidebar-widget-area" class="main-content">
                 <?php dynamic_sidebar( 'v2_widgets' ); ?>
