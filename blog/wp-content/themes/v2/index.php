@@ -1,14 +1,14 @@
 <?php include('header.php') ?>
 
-<div class="grid-full">
-    <div id="post-area" class="grid-8 left" role="main">
+<div class="grid-8 hero" role="main">
+    <div id="post-area" class="grid-8 left">
         <?php if (have_posts()) : ?>
         <?php
         if (is_home()) {
             query_posts( 'cat=-10&orderby=post_date&order=DESC' ); }
         while ( have_posts() ) : the_post();
         ?>
-        <article class="main-content hero clearfix">
+        <article class="grid-8 main-content hero clearfix">
             <header>
                 <h3>
                     <span class="blog-category clearfix">

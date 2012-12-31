@@ -41,4 +41,3 @@
             </nav>
         </div>
     </div>
-    <article class="grid-8">
