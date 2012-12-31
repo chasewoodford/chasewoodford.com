@@ -3,14 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356921120777" ignored="false" />
-    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356920598713" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356921177060" ignored="false" />
+    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356921207738" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356920551198" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356920177548" ignored="false" />
@@ -95,7 +96,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="49" selection-start="2406" selection-end="2416" vertical-scroll-proportion="-11.961538">
+            <state line="61" column="48" selection-start="2548" selection-end="2548" vertical-scroll-proportion="-13.269231">
               <folding />
             </state>
           </provider>
@@ -104,7 +105,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="30" selection-start="441" selection-end="441" vertical-scroll-proportion="0.4473684">
+            <state line="15" column="46" selection-start="499" selection-end="499" vertical-scroll-proportion="0.4793233">
               <folding />
             </state>
           </provider>
@@ -156,8 +157,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/widgets.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
       </list>
     </option>
@@ -2693,7 +2694,11 @@
       <created>1356921125521</created>
       <updated>1356921125521</updated>
     </task>
-    <option name="localTasksCounter" value="528" />
+    <task id="LOCAL-00528" summary="updates to blog styles">
+      <created>1356921181337</created>
+      <updated>1356921181337</updated>
+    </task>
+    <option name="localTasksCounter" value="529" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2920,13 +2925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="49" selection-start="2406" selection-end="2416" vertical-scroll-proportion="-11.961538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.IntelliJIdea12/config/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="313" column="9" selection-start="9588" selection-end="9588" vertical-scroll-proportion="-0.5131579">
@@ -2941,9 +2939,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="48" selection-start="2548" selection-end="2548" vertical-scroll-proportion="-13.269231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="30" selection-start="441" selection-end="441" vertical-scroll-proportion="0.4473684">
+        <state line="15" column="46" selection-start="499" selection-end="499" vertical-scroll-proportion="0.4793233">
           <folding />
         </state>
       </provider>
