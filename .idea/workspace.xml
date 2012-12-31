@@ -9,11 +9,11 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356922896377" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356923193199" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356922460230" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356920551198" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
-    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356922866947" ignored="false" />
+    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356923282360" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356912842733" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356832882751" ignored="false" />
     <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356832576032" ignored="false" />
@@ -122,7 +122,7 @@
       <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="160" column="20" selection-start="5400" selection-end="5400" vertical-scroll-proportion="0.7022767">
+            <state line="239" column="27" selection-start="6577" selection-end="6577" vertical-scroll-proportion="0.642732">
               <folding />
             </state>
           </provider>
@@ -2738,7 +2738,15 @@
       <created>1356922900643</created>
       <updated>1356922900643</updated>
     </task>
-    <option name="localTasksCounter" value="537" />
+    <task id="LOCAL-00537" summary="styling sidebar">
+      <created>1356922945220</created>
+      <updated>1356922945220</updated>
+    </task>
+    <task id="LOCAL-00538" summary="styling sidebar">
+      <created>1356923198789</created>
+      <updated>1356923198789</updated>
+    </task>
+    <option name="localTasksCounter" value="539" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2988,7 +2996,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="20" selection-start="5400" selection-end="5400" vertical-scroll-proportion="0.7022767">
+        <state line="239" column="27" selection-start="6577" selection-end="6577" vertical-scroll-proportion="0.642732">
           <folding />
         </state>
       </provider>
