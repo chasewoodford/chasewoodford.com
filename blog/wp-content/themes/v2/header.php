@@ -7,7 +7,7 @@
     <meta content="" name="description" />
     <meta name="author" content="Chase Woodford">
 
-    <title>Chase Woodford &#124; <?php is_home() ? bloginfo('description') : wp_title(''); ?></title>
+    <title>Chase Woodford &#124; <?php is_home() ? bloginfo('description') : wp_title('|'); ?></title>
 
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
     <link rel="stylesheet" href="/css/compiled/style.css">
