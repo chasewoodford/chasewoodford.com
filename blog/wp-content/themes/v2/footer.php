@@ -1,7 +1,7 @@
 <footer class="grid-8">
     <div class="clearfix copyright" role="contentinfo">
         <p style="float:left;margin:0;">
-            &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?>
+            &copy; <?php echo date("Y"); echo " "; bloginfo('url'); ?>
             <span class="bullet">&#8226;</span>
             <a class="no-decoration" href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss" aria-hidden="true"></i></a>
         </p>
