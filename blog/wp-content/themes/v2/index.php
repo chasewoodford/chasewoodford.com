@@ -57,7 +57,7 @@
 
     <div id="sidebar" class="grid-2 right" role="complementary">
         <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
-            <div id="sidebar-widget-area" class="main-content">
+            <div id="sidebar-widget-area">
                 <?php dynamic_sidebar( 'v2_widgets' ); ?>
             </div>
         <?php }  ?>
