@@ -1,14 +1,14 @@
 <?php include('header.php') ?>
 
-<div class="grid-8">
-    <div id="post-area" class="grid-blog" role="main">
+<div class="grid-full">
+    <div id="post-area" class="grid-8 left" role="main">
         <?php if (have_posts()) : ?>
         <?php
         if (is_home()) {
             query_posts( 'cat=-10&orderby=post_date&order=DESC' ); }
         while ( have_posts() ) : the_post();
         ?>
-        <article class="main-content hero">
+        <article class="main-content hero clearfix">
             <header>
                 <h3>
                     <span class="blog-category clearfix">
@@ -56,7 +56,7 @@
         <?php echo paginate_links( $args ) ?>
     </div>
 
-    <div id="sidebar" class="grid-2">
+    <div id="sidebar" class="grid-2 right">
         <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
             <div id="sidebar-widget-area">
                 <?php dynamic_sidebar( 'v2_widgets' ); ?>
