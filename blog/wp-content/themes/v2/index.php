@@ -19,6 +19,7 @@
             </header>
             <section class="content">
                 <?php the_content(''); ?>
+                <div class="clearfix"></div>
                 <div class="v2-meta">
                     <p>
                         <span class="v2-date">
@@ -55,7 +56,7 @@
         <?php echo paginate_links( $args ) ?>
     </div>
 
-    <div id="sidebar" class="grid-2 right" role="complementary">
+    <div id="sidebar" class="grid-3 right" role="complementary">
         <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
             <div id="sidebar-widget-area">
                 <?php dynamic_sidebar( 'v2_widgets' ); ?>
