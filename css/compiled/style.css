@@ -401,6 +401,8 @@ footer { position: relative; clear: both; margin-bottom: 0 !important; margin-to
 .amazon-image-wrapper { float: left; width: 50%; text-align: center; }
 section.content > .amazon-image-wrapper { width: 100%; text-align: left; }
 
+img.amazon-product { float: left; margin: 0 10px 10px 0; }
+
 .page-title { display: inline-block; width: 49%; margin-right: 1%; }
 
 .page-links { display: inline-block; width: 49%; text-align: right; }
