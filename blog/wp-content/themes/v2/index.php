@@ -19,6 +19,7 @@
             </header>
             <section class="content">
                 <?php the_content(''); ?>
+                <div class="clearfix"></div>
                 <div class="metadata">
                         <span class="left">
                             <?php the_time('F Y'); ?>
