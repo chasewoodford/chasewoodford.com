@@ -320,7 +320,7 @@ Adapted By: Chase Woodford
 				$result = FormatASINResult($pxml);
 
 				$returnval .= '				<div class="amazon-image-wrapper">'."\n";
-				$returnval .= '			        <a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
+				$returnval .= '			        <a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a>'."\n";
 				if($result['LargeImage']!=''){
 				$returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
 				}
