@@ -24,11 +24,13 @@
   &:first-child {
     border-left-width: 1px;
   }
+  &.active {
+    background-color: #f5f5f5;
+  }
 }
 
 .pagination a:hover,
 .pagination .active a {
-  background-color: #f5f5f5;
   text-decoration: none;
 }
 
