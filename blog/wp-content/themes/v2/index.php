@@ -19,13 +19,11 @@
             </header>
             <section class="content">
                 <?php the_content(''); ?>
-                <div class="clearfix"></div>
-                <div class="v2-meta">
-                    <p>
-                        <span class="v2-date">
+                <div class="metadata">
+                        <span class="left">
                             <?php the_time('F Y'); ?>
                         </span>
-                        <span class="v2-category">
+                        <span class="left">
                             <?php
                             $posttags = get_the_tags();
                             if ($posttags) {
@@ -35,14 +33,13 @@
                             }
                             ?>
                         </span>
-                        <span class="v2-other-right">
+                        <span class="right">
                             <?php if (get_comments_number() > 0) { ?>
                                 <a href="<?php comments_link(); ?>">comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
                             <?php } else { ?>
                                 <a href="<?php comments_link(); ?>">post a comment</a>
                             <?php } ?>
                         </span>
-                    </p>
                 </div>
             </section>
         </article>
