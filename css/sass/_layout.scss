@@ -133,6 +133,10 @@
   float: left;
   width: 50%;
   text-align: center;
+  section.content > & {
+    width: 100%;
+    text-align: left;
+  }
 }
 
 .page-title {
