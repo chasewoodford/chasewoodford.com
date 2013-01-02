@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_pagination.scss" afterPath="$PROJECT_DIR$/css/sass/_pagination.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -10,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097522024" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357098135084" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097638335" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097141161" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -106,7 +105,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="152" selection-start="2099" selection-end="2099" vertical-scroll-proportion="0.7030075">
+            <state line="50" column="83" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.5432331">
               <folding />
             </state>
           </provider>
@@ -2757,7 +2756,11 @@
       <created>1357097524726</created>
       <updated>1357097524726</updated>
     </task>
-    <option name="localTasksCounter" value="549" />
+    <task id="LOCAL-00549" summary="styling pagination">
+      <created>1357098139835</created>
+      <updated>1357098139835</updated>
+    </task>
+    <option name="localTasksCounter" value="550" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2851,7 +2854,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling pagination" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2864,7 +2867,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adding aria hidden to icons" />
     <MESSAGE value="adjusting margins on paragraphs" />
     <MESSAGE value="removing unused classes" />
     <MESSAGE value="styling images" />
@@ -2889,6 +2891,7 @@
     <MESSAGE value="styling blog metadata" />
     <MESSAGE value="adding back clearfix" />
     <MESSAGE value="revert" />
+    <MESSAGE value="styling pagination" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3003,7 +3006,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="152" selection-start="2099" selection-end="2099" vertical-scroll-proportion="0.7030075">
+        <state line="50" column="83" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.5432331">
           <folding />
         </state>
       </provider>
