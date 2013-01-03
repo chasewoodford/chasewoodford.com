@@ -19,7 +19,7 @@
                 <div class="clearfix"></div>
                 <div class="metadata">
                     <span class="left">
-                        <?php the_time('F Y'); ?>
+                        <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
                     </span>
                     <span class="left">
                         <?php
@@ -56,5 +56,4 @@
     </div>
 </div>
 
-<!--<time datetime="--><?php //the_time( 'Y-m-d' ); ?><!--" pubdate>--><?php //the_date(); ?><!-- --><?php //the_time(); ?><!--</time> --><?php //comments_popup_link('Leave a Comment', '1 Comment', '% Comments'); ?>
 <?php include ('footer.php') ?>
