@@ -10,14 +10,14 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357260535191" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261400368" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097141161" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356923382954" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357094664661" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356832882751" ignored="false" />
-    <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356832576032" ignored="false" />
+    <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261519850" ignored="false" />
     <file path="/social.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356751819245" ignored="false" />
     <file path="/_m-work.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753685633" ignored="false" />
     <file path="/style.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356833090515" ignored="false" />
@@ -100,7 +100,7 @@
       <file leaf-file-name="_base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="2" selection-start="571" selection-end="571" vertical-scroll-proportion="0.20140105">
+            <state line="41" column="27" selection-start="636" selection-end="636" vertical-scroll-proportion="0.2609457">
               <folding />
             </state>
           </provider>
@@ -2671,7 +2671,11 @@
       <created>1357219762518</created>
       <updated>1357219762518</updated>
     </task>
-    <option name="localTasksCounter" value="561" />
+    <task id="LOCAL-00561" summary="spacing adjustment">
+      <created>1357261407065</created>
+      <updated>1357261407065</updated>
+    </task>
+    <option name="localTasksCounter" value="562" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2698,6 +2702,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32663316" sideWeight="0.49226806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2763819" sideWeight="0.48636365" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4639866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2707,6 +2712,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2763819" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19780928" sideWeight="0.5096419" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2721,9 +2727,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32663316" sideWeight="0.49226806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148148" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2765,7 +2769,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="start styling of archive page" />
+    <option name="LAST_COMMIT_MESSAGE" value="spacing adjustment" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2778,7 +2782,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="refactoring wells" />
     <MESSAGE value="layout update to social include" />
     <MESSAGE value="begin restyling of work page" />
     <MESSAGE value="begin restyling of contact page" />
@@ -2803,6 +2806,7 @@
     <MESSAGE value="styling single page post" />
     <MESSAGE value="adding time element to posts" />
     <MESSAGE value="start styling of archive page" />
+    <MESSAGE value="spacing adjustment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2895,7 +2899,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="2" selection-start="571" selection-end="571" vertical-scroll-proportion="0.20140105">
+        <state line="41" column="27" selection-start="636" selection-end="636" vertical-scroll-proportion="0.2609457">
           <folding />
         </state>
       </provider>

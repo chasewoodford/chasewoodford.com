@@ -38,6 +38,9 @@ a {
 
 p {
   margin-bottom: $space;
+  .lead-font {
+    margin-bottom: $space/2;
+  }
 }
 
 img {
