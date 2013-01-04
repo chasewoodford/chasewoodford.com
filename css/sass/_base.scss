@@ -37,10 +37,7 @@ a {
 }
 
 p {
-  margin-bottom: $space/2;
-  + p {
-    margin-bottom: $space;
-  }
+  margin-bottom: $space;
 }
 
 img {
