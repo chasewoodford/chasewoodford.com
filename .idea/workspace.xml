@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357304293629" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357304535656" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097141161" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -25,7 +25,7 @@
     <file path="/_pagination.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099742330" ignored="false" />
     <file path="/functions.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099887388" ignored="false" />
     <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357218046490" ignored="false" />
-    <file path="/archive.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357304483333" ignored="false" />
+    <file path="/archive.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357304626766" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <file leaf-file-name="archive.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="12" selection-start="191" selection-end="191" vertical-scroll-proportion="-0.9053255">
+            <state line="17" column="44" selection-start="694" selection-end="694" vertical-scroll-proportion="0.15769231">
               <folding />
             </state>
           </provider>
@@ -2775,7 +2775,11 @@
       <created>1357304298704</created>
       <updated>1357304298704</updated>
     </task>
-    <option name="localTasksCounter" value="567" />
+    <task id="LOCAL-00567" summary="bringing loop in for each post">
+      <created>1357304540794</created>
+      <updated>1357304540795</updated>
+    </task>
+    <option name="localTasksCounter" value="568" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2869,7 +2873,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing metadata from archive page" />
+    <option name="LAST_COMMIT_MESSAGE" value="bringing loop in for each post" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2882,7 +2886,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="begin restyling of contact page" />
     <MESSAGE value="minor update to home page layout" />
     <MESSAGE value="adding original starkers wp theme" />
     <MESSAGE value="updating info on wp stylesheet" />
@@ -2907,6 +2910,7 @@
     <MESSAGE value="spacing adjustment" />
     <MESSAGE value="begin styling archive page" />
     <MESSAGE value="removing metadata from archive page" />
+    <MESSAGE value="bringing loop in for each post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3005,7 +3009,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="191" selection-end="191" vertical-scroll-proportion="-0.9053255">
+        <state line="17" column="44" selection-start="694" selection-end="694" vertical-scroll-proportion="0.15769231">
           <folding />
         </state>
       </provider>
