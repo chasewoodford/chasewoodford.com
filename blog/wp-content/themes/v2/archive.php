@@ -3,31 +3,42 @@
 <div class="grid-8 hero main-content">
     <div id="post-area" class="grid-8 left" role="main">
 
+        <?php if ( have_posts() ): the_post(); ?>
         <article class="hero clearfix">
-            <?php if ( have_posts() ): ?>
             <header>
                 <h3>
-                    <span class="blog-category clearfix">
-                        <?php the_category(', ') ?>&nbsp;>
-                    </span>
-                    <?php if ( is_day() ) : ?>
-                    Archive: <?php echo  get_the_date( 'D M Y' ); ?>
-                    <?php elseif ( is_month() ) : ?>
-                    Archive: <?php echo  get_the_date( 'M Y' ); ?>
-                    <?php elseif ( is_year() ) : ?>
-                    Archive: <?php echo  get_the_date( 'Y' ); ?>
-                    <?php else : ?>
-                    <h2>Archive</h2>
+                <span class="blog-category clearfix">
+                    <?php the_category(', ') ?>&nbsp;>
+                </span>
+                    <a class="title-bar" href="<?php the_permalink() ?>" title="view full post"><?php the_title(); ?></a>
                 </h3>
             </header>
-            <?php endif; ?>
-
-            <?php while ( have_posts() ) : the_post(); ?>
             <section class="content">
                 <?php the_content(''); ?>
                 <div class="clearfix"></div>
+                <div class="metadata">
+                    <span class="left">
+                        <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
+                    </span>
+                    <span class="left">
+                        <?php
+                        $posttags = get_the_tags();
+                        if ($posttags) {
+                            foreach($posttags as $tag) {
+                                echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '">' . $tag->name . '</a>&nbsp;&nbsp;';
+                            }
+                        }
+                        ?>
+                    </span>
+                    <span class="right">
+                        <?php if (get_comments_number() > 0) { ?>
+                            <a href="<?php comments_link(); ?>">comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
+                        <?php } else { ?>
+                            <a href="<?php comments_link(); ?>">post a comment</a>
+                        <?php } ?>
+                    </span>
+                </div>
             </section>
-            <?php endwhile; ?>
         </article>
 
         <?php else: ?>
