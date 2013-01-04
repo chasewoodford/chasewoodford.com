@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_base.scss" afterPath="$PROJECT_DIR$/css/sass/_base.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261555183" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261665866" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097141161" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -98,7 +99,7 @@
       <file leaf-file-name="_base.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="27" selection-start="636" selection-end="636" vertical-scroll-proportion="0.2609457">
+            <state line="40" column="3" selection-start="597" selection-end="597" vertical-scroll-proportion="0.23117338">
               <folding />
             </state>
           </provider>
@@ -2677,7 +2678,11 @@
       <created>1357261561281</created>
       <updated>1357261561281</updated>
     </task>
-    <option name="localTasksCounter" value="563" />
+    <task id="LOCAL-00563" summary="spacing adjustment">
+      <created>1357261671945</created>
+      <updated>1357261671945</updated>
+    </task>
+    <option name="localTasksCounter" value="564" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2901,7 +2906,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="27" selection-start="636" selection-end="636" vertical-scroll-proportion="0.2609457">
+        <state line="40" column="3" selection-start="597" selection-end="597" vertical-scroll-proportion="0.23117338">
           <folding />
         </state>
       </provider>

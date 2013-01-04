@@ -38,7 +38,7 @@ a {
 
 p {
   margin-bottom: $space;
-  .lead-font {
+  &.lead-font {
     margin-bottom: $space/2;
   }
 }
