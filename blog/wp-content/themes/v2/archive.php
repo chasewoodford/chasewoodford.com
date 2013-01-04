@@ -3,7 +3,7 @@
 <div class="grid-8 hero main-content">
     <div id="post-area" class="grid-8 left" role="main">
 
-        <?php if ( have_posts() ): the_post(); ?>
+        <?php while ( have_posts() ): the_post(); ?>
         <article class="hero clearfix">
             <header>
                 <h3>
@@ -19,8 +19,7 @@
             </section>
         </article>
 
-        <?php else: ?>
-        <?php endif; ?>
+        <?php endwhile; ?>
 
     </div>
 
