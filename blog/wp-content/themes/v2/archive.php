@@ -14,6 +14,7 @@
                 </h3>
             </header>
             <section class="content">
+                <!-- add responsive excerpt wrapper here -->
                 <?php the_excerpt(); ?>
                 <div class="clearfix"></div>
             </section>
