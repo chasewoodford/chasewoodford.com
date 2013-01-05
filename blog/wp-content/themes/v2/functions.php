@@ -64,12 +64,3 @@
         return '... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
     }
     add_filter('excerpt_more', 'new_excerpt_more');
-
-    // Custom limit on excerpts
-    function string_limit_words($string, $word_limit)
-    {
-        $words = explode(' ', $string, ($word_limit + 1));
-        if(count($words) > $word_limit)
-            array_pop($words);
-        return implode(' ', $words).'... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
-    }
