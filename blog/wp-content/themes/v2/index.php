@@ -50,7 +50,7 @@
         <?php endif; ?>
 
         <?php v2_pagination(); ?>
-        <?php echo paginate_links( $args ) ?>
+
     </div>
 
     <div id="sidebar" class="grid-4 right" role="complementary">
