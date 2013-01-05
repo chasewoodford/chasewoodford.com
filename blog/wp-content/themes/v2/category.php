@@ -18,7 +18,7 @@
                         // if in this category
                         if ( in_category( '10' ) ) {
                             // show this many words in the excerpt
-                            return;
+                            return false;
                         // but if it's in this cateogry
                         } elseif ( in_category( '51' ) ) {
                             // show this many words in the excerpt
