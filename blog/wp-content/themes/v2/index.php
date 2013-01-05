@@ -19,7 +19,7 @@
                 </h3>
             </header>
             <section class="content">
-                <?php echo excerpt(40); ?>
+                <?php the_excerpt(); ?>
                 <div class="clearfix"></div>
                 <div class="metadata">
                         <span class="left">

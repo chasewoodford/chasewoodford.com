@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357404262347" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357404364374" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357404349876" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -112,7 +112,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="39" selection-start="832" selection-end="832" vertical-scroll-proportion="0.4793233">
+            <state line="21" column="22" selection-start="815" selection-end="815" vertical-scroll-proportion="0.4793233">
               <folding />
             </state>
           </provider>
@@ -2933,7 +2933,11 @@
       <created>1357404267125</created>
       <updated>1357404267125</updated>
     </task>
-    <option name="localTasksCounter" value="603" />
+    <task id="LOCAL-00603" summary="changing lengths of excerpts on main blog page">
+      <created>1357404371591</created>
+      <updated>1357404371591</updated>
+    </task>
+    <option name="localTasksCounter" value="604" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3027,7 +3031,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing lengths of excerpts on archive and category pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing lengths of excerpts on main blog page" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3040,7 +3044,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="styling amazon product wrapper" />
     <MESSAGE value="styling blog metadata" />
     <MESSAGE value="adding back clearfix" />
     <MESSAGE value="revert" />
@@ -3065,6 +3068,7 @@
     <MESSAGE value="settling" />
     <MESSAGE value="test" />
     <MESSAGE value="changing lengths of excerpts on archive and category pages" />
+    <MESSAGE value="changing lengths of excerpts on main blog page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3163,7 +3167,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="39" selection-start="832" selection-end="832" vertical-scroll-proportion="0.4793233">
+        <state line="21" column="22" selection-start="815" selection-end="815" vertical-scroll-proportion="0.4793233">
           <folding />
         </state>
       </provider>
