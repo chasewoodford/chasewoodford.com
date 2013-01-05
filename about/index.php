@@ -44,6 +44,7 @@
                     <p>
                         In my spare time I like to compose music, which I link to from the <a href="/playground" title="playground" target="_self">playground</a> along with all of my other side projects. I also spend a lot of time reading, mostly about web design and user experience with the occasional book on string theory or building time machines.
                     </p>
+                    <br/>
                     <p class="lead">
                         { recently consumed }
                     </p>
@@ -57,6 +58,7 @@
                         <?php the_excerpt(); ?>
                         <?php endwhile; ?>
                     </p>
+                    <br/>
                     <p class="lead">
                         { way back when }
                     </p>
@@ -66,6 +68,7 @@
                     <p>
                         But enough about me. To find out more, <a href="/contact" title="contact" target="_self">drop me a line</a> or say hi on <a href="https://twitter.com/chase1263070" title="twitter" target="_blank">Twitter<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>.
                     </p>
+                    <br/>
                     <p class="lead">
                         { about this site }
                     </p>
