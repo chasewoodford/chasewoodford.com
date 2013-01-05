@@ -5,7 +5,7 @@
             <span class="bullet">&#8226;</span>
             <a class="no-decoration" href="<?php bloginfo('url'); ?>/feed?cat=-10">RSS&nbsp;<i class="icon-rss" aria-hidden="true"></i></a>
             <span class="bullet">&#8226;</span>
-            <a class="no-decoration" href="#">TOP</a>
+            <a class="no-decoration" href="#top">TOP</a>
         </p>
     </div>
 </footer>
