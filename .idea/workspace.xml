@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357408117235" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357408224065" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357408183305" ignored="false" />
-    <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
+    <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357408874643" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356923382954" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357405914225" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356832882751" ignored="false" />
@@ -145,10 +145,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="25" selection-start="4438" selection-end="4438" vertical-scroll-proportion="0.7692308">
+            <state line="69" column="25" selection-start="4438" selection-end="4438" vertical-scroll-proportion="-7.647059">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="49" selection-start="478" selection-end="478" vertical-scroll-proportion="0.2236842">
               <folding />
             </state>
           </provider>
@@ -178,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
         <option value="$PROJECT_DIR$/css/sass/_pagination.scss" />
@@ -194,6 +202,7 @@
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/about/index.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
       </list>
     </option>
   </component>
@@ -3038,7 +3047,11 @@
       <created>1357408121607</created>
       <updated>1357408121607</updated>
     </task>
-    <option name="localTasksCounter" value="619" />
+    <task id="LOCAL-00619" summary="spacing adjustment">
+      <created>1357408228536</created>
+      <updated>1357408228536</updated>
+    </task>
+    <option name="localTasksCounter" value="620" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3132,7 +3145,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="spacing adjustment" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3167,9 +3180,9 @@
     <MESSAGE value="revert" />
     <MESSAGE value="copy tweak" />
     <MESSAGE value="adding about site section" />
-    <MESSAGE value="spacing adjustment" />
     <MESSAGE value="href placeholders" />
     <MESSAGE value="copy fix" />
+    <MESSAGE value="spacing adjustment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3181,11 +3194,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-admin/export.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="24" selection-start="2859" selection-end="2859" vertical-scroll-proportion="0.60714287" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2_old/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="23" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.18343195" />
@@ -3274,7 +3282,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="25" selection-start="4438" selection-end="4438" vertical-scroll-proportion="0.7692308">
+        <state line="69" column="25" selection-start="4438" selection-end="4438" vertical-scroll-proportion="-7.647059">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="49" selection-start="478" selection-end="478" vertical-scroll-proportion="0.2236842">
           <folding />
         </state>
       </provider>
