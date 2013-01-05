@@ -4,7 +4,7 @@
     <div id="post-area" class="grid-8 left" role="main">
         <?php if (have_posts()) : ?>
         <?php
-        if (is_home()) {
+        if ( is_home() ) {
             query_posts( 'cat=-10&orderby=post_date&order=DESC' ); }
         while ( have_posts() ) : the_post();
         ?>
@@ -18,7 +18,7 @@
                 </h3>
             </header>
             <section class="content">
-                <?php the_content(''); ?>
+                <?php echo content(10); ?>
                 <div class="clearfix"></div>
                 <div class="metadata">
                         <span class="left">
