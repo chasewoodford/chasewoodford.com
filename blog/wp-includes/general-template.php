@@ -1922,7 +1922,7 @@ function paginate_links( $args = '' ) {
 		'format' => '?page=%#%', // ?page=%#% : %#% is replaced by the page number
 		'total' => 1,
 		'current' => 0,
-		'show_all' => true,
+		'show_all' => false,
 		'prev_next' => true,
 		'prev_text' => __('&laquo; Previous'),
 		'next_text' => __('Next &raquo;'),
