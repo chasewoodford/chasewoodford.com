@@ -66,29 +66,10 @@
     add_filter('excerpt_more', 'new_excerpt_more');
 
     // Custom limit on excerpts
-    // use: echo excerpt(25);
-    function excerpt($limit) {
-        $excerpt = explode(' ', get_the_content(), $limit);
-        if (count($excerpt)>=$limit) {
-            array_pop($excerpt);
-            $excerpt = implode(" ",$excerpt).'... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
-        } else {
-            $excerpt = implode(" ",$excerpt);
-        }
-        $excerpt = preg_replace('`\[[^\]]*\]`','',$excerpt);
-        return $excerpt;
-    }
-    // use: echo content(25);
-    function content($limit) {
-        $content = explode(' ', get_the_content(), $limit);
-        if (count($content)>=$limit) {
-            array_pop($content);
-            $content = implode(" ",$content).'... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
-        } else {
-            $content = implode(" ",$content);
-        }
-        $content = preg_replace('/\[.+\]/','', $content);
-        $content = apply_filters('the_content', $content);
-        $content = str_replace(']]>', ']]&gt;', $content);
-        return $content;
+    function string_limit_words($string, $word_limit)
+    {
+        $words = explode(' ', $string, ($word_limit + 1));
+        if(count($words) > $word_limit)
+            array_pop($words);
+        return implode(' ', $words).'... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
     }

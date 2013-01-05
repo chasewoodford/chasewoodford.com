@@ -21,8 +21,9 @@
                     echo '';
                     // otherwise
                 } else {
-                    // show the whole excerpt
-                    the_excerpt();
+                    // show some of the excerpt
+                    $excerpt = get_the_excerpt();
+                    echo string_limit_words($excerpt,45);
                 }
                 ?>
                 <div class="clearfix"></div>
