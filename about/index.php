@@ -70,7 +70,10 @@
                         { about this site }
                     </p>
                     <p>
-                        This site is powered by Wordpress, hand crafted via Intellij, and hosted by 1&1. It features an adaptation of the Starkers theme, as well as the Chirp plugin for displaying tweets, the Amazon Product In a Post plugin for displaying products and the WordPress SEO plugin. Code highlighting is brought to you by Prism. Nightly builds of the site are versioned and stored on Github. Thank you to everyone in the web design/development community who made this site possible.
+                        This site is powered by Wordpress, hand crafted via Intellij, and hosted by 1&1. It features an adaptation of the Starkers theme, as well as the Chirp plugin for displaying tweets, the Amazon Product In a Post plugin for displaying products and the WordPress SEO plugin. Code highlighting is brought to you by Prism. Nightly builds of the site are versioned and stored on Github.
+                    </p>
+                    <p>
+                        Thank you to everyone in the web design/development community who made this site possible.
                     </p>
                     <?php
                     include ('../social.php');
