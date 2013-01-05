@@ -66,6 +66,12 @@
                     <p>
                         But enough about me. To find out more, <a href="/contact" title="contact" target="_self">drop me a line</a> or say hi on <a href="https://twitter.com/chase1263070" title="twitter" target="_blank">Twitter<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>.
                     </p>
+                    <p class="lead">
+                        { about this site }
+                    </p>
+                    <p>
+                        This site is powered by Wordpress, hand crafted via Intellij, and hosted by 1&1. It features an adaptation of the Starkers theme, as well as the Chirp plugin for displaying tweets, the Amazon Product In a Post plugin for displaying products and the WordPress SEO by Yoast. Code highlighting is brought to you by Prism.js. Nightly builds of the site are versioned and stored on Github.
+                    </p>
                     <?php
                     include ('../social.php');
                     ?>
