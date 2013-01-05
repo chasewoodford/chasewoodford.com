@@ -5,7 +5,7 @@
         <?php if (have_posts()) : ?>
         <?php
         if ( is_home() ) {
-            query_posts( 'cat=-10&orderby=post_date&order=DESC&posts_per_page=10' );
+            query_posts( 'cat=-10&orderby=post_date&order=DESC&posts_per_page=999' );
         }
             while ( have_posts() ) : the_post();
         ?>
@@ -48,6 +48,9 @@
 
         <?php endwhile; ?>
         <?php endif; ?>
+
+        <?php v2_pagination(); ?>
+        <?php echo paginate_links( $args ) ?>
     </div>
 
     <div id="sidebar" class="grid-4 right" role="complementary">
