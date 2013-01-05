@@ -14,8 +14,21 @@
                         </h3>
                     </header>
                     <section class="content">
-                        <!-- TODO: add responsive excerpt wrapper here -->
-                        <?php the_excerpt(); ?>
+                        <?php
+                        // if in this category
+                        if ( in_category( '10' ) ) {
+                            // show this many words in the excerpt
+                            echo excerpt(0);
+                        // but if it's in this cateogry
+                        } elseif ( in_category( '51' ) ) {
+                            // show this many words in the excerpt
+                            echo excerpt(10);
+                        // otherwise
+                        } else {
+                            // show the whole excerpt
+                            the_excerpt();
+                        }
+                        ?>
                         <div class="clearfix"></div>
                     </section>
                 </article>
