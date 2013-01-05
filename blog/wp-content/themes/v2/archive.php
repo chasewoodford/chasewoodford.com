@@ -22,7 +22,7 @@
                     // otherwise
                 } else {
                     // show the whole excerpt
-                    the_excerpt();
+                    echo excerpt(45);
                 }
                 ?>
                 <div class="clearfix"></div>
