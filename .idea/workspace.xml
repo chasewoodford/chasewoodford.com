@@ -9,9 +9,9 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357407568333" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357407600760" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
-    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357407594155" ignored="false" />
+    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357407647031" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356923382954" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357405914225" ignored="false" />
@@ -148,7 +148,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="114" selection-start="5120" selection-end="5120" vertical-scroll-proportion="0.7669173">
+            <state line="72" column="24" selection-start="4577" selection-end="4577" vertical-scroll-proportion="0.55263156">
               <folding />
             </state>
           </provider>
@@ -3014,7 +3014,11 @@
       <created>1357407573228</created>
       <updated>1357407573229</updated>
     </task>
-    <option name="localTasksCounter" value="613" />
+    <task id="LOCAL-00613" summary="spacing adjustment">
+      <created>1357407606180</created>
+      <updated>1357407606181</updated>
+    </task>
+    <option name="localTasksCounter" value="614" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3108,7 +3112,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding about site section" />
+    <option name="LAST_COMMIT_MESSAGE" value="spacing adjustment" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3143,9 +3147,9 @@
     <MESSAGE value="changing lengths of excerpts on main blog page" />
     <MESSAGE value="trying new excerpt limiting code" />
     <MESSAGE value="revert" />
-    <MESSAGE value="spacing adjustment" />
     <MESSAGE value="copy tweak" />
     <MESSAGE value="adding about site section" />
+    <MESSAGE value="spacing adjustment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3250,7 +3254,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="114" selection-start="5120" selection-end="5120" vertical-scroll-proportion="0.7669173">
+        <state line="72" column="24" selection-start="4577" selection-end="4577" vertical-scroll-proportion="0.55263156">
           <folding />
         </state>
       </provider>
