@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349457913" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349524615" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349091275" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -98,19 +98,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="category.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="49" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.906422">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="35" selection-start="797" selection-end="797" vertical-scroll-proportion="-11.115385">
+            <state line="3" column="56" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09586466">
               <folding />
             </state>
           </provider>
@@ -163,8 +154,8 @@
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
       </list>
     </option>
   </component>
@@ -2890,7 +2881,11 @@
       <created>1357349462487</created>
       <updated>1357349462487</updated>
     </task>
-    <option name="localTasksCounter" value="585" />
+    <task id="LOCAL-00585" summary="minor revert">
+      <created>1357349529597</created>
+      <updated>1357349529597</updated>
+    </task>
+    <option name="localTasksCounter" value="586" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2984,7 +2979,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding if loop to blog lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor revert" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2997,7 +2992,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="wp test" />
     <MESSAGE value="begin restyling blog" />
     <MESSAGE value="removing unused functions from functions.php" />
     <MESSAGE value="layout adjustment for blog" />
@@ -3022,6 +3016,7 @@
     <MESSAGE value="styling category page" />
     <MESSAGE value="wordpress if/else test" />
     <MESSAGE value="adding if loop to blog lists" />
+    <MESSAGE value="minor revert" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3113,16 +3108,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="35" selection-start="797" selection-end="797" vertical-scroll-proportion="-11.115385">
+        <state line="34" column="49" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.906422">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="49" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.906422">
+        <state line="3" column="56" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09586466">
           <folding />
         </state>
       </provider>

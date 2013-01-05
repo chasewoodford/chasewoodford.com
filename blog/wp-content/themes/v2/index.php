@@ -2,11 +2,11 @@
 
 <div class="grid-8 hero main-content">
     <div id="post-area" class="grid-8 left" role="main">
-        <?php if (have_posts()) : ?>
         <?php
         if ( is_home() ) {
-            query_posts( 'cat=-10&orderby=post_date&order=DESC' ); }
-        while ( have_posts() ) : the_post();
+            query_posts( 'cat=-10&orderby=post_date&order=DESC' );
+        }
+            while ( have_posts() ) : the_post();
         ?>
         <article class="hero clearfix">
             <header>
@@ -46,8 +46,6 @@
         </article>
 
         <?php endwhile; ?>
-
-        <?php else : ?>
         <?php endif; ?>
 
         <?php v2_pagination(); ?>
