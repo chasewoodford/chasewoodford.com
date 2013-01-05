@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357353365892" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357354257553" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357352445723" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -103,7 +103,7 @@
       <file leaf-file-name="default-widgets.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/default-widgets.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="572" column="64" selection-start="23378" selection-end="23378" vertical-scroll-proportion="0.7030075">
+            <state line="572" column="38" selection-start="23352" selection-end="23352" vertical-scroll-proportion="0.7030075">
               <folding />
             </state>
           </provider>
@@ -2915,7 +2915,11 @@
       <created>1357353371435</created>
       <updated>1357353371435</updated>
     </task>
-    <option name="localTasksCounter" value="598" />
+    <task id="LOCAL-00598" summary="test">
+      <created>1357354263395</created>
+      <updated>1357354263395</updated>
+    </task>
+    <option name="localTasksCounter" value="599" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3165,7 +3169,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/default-widgets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="572" column="64" selection-start="23378" selection-end="23378" vertical-scroll-proportion="0.7030075">
+        <state line="572" column="38" selection-start="23352" selection-end="23352" vertical-scroll-proportion="0.7030075">
           <folding />
         </state>
       </provider>
