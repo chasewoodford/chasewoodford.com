@@ -66,6 +66,7 @@
     add_filter('excerpt_more', 'new_excerpt_more');
 
     // Custom limit on excerpts
+    // use: echo excerpt(25);
     function excerpt($limit) {
         $excerpt = explode(' ', get_the_content(), $limit);
         if (count($excerpt)>=$limit) {
@@ -77,7 +78,7 @@
         $excerpt = preg_replace('`\[[^\]]*\]`','',$excerpt);
         return $excerpt;
     }
-
+    // use: echo content(25);
     function content($limit) {
         $content = explode(' ', get_the_content(), $limit);
         if (count($content)>=$limit) {

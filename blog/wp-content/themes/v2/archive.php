@@ -14,14 +14,25 @@
                 </h3>
             </header>
             <section class="content">
-                <!-- TODO: add responsive excerpt wrapper here -->
-                <?php the_excerpt(); ?>
+                <?php
+                // if in this category
+                if ( in_category( '10' ) ) {
+                    // don't show any content
+                    echo '';
+                    // otherwise
+                } else {
+                    // show the whole excerpt
+                    the_excerpt();
+                }
+                ?>
                 <div class="clearfix"></div>
             </section>
         </article>
 
         <?php endwhile; ?>
 
+        <?php v2_pagination(); ?>
+        <?php echo paginate_links( $args ) ?>
     </div>
 
     <div id="sidebar" class="grid-4 right" role="complementary">

@@ -17,12 +17,8 @@
                         <?php
                         // if in this category
                         if ( in_category( '10' ) ) {
-                            // show this many words in the excerpt
+                            // don't show any content
                             echo '';
-                        // but if it's in this cateogry
-                        } elseif ( in_category( '51' ) ) {
-                            // show this many words in the excerpt
-                            echo content(20);
                         // otherwise
                         } else {
                             // show the whole excerpt
@@ -35,6 +31,8 @@
 
             <?php endwhile; ?>
 
+            <?php v2_pagination(); ?>
+            <?php echo paginate_links( $args ) ?>
         </div>
 
         <div id="sidebar" class="grid-4 right" role="complementary">
