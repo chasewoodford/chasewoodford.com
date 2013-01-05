@@ -47,6 +47,8 @@
         </article>
 
         <?php endwhile; ?>
+
+        <?php else : ?>
         <?php endif; ?>
 
         <?php v2_pagination(); ?>
