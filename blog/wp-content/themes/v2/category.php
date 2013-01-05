@@ -18,7 +18,7 @@
                         // if in this category
                         if ( in_category( '10' ) ) {
                             // don't show any content
-                            excerpt(5);
+                            echo excerpt(5);
                         // otherwise
                         } else {
                             // show the whole excerpt
