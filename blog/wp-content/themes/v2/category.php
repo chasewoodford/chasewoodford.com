@@ -22,7 +22,7 @@
                         // but if it's in this cateogry
                         } elseif ( in_category( '51' ) ) {
                             // show this many words in the excerpt
-                            the_excerpt(10);
+                            echo content(20);
                         // otherwise
                         } else {
                             // show the whole excerpt
