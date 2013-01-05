@@ -70,7 +70,7 @@
         $excerpt = explode(' ', get_the_content(), $limit);
         if (count($excerpt)>=$limit) {
             array_pop($excerpt);
-            $excerpt = implode(" ",$excerpt).'...';
+            $excerpt = implode(" ",$excerpt).'... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
         } else {
             $excerpt = implode(" ",$excerpt);
         }
@@ -82,7 +82,7 @@
         $content = explode(' ', get_the_content(), $limit);
         if (count($content)>=$limit) {
             array_pop($content);
-            $content = implode(" ",$content).'...';
+            $content = implode(" ",$content).'... <br/><a class="continue-reading" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>';
         } else {
             $content = implode(" ",$content);
         }
