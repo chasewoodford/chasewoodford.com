@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357347451058" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357347501880" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097141161" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -26,7 +26,7 @@
     <file path="/functions.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099887388" ignored="false" />
     <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357218046490" ignored="false" />
     <file path="/archive.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357305795697" ignored="false" />
-    <file path="/category.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357347497251" ignored="false" />
+    <file path="/category.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357347539219" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
       <file leaf-file-name="category.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="40" selection-start="918" selection-end="918" vertical-scroll-proportion="0.21834862">
+            <state line="20" column="35" selection-start="913" selection-end="913" vertical-scroll-proportion="0.21834862">
               <folding />
             </state>
           </provider>
@@ -2850,7 +2850,11 @@
       <created>1357347455716</created>
       <updated>1357347455716</updated>
     </task>
-    <option name="localTasksCounter" value="575" />
+    <task id="LOCAL-00575" summary="wordpress if/else test">
+      <created>1357347507444</created>
+      <updated>1357347507444</updated>
+    </task>
+    <option name="localTasksCounter" value="576" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3080,7 +3084,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="40" selection-start="918" selection-end="918" vertical-scroll-proportion="0.21834862">
+        <state line="20" column="35" selection-start="913" selection-end="913" vertical-scroll-proportion="0.21834862">
           <folding />
         </state>
       </provider>
