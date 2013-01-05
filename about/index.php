@@ -48,6 +48,9 @@
                         { recently consumed }
                     </p>
                     <p>
+                        I'm a pop culture junkie that loves to write about all the cool stuff I find. Here's what I've gotten into most recently:
+                    </p>
+                    <p>
                         <?php query_posts( 'cat=51&posts_per_page=2&orderby=post_date&order=DESC' );
                         while (have_posts()) : the_post();
                         ?>

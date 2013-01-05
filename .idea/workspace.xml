@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.php" afterPath="$PROJECT_DIR$/about/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357405579695" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357405919950" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
-    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357404349876" ignored="false" />
+    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357406447263" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356923382954" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357405914225" ignored="false" />
@@ -136,10 +136,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="16" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.29071805">
+            <state line="145" column="16" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="145" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.63909775">
               <folding />
             </state>
           </provider>
@@ -169,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/plugins/amazon-product-in-a-post-plugin/amazon-product-in-a-post.php" />
@@ -185,6 +193,7 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
+        <option value="$PROJECT_DIR$/about/index.php" />
       </list>
     </option>
   </component>
@@ -368,6 +377,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chasewoodford.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2975,7 +2998,11 @@
       <created>1357405585229</created>
       <updated>1357405585229</updated>
     </task>
-    <option name="localTasksCounter" value="609" />
+    <task id="LOCAL-00609" summary="spacing adjustment">
+      <created>1357405925153</created>
+      <updated>1357405925153</updated>
+    </task>
+    <option name="localTasksCounter" value="610" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3118,11 +3145,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-admin/network/themes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="63" selection-start="3786" selection-end="4766" vertical-scroll-proportion="0.03195489" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-admin/export.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="24" selection-start="2859" selection-end="2859" vertical-scroll-proportion="0.60714287" />
@@ -3209,7 +3231,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="16" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.29071805">
+        <state line="145" column="16" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="145" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.63909775">
           <folding />
         </state>
       </provider>
