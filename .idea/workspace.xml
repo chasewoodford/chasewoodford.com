@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-includes/general-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/general-template.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -9,7 +10,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349524615" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349806650" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349091275" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356749382946" ignored="false" />
@@ -27,6 +28,7 @@
     <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357218046490" ignored="false" />
     <file path="/archive.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357305795697" ignored="false" />
     <file path="/category.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349453975" ignored="false" />
+    <file path="/general-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357350022874" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,10 +100,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="56" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09586466">
+            <state line="52" column="36" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-8.692307">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-admin/export.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="24" selection-start="2859" selection-end="2859" vertical-scroll-proportion="-12.423077">
               <folding />
             </state>
           </provider>
@@ -110,7 +121,16 @@
       <file leaf-file-name="archive.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="45" selection-start="1165" selection-end="1165" vertical-scroll-proportion="-14.384615">
+            <state line="34" column="21" selection-start="1141" selection-end="1141" vertical-scroll-proportion="-14.384615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general-template.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-includes/general-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1924" column="24" selection-start="65828" selection-end="65828" vertical-scroll-proportion="0.7330827">
               <folding />
             </state>
           </provider>
@@ -140,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2_old/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/header.php" />
@@ -156,6 +175,7 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
+        <option value="$PROJECT_DIR$/blog/wp-includes/general-template.php" />
       </list>
     </option>
   </component>
@@ -2885,7 +2905,11 @@
       <created>1357349529597</created>
       <updated>1357349529597</updated>
     </task>
-    <option name="localTasksCounter" value="586" />
+    <task id="LOCAL-00586" summary="cleaning up php statements">
+      <created>1357349812436</created>
+      <updated>1357349812436</updated>
+    </task>
+    <option name="localTasksCounter" value="587" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -2979,7 +3003,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning up php statements" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2992,7 +3016,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="begin restyling blog" />
     <MESSAGE value="removing unused functions from functions.php" />
     <MESSAGE value="layout adjustment for blog" />
     <MESSAGE value="updates to blog styles" />
@@ -3017,6 +3040,7 @@
     <MESSAGE value="wordpress if/else test" />
     <MESSAGE value="adding if loop to blog lists" />
     <MESSAGE value="minor revert" />
+    <MESSAGE value="cleaning up php statements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3028,16 +3052,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/sass/_pagination.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="31" selection-start="765" selection-end="776" vertical-scroll-proportion="0.73204905" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.13725491" />
@@ -3101,13 +3115,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="45" selection-start="1165" selection-end="1165" vertical-scroll-proportion="-14.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="49" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.906422">
@@ -3117,7 +3124,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="56" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09586466">
+        <state line="52" column="36" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-8.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-admin/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="24" selection-start="2859" selection-end="2859" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="21" selection-start="1141" selection-end="1141" vertical-scroll-proportion="-14.384615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1924" column="24" selection-start="65828" selection-end="65828" vertical-scroll-proportion="0.7330827">
           <folding />
         </state>
       </provider>
