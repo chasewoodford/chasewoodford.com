@@ -32,6 +32,7 @@
                             <a href="<?php comments_link(); ?>">post a comment</a>
                         <?php } ?>
                     </span>
+                    <div class="clearfix"></div>
                     <div class="left tags">
                         <?php
                         $posttags = get_the_tags();
