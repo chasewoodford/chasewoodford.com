@@ -1,40 +1,64 @@
-<?php
-/**
- * The template for displaying Author Archive pages
- *
- * Please see /external/starkers-utilities.php for info on Starkers_Utilities::get_template_parts()
- *
- * @package 	WordPress
- * @subpackage 	Starkers
- * @since 		Starkers 4.0
- */
-?>
-<?php Starkers_Utilities::get_template_parts( array( 'parts/shared/html-header', 'parts/shared/header' ) ); ?>
+<?php include('header.php') ?>
 
-<?php if ( have_posts() ): the_post(); ?>
+    <div class="grid-8 hero main-content">
+        <div id="post-area" class="grid-8 left" role="main">
 
-<h2>Author Archives: <?php echo get_the_author() ; ?></h2>
+            <?php while ( have_posts() ): the_post(); ?>
+                <article class="hero clearfix">
+                    <header>
+                        <h3>
+                    <span class="blog-category clearfix">
+                        <?php the_category(', ') ?>&nbsp;>
+                    </span>
+                            <a class="title-bar" href="<?php the_permalink() ?>" title="view full post"><?php the_title(); ?></a>
+                        </h3>
+                    </header>
+                    <section class="content">
+                        <?php
+                        // if in this category
+                        if ( in_category( '10' ) ) {
+                            // don't show any content
+                            echo '';
+                            // otherwise
+                        } else {
+                            // show the whole excerpt
+                            the_excerpt();
+                        }
+                        ?>
+                        <?php if( ! in_category( '10' ) ) : ?>
+                            <div class="clearfix"></div>
+                            <div class="metadata clearfix">
+                            <span class="left pubdate">
+                                <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
+                            </span>
+                            <span class="right tags">
+                                <?php
+                                $posttags = get_the_tags();
+                                if ($posttags) {
+                                    foreach($posttags as $tag) {
+                                        echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '"><i class="icon-tag"></i>&nbsp;' . $tag->name . '</a>&nbsp;&nbsp;';
+                                    }
+                                }
+                                ?>
+                            </span>
+                            </div>
+                        <?php endif; ?>
+                    </section>
+                </article>
 
-<?php if ( get_the_author_meta( 'description' ) ) : ?>
-<?php echo get_avatar( get_the_author_meta( 'user_email' ) ); ?>
-<h3>About <?php echo get_the_author() ; ?></h3>
-<?php the_author_meta( 'description' ); ?>
-<?php endif; ?>
+            <?php endwhile; ?>
 
-<ol>
-<?php rewind_posts(); while ( have_posts() ) : the_post(); ?>
-	<li>
-		<article>
-			<h2><a href="<?php esc_url( the_permalink() ); ?>" title="Permalink to <?php the_title(); ?>" rel="bookmark"><?php the_title(); ?></a></h2>
-			<time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_date(); ?> <?php the_time(); ?></time> <?php comments_popup_link('Leave a Comment', '1 Comment', '% Comments'); ?>
-			<?php the_content(); ?>
-		</article>
-	</li>
-<?php endwhile; ?>
-</ol>
+            <?php v2_pagination(); ?>
+            <?php echo paginate_links( $args ) ?>
+        </div>
 
-<?php else: ?>
-<h2>No posts to display for <?php echo get_the_author() ; ?></h2>	
-<?php endif; ?>
+        <div id="sidebar" class="grid-4 right" role="complementary">
+            <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
+                <div id="sidebar-widget-area" class="sidebar-widget-area">
+                    <?php dynamic_sidebar( 'v2_widgets' ); ?>
+                </div>
+            <?php }  ?>
+        </div>
+    </div>
 
-<?php Starkers_Utilities::get_template_parts( array( 'parts/shared/footer','parts/shared/html-footer' ) ); ?>
+<?php include ('footer.php') ?>
