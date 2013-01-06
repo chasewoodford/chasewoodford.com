@@ -18,7 +18,7 @@
                 <?php the_content(); ?>
                 <div class="clearfix"></div>
                 <div class="metadata clearfix">
-                    <span class="left">
+                    <span class="left pubdate">
                         <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
                     </span>
                     <span class="right tags">

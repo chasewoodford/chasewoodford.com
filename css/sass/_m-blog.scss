@@ -4,8 +4,11 @@
   border-top: 1px dashed;
 }
 
+.pubdate {
+  margin-bottom: $space/2;
+}
+
 .tags {
-  text-align: right;
   text-transform: lowercase;
   & > a {
     margin-right: $space/2;
