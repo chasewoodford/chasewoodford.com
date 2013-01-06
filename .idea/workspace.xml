@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357439815842" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357439853007" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357439006073" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -121,7 +121,7 @@
       <file leaf-file-name="category.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="24" selection-start="1179" selection-end="2090" vertical-scroll-proportion="0.5112782">
+            <state line="24" column="42" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.30075186">
               <folding />
             </state>
           </provider>
@@ -3160,7 +3160,11 @@
       <created>1357439820293</created>
       <updated>1357439820293</updated>
     </task>
-    <option name="localTasksCounter" value="636" />
+    <task id="LOCAL-00636" summary="revert">
+      <created>1357439858803</created>
+      <updated>1357439858803</updated>
+    </task>
+    <option name="localTasksCounter" value="637" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3254,7 +3258,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="revert" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3283,7 +3287,6 @@
     <MESSAGE value="changing lengths of excerpts on archive and category pages" />
     <MESSAGE value="changing lengths of excerpts on main blog page" />
     <MESSAGE value="trying new excerpt limiting code" />
-    <MESSAGE value="revert" />
     <MESSAGE value="copy tweak" />
     <MESSAGE value="adding about site section" />
     <MESSAGE value="href placeholders" />
@@ -3292,6 +3295,7 @@
     <MESSAGE value="adding back to top link to footer" />
     <MESSAGE value="restyling tags" />
     <MESSAGE value="test" />
+    <MESSAGE value="revert" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3400,7 +3404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="24" selection-start="1179" selection-end="2090" vertical-scroll-proportion="0.5112782">
+        <state line="24" column="42" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.30075186">
           <folding />
         </state>
       </provider>
