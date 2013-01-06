@@ -208,8 +208,20 @@ h4, .h4 {
   float: left;
 }
 
+.text-left {
+  text-align: left;
+}
+
 .right {
   float: right;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .bullet {

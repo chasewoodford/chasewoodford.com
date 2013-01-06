@@ -8,7 +8,6 @@
 
 .pubdate {
   margin-bottom: $space/2;
-  line-height: 1.4;
 }
 
 .tags a {
@@ -16,4 +15,8 @@
   &:last-child {
     margin-right: 0;
   }
+}
+
+.blog-image {
+  margin: 0 auto $space;
 }
