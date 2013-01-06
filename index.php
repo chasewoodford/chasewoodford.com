@@ -38,7 +38,7 @@
         <?php
         endwhile;
         ?>
-        <article id="tweet-container" class="grid-10 well"></article>
+        <article id="tweet-container" class="grid-10 well tweets"></article>
     </div>
 </div>
 <?php include ('./blog/wp-content/themes/v2/footer.php') ?>

@@ -30,7 +30,7 @@
                     <p>
                         I do my best to get back to everyone who takes the time to get in touch with me. And though I do have a full time job, I always entertain conversations about taking on freelance work, helping out with open source projects or anything else that may be on your mind. There's nothing better than talking a little shop.
                     </p>
-                    <form id="ajax-contact-form" class="well">
+                    <form id="ajax-contact-form" class="well form">
                         <fieldset class="info_fieldset">
                             <div id="note"></div>
                             <div id="fields">
