@@ -23,12 +23,12 @@
                         } else {
                             // show the whole excerpt
                             the_excerpt();
-                            echo "<div class="clearfix"></div>
-                            <div class="metadata clearfix">
-                                <span class="left pubdate">
-                                    <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
+                            echo "<div class='clearfix'></div>
+                            <div class='metadata clearfix'>
+                                <span class='left pubdate'>
+                                    <time datetime='<?php the_time( 'Y-m-d' ); ?>' pubdate><?php the_time('F Y'); ?></time>
                                 </span>
-                                <span class="right tags">
+                                <span class='right tags'>
                                     <?php
                                     $posttags = get_the_tags();
                                     if ($posttags) {
