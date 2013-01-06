@@ -10,7 +10,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357505254694" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357506129666" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -32,6 +32,7 @@
     <file path="/a.dummy" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357505451533" ignored="false" />
     <file path="/_code.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357441525818" ignored="false" />
     <file path="/_m-tweet.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444725504" ignored="false" />
+    <file path="/comments.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357507685897" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="24" selection-start="7897" selection-end="7897" vertical-scroll-proportion="-19.653847">
+            <state line="82" column="0" selection-start="4547" selection-end="4553" vertical-scroll-proportion="-9.346154">
               <folding />
             </state>
           </provider>
@@ -115,7 +116,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="5" selection-start="5480" selection-end="5480" vertical-scroll-proportion="0.93609023">
+            <state line="94" column="11" selection-start="4013" selection-end="4013" vertical-scroll-proportion="0.39285713">
               <folding />
             </state>
           </provider>
@@ -3131,7 +3132,11 @@
       <created>1357505258794</created>
       <updated>1357505258794</updated>
     </task>
-    <option name="localTasksCounter" value="654" />
+    <task id="LOCAL-00654" summary="testing new comments template">
+      <created>1357506135029</created>
+      <updated>1357506135029</updated>
+    </task>
+    <option name="localTasksCounter" value="655" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3225,7 +3230,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="begin styling comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing new comments template" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3238,7 +3243,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="adding if loop to blog lists" />
     <MESSAGE value="minor revert" />
     <MESSAGE value="cleaning up php statements" />
     <MESSAGE value="trying to fix pagination" />
@@ -3263,6 +3267,7 @@
     <MESSAGE value="updating screenshot" />
     <MESSAGE value="refactoring" />
     <MESSAGE value="begin styling comments" />
+    <MESSAGE value="testing new comments template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3368,14 +3373,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="24" selection-start="7897" selection-end="7897" vertical-scroll-proportion="-19.653847">
+        <state line="82" column="0" selection-start="4547" selection-end="4553" vertical-scroll-proportion="-9.346154">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="5" selection-start="5480" selection-end="5480" vertical-scroll-proportion="0.93609023">
+        <state line="94" column="11" selection-start="4013" selection-end="4013" vertical-scroll-proportion="0.39285713">
           <folding />
         </state>
       </provider>
