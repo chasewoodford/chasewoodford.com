@@ -6,10 +6,12 @@
 
 .pubdate {
   margin-bottom: $space/2;
+  line-height: 1.4;
 }
 
 .tags {
   text-transform: lowercase;
+  line-height: 1.4;
   & > a {
     margin-right: $space/2;
     &:last-child {

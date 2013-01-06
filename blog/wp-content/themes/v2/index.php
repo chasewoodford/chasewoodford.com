@@ -22,7 +22,7 @@
                 <?php the_excerpt(); ?>
                 <div class="clearfix"></div>
                 <div class="metadata">
-                    <span class="left">
+                    <span class="left pubdate">
                         <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
                     </span>
                     <span class="right">
@@ -32,7 +32,7 @@
                             <a href="<?php comments_link(); ?>">post a comment</a>
                         <?php } ?>
                     </span>
-                    <div class="left" style="width:100%;font-size:75%;">
+                    <div class="left tags">
                         <?php
                         $posttags = get_the_tags();
                         if ($posttags) {
