@@ -28,10 +28,7 @@
                         I'm always happy to chat. Feel free to drop me a line.
                     </p>
                     <p>
-                        I do my best to get back to everyone who takes the time to get in touch with me. And though I do have a full time job, I always entertain conversations about taking on freelance work, helping out with open source projects or anything else that may be on your mind.
-                    </p>
-                    <p>
-                        There's nothing better than talking a little shop.
+                        I do my best to get back to everyone who takes the time to get in touch with me. And though I do have a full time job, I always entertain conversations about taking on freelance work, helping out with open source projects or anything else that may be on your mind. There's nothing better than talking a little shop.
                     </p>
                     <form id="ajax-contact-form">
                         <fieldset class="info_fieldset">
