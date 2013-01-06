@@ -25,6 +25,7 @@
                             the_excerpt();
                         }
                         ?>
+                        <?php if( category__not_in( '10' ) ) : ?>
                         <div class="clearfix"></div>
                         <div class="metadata clearfix">
                             <span class="left pubdate">
@@ -41,6 +42,7 @@
                                 ?>
                             </span>
                         </div>
+                        <?php endif; ?>
                     </section>
                 </article>
 
