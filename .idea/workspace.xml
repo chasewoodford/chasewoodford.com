@@ -2,15 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2\search.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/screenshot.png" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/screenshot.png" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\404.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\archive.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\author.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\category.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\colors\dark.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\comments.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-aside.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-featured.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-intro.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-link.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-quote.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-single.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content-status.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\content.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\editor-style-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\footer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\header.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow-bypostauthor-dark-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow-bypostauthor-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow-bypostauthor-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow-bypostauthor.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow-dark-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-bubble-dark-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-bubble-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-bubble-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\comment-bubble.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\chessboard-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\chessboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\hanoi-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\hanoi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\lanterns-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\lanterns.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\pine-cone-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\pine-cone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\shore-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\shore.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\trolley-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\trolley.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\wheel-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\wheel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\willow-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\headers\willow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\images\wordpress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\images\content-sidebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\images\content.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\images\dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\images\light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\images\sidebar-content.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\theme-customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\theme-options.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\theme-options.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\theme-options.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\inc\widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\js\html5.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\js\showcase.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\languages\twentyeleven.pot" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\page.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\search.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\searchform.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\showcase.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\sidebar-footer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\sidebar-page.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\single.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\twentyeleven\tag.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\404.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\comments.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\footer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\header.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\bg-row.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\date.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\more.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\search-light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\images\light\search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\js\functions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\page.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\search.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\single.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\svn\chasewoodford.com\blog\wp-content\themes\v2_old\style.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357504083859" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357504427018" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -3100,7 +3198,11 @@
       <created>1357504089519</created>
       <updated>1357504089519</updated>
     </task>
-    <option name="localTasksCounter" value="651" />
+    <task id="LOCAL-00651" summary="updating screenshot">
+      <created>1357504432294</created>
+      <updated>1357504432294</updated>
+    </task>
+    <option name="localTasksCounter" value="652" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3194,7 +3296,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates to neglected wp pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating screenshot" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3207,7 +3309,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="leaving to-do note for later" />
     <MESSAGE value="styling category page" />
     <MESSAGE value="wordpress if/else test" />
     <MESSAGE value="adding if loop to blog lists" />
@@ -3232,6 +3333,7 @@
     <MESSAGE value="update contact page copy" />
     <MESSAGE value="update form styling" />
     <MESSAGE value="updates to neglected wp pages" />
+    <MESSAGE value="updating screenshot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3245,7 +3347,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="64" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.71240604" />
+        <state line="40" column="64" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.71240604">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
