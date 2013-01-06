@@ -28,7 +28,7 @@
                         I'm always happy to chat. Feel free to drop me a line.
                     </p>
                     <p>
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+                        I do my best to get back to everyone who takes the time to get in touch with me. And though I do have a full time job, I always entertain conversations about taking on freelance work, helping out with open source projects, speaking engagements and anything else that may be on your mind. There's nothing better than talking shop.
                     </p>
                     <form id="ajax-contact-form">
                         <fieldset class="info_fieldset">
