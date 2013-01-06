@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357441599044" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357443566628" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357443413321" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -104,7 +104,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="38" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.67105263">
+            <state line="30" column="245" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.67105263">
               <folding />
             </state>
           </provider>
@@ -3034,7 +3034,11 @@
       <created>1357441604000</created>
       <updated>1357441604000</updated>
     </task>
-    <option name="localTasksCounter" value="642" />
+    <task id="LOCAL-00642" summary="update contact page copy">
+      <created>1357443571673</created>
+      <updated>1357443571673</updated>
+    </task>
+    <option name="localTasksCounter" value="643" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3128,7 +3132,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="blog style updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="update contact page copy" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3141,7 +3145,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="removing metadata again" />
     <MESSAGE value="removing pagination" />
     <MESSAGE value="replacing if with while" />
     <MESSAGE value="leaving to-do note for later" />
@@ -3166,6 +3169,7 @@
     <MESSAGE value="revert" />
     <MESSAGE value="adding php if statement" />
     <MESSAGE value="blog style updates" />
+    <MESSAGE value="update contact page copy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3280,7 +3284,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="38" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.67105263">
+        <state line="30" column="245" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.67105263">
           <folding />
         </state>
       </provider>
