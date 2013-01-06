@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357439012306" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357439275732" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357439006073" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -21,7 +22,7 @@
     <file path="/_m-work.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753685633" ignored="false" />
     <file path="/style.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356833090515" ignored="false" />
     <file path="/reset.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356879041591" ignored="false" />
-    <file path="/_m-blog.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357438617148" ignored="false" />
+    <file path="/_m-blog.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357439363906" ignored="false" />
     <file path="/_pagination.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099742330" ignored="false" />
     <file path="/functions.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099887388" ignored="false" />
     <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357438417841" ignored="false" />
@@ -118,19 +119,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="category.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="41" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.71240604">
+            <state line="38" column="41" selection-start="1921" selection-end="1921" vertical-scroll-proportion="-14.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="18" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+            <state line="18" column="1" selection-start="287" selection-end="287" vertical-scroll-proportion="0.5359019">
               <folding />
             </state>
           </provider>
@@ -173,9 +174,9 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/footer.php" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" />
-        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
+        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
       </list>
     </option>
   </component>
@@ -3144,7 +3145,11 @@
       <created>1357439016905</created>
       <updated>1357439016905</updated>
     </task>
-    <option name="localTasksCounter" value="632" />
+    <task id="LOCAL-00632" summary="restyling tags">
+      <created>1357439281162</created>
+      <updated>1357439281162</updated>
+    </task>
+    <option name="localTasksCounter" value="633" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3354,13 +3359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="219" column="51" selection-start="6183" selection-end="6183" vertical-scroll-proportion="0.26795095">
@@ -3384,7 +3382,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="41" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.71240604">
+        <state line="38" column="41" selection-start="1921" selection-end="1921" vertical-scroll-proportion="-14.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="287" selection-end="287" vertical-scroll-proportion="0.5359019">
           <folding />
         </state>
       </provider>

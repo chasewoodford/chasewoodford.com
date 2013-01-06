@@ -2,6 +2,8 @@
   margin: $space/4 auto $space;
   padding-top: $space/4;
   border-top: 1px dashed;
+  text-transform: lowercase;
+  line-height: 1.4;
 }
 
 .pubdate {
@@ -9,13 +11,9 @@
   line-height: 1.4;
 }
 
-.tags {
-  text-transform: lowercase;
-  line-height: 1.4;
-  & > a {
-    margin-right: $space/2;
-    &:last-child {
-      margin-right: 0;
-    }
+.tags a {
+  margin-right: $space/2;
+  &:last-child {
+    margin-right: 0;
   }
 }
