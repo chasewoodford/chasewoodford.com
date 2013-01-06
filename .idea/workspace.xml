@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-form.scss" afterPath="$PROJECT_DIR$/css/sass/_m-form.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -11,9 +10,9 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444591723" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444759231" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
-    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444753344" ignored="false" />
+    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357441430685" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357405914225" ignored="false" />
@@ -30,7 +29,7 @@
     <file path="/archive.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357404055638" ignored="false" />
     <file path="/category.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357440979565" ignored="false" />
     <file path="/general-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357350022874" ignored="false" />
-    <file path="/a.dummy" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444252445" ignored="false" />
+    <file path="/a.dummy" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444819258" ignored="false" />
     <file path="/_code.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357441525818" ignored="false" />
     <file path="/_m-tweet.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444725504" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,10 +103,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="50" selection-start="2546" selection-end="2546" vertical-scroll-proportion="0.55263156">
+            <state line="55" column="56" selection-start="3071" selection-end="3071" vertical-scroll-proportion="-7.607843">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_m-form.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="1" selection-start="1482" selection-end="1482" vertical-scroll-proportion="1.267951">
               <folding />
             </state>
           </provider>
@@ -117,15 +125,6 @@
         <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="64" selection-start="1665" selection-end="1665" vertical-scroll-proportion="-14.576923">
               <folding />
             </state>
           </provider>
@@ -155,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-includes/widgets.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/default-widgets.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
@@ -171,6 +169,7 @@
         <option value="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
+        <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
       </list>
     </option>
   </component>
@@ -3079,7 +3078,11 @@
       <created>1357444596595</created>
       <updated>1357444596595</updated>
     </task>
-    <option name="localTasksCounter" value="648" />
+    <task id="LOCAL-00648" summary="update contact page copy">
+      <created>1357444763917</created>
+      <updated>1357444763917</updated>
+    </task>
+    <option name="localTasksCounter" value="649" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3222,13 +3225,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="20" selection-start="872" selection-end="932" vertical-scroll-proportion="-15.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="145" column="16" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0">
@@ -3313,6 +3309,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="64" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.71240604">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
@@ -3320,16 +3323,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="64" selection-start="1665" selection-end="1665" vertical-scroll-proportion="-14.576923">
+        <state line="55" column="56" selection-start="3071" selection-end="3071" vertical-scroll-proportion="-7.607843">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="50" selection-start="2546" selection-end="2546" vertical-scroll-proportion="0.55263156">
+        <state line="89" column="1" selection-start="1482" selection-end="1482" vertical-scroll-proportion="1.267951">
           <folding />
         </state>
       </provider>

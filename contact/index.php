@@ -53,7 +53,7 @@
                                     <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="4" cols="50" spellcheck="true"></textarea>
                                 </div>
                                 <div>
-                                    <input class="formSend btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />
+                                    <input class="right btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />
                                 </div>
                             </div>
                         </fieldset>
