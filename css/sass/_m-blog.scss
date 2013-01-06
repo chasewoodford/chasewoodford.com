@@ -2,3 +2,15 @@
   margin-top: $space/4;
   border-top: 1px dashed;
 }
+
+.tags {
+  width: auto;
+  text-align: right;
+  text-transform: lowercase;
+  & > a {
+    margin-right: $space/2;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}

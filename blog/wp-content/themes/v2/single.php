@@ -21,7 +21,7 @@
                     <span class="left">
                         <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
                     </span>
-                    <span class="right" style="width:auto;font-size:75%;text-align:right">
+                    <span class="right tag">
                         <?php
                         $posttags = get_the_tags();
                         if ($posttags) {
