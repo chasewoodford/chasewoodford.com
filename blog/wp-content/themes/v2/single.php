@@ -17,18 +17,11 @@
             <section class="content">
                 <?php the_content(); ?>
                 <div class="clearfix"></div>
-                <div class="metadata">
+                <div class="metadata clearfix">
                     <span class="left">
                         <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
                     </span>
-                    <span class="right">
-                        <?php if (get_comments_number() > 0) { ?>
-                            <a href="<?php comments_link(); ?>">comments:&nbsp;<?php $commentscount = get_comments_number(); echo $commentscount; ?></a>
-                        <?php } else { ?>
-                            <a href="<?php comments_link(); ?>">post a comment</a>
-                        <?php } ?>
-                    </span>
-                    <div class="left" style="width:100%;font-size:75%;">
+                    <span class="right" style="width:auto;font-size:75%;text-align:right">
                         <?php
                         $posttags = get_the_tags();
                         if ($posttags) {
@@ -37,7 +30,7 @@
                             }
                         }
                         ?>
-                    </div>
+                    </span>
                 </div>
                 <?php comments_template( '', true ); ?>
             </section>

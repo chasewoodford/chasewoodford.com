@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357435761044" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357435896931" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357435655297" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -24,7 +24,7 @@
     <file path="/_m-blog.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357097200663" ignored="false" />
     <file path="/_pagination.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099742330" ignored="false" />
     <file path="/functions.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099887388" ignored="false" />
-    <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357218046490" ignored="false" />
+    <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357436473095" ignored="false" />
     <file path="/archive.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357404055638" ignored="false" />
     <file path="/category.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357349453975" ignored="false" />
     <file path="/general-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357350022874" ignored="false" />
@@ -112,7 +112,7 @@
       <file leaf-file-name="single.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="26" selection-start="1863" selection-end="1863" vertical-scroll-proportion="0.8382643">
+            <state line="28" column="40" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.5432331">
               <folding />
             </state>
           </provider>
@@ -3058,7 +3058,11 @@
       <created>1357435767189</created>
       <updated>1357435767190</updated>
     </task>
-    <option name="localTasksCounter" value="623" />
+    <task id="LOCAL-00623" summary="restyling tags">
+      <created>1357435902180</created>
+      <updated>1357435902180</updated>
+    </task>
+    <option name="localTasksCounter" value="624" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3247,12 +3251,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" />
+        <state line="1" column="22" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="16" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0" />
+        <state line="145" column="16" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
@@ -3290,7 +3298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="26" selection-start="1863" selection-end="1863" vertical-scroll-proportion="0.8382643">
+        <state line="28" column="40" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.5432331">
           <folding />
         </state>
       </provider>
