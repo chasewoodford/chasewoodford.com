@@ -23,24 +23,25 @@
                         } else {
                             // show the whole excerpt
                             the_excerpt();
+                            echo "<div class="clearfix"></div>
+                            <div class="metadata clearfix">
+                                <span class="left pubdate">
+                                    <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
+                                </span>
+                                <span class="right tags">
+                                    <?php
+                                    $posttags = get_the_tags();
+                                    if ($posttags) {
+                                        foreach($posttags as $tag) {
+                                            echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '"><i class="icon-tag"></i>&nbsp;' . $tag->name . '</a>&nbsp;&nbsp;';
+                                        }
+                                    }
+                                    ?>
+                                </span>
+                            </div>"
                         }
                         ?>
-                        <div class="clearfix"></div>
-                        <div class="metadata clearfix">
-                            <span class="left pubdate">
-                                <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
-                            </span>
-                            <span class="right tags">
-                                <?php
-                                $posttags = get_the_tags();
-                                if ($posttags) {
-                                    foreach($posttags as $tag) {
-                                        echo '<a href="';echo bloginfo(url);echo '/?tag=' . $tag->slug . '"><i class="icon-tag"></i>&nbsp;' . $tag->name . '</a>&nbsp;&nbsp;';
-                                    }
-                                }
-                                ?>
-                            </span>
-                        </div>
+
                     </section>
                 </article>
 
