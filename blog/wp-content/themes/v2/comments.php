@@ -29,9 +29,8 @@ endif;
     <?php if ( ! empty($comments_by_type['comment']) ) : ?>
 
         <div id="comments-list" class="comments">
-            <h3 class="lead-font"><?php printf($comment_count > 1 ? __('Comments', 'your-theme') : __('Comment', 'your-theme'), $comment_count) ?></h3>
+            <h3 class="lead-text"><?php printf($comment_count > 1 ? __('Comments', 'your-theme') : __('Comment', 'your-theme'), $comment_count) ?></h3>
 
-            <?php /* An ordered list of our custom comments callback, custom_comments(), in functions.php   */ ?>
             <ol class="comment-list">
                 <?php wp_list_comments('type=comment&callback=custom_comments'); ?>
             </ol>
@@ -45,7 +44,7 @@ endif;
 <?php /* If comments are open, build the respond form */ ?>
 <?php if ( 'open' == $post->comment_status ) : ?>
     <div id="respond">
-        <h3><?php comment_form_title( __('Post a Comment', 'your-theme'), __('Post a Reply to %s', 'your-theme') ); ?></h3>
+        <h3 class="lead-text"><?php comment_form_title( __('Post a Comment', 'your-theme'), __('Post a Reply to %s', 'your-theme') ); ?></h3>
 
         <div id="cancel-comment-reply"><?php cancel_comment_reply_link() ?></div>
 
@@ -54,7 +53,7 @@ endif;
                     get_option('siteurl') . '/wp-login.php?redirect_to=' . get_permalink() ) ?></p>
 
         <?php else : ?>
-            <div class="formcontainer">
+            <div class="formcontainer well">
 
 
                 <form id="commentform" action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" method="post">
