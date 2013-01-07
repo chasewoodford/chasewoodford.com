@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357521810667" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357522082065" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -124,19 +122,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment-template.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="comment-template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1063" column="362" selection-start="35801" selection-end="35801" vertical-scroll-proportion="0.8994083">
+            <state line="1063" column="362" selection-start="35801" selection-end="35801" vertical-scroll-proportion="91.05882">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="61" selection-start="4538" selection-end="4538" vertical-scroll-proportion="-15.884615">
+            <state line="74" column="39" selection-start="2982" selection-end="2982" vertical-scroll-proportion="0.55263156">
               <folding />
             </state>
           </provider>
@@ -179,9 +177,9 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/404.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
       </list>
     </option>
   </component>
@@ -3306,7 +3304,11 @@
       <created>1357521814978</created>
       <updated>1357521814978</updated>
     </task>
-    <option name="localTasksCounter" value="671" />
+    <task id="LOCAL-00671" summary="styling comments section">
+      <created>1357522086706</created>
+      <updated>1357522086706</updated>
+    </task>
+    <option name="localTasksCounter" value="672" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3529,13 +3531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="34" selection-start="1433" selection-end="1433" vertical-scroll-proportion="-5.3137255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="55" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
@@ -3543,16 +3538,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="61" selection-start="4538" selection-end="4538" vertical-scroll-proportion="-15.884615">
+        <state line="1063" column="362" selection-start="35801" selection-end="35801" vertical-scroll-proportion="91.05882">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1063" column="362" selection-start="35801" selection-end="35801" vertical-scroll-proportion="0.8994083">
+        <state line="34" column="34" selection-start="1433" selection-end="1433" vertical-scroll-proportion="-5.3137255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="39" selection-start="2982" selection-end="2982" vertical-scroll-proportion="0.55263156">
           <folding />
         </state>
       </provider>
