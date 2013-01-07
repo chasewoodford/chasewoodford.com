@@ -103,6 +103,6 @@
             $commenter = ereg_replace( '(<a )/', '\\1class="url "' , $commenter );
         }
         $avatar_email = get_comment_author_email();
-        $avatar = str_replace( "class='left avatar", "class='photo avatar", get_avatar( $avatar_email, 80 ) );
+        $avatar = str_replace( "class='avatar", "class='left photo avatar", get_avatar( $avatar_email, 80 ) );
         echo $avatar . ' <span class="fn n">' . $commenter . '</span>';
     }
