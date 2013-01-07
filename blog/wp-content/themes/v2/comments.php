@@ -29,7 +29,7 @@ endif;
     <?php if ( ! empty($comments_by_type['comment']) ) : ?>
 
         <div id="comments-list" class="comments">
-            <p class="lead-font"><?php printf($comment_count > 1 ? __('Comments', 'your-theme') : __('Comment', 'your-theme'), $comment_count) ?></p>
+            <p class="lead-font"><?php printf($comment_count > 1 ? __('{ comments }', 'your-theme') : __('{ comment }', 'your-theme'), $comment_count) ?></p>
 
             <ol class="comment-list">
                 <?php wp_list_comments('type=comment&callback=custom_comments'); ?>
@@ -44,7 +44,7 @@ endif;
 <?php /* If comments are open, build the respond form */ ?>
 <?php if ( 'open' == $post->comment_status ) : ?>
     <div id="respond">
-        <p class="lead-font"><?php comment_form_title( __('Post a Comment', 'your-theme'), __('Post a Reply to %s', 'your-theme') ); ?></p>
+        <p class="lead-font"><?php comment_form_title( __('{ post a comment }', 'your-theme'), __('{ reply to %s }', 'your-theme') ); ?></p>
 
         <div id="cancel-comment-reply"><?php cancel_comment_reply_link() ?></div>
 
