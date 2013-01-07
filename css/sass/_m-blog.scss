@@ -20,3 +20,13 @@
 .blog-image {
   margin: 0 auto $space;
 }
+
+ol.comment-list {
+  margin: 0;
+  padding: 0;
+  li.comment {
+    margin-bottom: $space;
+    padding: $space/2;
+    border: 1px dashed;
+  }
+}
