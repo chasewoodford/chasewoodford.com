@@ -71,12 +71,13 @@
         $GLOBALS['comment_depth'] = $depth;
         ?>
     <li id="comment-<?php comment_ID() ?>" <?php comment_class() ?>>
-        <div class="comment-meta"><?php commenter_link() ?><?php printf(__('&nbsp;posted a comment on %1$s<span class="meta-sep">|</span> <a class="right" href="%3$s" title="Permalink to this comment"><i class="icon-comment" aria-hidden="true"></i></a>', 'your-theme'),
+        <div class="comment-meta">
+            <?php commenter_link() ?>
+            <?php printf(__('&nbsp;posted a comment on %1$s. <a class="right" href="%3$s" title="Permalink to this comment"><i class="icon-comment" aria-hidden="true"></i></a>', 'your-theme'),
                 get_comment_date('F j, Y'),
                 get_comment_time(),
                 '#comment-' . get_comment_ID() );
             edit_comment_link(__('Edit', 'your-theme'), '<br/><span class="edit-link">', '</span>'); ?></div>
-        <div class="comment-author vcard"></div>
         <?php if ($comment->comment_approved == '0') _e("\t\t\t\t\t<span class='unapproved'>Your comment is awaiting moderation.</span>\n", 'your-theme') ?>
         <div class="comment-content">
             <?php comment_text() ?>
@@ -104,5 +105,5 @@
         }
         $avatar_email = get_comment_author_email();
         $avatar = str_replace( "class='avatar", "class='left photo avatar", get_avatar( $avatar_email, 80 ) );
-        echo $avatar . ' <span class="fn n">' . $commenter . '</span>';
+        echo $avatar . ' <div class="left">' . $commenter . '</div>';
     }

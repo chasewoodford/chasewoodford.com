@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357523547954" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357523636584" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -23,7 +23,7 @@
     <file path="/reset.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356879041591" ignored="false" />
     <file path="/_m-blog.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357521917791" ignored="false" />
     <file path="/_pagination.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099742330" ignored="false" />
-    <file path="/functions.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357523106404" ignored="false" />
+    <file path="/functions.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357523898569" ignored="false" />
     <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357438417841" ignored="false" />
     <file path="/archive.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357404055638" ignored="false" />
     <file path="/category.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357440979565" ignored="false" />
@@ -125,7 +125,7 @@
       <file leaf-file-name="comment-template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1063" column="362" selection-start="35801" selection-end="35801" vertical-scroll-proportion="91.05882">
+            <state line="1516" column="18" selection-start="49853" selection-end="50932" vertical-scroll-proportion="-0.98039216">
               <folding />
             </state>
           </provider>
@@ -134,7 +134,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="62" selection-start="3222" selection-end="3222" vertical-scroll-proportion="0.55263156">
+            <state line="107" column="66" selection-start="4643" selection-end="4643" vertical-scroll-proportion="1.4473684">
               <folding />
             </state>
           </provider>
@@ -3344,7 +3344,11 @@
       <created>1357523552486</created>
       <updated>1357523552486</updated>
     </task>
-    <option name="localTasksCounter" value="681" />
+    <task id="LOCAL-00681" summary="styling comments section">
+      <created>1357523640866</created>
+      <updated>1357523640866</updated>
+    </task>
+    <option name="localTasksCounter" value="682" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3576,7 +3580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1063" column="362" selection-start="35801" selection-end="35801" vertical-scroll-proportion="91.05882">
+        <state line="1516" column="18" selection-start="49853" selection-end="50932" vertical-scroll-proportion="-0.98039216">
           <folding />
         </state>
       </provider>
@@ -3590,7 +3594,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="62" selection-start="3222" selection-end="3222" vertical-scroll-proportion="0.55263156">
+        <state line="107" column="66" selection-start="4643" selection-end="4643" vertical-scroll-proportion="1.4473684">
           <folding />
         </state>
       </provider>
