@@ -1039,7 +1039,7 @@ function get_comment_reply_link($args = array(), $comment = null, $post = null) 
 	global $user_ID;
 
 	$defaults = array('add_below' => 'comment', 'respond_id' => 'respond', 'reply_text' => __('Reply'),
-		'login_text' => __('Log in to Reply'), 'depth' => 0, 'before' => '<i class="icon-chat" aria-hidden="true"></i>', 'after' => '');
+		'login_text' => __('Log in to Reply'), 'depth' => 0, 'before' => '', 'after' => '');
 
 	$args = wp_parse_args($args, $defaults);
 

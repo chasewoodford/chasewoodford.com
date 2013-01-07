@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" afterPath="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -10,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357520497837" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357521558318" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -125,7 +124,7 @@
       <file leaf-file-name="comment-template.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1041" column="112" selection-start="34924" selection-end="34924" vertical-scroll-proportion="0.16568047">
+            <state line="1041" column="74" selection-start="34886" selection-end="34886" vertical-scroll-proportion="0.1617357">
               <folding />
             </state>
           </provider>
@@ -3284,7 +3283,11 @@
       <created>1357520502533</created>
       <updated>1357520502533</updated>
     </task>
-    <option name="localTasksCounter" value="666" />
+    <task id="LOCAL-00666" summary="styling comments section">
+      <created>1357521562971</created>
+      <updated>1357521562971</updated>
+    </task>
+    <option name="localTasksCounter" value="667" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3530,7 +3533,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1041" column="112" selection-start="34924" selection-end="34924" vertical-scroll-proportion="0.16568047">
+        <state line="1041" column="74" selection-start="34886" selection-end="34886" vertical-scroll-proportion="0.1617357">
           <folding />
         </state>
       </provider>
