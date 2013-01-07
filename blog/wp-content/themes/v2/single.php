@@ -17,6 +17,7 @@
             <section class="content">
                 <?php the_content(); ?>
                 <div class="clearfix"></div>
+                <?php comments_template( '', true ); ?>
                 <div class="metadata clearfix">
                     <span class="left pubdate">
                         <time datetime="<?php the_time( 'Y-m-d' ); ?>" pubdate><?php the_time('F Y'); ?></time>
@@ -32,7 +33,6 @@
                         ?>
                     </span>
                 </div>
-                <?php comments_template( '', true ); ?>
             </section>
         </article>
 
