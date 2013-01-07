@@ -73,6 +73,7 @@
     <li id="comment-<?php comment_ID() ?>" <?php comment_class() ?>>
         <div class="comment-meta"><?php commenter_link() ?><?php printf(__('posted a comment on %1$s<span class="meta-sep">|</span> <a href="%3$s" title="Permalink to this comment"><i class="icon-comment" aria-hidden="true"></i>&nbsp;Permalink</a>', 'your-theme'),
                 get_comment_date('F j, Y'),
+                get_comment_time(),
                 '#comment-' . get_comment_ID() );
             edit_comment_link(__('Edit', 'your-theme'), ' <span class="meta-sep">|</span> <span class="edit-link">', '</span>'); ?></div>
         <div class="comment-author vcard"></div>
