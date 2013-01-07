@@ -22,10 +22,10 @@
 }
 
 ol.comment-list {
-  overflow: hidden;
   margin: 0;
   padding: 0;
   li.comment {
+    overflow: hidden;
     margin-bottom: $space;
     padding: $space/2;
     border: 1px dashed;
