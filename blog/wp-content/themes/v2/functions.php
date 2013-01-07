@@ -73,7 +73,7 @@
     <li id="comment-<?php comment_ID() ?>" <?php comment_class() ?>>
         <div class="comment-meta">
             <?php commenter_link() ?>
-            <?php printf(__('&nbsp;posted a comment on %1$s. <a class="right" href="%3$s" title="Permalink to this comment"><i class="icon-comment" aria-hidden="true"></i></a>', 'your-theme'),
+            <?php printf(__('&nbsp;posted a comment on %1$s: <a class="right" href="%3$s" title="Permalink to this comment"><i class="icon-comment" aria-hidden="true"></i></a>', 'your-theme'),
                 get_comment_date('F j, Y'),
                 get_comment_time(),
                 '#comment-' . get_comment_ID() );
