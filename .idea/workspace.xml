@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357520197317" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357520274933" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -115,7 +115,7 @@
       <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="54" selection-start="1249" selection-end="1256" vertical-scroll-proportion="-3.3137255">
+            <state line="31" column="54" selection-start="1249" selection-end="1256" vertical-scroll-proportion="-1.3333334">
               <folding />
             </state>
           </provider>
@@ -124,7 +124,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="43" selection-start="4115" selection-end="4115" vertical-scroll-proportion="0.5206767">
+            <state line="105" column="44" selection-start="4521" selection-end="4521" vertical-scroll-proportion="0.7763158">
               <folding />
             </state>
           </provider>
@@ -3208,7 +3208,11 @@
       <created>1357520202543</created>
       <updated>1357520202543</updated>
     </task>
-    <option name="localTasksCounter" value="663" />
+    <task id="LOCAL-00663" summary="styling comments section">
+      <created>1357520278910</created>
+      <updated>1357520278910</updated>
+    </task>
+    <option name="localTasksCounter" value="664" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3445,14 +3449,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="54" selection-start="1249" selection-end="1256" vertical-scroll-proportion="-3.3137255">
+        <state line="31" column="54" selection-start="1249" selection-end="1256" vertical-scroll-proportion="-1.3333334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="43" selection-start="4115" selection-end="4115" vertical-scroll-proportion="0.5206767">
+        <state line="105" column="44" selection-start="4521" selection-end="4521" vertical-scroll-proportion="0.7763158">
           <folding />
         </state>
       </provider>
