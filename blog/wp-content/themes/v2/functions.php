@@ -88,7 +88,7 @@
                 'reply_text' => __('Reply','your-theme'),
                 'login_text' => __('Log in to reply.','your-theme'),
                 'depth' => $depth,
-                'before' => '<div class="comment-reply-link">',
+                'before' => '<div class="comment-reply-link clearfix">',
                 'after' => '</div>'
             )));
         endif;
