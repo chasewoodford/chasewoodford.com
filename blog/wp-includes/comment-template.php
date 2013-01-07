@@ -1039,7 +1039,7 @@ function get_comment_reply_link($args = array(), $comment = null, $post = null) 
 	global $user_ID;
 
 	$defaults = array('add_below' => 'comment', 'respond_id' => 'respond', 'reply_text' => __('Reply'),
-		'login_text' => __('Log in to Reply'), 'depth' => 0, 'before' => '', 'after' => '');
+		'login_text' => __('Log in to Reply'), 'depth' => 0, 'before' => '<i class="icon-chat" aria-hidden="true"></i>', 'after' => '');
 
 	$args = wp_parse_args($args, $defaults);
 
@@ -1061,7 +1061,7 @@ function get_comment_reply_link($args = array(), $comment = null, $post = null) 
 	if ( get_option('comment_registration') && !$user_ID )
 		$link = '<a rel="nofollow" class="comment-reply-login" href="' . esc_url( wp_login_url( get_permalink() ) ) . '">' . $login_text . '</a>';
 	else
-		$link = "<a class='comment-reply-link' href='" . esc_url( add_query_arg( 'replytocom', $comment->comment_ID ) ) . "#" . $respond_id . "' onclick='return addComment.moveForm(\"$add_below-$comment->comment_ID\", \"$comment->comment_ID\", \"$respond_id\", \"$post->ID\")'>$reply_text</a>";
+		$link = "<a class='comment-reply-link btn btn-primary right' href='" . esc_url( add_query_arg( 'replytocom', $comment->comment_ID ) ) . "#" . $respond_id . "' onclick='return addComment.moveForm(\"$add_below-$comment->comment_ID\", \"$comment->comment_ID\", \"$respond_id\", \"$post->ID\")'>$reply_text</a>";
 	return apply_filters('comment_reply_link', $before . $link . $after, $args, $comment, $post);
 }
 
