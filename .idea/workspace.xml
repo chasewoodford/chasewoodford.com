@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -10,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357606033935" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357606130114" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -31,7 +30,7 @@
     <file path="/general-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357350022874" ignored="false" />
     <file path="/a.dummy" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357605966259" ignored="false" />
     <file path="/_code.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357441525818" ignored="false" />
-    <file path="/_m-tweet.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357605983839" ignored="false" />
+    <file path="/_m-tweet.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357606263268" ignored="false" />
     <file path="/comments.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357519200993" ignored="false" />
     <file path="/comment-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357522059292" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,19 +104,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="11" selection-start="607" selection-end="607" vertical-scroll-proportion="0.67600703">
+            <state line="43" column="11" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-tweet.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_m-tweet.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="28" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+            <state line="16" column="23" selection-start="394" selection-end="394" vertical-scroll-proportion="0.47635728">
               <folding />
             </state>
           </provider>
@@ -3229,7 +3228,11 @@
       <created>1357606038629</created>
       <updated>1357606038629</updated>
     </task>
-    <option name="localTasksCounter" value="690" />
+    <task id="LOCAL-00690" summary="styling blog posts">
+      <created>1357606134687</created>
+      <updated>1357606134687</updated>
+    </task>
+    <option name="localTasksCounter" value="691" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3444,16 +3447,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+        <state line="43" column="11" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="11" selection-start="607" selection-end="607" vertical-scroll-proportion="0.67600703">
+        <state line="16" column="23" selection-start="394" selection-end="394" vertical-scroll-proportion="0.47635728">
           <folding />
         </state>
       </provider>
