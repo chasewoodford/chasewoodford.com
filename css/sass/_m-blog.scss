@@ -33,7 +33,7 @@ ol.comment-list {
 }
 
 .photo.avatar {
-  margin-right: $space/2;
+  margin: 0 $space/2 $space/4 0;
 }
 
 .comment-content {
@@ -52,4 +52,8 @@ ul.update {
     margin-bottom: $space/2;
     list-style-type: disc;
   }
+}
+
+#respond {
+  margin-top: $space*2;
 }
