@@ -40,3 +40,12 @@ a.comment-reply-link {
   margin-bottom: 10px;
   color: $white;
 }
+
+ul.update {
+  margin-bottom: $space*2;
+  padding-left: $space*1.5;
+  & li {
+    margin-bottom: $space/2;
+    list-style-type: disc;
+  }
+}
