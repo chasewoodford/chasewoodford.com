@@ -36,6 +36,11 @@ ol.comment-list {
   margin-right: $space/2;
 }
 
+.comment-content {
+  float: left;
+  width: 80%;
+}
+
 a.comment-reply-link {
   margin-bottom: 10px;
   color: $white;

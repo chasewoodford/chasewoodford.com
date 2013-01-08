@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_layout.scss" afterPath="$PROJECT_DIR$/css/sass/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-tweet.scss" afterPath="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-blog.scss" afterPath="$PROJECT_DIR$/css/sass/_m-blog.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357606268248" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357606432545" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357444870556" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -23,7 +21,7 @@
     <file path="/_m-work.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356753685633" ignored="false" />
     <file path="/style.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356833090515" ignored="false" />
     <file path="/reset.css" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356879041591" ignored="false" />
-    <file path="/_m-blog.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357605844759" ignored="false" />
+    <file path="/_m-blog.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357606585304" ignored="false" />
     <file path="/_pagination.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357099742330" ignored="false" />
     <file path="/functions.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357525493136" ignored="false" />
     <file path="/single.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357438417841" ignored="false" />
@@ -106,10 +104,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_m-blog.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_m-blog.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="11" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
+            <state line="39" column="14" selection-start="563" selection-end="563" vertical-scroll-proportion="0.55691767">
               <folding />
             </state>
           </provider>
@@ -133,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="1" selection-start="2769" selection-end="2769" vertical-scroll-proportion="0.9404553">
+            <state line="192" column="1" selection-start="2769" selection-end="2769" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -178,10 +176,10 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
-        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
       </list>
     </option>
   </component>
@@ -3256,7 +3254,11 @@
       <created>1357606275807</created>
       <updated>1357606275807</updated>
     </task>
-    <option name="localTasksCounter" value="692" />
+    <task id="LOCAL-00692" summary="refactor">
+      <created>1357606437919</created>
+      <updated>1357606437919</updated>
+    </task>
+    <option name="localTasksCounter" value="693" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3350,7 +3352,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling blog posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3363,7 +3365,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="trying to fix pagination" />
     <MESSAGE value="settling" />
     <MESSAGE value="changing lengths of excerpts on archive and category pages" />
     <MESSAGE value="changing lengths of excerpts on main blog page" />
@@ -3388,6 +3389,7 @@
     <MESSAGE value="testing new comments template" />
     <MESSAGE value="styling comments section" />
     <MESSAGE value="styling blog posts" />
+    <MESSAGE value="refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3459,13 +3461,6 @@
         <state line="75" column="60" selection-start="2893" selection-end="2893" vertical-scroll-proportion="0.3964497" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="11" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -3482,7 +3477,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="1" selection-start="2769" selection-end="2769" vertical-scroll-proportion="0.9404553">
+        <state line="192" column="1" selection-start="2769" selection-end="2769" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="14" selection-start="563" selection-end="563" vertical-scroll-proportion="0.55691767">
           <folding />
         </state>
       </provider>
