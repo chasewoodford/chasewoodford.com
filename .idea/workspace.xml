@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357695625458" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357695752861" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357691515000" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357694234461" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -108,7 +108,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="2244" selection-end="2244" vertical-scroll-proportion="0.48872182">
+            <state line="7" column="80" selection-start="286" selection-end="286" vertical-scroll-proportion="0.2236842">
               <folding />
             </state>
           </provider>
@@ -3490,7 +3490,11 @@
       <created>1357695629811</created>
       <updated>1357695629811</updated>
     </task>
-    <option name="localTasksCounter" value="724" />
+    <task id="LOCAL-00724" summary="removing pagination from main blog page">
+      <created>1357695757769</created>
+      <updated>1357695757769</updated>
+    </task>
+    <option name="localTasksCounter" value="725" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3584,7 +3588,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding tag list to sidebar" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing pagination from main blog page" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3597,7 +3601,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="href placeholders" />
     <MESSAGE value="copy fix" />
     <MESSAGE value="spacing adjustment" />
     <MESSAGE value="adding back to top link to footer" />
@@ -3622,6 +3625,7 @@
     <MESSAGE value="adjusting form styling" />
     <MESSAGE value="tag list test" />
     <MESSAGE value="adding tag list to sidebar" />
+    <MESSAGE value="removing pagination from main blog page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3740,7 +3744,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="2244" selection-end="2244" vertical-scroll-proportion="0.48872182">
+        <state line="7" column="80" selection-start="286" selection-end="286" vertical-scroll-proportion="0.2236842">
           <folding />
         </state>
       </provider>
