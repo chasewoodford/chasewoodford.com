@@ -64,7 +64,7 @@
                     <h4>tags</h4>
                     <ul>
                         <?php
-                        $wptc = wp_tag_cloud('orderby=title&order=DESC&format=array&number=20&echo=0');
+                        $wptc = wp_tag_cloud('smallest=13.5&largest=13.5&orderby=title&order=DESC&format=array&unit=px&number=20&echo=0');
                         foreach( $wptc as $wpt ) echo "<li>" . $wpt . "</li>\n";
                         ?>
                     </ul>
