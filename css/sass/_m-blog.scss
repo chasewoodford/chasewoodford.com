@@ -46,7 +46,7 @@ a.comment-reply-link {
   color: $white;
 }
 
-ul.update {
+ul.update, ul.callout-list {
   padding-left: $space*1.5;
   & li {
     margin-bottom: $space/2;
