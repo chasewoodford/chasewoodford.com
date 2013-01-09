@@ -38,13 +38,13 @@
                             <div id="note"></div>
                             <div id="fields">
                                 <div style="display:inline;float:left; width:18%">
-                                    <label for="name">Name</label>
+                                    <label for="name">Name</label><span class="required">*</span>
                                 </div>
                                 <div style="display:inline;float:left; width:80%">
                                     <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" autofocus /><br />
                                 </div>
                                 <div style="display:inline;float:left; width:18%">
-                                    <label for="email">Email</label>
+                                    <label for="email">Email</label><span class="required">*</span>
                                 </div>
                                 <div style="display:inline;float:left; width:80%">
                                     <input id="email" class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" /><br />
