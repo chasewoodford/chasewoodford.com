@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-form.scss" afterPath="$PROJECT_DIR$/css/sass/_m-form.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357689859714" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690313273" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357689236789" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
-    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690304817" ignored="false" />
+    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690390674" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357689244436" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356832882751" ignored="false" />
     <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261519850" ignored="false" />
@@ -32,7 +32,7 @@
     <file path="/a.dummy" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690182557" ignored="false" />
     <file path="/_code.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357607800713" ignored="false" />
     <file path="/_m-tweet.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357606363596" ignored="false" />
-    <file path="/comments.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357519200993" ignored="false" />
+    <file path="/comments.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690405268" ignored="false" />
     <file path="/comment-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357522059292" ignored="false" />
     <file path="/_m-form.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690192969" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,10 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="74" selection-start="5349" selection-end="5349" vertical-scroll-proportion="-19.153847">
+            <state line="92" column="80" selection-start="5611" selection-end="5611" vertical-scroll-proportion="0.55263156">
               <folding />
             </state>
           </provider>
@@ -160,10 +160,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_typography.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="235" column="25" selection-start="6375" selection-end="6375" vertical-scroll-proportion="0.65499127">
+            <state line="235" column="25" selection-start="6375" selection-end="6375" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -205,10 +205,10 @@
         <option value="$PROJECT_DIR$/css/sass/_code.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
         <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
       </list>
     </option>
   </component>
@@ -3321,7 +3321,11 @@
       <created>1357689865948</created>
       <updated>1357689865948</updated>
     </task>
-    <option name="localTasksCounter" value="698" />
+    <task id="LOCAL-00698" summary="adjusting form styling">
+      <created>1357690318653</created>
+      <updated>1357690318654</updated>
+    </task>
+    <option name="localTasksCounter" value="699" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3536,9 +3540,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
+    <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="74" selection-start="5349" selection-end="5349" vertical-scroll-proportion="-19.153847">
+        <state line="12" column="24" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="25" selection-start="6375" selection-end="6375" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -3550,16 +3561,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="25" selection-start="6375" selection-end="6375" vertical-scroll-proportion="0.65499127">
+        <state line="92" column="80" selection-start="5611" selection-end="5611" vertical-scroll-proportion="0.55263156">
           <folding />
         </state>
       </provider>
