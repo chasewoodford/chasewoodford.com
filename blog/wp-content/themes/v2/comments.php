@@ -58,6 +58,8 @@ endif;
 
                 <form id="commentform" action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" method="post">
 
+                    <fieldset class="info_fieldset">
+
                     <?php if ( $user_ID ) : ?>
                         <p id="login"><?php printf(__('<span class="loggedin">Logged in as <a href="%1$s" title="Logged in as %2$s">%2$s</a>.</span> <span class="logout"><a href="%3$s" title="Log out of this account">Log out?</a></span>', 'your-theme'),
                                 get_option('siteurl') . '/wp-admin/profile.php',
@@ -68,7 +70,6 @@ endif;
 
                         <p id="comment-notes"><?php if ($req) _e('Required fields are marked <span class="required">*</span>', 'your-theme') ?></p>
 
-                        <fieldset class="info_fieldset">
                             <div id="form-section-author" class="form-section">
                                 <div style="display:inline;float:left; width:18%" class="form-label"><label for="author"><?php _e('Name', 'your-theme') ?></label> <?php if ($req) _e('<span class="required">*</span>', 'your-theme') ?></div>
                                 <div style="display:inline;float:left; width:80%" class="form-input"><input id="author" name="author" type="text" value="<?php echo $comment_author ?>" size="30" maxlength="20" tabindex="3" /></div>
@@ -101,9 +102,9 @@ endif;
 
                             <?php comment_id_fields(); ?>
 
-                        </fieldset>
+                    </fieldset>
 
-                        <?php /* Just … end everything. We're done here. Close it up. */ ?>
+                    <?php /* Just … end everything. We're done here. Close it up. */ ?>
 
                 </form><!-- #commentform -->
             </div><!-- .formcontainer -->
