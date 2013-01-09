@@ -32,6 +32,9 @@
                     </p>
                     <form id="ajax-contact-form" class="well formcontainer">
                         <fieldset class="info_fieldset">
+                            <p id="comment-notes">
+                                Required fields are marked <span class="required">*</span>
+                            </p>
                             <div id="note"></div>
                             <div id="fields">
                                 <div style="display:inline;float:left; width:18%">
