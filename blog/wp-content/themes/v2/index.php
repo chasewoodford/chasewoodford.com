@@ -65,7 +65,7 @@
                     <ul>
                         <?php
                         $wptc = wp_tag_cloud('smallest=13.5&largest=13.5&format=array&unit=px&number=20&echo=0');
-                        foreach( $wptc as $wpt ) echo "<li>" . $wpt . "</li>\n";
+                        foreach( $wptc as $wpt ) echo "<li>" . $wpt . wp_list_cats('optioncount=1&hierarchical=0');"</li>\n";
                         ?>
                     </ul>
                 </div>
