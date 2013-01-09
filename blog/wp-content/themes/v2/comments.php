@@ -90,17 +90,18 @@ endif;
                                 <div style="display:inline;float:left; width:18%" class="form-label"><label for="comment"><?php _e('Comment', 'your-theme') ?></label></div>
                                 <div style="display:inline;float:left; width:80%" class="form-textarea"><textarea id="comment" name="comment" cols="45" rows="8" tabindex="6" spellcheck="true"></textarea></div>
                             </div><!-- #form-section-comment .form-section -->
+
+                            <div id="form-allowed-tags" class="form-section allowed-tags">
+                                <p><span><?php _e('You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:', 'your-theme') ?></span> <code><?php echo allowed_tags(); ?></code></p>
+                            </div>
+
+                            <?php do_action('comment_form', $post->ID); ?>
+
+                            <div class="form-submit"><input id="submit" class="right btn btn-large btn-primary" name="submit" type="submit" value="<?php _e('Post Comment', 'your-theme') ?>" tabindex="7" /><input type="hidden" name="comment_post_ID" value="<?php echo $id; ?>" /></div>
+
+                            <?php comment_id_fields(); ?>
+
                         </fieldset>
-
-                        <div id="form-allowed-tags" class="form-section allowed-tags">
-                            <p><span><?php _e('You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:', 'your-theme') ?></span> <code><?php echo allowed_tags(); ?></code></p>
-                        </div>
-
-                        <?php do_action('comment_form', $post->ID); ?>
-
-                        <div class="form-submit"><input id="submit" class="right btn btn-large btn-primary" name="submit" type="submit" value="<?php _e('Post Comment', 'your-theme') ?>" tabindex="7" /><input type="hidden" name="comment_post_ID" value="<?php echo $id; ?>" /></div>
-
-                        <?php comment_id_fields(); ?>
 
                         <?php /* Just … end everything. We're done here. Close it up. */ ?>
 
