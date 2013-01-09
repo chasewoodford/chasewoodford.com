@@ -50,7 +50,7 @@
                                     <label for="comments">Comments</label>
                                 </div>
                                 <div style="display:inline;float:left; width:80%">
-                                    <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" rows="4" cols="50" spellcheck="true"></textarea>
+                                    <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" cols="45" rows="8" spellcheck="true"></textarea>
                                 </div>
                                 <div>
                                     <input class="right btn btn-large btn-primary" type="submit" tabindex="4" value="Send Message" />

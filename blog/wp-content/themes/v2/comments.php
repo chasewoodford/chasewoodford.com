@@ -87,7 +87,7 @@ endif;
 
                     <div id="form-section-comment" class="form-section">
                         <div style="display:inline;float:left; width:18%" class="form-label"><label for="comment"><?php _e('Comment', 'your-theme') ?></label></div>
-                        <div style="display:inline;float:left; width:80%" class="form-textarea"><textarea id="comment" name="comment" cols="45" rows="8" tabindex="6"></textarea></div>
+                        <div style="display:inline;float:left; width:80%" class="form-textarea"><textarea id="comment" name="comment" cols="45" rows="8" tabindex="6" spellcheck="true"></textarea></div>
                     </div><!-- #form-section-comment .form-section -->
 
                     <div id="form-allowed-tags" class="form-section allowed-tags">
