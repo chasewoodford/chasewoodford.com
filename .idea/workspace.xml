@@ -9,9 +9,9 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690735743" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690833136" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357261299964" ignored="false" />
-    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690716660" ignored="false" />
+    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690869730" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690390674" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357689244436" ignored="false" />
@@ -144,7 +144,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="99" selection-start="2434" selection-end="2434" vertical-scroll-proportion="0.48872182">
+            <state line="40" column="95" selection-start="1935" selection-end="1935" vertical-scroll-proportion="0.29699248">
               <folding />
             </state>
           </provider>
@@ -3336,7 +3336,11 @@
       <created>1357690741125</created>
       <updated>1357690741125</updated>
     </task>
-    <option name="localTasksCounter" value="702" />
+    <task id="LOCAL-00702" summary="adjusting form styling">
+      <created>1357690837557</created>
+      <updated>1357690837559</updated>
+    </task>
+    <option name="localTasksCounter" value="703" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3574,7 +3578,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="99" selection-start="2434" selection-end="2434" vertical-scroll-proportion="0.48872182">
+        <state line="40" column="95" selection-start="1935" selection-end="1935" vertical-scroll-proportion="0.29699248">
           <folding />
         </state>
       </provider>
