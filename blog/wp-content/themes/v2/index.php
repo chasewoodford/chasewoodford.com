@@ -5,7 +5,7 @@
         <?php if (have_posts()) : ?>
         <?php
         if ( is_home() ) {
-            query_posts( 'cat=-10&orderby=post_date&order=DESC&posts_per_page=50' );
+            query_posts( 'cat=-10&orderby=post_date&order=DESC&posts_per_page=25' );
         }
             while ( have_posts() ) : the_post();
         ?>
