@@ -66,7 +66,8 @@
                         <?php
                         $tags = get_tags();
                         $wptc = wp_tag_cloud('smallest=13.5&largest=13.5&format=array&unit=px&number=20&echo=0');
-                        foreach( $wptc as $wpt ) echo "<li>" . $wpt . $tag->count . "</li>\n";
+                        foreach( $wptc as $wpt ) echo "<li>" . $wpt ;
+                            foreach( $tags as $tag ) echo $tag->count . "</li>\n";
                         ?>
                     </ul>
                 </div>
