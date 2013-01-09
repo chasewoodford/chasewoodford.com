@@ -64,7 +64,6 @@
                     <h4>tags</h4>
                     <ul>
                         <?php
-                        $tags = get_tags();
                         $wptc = wp_tag_cloud('smallest=13.5&largest=13.5&format=array&unit=px&number=20&echo=0');
                         foreach( $wptc as $wpt ) echo "<li>" . $wpt . "</li>\n";
                         ?>

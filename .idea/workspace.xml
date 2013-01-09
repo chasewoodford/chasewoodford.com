@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/tag.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/tag.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357694246078" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357694299800" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357691515000" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357694234461" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -105,19 +109,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="68" selection-start="2970" selection-end="2970" vertical-scroll-proportion="0.55263156">
+            <state line="70" column="24" selection-start="2605" selection-end="3014" vertical-scroll-proportion="-13.269231">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
+      <file leaf-file-name="archive.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="60" selection-start="2893" selection-end="2893" vertical-scroll-proportion="-49.03846">
+            <state line="49" column="22" selection-start="1855" selection-end="1855" vertical-scroll-proportion="-19.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="26" selection-start="3085" selection-end="3085" vertical-scroll-proportion="-18.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="28" selection-start="5714" selection-end="6447" vertical-scroll-proportion="-19.423077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="22" selection-start="2242" selection-end="2242" vertical-scroll-proportion="-18.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tag.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/tag.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="26" selection-start="3101" selection-end="3101" vertical-scroll-proportion="0.90413535">
               <folding />
             </state>
           </provider>
@@ -147,10 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/page.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/author.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/404.php" />
-        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" />
         <option value="$PROJECT_DIR$/blog/wp-includes/comment-template.php" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-tweet.scss" />
@@ -163,6 +208,10 @@
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-blog.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/index.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/category.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/single.php" />
+        <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/tag.php" />
       </list>
     </option>
   </component>
@@ -3437,7 +3486,11 @@
       <created>1357694250597</created>
       <updated>1357694250597</updated>
     </task>
-    <option name="localTasksCounter" value="722" />
+    <task id="LOCAL-00722" summary="tag list test">
+      <created>1357694304345</created>
+      <updated>1357694304345</updated>
+    </task>
+    <option name="localTasksCounter" value="723" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3580,33 +3633,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_source/v2/fontello-a9a820af/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="15" selection-end="291" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-includes/comment-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1520" column="31" selection-start="50136" selection-end="50136" vertical-scroll-proportion="-2.3137255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_m-tweet.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_code.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="18" selection-start="772" selection-end="773" vertical-scroll-proportion="1.2206655" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="352" column="4" selection-start="10037" selection-end="10037" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact_form/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.24063116">
@@ -3656,13 +3682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="28" selection-start="5714" selection-end="6447" vertical-scroll-proportion="0.2650376">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-blog.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="16" selection-start="627" selection-end="627" vertical-scroll-proportion="0.4045534">
@@ -3672,14 +3691,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="60" selection-start="2893" selection-end="2893" vertical-scroll-proportion="-49.03846">
+        <state line="75" column="60" selection-start="2893" selection-end="2893" vertical-scroll-proportion="-0.19172932">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="68" selection-start="2970" selection-end="2970" vertical-scroll-proportion="0.55263156">
+        <state line="70" column="24" selection-start="2605" selection-end="3014" vertical-scroll-proportion="-13.269231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="22" selection-start="1855" selection-end="1855" vertical-scroll-proportion="-19.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="26" selection-start="3085" selection-end="3085" vertical-scroll-proportion="-18.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="28" selection-start="5714" selection-end="6447" vertical-scroll-proportion="-19.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="22" selection-start="2242" selection-end="2242" vertical-scroll-proportion="-18.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/tag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="26" selection-start="3101" selection-end="3101" vertical-scroll-proportion="0.90413535">
           <folding />
         </state>
       </provider>
