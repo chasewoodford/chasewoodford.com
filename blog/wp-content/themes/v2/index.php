@@ -60,12 +60,15 @@
         <?php if ( is_active_sidebar( 'v2_widgets')) { ?>
             <div id="sidebar-widget-area" class="sidebar-widget-area">
                 <?php dynamic_sidebar( 'v2_widgets' ); ?>
-                <ol>
-                    <?php
-                    $wptc = wp_tag_cloud('smallest=12&largest=12&orderby=count&order=DESC&format=array&unit=px&number=20&echo=0');
-                    foreach( $wptc as $wpt ) echo "<li>" . $wpt . "</li>\n";
-                    ?>
-                </ol>
+                <div id="tags-2" class="side-widget widget_tags">
+                    <h4>tags</h4>
+                    <ul>
+                        <?php
+                        $wptc = wp_tag_cloud('smallest=12&largest=12&orderby=count&order=DESC&format=array&unit=px&number=20&echo=0');
+                        foreach( $wptc as $wpt ) echo "<li>" . $wpt . "</li>\n";
+                        ?>
+                    </ul>
+                </div>
             </div>
         <?php }  ?>
     </div>
