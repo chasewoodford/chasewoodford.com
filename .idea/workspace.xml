@@ -9,9 +9,9 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359164835524" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359166211997" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357696164579" ignored="false" />
-    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359166202920" ignored="false" />
+    <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359166247920" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
     <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690390674" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359164750122" ignored="false" />
@@ -117,7 +117,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="32" selection-start="441" selection-end="441" vertical-scroll-proportion="0.41541353">
+            <state line="13" column="28" selection-start="437" selection-end="437" vertical-scroll-proportion="0.41541353">
               <folding />
             </state>
           </provider>
@@ -3450,7 +3450,11 @@
       <created>1359164841160</created>
       <updated>1359164841160</updated>
     </task>
-    <option name="localTasksCounter" value="735" />
+    <task id="LOCAL-00735" summary="adding favicon">
+      <created>1359166216686</created>
+      <updated>1359166216686</updated>
+    </task>
+    <option name="localTasksCounter" value="736" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3544,7 +3548,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adjusting spacing of recent consumed section" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding favicon" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -3557,7 +3561,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="revert" />
     <MESSAGE value="adding php if statement" />
     <MESSAGE value="blog style updates" />
     <MESSAGE value="update contact page copy" />
@@ -3582,6 +3585,7 @@
     <MESSAGE value="adding hrefs to about this site section" />
     <MESSAGE value="reducing the number of posts displayed on main blog page" />
     <MESSAGE value="adjusting spacing of recent consumed section" />
+    <MESSAGE value="adding favicon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3678,7 +3682,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="32" selection-start="441" selection-end="441" vertical-scroll-proportion="0.41541353">
+        <state line="13" column="28" selection-start="437" selection-end="437" vertical-scroll-proportion="0.41541353">
           <folding />
         </state>
       </provider>

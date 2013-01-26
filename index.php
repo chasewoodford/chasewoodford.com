@@ -11,7 +11,7 @@
 
     <link rel="icon"
           type="image/png"
-          href="/images/logo.png">
+          href="/favicon.ico">
 
     <link rel="stylesheet" href="/css/compiled/style.css">
 
