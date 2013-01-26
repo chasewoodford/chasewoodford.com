@@ -2,9 +2,13 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Chase Woodford &#124; Portfolio</title>
     <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
+
+    <title>Chase Woodford &#124; Portfolio</title>
+
+    <link rel="icon" href="/favicon.ico">
+
     <link rel="stylesheet" href="/css/compiled/style.css">
 </head>
 <body id="top" class="work">

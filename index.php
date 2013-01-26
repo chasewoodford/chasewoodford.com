@@ -9,9 +9,7 @@
 
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
 
-    <link rel="icon"
-          type="image/png"
-          href="/favicon.ico">
+    <link rel="icon" href="/favicon.ico">
 
     <link rel="stylesheet" href="/css/compiled/style.css">
 
