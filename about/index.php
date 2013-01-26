@@ -51,14 +51,13 @@
                     <p>
                         I'm a pop culture junkie that loves to write about all the cool stuff I find. Here's what I've gotten into most recently:
                     </p>
-                    <p>
+                    <div class="recently-consumed-container">
                         <?php query_posts( 'cat=51&posts_per_page=2&orderby=post_date&order=DESC' );
                         while (have_posts()) : the_post();
                         ?>
                         <?php the_excerpt(); ?>
                         <?php endwhile; ?>
-                    </p>
-                    <br/>
+                    </div>
                     <p class="lead">
                         { way back when }
                     </p>
@@ -68,7 +67,6 @@
                     <p>
                         But enough about me. To find out more, <a href="/contact" title="contact" target="_self">drop me a line</a> or say hi on <a href="https://twitter.com/chase1263070" title="twitter" target="_blank">Twitter<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>.
                     </p>
-                    <br/>
                     <p class="lead">
                         { about this site }
                     </p>
