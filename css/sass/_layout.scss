@@ -154,6 +154,9 @@ img.amazon-product {
   body.about & {
     float: none;
   }
+  body.blog & {
+    margin-bottom: $space*1.25;
+  }
 }
 
 .page-title {
