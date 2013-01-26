@@ -7,6 +7,8 @@
 
     <title>Chase Woodford &#124; About</title>
 
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.chasewoodford.com/favicon.ico">
+
     <link rel="stylesheet" href="/css/compiled/style.css">
 </head>
 <body id="top" class="about">
