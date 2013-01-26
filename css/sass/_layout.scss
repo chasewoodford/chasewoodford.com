@@ -154,7 +154,7 @@ img.amazon-product {
   body.about & {
     float: none;
   }
-  body.blog & {
+  body.blog &, body.archive &, body.category & {
     margin-bottom: $space*1.25;
   }
 }
