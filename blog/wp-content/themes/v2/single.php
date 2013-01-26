@@ -8,7 +8,7 @@
         <article class="hero clearfix">
             <header>
                 <h3>
-                    <span class="blog-category clearfix">
+                    <span class="blog-category">
                         <?php the_category(', ') ?>&nbsp;>
                     </span>
                     <span class="title-bar"><?php the_title(); ?></span>

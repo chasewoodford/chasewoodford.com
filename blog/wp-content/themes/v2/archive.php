@@ -7,7 +7,7 @@
         <article class="hero clearfix">
             <header>
                 <h3>
-                    <span class="blog-category clearfix">
+                    <span class="blog-category">
                         <?php the_category(', ') ?>&nbsp;>
                     </span>
                     <a class="title-bar" href="<?php the_permalink() ?>" title="view full post"><?php the_title(); ?></a>
