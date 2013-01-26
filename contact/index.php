@@ -7,8 +7,6 @@
 
     <title>Chase Woodford &#124; Contact</title>
 
-    <link rel="icon" href="/favicon.ico">
-
     <link rel="stylesheet" href="/css/compiled/style.css">
 </head>
 <body id="top" class="contact">
