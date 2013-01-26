@@ -44,7 +44,6 @@
                     <p>
                         In my spare time I like to compose music, which I link to from the <a href="/playground" title="playground" target="_self">playground</a> along with all of my other side projects. I also spend a lot of time reading, mostly about web design and user experience with the occasional book on string theory or building time machines.
                     </p>
-                    <br/>
                     <p class="lead">
                         { recently consumed }
                     </p>
