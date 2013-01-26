@@ -10,11 +10,11 @@
 
 if ( !class_exists( 'Text_Diff' ) ) {
 	/** Text_Diff class */
-	require(dirname(__FILE__) . '/Text/Diff.php');
+	require( dirname(__FILE__).'/Text/Diff.php' );
 	/** Text_Diff_Renderer class */
-	require(dirname(__FILE__) . '/Text/Diff/Renderer.php');
+	require( dirname(__FILE__).'/Text/Diff/Renderer.php' );
 	/** Text_Diff_Renderer_inline class */
-	require(dirname(__FILE__) . '/Text/Diff/Renderer/inline.php');
+	require( dirname(__FILE__).'/Text/Diff/Renderer/inline.php' );
 }
 
 /**
@@ -422,7 +422,7 @@ class WP_Text_Diff_Renderer_Table extends Text_Diff_Renderer {
 		$chars2 = count_chars($string2);
 
 		// L1-norm of difference vector.
-		$difference = array_sum( array_map( array(&$this, 'difference'), $chars1, $chars2 ) );
+		$difference = array_sum( array_map( array($this, 'difference'), $chars1, $chars2 ) );
 
 		// $string1 has zero length? Odd. Give huge penalty by not dividing.
 		if ( !$string1 )
