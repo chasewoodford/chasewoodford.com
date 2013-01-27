@@ -3,13 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-search.scss" afterPath="$PROJECT_DIR$/css/sass/_m-search.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359253454082" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359253613385" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250724047" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359166949187" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -35,7 +36,7 @@
     <file path="/comment-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357522059292" ignored="false" />
     <file path="/_m-form.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690192969" ignored="false" />
     <file path="/search-results.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359248480938" ignored="false" />
-    <file path="/_m-search.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359253606807" ignored="false" />
+    <file path="/_m-search.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359253665298" ignored="false" />
     <file path="/_variables.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250017059" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +121,7 @@
       <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="20" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.7915937">
+            <state line="57" column="36" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.7145359">
               <folding />
             </state>
           </provider>
@@ -3712,7 +3713,11 @@
       <created>1359253458620</created>
       <updated>1359253458620</updated>
     </task>
-    <option name="localTasksCounter" value="781" />
+    <task id="LOCAL-00781" summary="updating google cse styles">
+      <created>1359253617519</created>
+      <updated>1359253617519</updated>
+    </task>
+    <option name="localTasksCounter" value="782" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3962,7 +3967,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="20" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.7915937">
+        <state line="57" column="36" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.7145359">
           <folding />
         </state>
       </provider>
