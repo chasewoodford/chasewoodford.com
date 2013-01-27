@@ -108,7 +108,7 @@ form.gsc-search-box, .gcsc-branding {
 }
 
 .gs-no-results-result .gs-snippet, .gs-error-result .gs-snippet {
-  background-color: $grayDark !important;
-  border: 2px solid !important;
-  @include box-shadow(0 8px 10px -6px $black);
+  background-color: none !important;
+  border: none !important;
+  text-align: center;
 }
