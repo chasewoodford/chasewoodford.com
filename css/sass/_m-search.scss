@@ -64,6 +64,7 @@ form.gsc-search-box, .gcsc-branding {
 }
 
 .gsc-cursor-box gs-bidi-start-align {
-  @extend .pagination;
-  @extend .pagination-centered;
+  height: $baseLineHeight * 2 !important;
+  margin: $baseLineHeight 0 !important;
+  text-align: center !important;
 }
