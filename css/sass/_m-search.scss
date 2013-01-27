@@ -75,3 +75,19 @@ form.gsc-search-box, .gcsc-branding {
   margin-bottom: 0 !important;
   @include box-shadow(0 1px 2px rgba(0,0,0,.05));
 }
+
+.gsc-cursor-page {
+  display: inline !important;
+  float: left !important;
+  padding: 0 14px !important;
+  line-height: ($baseLineHeight * 2) - 2 !important;
+  text-decoration: none !important;
+  border: 1px solid #ddd !important;
+  border-left-width: 0 !important;
+  &:first-child {
+    border-left-width: 1px !important;
+  }
+  &.gsc-cursor-current-page {
+    background-color: $blue !important;
+  }
+}
