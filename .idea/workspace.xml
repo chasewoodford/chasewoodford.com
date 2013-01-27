@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359249516043" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359249655054" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359214901825" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359166949187" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -35,7 +35,7 @@
     <file path="/comment-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357522059292" ignored="false" />
     <file path="/_m-form.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690192969" ignored="false" />
     <file path="/search-results.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359248480938" ignored="false" />
-    <file path="/_m-search.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359249645964" ignored="false" />
+    <file path="/_m-search.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359249814014" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,16 @@
       <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="23" selection-start="762" selection-end="762" vertical-scroll-proportion="0.821366">
+            <state line="47" column="17" selection-start="851" selection-end="851" vertical-scroll-proportion="0.9404553">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="651" selection-end="658" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -3575,7 +3584,11 @@
       <created>1359249520846</created>
       <updated>1359249520847</updated>
     </task>
-    <option name="localTasksCounter" value="756" />
+    <task id="LOCAL-00756" summary="updating google cse styles">
+      <created>1359249663245</created>
+      <updated>1359249663245</updated>
+    </task>
+    <option name="localTasksCounter" value="757" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3718,11 +3731,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -3821,9 +3829,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="651" selection-end="658" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="23" selection-start="762" selection-end="762" vertical-scroll-proportion="0.821366">
+        <state line="47" column="17" selection-start="851" selection-end="851" vertical-scroll-proportion="0.9404553">
           <folding />
         </state>
       </provider>
