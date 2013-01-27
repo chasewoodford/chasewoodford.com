@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="updating google cse styles">
+    <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-search.scss" afterPath="$PROJECT_DIR$/css/sass/_m-search.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250847467" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250861698" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250724047" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359166949187" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -35,7 +35,7 @@
     <file path="/comment-template.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357522059292" ignored="false" />
     <file path="/_m-form.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357690192969" ignored="false" />
     <file path="/search-results.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359248480938" ignored="false" />
-    <file path="/_m-search.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250841030" ignored="false" />
+    <file path="/_m-search.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250896605" ignored="false" />
     <file path="/_variables.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250017059" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,7 @@
       <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="31" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.8809107">
+            <state line="61" column="41" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.8809107">
               <folding />
             </state>
           </provider>
@@ -3627,7 +3627,11 @@
       <created>1359250778606</created>
       <updated>1359250778606</updated>
     </task>
-    <option name="localTasksCounter" value="762" />
+    <task id="LOCAL-00762" summary="updating google cse styles">
+      <created>1359250866074</created>
+      <updated>1359250866074</updated>
+    </task>
+    <option name="localTasksCounter" value="763" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3877,7 +3881,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="31" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.8809107">
+        <state line="61" column="41" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.8809107">
           <folding />
         </state>
       </provider>
