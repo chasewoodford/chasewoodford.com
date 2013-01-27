@@ -9,7 +9,7 @@
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359252058116" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359252213260" ignored="false" />
     <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359250724047" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359166949187" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1357409275644" ignored="false" />
@@ -120,7 +120,7 @@
       <file leaf-file-name="_m-search.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="29" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.7022767">
+            <state line="98" column="43" selection-start="2117" selection-end="2117" vertical-scroll-proportion="0.7618214">
               <folding />
             </state>
           </provider>
@@ -129,7 +129,7 @@
       <file leaf-file-name="_pagination.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_pagination.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="2" selection-start="230" selection-end="493" vertical-scroll-proportion="0.0">
+            <state line="13" column="33" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,7 +138,7 @@
       <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="4" selection-start="416" selection-end="465" vertical-scroll-proportion="0.0">
+            <state line="21" column="2" selection-start="277" selection-end="318" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -3680,7 +3680,11 @@
       <created>1359252062765</created>
       <updated>1359252062765</updated>
     </task>
-    <option name="localTasksCounter" value="773" />
+    <task id="LOCAL-00773" summary="updating google cse styles">
+      <created>1359252224021</created>
+      <updated>1359252224021</updated>
+    </task>
+    <option name="localTasksCounter" value="774" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3907,20 +3911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="416" selection-end="465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_pagination.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="2" selection-start="230" selection-end="493" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="9" selection-start="399" selection-end="408" vertical-scroll-proportion="0.0">
@@ -3928,9 +3918,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_pagination.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="2" selection-start="277" selection-end="318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-search.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="29" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.7022767">
+        <state line="98" column="43" selection-start="2117" selection-end="2117" vertical-scroll-proportion="0.7618214">
           <folding />
         </state>
       </provider>
