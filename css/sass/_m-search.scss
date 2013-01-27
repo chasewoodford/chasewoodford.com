@@ -45,9 +45,16 @@ form.gsc-search-box, .gcsc-branding {
 }
 
 .gsc-webResult .gsc-result {
-  padding: $space 0;
+  padding: $space 0 !important;
 }
 
 .gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {
   color: $light-gray !important;
+}
+
+.gs-title {
+  color: $blue !important;
+  font: 18px/1.5em $font-UbuntuLtIt!important;
+  height: auto !important;
+  text-decoration: none !important;
 }
