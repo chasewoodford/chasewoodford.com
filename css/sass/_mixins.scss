@@ -182,3 +182,22 @@
     background-color: darken($endColor, 10%);
   }
 }
+
+// Breakpoints
+@mixin breakpoint($point) {
+  @if $point == venti {
+    @media (min-width: 1300px) {
+      @content;
+    }
+  }
+  @if $point == grande {
+    @media (min-width: 1020px) {
+      @content;
+    }
+  }
+  @else if $point == tall {
+    @media (max-width: 500px) {
+      @content;
+    }
+  }
+}

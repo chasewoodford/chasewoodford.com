@@ -36,6 +36,9 @@
   overflow:hidden;
   margin: 0 auto;
   width: flex-grid(8); // 67.5%
+  @include breakpoint(tall) {
+    width: 100%;
+  }
 }
 
 .grid-9 {
