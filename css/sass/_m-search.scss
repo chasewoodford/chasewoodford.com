@@ -66,5 +66,8 @@ form.gsc-search-box, .gcsc-branding {
 .gsc-cursor-box gs-bidi-start-align {
   height: $baseLineHeight * 2 !important;
   margin: $baseLineHeight 0 !important;
+}
+
+.gs-bidi-start-align {
   text-align: center !important;
 }
