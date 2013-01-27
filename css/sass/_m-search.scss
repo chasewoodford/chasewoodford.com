@@ -30,3 +30,11 @@
     color: $blueDark;
   }
 }
+
+form.gsc-search-box {
+  display: none;
+}
+
+img.gsc-branding-img, img.gsc-branding-img-noclear, img.gcsc-branding-img, img.gcsc-branding-img-noclear {
+  @include box-shadow(none);
+}
