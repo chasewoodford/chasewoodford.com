@@ -44,6 +44,10 @@ form.gsc-search-box, .gcsc-branding {
   padding: 0 !important;
 }
 
+.gsc-webResult .gsc-result {
+  padding: $space 0;
+}
+
 .gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {
   color: $light-gray !important;
 }
