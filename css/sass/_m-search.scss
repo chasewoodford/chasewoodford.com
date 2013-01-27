@@ -62,3 +62,8 @@ form.gsc-search-box, .gcsc-branding {
     text-decoration: underline !important;
   }
 }
+
+.gsc-cursor-box gs-bidi-start-align {
+  @extend .pagination;
+  @extend .pagination-centered;
+}
