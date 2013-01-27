@@ -92,3 +92,10 @@ form.gsc-search-box, .gcsc-branding {
     background-color: $blue !important;
   }
 }
+
+.gsc-results .gsc-cursor-box .gsc-cursor-page {
+  color: $blue;
+  &:hover {
+    color: $blueDark;
+  }
+}
