@@ -63,11 +63,18 @@ form.gsc-search-box, .gcsc-branding {
   }
 }
 
-.gsc-cursor-box gs-bidi-start-align {
+.gsc-results .gsc-cursor-box {
   height: $baseLineHeight * 2 !important;
   margin: $baseLineHeight 0 !important;
 }
 
 .gs-bidi-start-align {
   text-align: center !important;
+}
+
+.gsc-cursor {
+  display: inline-block !important;
+  margin-left: 0 !important;
+  margin-bottom: 0 !important;
+  @include box-shadow(0 1px 2px rgba(0,0,0,.05));
 }
