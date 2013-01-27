@@ -91,6 +91,9 @@ form.gsc-search-box, .gcsc-branding {
   &.gsc-cursor-current-page {
     color: $white !important;
     background-color: $blue !important;
+    &:hover {
+      color: $white !important;
+    }
   }
 }
 
