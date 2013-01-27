@@ -31,12 +31,8 @@
   }
 }
 
-form.gsc-search-box {
+form.gsc-search-box, .gcsc-branding {
   display: none;
-}
-
-img.gsc-branding-img, img.gsc-branding-img-noclear, img.gcsc-branding-img, img.gcsc-branding-img-noclear {
-  @include box-shadow(none);
 }
 
 .cse .gsc-control-cse, .gsc-control-cse {
