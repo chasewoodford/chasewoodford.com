@@ -147,6 +147,9 @@ h2, .h2 {
   margin: 0;
   padding: 0;
   font-size: 50px;
+  @include breakpoint(tall) {
+    font-size: 20px;
+  }
 }
 
 // titles
@@ -214,6 +217,9 @@ h4, .h4 {
 
 .right {
   float: right;
+  @include breakpoint(tall) {
+    float: none;
+  }
 }
 
 .text-right {

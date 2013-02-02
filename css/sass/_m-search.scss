@@ -12,6 +12,10 @@
     border: none;
     outline: none;
   }
+  @include breakpoint(tall) {
+    width: 75%;
+    margin-bottom: 0 !important;
+  }
 }
 
 .search-box-btn, .search-box-btn:active {
