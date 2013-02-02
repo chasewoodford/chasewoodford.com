@@ -157,6 +157,9 @@ h3, .h3 {
   margin: $space/2 0 0;
   font-family: $font-UbuntuLtReg, serif;
   text-transform: lowercase;
+  @include breakpoint(short) {
+    margin-bottom: $space*2 !important;
+  }
 }
 
 // sidebar
