@@ -88,3 +88,19 @@ input[type="radio"][readonly],
 input[type="checkbox"][readonly] {
   background-color: transparent;
 }
+
+.form-label, .form-input, .form-textarea {
+  display: inline;
+  float: left;
+  @include breakpoint(tall) {
+    float: none;
+  }
+}
+
+.form-label {
+  width: 18%;
+}
+
+.form-input, .form-textarea {
+  width: 80%;
+}

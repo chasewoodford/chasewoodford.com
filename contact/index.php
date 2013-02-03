@@ -41,22 +41,22 @@
                             </p>
                             <div id="note"></div>
                             <div id="fields">
-                                <div style="display:inline;float:left; width:18%">
+                                <div class="form-label">
                                     <label for="name">Name</label><span class="required">&nbsp;*</span>
                                 </div>
-                                <div style="display:inline;float:left; width:80%">
+                                <div class="form-input">
                                     <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" autofocus /><br />
                                 </div>
-                                <div style="display:inline;float:left; width:18%">
+                                <div class="form-label">
                                     <label for="email">Email</label><span class="required">&nbsp;*</span>
                                 </div>
-                                <div style="display:inline;float:left; width:80%">
+                                <div class="form-input">
                                     <input id="email" class="textbox" type="email" tabindex="2" name="email" value="" spellcheck="false" /><br />
                                 </div>
-                                <div style="display:inline;float:left; width:18%">
+                                <div class="form-label">
                                     <label for="comments">Comments</label>
                                 </div>
-                                <div style="display:inline;float:left; width:80%">
+                                <div class="form-textarea">
                                     <textarea id="comments" class="textbox textbox2" tabindex="3" name="message" cols="45" rows="8" spellcheck="true"></textarea>
                                 </div>
                                 <div>
