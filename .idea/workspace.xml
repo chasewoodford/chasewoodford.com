@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_m-form.scss" afterPath="$PROJECT_DIR$/css/sass/_m-form.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" afterPath="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/contact/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/compiled/style.css" afterPath="$PROJECT_DIR$/css/compiled/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/_typography.scss" afterPath="$PROJECT_DIR$/css/sass/_typography.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored mask="*.scssc" />
     <ignored mask="*.xml" />
     <ignored path=".idea/inspectionProfiles/profiles_settings.xml" />
     <ignored path=".idea/inspectionProfiles/Project_Default.xml" />
-    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359849677762" ignored="false" />
-    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359850157840" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359850520487" ignored="false" />
+    <file path="/*.regexp" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359850951910" ignored="false" />
     <file path="/index.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359850414247" ignored="false" />
     <file path="/footer.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359323009343" ignored="false" />
-    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359849632087" ignored="false" />
+    <file path="/_typography.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359850966672" ignored="false" />
     <file path="/_layout.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359323086714" ignored="false" />
     <file path="/header.php" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1356832882751" ignored="false" />
     <file path="/_base.scss" changelist="8a296c5b-eb79-4fe1-8c5a-4d39a0f4d859" time="1359849330486" ignored="false" />
@@ -130,10 +127,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_m-form.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_m-form.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="16" selection-start="1614" selection-end="1614" vertical-scroll-proportion="0.61295974">
+            <state line="95" column="16" selection-start="1614" selection-end="1614" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_typography.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="252" column="3" selection-start="6694" selection-end="6694" vertical-scroll-proportion="0.441331">
               <folding />
             </state>
           </provider>
@@ -174,11 +180,11 @@
         <option value="$PROJECT_DIR$/css/sass/_layout.scss" />
         <option value="$PROJECT_DIR$/css/sass/_m-search.scss" />
         <option value="$PROJECT_DIR$/css/sass/_base.scss" />
-        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/css/sass/_mixins.scss" />
         <option value="$PROJECT_DIR$/blog/wp-content/themes/v2/comments.php" />
         <option value="$PROJECT_DIR$/contact/index.php" />
         <option value="$PROJECT_DIR$/css/sass/_m-form.scss" />
+        <option value="$PROJECT_DIR$/css/sass/_typography.scss" />
       </list>
     </option>
   </component>
@@ -3739,7 +3745,11 @@
       <created>1359849688546</created>
       <updated>1359849688546</updated>
     </task>
-    <option name="localTasksCounter" value="790" />
+    <task id="LOCAL-00790" summary="adjusting form display on small screens">
+      <created>1359850525784</created>
+      <updated>1359850525784</updated>
+    </task>
+    <option name="localTasksCounter" value="791" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -3945,13 +3955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="248" column="16" selection-start="6671" selection-end="6671" vertical-scroll-proportion="0.29246935">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/wp-content/themes/v2/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="25" selection-start="303" selection-end="307" vertical-scroll-proportion="-0.7894737">
@@ -3975,7 +3978,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/_m-form.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="16" selection-start="1614" selection-end="1614" vertical-scroll-proportion="0.61295974">
+        <state line="95" column="16" selection-start="1614" selection-end="1614" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="252" column="3" selection-start="6694" selection-end="6694" vertical-scroll-proportion="0.441331">
           <folding />
         </state>
       </provider>

@@ -245,6 +245,9 @@ h4, .h4 {
 .attribute, .allowed-tags {
   font: normal 75%/1 $font-CallunaReg, serif;
   line-height: 20px;
+}
+
+.allowed-tags {
   @include breakpoint(tall) {
     float: left;
   }
