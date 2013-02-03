@@ -179,6 +179,9 @@ img.amazon-product {
   body.blog &, body.archive &, body.category & {
     margin-bottom: $space*1.25;
   }
+  @include breakpoint(tall) {
+    width: 30%;
+  }
 }
 
 .page-title {
