@@ -245,6 +245,9 @@ h4, .h4 {
 .attribute, .allowed-tags {
   font: normal 75%/1 $font-CallunaReg, serif;
   line-height: 20px;
+  @include breakpoint(tall) {
+    float: left;
+  }
 }
 
 body.about .nav-primary .about span.h2, body.blog .nav-primary .blog span.h2, body.work .nav-primary .work span.h2 {
