@@ -60,6 +60,9 @@ a[title^="Permalink"] {
 .comment-content {
   float: left;
   width: 80%;
+  @include breakpoint(tall) {
+    width: 100%;
+  }
 }
 
 a.comment-reply-link {
