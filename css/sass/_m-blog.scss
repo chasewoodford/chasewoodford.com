@@ -63,3 +63,9 @@ ul.update, ul.callout-list {
     float: right;
   }
 }
+
+#sidebar {
+  @include breakpoint(tall) {
+    display: none;
+  }
+}
