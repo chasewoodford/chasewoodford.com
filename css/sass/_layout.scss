@@ -188,6 +188,9 @@ img.amazon-product {
   display: inline-block;
   width: 48.5%;
   margin-right: 1%;
+  @include breakpoint(tall) {
+    width: 25%;
+  }
 }
 
 .page-links {
@@ -201,6 +204,9 @@ img.amazon-product {
     display: inline;
     width: auto;
     padding-left: $space/4;
+  }
+  @include breakpoint(tall) {
+    width: 71%;
   }
 }
 
