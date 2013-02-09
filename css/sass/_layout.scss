@@ -168,6 +168,9 @@
     width: 100%;
     text-align: left;
   }
+  @include breakpoint(tall) {
+    width: 100%;
+  }
 }
 
 img.amazon-product {
