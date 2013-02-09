@@ -10,7 +10,7 @@
   margin-bottom: $space/2;
 }
 
-body.archive .pubdate, body.category .pubdate {
+body.archive .pubdate, body.category .pubdate, body.single .pubdate {
   @include breakpoint(tall) {
     width: 100%;
   }
