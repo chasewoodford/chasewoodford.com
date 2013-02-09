@@ -45,7 +45,7 @@
                                     <label for="name">Name</label><span class="required">&nbsp;*</span>
                                 </div>
                                 <div class="form-input">
-                                    <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" autofocus /><br />
+                                    <input id="name" class="textbox" type="text" tabindex="1" name="name" value="" spellcheck="false" /><br />
                                 </div>
                                 <div class="form-label">
                                     <label for="email">Email</label><span class="required">&nbsp;*</span>
