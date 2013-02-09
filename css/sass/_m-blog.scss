@@ -38,7 +38,7 @@ ol.comment-list {
   }
 }
 
-.content-meta {
+.comment-meta {
   @include breakpoint(tall) {
     margin-bottom: $space;
   }
