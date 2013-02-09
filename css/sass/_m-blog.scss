@@ -38,8 +38,23 @@ ol.comment-list {
   }
 }
 
+.content-meta {
+  @include breakpoint(tall) {
+    margin-bottom: $space;
+  }
+}
+
 .photo.avatar {
   margin: 0 $space/2 $space/4 0;
+  @include breakpoint(tall) {
+    display: none;
+  }
+}
+
+a[title^="Permalink"] {
+  @include breakpoint(tall) {
+    display: none;
+  }
 }
 
 .comment-content {
