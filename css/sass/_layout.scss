@@ -193,6 +193,12 @@ img.amazon-product {
   }
 }
 
+body.contact .page-title {
+  @include breakpoint(tall) {
+    width: 40%;
+  }
+}
+
 .page-links {
   display: inline-block;
   width: 49%;
