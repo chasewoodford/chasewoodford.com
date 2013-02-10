@@ -78,6 +78,10 @@ ul.update, ul.callout-list {
   }
 }
 
+ul.callout-list {
+  padding-bottom: $space;
+}
+
 #respond {
   margin-top: $space*2;
 }
