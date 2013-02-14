@@ -29,3 +29,6 @@
   float: right;
 }
 
+.tweet > p {
+  @include text-overflow();
+}
