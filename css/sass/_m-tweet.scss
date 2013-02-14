@@ -30,5 +30,6 @@
 }
 
 .tweet > p {
-  @include text-overflow();
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
