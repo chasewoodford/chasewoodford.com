@@ -34,10 +34,10 @@
                 </header>
                 <section>
                     <div class="clearfix image-main">
-                        <a href="#">
+                        <a class="left" href="#">
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
-                        <ul>
+                        <ul style="font-size:14px;line-height:1.2">
                             <li>Project:<br/>2012 Golf Classic</li>
                             <li>Something:<br/>HTML5, CSS3, JavaScript, RWD</li>
                             <li></li>
