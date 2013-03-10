@@ -63,8 +63,8 @@
                 <div class="clear"></div>
             </article>
 
-            <section class="grid-12 lead preview-container">
-                <div class="lead"></div>
+            <section class="grid-12 preview-container">
+                <p class="lead"></p>
                 <div class="preview">
                     <a href="#">
                         <img src="/images/screenshot-patientJourney.png" width="200" height="100">
