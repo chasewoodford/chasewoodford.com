@@ -39,16 +39,16 @@
                         </a>
                         <div class="copyright" style="display:table;">
                             <div style="display:table-row">
-                                <div style="display:table-cell;margin-bottom: 10px">Client:</div><div style="display:table-cell;">Verilogue</div>
+                                <div style="display:table-cell;margin-bottom: 10px;margin-right:5px;">Client:</div><div style="display:table-cell;">Verilogue</div>
                             </div>
                             <div style="display:table-row">
-                                <div style="display:table-cell;margin-bottom: 10px">Project:</div><div>2012 Golf Classic</div>
+                                <div style="display:table-cell;margin-bottom: 10px;margin-right:5px;">Project:</div><div>2012 Golf Classic</div>
                             </div>
                             <div style="display:table-row">
-                                <div style="display:table-cell;margin-bottom: 10px">Type:</div><div>Website</div>
+                                <div style="display:table-cell;margin-bottom: 10px;margin-right:5px;">Type:</div><div>Website</div>
                             </div>
                             <div style="display:table-row">
-                                <div style="display:table-cell;margin-bottom: 10px">Tags:</div><div>HTML5, CSS3, JavaScript, Responsive Design</div>
+                                <div style="display:table-cell;margin-bottom: 10px;margin-right:5px;">Tags:</div><div>HTML5, CSS3, JavaScript, Responsive Design</div>
                             </div>
                         </div>
                     </div>
