@@ -33,7 +33,7 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="image-main" style="text-align: left;">
+                    <div class="clearfix image-main" style="text-align: left;">
                         <a class="left" href="#">
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
