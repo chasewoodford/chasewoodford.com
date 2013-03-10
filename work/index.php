@@ -37,11 +37,12 @@
                         <a href="#">
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
+                        <p style="font-size:14px;line-height:1.2;">
+                            Client: Verilogue<br/>Project: 2012 Golf Classic<br/>Type: Website<br/>Tags: HTML5, CSS3, JavaScript, Responsive Design
+                        </p>
                     </div>
                     <p class="lead-font">
-                        2012 Golf Classic | Web Design
-                        <br/>
-                        HTML5, CSS3, JavaScript, Responsive Design
+                        This is a captivating headline, one that will bring all the boys to the yard.
                     </p>
                     <p>
                         This is where I'll put a brief write up of the project's scope, the challenges encountered and how they were overcome. Below this introduction will be a link to read more.
