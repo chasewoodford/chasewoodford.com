@@ -32,7 +32,7 @@
                 </header>
                 <section>
                     <div class="clearfix image-main text-left">
-                        <a class="left" href="./digital/2012-golf-classic.php">
+                        <a class="left" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live">
                             <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
                         <ul class="copyright text-left" style="display:table;">
@@ -48,9 +48,7 @@
                         </ul>
                     </div>
                     <p>
-                        <!-- TODO: turn into post excerpt -->
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi...
-                        <br/><a class="no-shadow continue-reading inline" href="#">continue reading &#187;</a>
+                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
                     </p>
                 </section>
                 <div class="clear"></div>
