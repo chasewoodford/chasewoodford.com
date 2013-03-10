@@ -51,17 +51,17 @@
             <section class="grid-12 preview-container">
                 <div class="preview">
                     <a href="#">
-                        <img src="/images/screenshot-patientJourney.png">
+                        <img src="/images/screenshot-patientJourney.png" width="200" height="100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="/images/screenshot-popArchive.png">
+                        <img src="/images/screenshot-popArchive.png" width="200" height="100">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="/images/screenshot-verilogue.png">
+                        <img src="/images/screenshot-verilogue.png" width="200" height="100">
                     </a>
                 </div>
             </section>
