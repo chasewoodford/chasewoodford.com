@@ -38,7 +38,7 @@
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
                     </div>
-                    <p class="lead-font">
+                    <p class="lead-font text-center">
                         Verilogue | 2012 Golf Classic | Website
                     </p>
                     <p>
