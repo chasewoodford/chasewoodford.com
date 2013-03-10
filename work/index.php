@@ -38,10 +38,10 @@
                             <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
                         <ul class="copyright">
-                            <li>Client:<br/>Verilogue</li>
-                            <li>Project:<br/>2012 Golf Classic</li>
-                            <li>Type:<br/>Website</li>
-                            <li>Tags:<br/>HTML5, CSS3, JavaScript, Responsive Design</li>
+                            <li style="margin-bottom: 10px">Client: Verilogue</li>
+                            <li style="margin-bottom: 10px">Project: 2012 Golf Classic</li>
+                            <li style="margin-bottom: 10px">Type: Website</li>
+                            <li style="margin-bottom: 10px">Tags: HTML5, CSS3, JavaScript, Responsive Design</li>
                         </ul>
                     </div>
                     <p class="lead-font">
