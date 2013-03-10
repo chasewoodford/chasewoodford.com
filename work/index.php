@@ -33,10 +33,15 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="image-main">
+                    <div class="clearfix image-main">
                         <a href="#">
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
+                        <ul>
+                            <li>Project:<br/>2012 Golf Classic</li>
+                            <li>Something:<br/>HTML5, CSS3, JavaScript, RWD</li>
+                            <li></li>
+                        </ul>
                     </div>
                     <p class="lead-font">
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
