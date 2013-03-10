@@ -21,20 +21,18 @@
             <?php
             require('../blog/wp-blog-header.php');
             ?>
-            <article class="grid-8">
+            <article>
                 <header>
-                    <h3 class="page-title-bar">
-                        <div class="page-title">portfolio</div>
-                        <div class="page-links">
-                            <a title="download resume" href="#"><i class="icon-doc" aria-hidden="true"></i> <span>resume</span></a>
-                            <span class="divider">/</span>
-                            <a title="contact me" href="/contact"><i class="icon-chat"></i><span>contact</span></a>
-                        </div>
+                    <h3>
+                    <span class="portfolio-category">
+                        portfolio > digital
+                    </span>
+                        <a class="title-bar" href="#" title="view full post">2012 Golf Classic</a>
                     </h3>
                 </header>
                 <section>
                     <div class="image-main">
-                        <a href="./digital/2012-golf-classic.php">
+                        <a href="#">
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
                     </div>
@@ -43,8 +41,9 @@
                     </p>
                     <p
                     <p>
+                        <!-- TODO: turn into post excerpt -->
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi...
-                        <br/><a class="no-shadow continue-reading inline" href="./digital/2012-golf-classic.php">continue reading &#187;</a>
+                        <br/><a class="no-shadow continue-reading inline" href="#">continue reading &#187;</a>
                     </p>
                 </section>
                 <div class="clear"></div>
