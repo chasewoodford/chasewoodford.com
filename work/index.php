@@ -33,8 +33,8 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="image-main">
-                        <a href="#">
+                    <div class="image-main" style="text-align: left;">
+                        <a class="left" href="#">
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
                         <p style="font-size:14px;line-height:1.2;">
