@@ -42,13 +42,10 @@
                                 <div style="display:table-cell;padding-bottom:10px;">Client:</div><div style="display:table-cell;padding-left:10px;">Verilogue</div>
                             </div>
                             <div style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Project:</div><div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
+                                <div style="display:table-cell;padding-bottom:10px;">Title:</div><div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
                             </div>
                             <div style="display:table-row">
                                 <div style="display:table-cell;padding-bottom:10px;">Type:</div><div style="display:table-cell;padding-left:10px;">Website</div>
-                            </div>
-                            <div style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Tags:</div><div style="display:table-cell;padding-left:10px;">HTML5, CSS3, JavaScript, Responsive Design</div>
                             </div>
                         </div>
                     </div>
