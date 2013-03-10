@@ -27,12 +27,12 @@
                     <span class="portfolio-category">
                         portfolio > digital
                     </span>
-                        <a class="title-bar" href="#" title="view full post">2012 Golf Classic</a>
+                        <a class="title-bar" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live">2012 Golf Classic</a>
                     </h3>
                 </header>
                 <section>
                     <div class="clearfix image-main text-left">
-                        <a class="left" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live">
+                        <a class="left" href="#">
                             <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
                         <ul class="copyright text-left" style="display:table;">
