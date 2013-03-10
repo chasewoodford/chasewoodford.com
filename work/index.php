@@ -37,7 +37,7 @@
                         <a class="left" href="#">
                             <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
-                        <p style="font-size:14px;line-height:1.2;">
+                        <p class="copyright">
                             Client: Verilogue<br/>Project: 2012 Golf Classic<br/>Type: Website<br/>Tags: HTML5, CSS3, JavaScript, Responsive Design
                         </p>
                     </div>
