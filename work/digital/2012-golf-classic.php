@@ -21,7 +21,7 @@
             <?php
             require('../../blog/wp-blog-header.php');
             ?>
-            <article>
+            <article class="grid-8">
                 <header>
                     <h3>
                     <span class="portfolio-category">
@@ -31,15 +31,22 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="image-main">
-                        <a href="#">
-                            <img src="/images/screenshot-2012GolfClassic.png">
+                    <div class="clearfix image-main text-left">
+                        <a class="left" href="./digital/2012-golf-classic.php">
+                            <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
+                        <ul class="copyright text-left" style="display:table;">
+                            <li style="display:table-row">
+                                <div style="display:table-cell;padding-bottom:10px;">Client:</div><div style="display:table-cell;padding-left:10px;">Verilogue</div>
+                            </li>
+                            <li style="display:table-row">
+                                <div style="display:table-cell;padding-bottom:10px;">Title:</div><div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
+                            </li>
+                            <li style="display:table-row">
+                                <div style="display:table-cell;padding-bottom:10px;">Type:</div><div style="display:table-cell;padding-left:10px;">Website</div>
+                            </li>
+                        </ul>
                     </div>
-                    <p class="lead-font text-center">
-                        Verilogue / 2012 Golf Classic / Website
-                    </p>
-                    <p
                     <p>
                         <!-- TODO: turn into post excerpt -->
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi...
