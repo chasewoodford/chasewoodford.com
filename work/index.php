@@ -57,14 +57,14 @@
                     </p>
                     <p>
                         This is where I'll put a brief write up of the project's scope, the challenges encountered and how they were overcome. Below this introduction will be a link to read more.
-                        <br/><a class="no-shadow continue-reading inline" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>
+                        <br/><a class="no-shadow continue-reading inline" href="#">continue reading &#187;</a>
                     </p>
                 </section>
                 <div class="clear"></div>
             </article>
 
             <section class="grid-12 preview-container">
-<!--                <p class="lead"> { recently consumed } </p>-->
+                <p class="lead"></p>
                 <div class="preview">
                     <a href="#">
                         <img src="/images/screenshot-patientJourney.png" width="200" height="100">
