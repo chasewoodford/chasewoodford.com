@@ -46,6 +46,9 @@
                     <p>
                         This is where I'll put a brief write up of the project's scope, the challenges encountered and how they were overcome. Below this introduction will be a link to read more.
                     </p>
+                    <p>
+                        <a class="no-shadow continue-reading inline" href="'. get_permalink($post->ID) . '" title="View full post">continue reading &#187;</a>
+                    </p>
                 </section>
                 <div class="clear"></div>
             </article>
