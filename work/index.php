@@ -37,12 +37,20 @@
                         <a class="left" href="#">
                             <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
-                        <ul class="copyright">
-                            <li style="margin-bottom: 10px">Client: Verilogue</li>
-                            <li style="margin-bottom: 10px">Project: 2012 Golf Classic</li>
-                            <li style="margin-bottom: 10px">Type: Website</li>
-                            <li style="margin-bottom: 10px">Tags: HTML5, CSS3, JavaScript, Responsive Design</li>
-                        </ul>
+                        <div class="copyright" style="display:table;">
+                            <div style="display:table-row">
+                                <div style="display:table-cell;margin-bottom: 10px">Client:</div><div style="display:table-cell;">Verilogue</div>
+                            </div>
+                            <div style="display:table-row">
+                                <div style="display:table-cell;margin-bottom: 10px">Project:</div><div>2012 Golf Classic</div>
+                            </div>
+                            <div style="display:table-row">
+                                <div style="display:table-cell;margin-bottom: 10px">Type:</div><div>Website</div>
+                            </div>
+                            <div style="display:table-row">
+                                <div style="display:table-cell;margin-bottom: 10px">Tags:</div><div>HTML5, CSS3, JavaScript, Responsive Design</div>
+                            </div>
+                        </div>
                     </div>
                     <p class="lead-font">
                         This is a captivating headline, one that will bring all the boys to the yard.
