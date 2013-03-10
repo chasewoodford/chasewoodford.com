@@ -35,11 +35,14 @@
                 <section>
                     <div class="clearfix image-main" style="text-align: left;">
                         <a class="left" href="#">
-                            <img src="/images/screenshot-2012GolfClassic.png">
+                            <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
-                        <p class="copyright">
-                            Client: Verilogue<br/>Project: 2012 Golf Classic<br/>Type: Website<br/>Tags: HTML5, CSS3, JavaScript, Responsive Design
-                        </p>
+                        <ul class="copyright">
+                            <li>Client: Verilogue</li>
+                            <li>Project: 2012 Golf Classic</li>
+                            <li>Type: Website</li>
+                            <li>Tags: HTML5, CSS3, JavaScript, Responsive Design</li>
+                        </ul>
                     </div>
                     <p class="lead-font">
                         This is a captivating headline, one that will bring all the boys to the yard.
