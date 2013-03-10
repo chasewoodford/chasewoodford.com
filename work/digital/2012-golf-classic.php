@@ -15,11 +15,11 @@
 <div class="wrapper">
     <div class="content-wrapper">
         <?php
-        include ('../header.php');
+        include ('../../header.php');
         ?>
         <div class="grid-8 main-content" role="main">
             <?php
-            require('../blog/wp-blog-header.php');
+            require('../../blog/wp-blog-header.php');
             ?>
             <article>
                 <header>
@@ -55,5 +55,5 @@
     </div>
 </div>
 <?php
-include ('../blog/wp-content/themes/v2/footer.php');
+include ('../../blog/wp-content/themes/v2/footer.php');
 ?>
