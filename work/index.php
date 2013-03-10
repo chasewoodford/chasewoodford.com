@@ -35,7 +35,7 @@
                 <section>
                     <div class="image-main">
                         <a href="#">
-                            <img src="http://placehold.it/400x200">
+                            <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
                     </div>
                     <p class="lead-font">
@@ -51,22 +51,17 @@
             <section class="grid-12 preview-container">
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x100">
+                        <img src="/images/screenshot-patientJourney.png">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x100">
+                        <img src="/images/screenshot-popArchive.png">
                     </a>
                 </div>
                 <div class="preview">
                     <a href="#">
-                        <img src="http://placehold.it/200x100">
-                    </a>
-                </div>
-                <div class="preview">
-                    <a href="#">
-                        <img src="http://placehold.it/200x100">
+                        <img src="/images/screenshot-verilogue.png">
                     </a>
                 </div>
             </section>
