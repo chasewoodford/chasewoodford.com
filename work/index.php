@@ -49,11 +49,8 @@
                             </div>
                         </div>
                     </div>
-                    <p class="lead-font">
-                        This is a captivating headline, one that will bring all the boys to the yard.
-                    </p>
                     <p>
-                        This is where I'll put a brief write up of the project's scope, the challenges encountered and how they were overcome. Below this introduction will be a link to read more.
+                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
                         <br/><a class="no-shadow continue-reading inline" href="#">continue reading &#187;</a>
                     </p>
                 </section>
