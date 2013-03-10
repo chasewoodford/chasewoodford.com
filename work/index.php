@@ -18,9 +18,6 @@
         include ('../header.php');
         ?>
         <div class="grid-8 main-content" role="main">
-            <?php
-            require('../blog/wp-blog-header.php');
-            ?>
             <article class="grid-8">
                 <header>
                     <h3 class="page-title-bar">
