@@ -45,7 +45,7 @@
                                 <div style="display:table-cell;padding-bottom:10px;">Title:</div><div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
                             </div>
                             <div style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Type:</div><div style="display:table-cell;padding-left:10px;"><i class="icon-monitor"></i></div>
+                                <div style="display:table-cell;padding-bottom:10px;">Type:</div><div style="display:table-cell;padding-left:10px;"><i class="icon-monitor"></i><i class="icon-mobile"></i></div>
                             </div>
                         </div>
                     </div>
