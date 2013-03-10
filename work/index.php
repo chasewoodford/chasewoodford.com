@@ -52,7 +52,7 @@
             </article>
 
             <section class="grid-12 preview-container">
-                <p class="lead"> { recently consumed } </p>
+<!--                <p class="lead"> { recently consumed } </p>-->
                 <div class="preview">
                     <a href="#">
                         <img src="/images/screenshot-patientJourney.png" width="200" height="100">
