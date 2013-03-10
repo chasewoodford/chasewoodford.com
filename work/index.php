@@ -33,22 +33,14 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="clearfix image-main" style="text-align: left;">
-                        <a class="left" href="#">
-                            <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
+                    <div class="image-main">
+                        <a href="#">
+                            <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
-                        <div class="copyright" style="display:table;">
-                            <div style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Client:</div><div style="display:table-cell;padding-left:10px;">Verilogue</div>
-                            </div>
-                            <div style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Title:</div><div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
-                            </div>
-                            <div style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Type:</div><div style="display:table-cell;padding-left:10px;">Website</div>
-                            </div>
-                        </div>
                     </div>
+                    <p class="lead-font">
+                        Verilogue | 2012 Golf Classic | Website
+                    </p>
                     <p>
                         <!-- TODO: turn into post excerpt -->
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi...
