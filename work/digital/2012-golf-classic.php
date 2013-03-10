@@ -27,7 +27,7 @@
                     <span class="portfolio-category">
                         portfolio > digital
                     </span>
-                        <a class="title-bar" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live">2012 Golf Classic</a>
+                        <a class="title-bar" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">2012 Golf Classic<sup><i class="icon-popup"></i></sup></a>
                     </h3>
                 </header>
                 <section>
