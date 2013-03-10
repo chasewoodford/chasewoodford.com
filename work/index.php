@@ -50,7 +50,7 @@
                 <div class="clear"></div>
             </article>
             <?php
-            include ('../portfolio-previews.php');
+            include ('portfolio-previews.php');
             ?>
         </div>
     </div>
