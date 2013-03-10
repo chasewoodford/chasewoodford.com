@@ -41,10 +41,10 @@
                     <p class="lead-font">
                         Project: 2012 Golf Classic
                         <br/>
-                        Something: HTML5, CSS3, JavaScript, Responsive Design
+                        Tags: HTML5, CSS3, JavaScript, Responsive Design
                     </p>
                     <p>
-                        Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+                        This is where I'll put a brief write up of the project's scope, the challenges encountered and how they were overcome. Below this introduction will be a link to read more.
                     </p>
                 </section>
                 <div class="clear"></div>
