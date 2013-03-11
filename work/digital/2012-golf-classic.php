@@ -37,13 +37,20 @@
                         </a>
                         <ul class="copyright text-left" style="display:table;">
                             <li style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Client:</div><div style="display:table-cell;padding-left:10px;">Verilogue</div>
+                                <div style="display:table-cell;padding-bottom:10px;">Client:</div>
+                                <div style="display:table-cell;padding-left:10px;">Verilogue</div>
                             </li>
                             <li style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Title:</div><div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
+                                <div style="display:table-cell;padding-bottom:10px;">Title:</div>
+                                <div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
                             </li>
                             <li style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Type:</div><div style="display:table-cell;padding-left:10px;">Website</div>
+                                <div style="display:table-cell;padding-bottom:10px;">Type:</div>
+                                <div style="display:table-cell;padding-left:10px;">Website</div>
+                            </li>
+                            <li style="display:table-row">
+                                <div style="display:table-cell;padding-bottom:10px;">Tags:</div>
+                                <div style="display:table-cell;padding-left:10px;">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration</div>
                             </li>
                         </ul>
                     </div>
