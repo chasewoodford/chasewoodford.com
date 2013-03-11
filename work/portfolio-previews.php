@@ -1,4 +1,4 @@
-<section class="grid-12 preview-container">
+<section class="grid-12 text-center">
     <p class="lead"></p>
     <div class="preview">
         <a href="#">

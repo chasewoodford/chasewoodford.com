@@ -34,9 +34,12 @@
                 </header>
                 <section>
                     <div class="clearfix image-main text-left">
-                        <a class="left" href="./digital/2012-golf-classic.php">
-                            <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
-                        </a>
+                        <div class="side-corner-tag">
+                            <a class="left" href="./digital/2012-golf-classic.php">
+                                <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
+                            </a>
+                            <p><span>newest</span></p>
+                        </div>
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>
