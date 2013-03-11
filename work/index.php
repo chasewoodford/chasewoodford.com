@@ -37,7 +37,7 @@
                         <a class="left" href="./digital/2012-golf-classic.php">
                             <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
-                        <ul class="metadata text-left table">
+                        <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>
                                 <div class="table-data">Verilogue</div>

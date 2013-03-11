@@ -250,6 +250,11 @@ h4, .h4 {
   }
 }
 
+.table {
+  font: normal 75%/1.2 $font-UbuntuLtReg, serif;
+  text-transform: lowercase;
+}
+
 body.about .nav-primary .about span.h2, body.blog .nav-primary .blog span.h2, body.work .nav-primary .work span.h2 {
   color: $blueDark;
   text-decoration: none;
