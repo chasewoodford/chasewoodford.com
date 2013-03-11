@@ -271,3 +271,21 @@ body.contact .page-title {
     display: table-cell;
   }
 }
+
+.table {
+  display: table;
+}
+
+.table-row {
+  display: table-row;
+}
+
+.table-title {
+  display: table-cell;
+  padding: 0 0 $space/2 0;
+}
+
+.table-data {
+  @extend .table-title;
+  padding-left: $space/2;
+}

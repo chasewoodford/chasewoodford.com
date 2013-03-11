@@ -37,19 +37,22 @@
                         <a class="left" href="./digital/2012-golf-classic.php">
                             <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
-                        <ul class="copyright text-left" style="display:table;">
-                            <li style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Client:</div><div style="display:table-cell;padding-left:10px;">Verilogue</div>
+                        <ul class="metadata text-left table">
+                            <li class="table-row">
+                                <div class="table-title">Client:</div>
+                                <div class="table-data">Verilogue</div>
                             </li>
-                            <li style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Title:</div><div style="display:table-cell;padding-left:10px;">2012 Golf Classic</div>
+                            <li class="table-row">
+                                <div class="table-title">Title:</div>
+                                <div class="table-data">2012 Golf Classic</div>
                             </li>
-                            <li style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Type:</div><div style="display:table-cell;padding-left:10px;">Website</div>
+                            <li class="table-row">
+                                <div class="table-title">Type:</div>
+                                <div class="table-data">Website</div>
                             </li>
-                            <li style="display:table-row">
-                                <div style="display:table-cell;padding-bottom:10px;">Tags:</div>
-                                <div style="display:table-cell;padding-left:10px;">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration</div>
+                            <li class="table-row">
+                                <div class="table-title">Tags:</div>
+                                <div class="table-data">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration</div>
                             </li>
                         </ul>
                     </div>
