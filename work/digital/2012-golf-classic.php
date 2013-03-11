@@ -31,7 +31,7 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="grid-8 clearfix image-main text-left">
+                    <div class="grid-9 clearfix image-main text-left">
                         <a class="left" href="#">
                             <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                         </a>
