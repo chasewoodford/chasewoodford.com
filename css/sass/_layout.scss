@@ -274,6 +274,9 @@ body.contact .page-title {
 
 .table {
   display: table;
+  @include breakpoint(tall) {
+    padding: 0 $space/2;
+  }
 }
 
 .table-row {
