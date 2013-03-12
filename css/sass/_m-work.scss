@@ -62,4 +62,9 @@
   @include breakpoint(tall) {
     margin: 0 0 $space/4;
   }
+  &.main {
+    @include breakpoint(tall) {
+      margin: 0 0 $space/2;
+    }
+  }
 }
