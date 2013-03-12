@@ -32,8 +32,8 @@
                 </header>
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
-                        <a class="left" href="#">
-                            <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
+                        <a class="left screenshot" href="#">
+                            <img src="/images/screenshot-2012GolfClassic.png">
                         </a>
                         <ul class="text-left table">
                             <li class="table-row">
