@@ -49,5 +49,10 @@
       @include rotate(-45deg);
       @include border-radius(6px 6px 0 0);
     }
+    &.ribbon {
+      @include breakpoint(tall) {
+        display: none;
+      }
+    }
   }
 }

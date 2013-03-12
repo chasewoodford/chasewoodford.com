@@ -38,7 +38,9 @@
                             <a class="left" href="./digital/2012-golf-classic.php">
                                 <img src="/images/screenshot-2012GolfClassic.png" style="margin-right:10px;">
                             </a>
-                            <p><span class="text-center">featured</span></p>
+                            <p class="ribbon">
+                                <span class="text-center">featured</span>
+                            </p>
                         </div>
                         <ul class="text-left table">
                             <li class="table-row">
