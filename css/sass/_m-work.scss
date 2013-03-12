@@ -56,3 +56,10 @@
     }
   }
 }
+
+.screenshot img {
+  margin: 0 $space/2 0 0;
+  @include breakpoint(tall) {
+    margin: 0 0 $space/4;
+  }
+}
