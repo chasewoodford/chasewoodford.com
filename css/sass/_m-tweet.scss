@@ -3,6 +3,7 @@
   float: left;
   width: 88%;
   margin: $space/4 auto $space/2;
+  padding: 0 $space/10;
   font-family: $font-UbuntuLtIt;
   text-align: justify;
   @include breakpoint(tall) {
