@@ -1,1 +1,1 @@
-<h1>Whoa! Look-ey here, ftploy works!</h1>
+<h1>Whoa! Look-ey here, it works!</h1>
