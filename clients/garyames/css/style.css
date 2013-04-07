@@ -18,7 +18,7 @@ a:hover { text-decoration: underline; }
 .container > header h1 { font-size: 70px; line-height: 38px; letter-spacing: 10px; text-transform: uppercase; margin: 0 auto; font-weight: 700; color: #FFF; text-shadow: 0 -1px 0 #c9cece, 0 1px 0 #bcc2c1, 0 2px 0 #aeb6b5, 0 3px 0 #a3acab, 0 4px 0 #9ea7a6, 0 5px 0 #99a2a1, 0 6px 0 #96a09f, 0 7px 0 #939e9d, 0 0 4px rgba(0, 0, 0, 0.05), 0 0 1px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.2), 0 2px 5px rgba(0, 0, 0, 0.2), 0 10px 10px rgba(0, 0, 0, 0.2), 0 10px 10px rgba(0, 0, 0, 0.3); }
 .container > header h1 span { display: block; position: relative; top: 40px; color: rgba(0, 0, 0, 0.4); font-size: 20px; font-weight: 400; text-shadow: none; letter-spacing: 2px; }
 
-.main > p { color: rgba(0, 0, 0, 0.4); font-size: 20px; font-weight: 400; letter-spacing: 2px; text-align: center; padding: 50px 20px; }
+.main > p { text-align: center; padding: 50px 20px; }
 
 .top-banner { line-height: 24px; font-size: 11px; background: #fff; text-transform: uppercase; z-index: 9999; position: relative; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); }
 .top-banner a { padding: 0px 10px; letter-spacing: 1px; color: #333; display: inline-block; }
