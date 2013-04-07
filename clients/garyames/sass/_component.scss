@@ -19,6 +19,7 @@
         outline: none;
         display: block;
         position: relative;
+        border-radius: 20px;
       }
     }
     &.og-expanded > a::after {
@@ -118,6 +119,7 @@
     display: inline-block;
     max-height: 100%;
     max-width: 100%;
+    border-radius: 40px;
   }
 }
 
