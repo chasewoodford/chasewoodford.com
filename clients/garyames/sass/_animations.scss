@@ -40,28 +40,28 @@
   -moz-animation-duration: 1s;
   animation-duration: 1s;
   &.one {
-    -webkit-animation-delay: 0.7s;
-    -moz-animation-delay: 0.7s;
-    animation-delay: 0.7s;
+    -webkit-animation-delay: 0.4s;
+    -moz-animation-delay: 0.4s;
+    animation-delay: 0.4s;
   }
   &.two {
+    -webkit-animation-delay: 0.8s;
+    -moz-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+  }
+  &.three {
     -webkit-animation-delay: 1.2s;
     -moz-animation-delay: 1.2s;
     animation-delay: 1.2s;
   }
-  &.three {
+  &.four {
     -webkit-animation-delay: 1.6s;
     -moz-animation-delay: 1.6s;
     animation-delay: 1.6s;
   }
-  &.four {
+  &.five {
     -webkit-animation-delay: 2s;
     -moz-animation-delay: 2s;
     animation-delay: 2s;
-  }
-  &.five {
-    -webkit-animation-delay: 2.4s;
-    -moz-animation-delay: 2.4s;
-    animation-delay: 2.4s;
   }
 }
