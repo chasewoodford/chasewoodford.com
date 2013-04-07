@@ -67,7 +67,7 @@
     width: 100%;
     top: 50%;
     height: 1px;
-    background: #FFF;
+    background: rgba(0,0,0,0.4);
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -78,7 +78,7 @@
     width: 100%;
     top: 50%;
     height: 1px;
-    background: #FFF;
+    background: rgba(0,0,0,0.4);
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -88,7 +88,7 @@
   }
   &:hover {
     &::before, &::after {
-      background: #333;
+      background: rgba(0,0,0,0.8);
     }
   }
 }

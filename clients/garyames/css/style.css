@@ -36,9 +36,9 @@ a { color: #555; text-decoration: none; }
 .og-expander-inner { padding: 50px 30px; height: 100%; }
 
 .og-close { position: absolute; width: 40px; height: 40px; top: 20px; right: 20px; cursor: pointer; }
-.og-close::before { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: #FFF; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); }
-.og-close::after { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: #FFF; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); transform: rotate(-45deg); }
-.og-close:hover::before, .og-close:hover::after { background: #333; }
+.og-close::before { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: rgba(0, 0, 0, 0.4); -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); }
+.og-close::after { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: rgba(0, 0, 0, 0.4); -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); transform: rotate(-45deg); }
+.og-close:hover::before, .og-close:hover::after { background: rgba(0, 0, 0, 0.8); }
 
 .og-fullimg { width: 50%; float: left; height: 100%; overflow: hidden; position: relative; }
 
