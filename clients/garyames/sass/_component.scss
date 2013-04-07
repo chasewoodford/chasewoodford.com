@@ -149,11 +149,7 @@
     &::before {
       content: '\2192';
       display: inline-block;
-      position: relative;
       margin-right: 10px;
-      &:hover {
-        left: 5px;
-      }
     }
     &:hover {
       opacity: 1;
