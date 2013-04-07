@@ -37,7 +37,7 @@ body {
   background: #9cb8b3;
   font-weight: 300;
   font-size: 15px;
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.6);
   overflow: scroll;
   overflow-x: hidden;
 }
@@ -89,7 +89,7 @@ a {
         display: block;
         position: relative;
         top: 40px;
-        color: rgba(0, 0, 0, 0.4);
+        color: rgba(0, 0, 0, 0.6);
         font-size: 20px;
         font-weight: 400;
         text-shadow: none;
@@ -118,7 +118,7 @@ a {
   a {
     padding: 0px 10px;
     letter-spacing: 1px;
-    color: rgba(0, 0, 0, 0.4);
+    color: rgba(0, 0, 0, 0.6);
     display: inline-block;
     &:hover {
       color: rgba(0, 0, 0, 0.9);

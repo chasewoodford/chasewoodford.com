@@ -8,7 +8,7 @@ html { height: 100%; }
 .clearfix:before { content: " "; display: table; }
 .clearfix:after { content: " "; display: table; clear: both; }
 
-body { font-family: 'Lato', Calibri, Arial, sans-serif; background: #9cb8b3; font-weight: 300; font-size: 15px; color: rgba(0, 0, 0, 0.4); overflow: scroll; overflow-x: hidden; }
+body { font-family: 'Lato', Calibri, Arial, sans-serif; background: #9cb8b3; font-weight: 300; font-size: 15px; color: rgba(0, 0, 0, 0.6); overflow: scroll; overflow-x: hidden; }
 
 a { color: #555; text-decoration: none; }
 a:hover { color: rgba(0, 0, 0, 0.9); text-decoration: underline; }
@@ -16,13 +16,13 @@ a:hover { color: rgba(0, 0, 0, 0.9); text-decoration: underline; }
 .container { width: 100%; position: relative; }
 .container > header { width: 90%; max-width: 1240px; margin: 0 auto; position: relative; padding: 0 30px 50px 30px; padding: 60px 30px 50px; text-align: center; }
 .container > header h1 { font-size: 70px; line-height: 38px; letter-spacing: 10px; text-transform: uppercase; margin: 0 auto; font-weight: 700; color: #FFF; text-shadow: 0 -1px 0 #c9cece, 0 1px 0 #bcc2c1, 0 2px 0 #aeb6b5, 0 3px 0 #a3acab, 0 4px 0 #9ea7a6, 0 5px 0 #99a2a1, 0 6px 0 #96a09f, 0 7px 0 #939e9d, 0 0 4px rgba(0, 0, 0, 0.05), 0 0 1px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.2), 0 2px 5px rgba(0, 0, 0, 0.2), 0 10px 10px rgba(0, 0, 0, 0.2), 0 10px 10px rgba(0, 0, 0, 0.3); }
-.container > header h1 span { display: block; position: relative; top: 40px; color: rgba(0, 0, 0, 0.4); font-size: 20px; font-weight: 400; text-shadow: none; letter-spacing: 2px; }
+.container > header h1 span { display: block; position: relative; top: 40px; color: rgba(0, 0, 0, 0.6); font-size: 20px; font-weight: 400; text-shadow: none; letter-spacing: 2px; }
 
 .main > p { text-align: center; padding: 50px 20px; }
 .main > p a { vertical-align: middle; }
 
 .top-banner { line-height: 24px; font-size: 11px; background: #fff; text-transform: uppercase; z-index: 9999; position: relative; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); }
-.top-banner a { padding: 0px 10px; letter-spacing: 1px; color: rgba(0, 0, 0, 0.4); display: inline-block; }
+.top-banner a { padding: 0px 10px; letter-spacing: 1px; color: rgba(0, 0, 0, 0.6); display: inline-block; }
 .top-banner a:hover { color: rgba(0, 0, 0, 0.9); }
 .top-banner span.right { float: right; }
 .top-banner span.right a { float: left; display: block; }
@@ -50,9 +50,10 @@ a:hover { color: rgba(0, 0, 0, 0.9); text-decoration: underline; }
 .og-fullimg img { display: inline-block; max-height: 100%; max-width: 100%; }
 
 .og-details h3 { font-weight: 300; font-size: 52px; padding: 40px 0 10px; margin-bottom: 10px; }
-.og-details p { font-weight: 400; font-size: 16px; line-height: 22px; color: rgba(0, 0, 0, 0.4); }
+.og-details p { font-weight: 400; font-size: 16px; line-height: 22px; color: rgba(0, 0, 0, 0.6); }
 .og-details a { font-weight: 700; font-size: 16px; color: #9cb8b3; text-transform: uppercase; letter-spacing: 2px; padding: 10px 20px; border: 3px solid #9cb8b3; display: inline-block; margin: 30px 0 0; outline: none; opacity: 0.8; }
-.og-details a::before { content: '\2192'; display: inline-block; margin-right: 10px; }
+.og-details a::before { content: '\2192'; display: inline-block; position: relative; margin-right: 10px; }
+.og-details a::before:hover { left: 5px; }
 .og-details a:hover { opacity: 1; }
 
 .og-loading { width: 20px; height: 20px; border-radius: 50%; background: #ddd; box-shadow: 0 0 1px #cccccc, 15px 30px 1px #cccccc, -15px 30px 1px #cccccc; position: absolute; top: 50%; left: 50%; margin: -25px 0 0 -25px; -webkit-animation: loader 0.5s infinite ease-in-out both; -moz-animation: loader 0.5s infinite ease-in-out both; animation: loader 0.5s infinite ease-in-out both; }
