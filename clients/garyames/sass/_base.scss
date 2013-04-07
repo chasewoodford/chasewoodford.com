@@ -46,6 +46,7 @@ a {
   color: #555;
   text-decoration: none;
   &:hover {
+    color: rgba(0, 0, 0, 0.9);
     text-decoration: underline;
   }
 }
@@ -117,11 +118,10 @@ a {
   a {
     padding: 0px 10px;
     letter-spacing: 1px;
-    color: #333;
+    color: rgba(0, 0, 0, 0.4);
     display: inline-block;
     &:hover {
-      background: rgba(255, 255, 255, 0.8);
-      color: #000;
+      color: rgba(0, 0, 0, 0.9);
     }
   }
   span.right {
