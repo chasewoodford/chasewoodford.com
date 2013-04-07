@@ -143,13 +143,14 @@
     display: inline-block;
     margin: 30px 0 0;
     outline: none;
+    opacity: 0.7;
     &::before {
       content: '\2192';
       display: inline-block;
       margin-right: 10px;
     }
     &:hover {
-      opacity: 0.8;
+      opacity: 1;
     }
   }
 }
