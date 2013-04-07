@@ -19,11 +19,11 @@ a { color: #555; text-decoration: none; }
 
 .main > p { text-align: center; padding: 50px 20px; }
 
-.codrops-top { line-height: 24px; font-size: 11px; background: #fff; text-transform: uppercase; z-index: 9999; position: relative; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); }
-.codrops-top a { padding: 0px 10px; letter-spacing: 1px; color: #333; display: inline-block; }
-.codrops-top a:hover { background: rgba(255, 255, 255, 0.8); color: #000; }
-.codrops-top span.right { float: right; }
-.codrops-top span.right a { float: left; display: block; }
+.top-banner { line-height: 24px; font-size: 11px; background: #fff; text-transform: uppercase; z-index: 9999; position: relative; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); }
+.top-banner a { padding: 0px 10px; letter-spacing: 1px; color: #333; display: inline-block; }
+.top-banner a:hover { background: rgba(255, 255, 255, 0.8); color: #000; }
+.top-banner span.right { float: right; }
+.top-banner span.right a { float: left; display: block; }
 
 .og-grid { list-style: none; padding: 20px 0; margin: 0 auto; text-align: center; width: 100%; }
 .og-grid li { display: inline-block; margin: 10px 5px 0 5px; vertical-align: top; height: 250px; }
@@ -31,13 +31,13 @@ a { color: #555; text-decoration: none; }
 .og-grid li > a img { border: none; outline: none; display: block; position: relative; }
 .og-grid li.og-expanded > a::after { top: auto; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-bottom-color: #ddd; border-width: 15px; left: 50%; margin: -20px 0 0 -15px; }
 
-.og-expander { position: absolute; background: #ddd; top: auto; left: 0; width: 100%; margin-top: 10px; text-align: left; height: 0; overflow: hidden; }
+.og-expander { position: absolute; background: #FFF; top: auto; left: 0; width: 100%; margin-top: 10px; text-align: left; height: 0; overflow: hidden; }
 
 .og-expander-inner { padding: 50px 30px; height: 100%; }
 
 .og-close { position: absolute; width: 40px; height: 40px; top: 20px; right: 20px; cursor: pointer; }
-.og-close::before { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: #888; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); }
-.og-close::after { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: #888; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); transform: rotate(-45deg); }
+.og-close::before { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: #FFF; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); }
+.og-close::after { content: ''; position: absolute; width: 100%; top: 50%; height: 1px; background: #FFF; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); transform: rotate(-45deg); }
 .og-close:hover::before, .og-close:hover::after { background: #333; }
 
 .og-fullimg { width: 50%; float: left; height: 100%; overflow: hidden; position: relative; }
