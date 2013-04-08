@@ -172,7 +172,7 @@
   animation: loader 0.5s infinite ease-in-out both;
 }
 
-li h1 {
+li h2 {
   background-color: rgba(0,0,0,0.8);
   position: relative;
   color: #fff;
@@ -189,7 +189,7 @@ li h1 {
   height: 250px;
   text-align: center;
   line-height: 250px;
-  text-decoration: none;
+  text-transform: uppercase;
   &:hover {
     opacity: 1;
   }
