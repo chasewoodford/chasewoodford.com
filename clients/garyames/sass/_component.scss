@@ -26,6 +26,8 @@
         color: #FFF;
         line-height: 250px;
         z-index:1;
+        border: solid 6px #fff;
+        outline: solid 6px #888;
         &:hover {
           background: #9cb8b3;
         }
@@ -49,7 +51,7 @@
     &.ebook .overlay:hover::after {
       content: "about";
     }
-    &.about .overlay:hover::after {
+    &.contact .overlay:hover::after {
       content: "contact";
     }
     &.og-expanded > a::after {
