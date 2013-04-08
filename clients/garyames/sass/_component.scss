@@ -25,11 +25,12 @@
         height: 250px;
         color: #FFF;
         line-height: 250px;
+        font-size: 40px;
         z-index:1;
-        border: solid 6px #fff;
-        outline: solid 6px #888;
         &:hover {
           background: #9cb8b3;
+          border: solid 6px #fff;
+          outline: solid 6px #9cb8b3;
         }
       }
       img {
