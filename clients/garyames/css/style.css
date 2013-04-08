@@ -34,7 +34,7 @@ a.no-decoration { text-decoration: none; }
 .og-grid li > a { border: none; outline: none; display: block; position: relative; }
 .og-grid li > a > .image { width: 250px; height: 250px; z-index: 0; }
 .og-grid li > a > .overlay { position: absolute; background: transparent; width: 250px; height: 250px; padding-top: 107px; color: #FFF; font-size: 20px; font-weight: 400; text-transform: uppercase; z-index: 1; }
-.og-grid li > a > .overlay:hover { background: #9cb8b3; border: solid 6px #FFF; opacity: 0.8; -webkit-transition: background 0.3s ease-out; /* Chrome 1-25, Safari 3.2+ */ -moz-transition: background 0.3s ease-out; /* Firefox 4-15 */ -o-transition: background 0.3s ease-out; /* Opera 10.50–12.00 */ transition: background 0.3s ease-out; }
+.og-grid li > a > .overlay:hover { background: #9cb8b3; border: solid 6px #FFF; opacity: 0.8; -webkit-transition: background 0.5s ease-out; /* Chrome 1-25, Safari 3.2+ */ -moz-transition: background 0.5s ease-out; /* Firefox 4-15 */ -o-transition: background 0.5s ease-out; /* Opera 10.50–12.00 */ transition: background 0.5s ease-out; }
 .og-grid li > a img { border: none; outline: none; display: block; position: relative; }
 .og-grid li.about .overlay:hover::after { content: "about"; }
 .og-grid li.quote .overlay:hover::after { content: "featured article"; }
