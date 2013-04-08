@@ -6,6 +6,7 @@
   width: 100%;
   li {
     display: inline-block;
+    overflow: hidden;
     margin: 10px 5px 0 5px;
     vertical-align: top;
     height: 250px;
@@ -172,7 +173,7 @@
   animation: loader 0.5s infinite ease-in-out both;
 }
 
-li h2 {
+li h3 {
   background-color: rgba(0,0,0,0.8);
   position: relative;
   color: #fff;

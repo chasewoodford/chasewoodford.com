@@ -29,7 +29,7 @@ a.no-decoration { text-decoration: none; }
 .top-banner span.right a { float: left; display: block; }
 
 .og-grid { list-style: none; padding: 20px 0; margin: 0 auto; text-align: center; width: 100%; }
-.og-grid li { display: inline-block; margin: 10px 5px 0 5px; vertical-align: top; height: 250px; }
+.og-grid li { display: inline-block; overflow: hidden; margin: 10px 5px 0 5px; vertical-align: top; height: 250px; }
 .og-grid li > a { border: none; outline: none; display: block; position: relative; }
 .og-grid li > a img { border: none; outline: none; display: block; position: relative; }
 .og-grid li.og-expanded > a::after { top: auto; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-bottom-color: #FFF; border-width: 15px; left: 50%; margin: -20px 0 0 -15px; }
@@ -58,8 +58,8 @@ a.no-decoration { text-decoration: none; }
 
 .og-loading { width: 20px; height: 20px; border-radius: 50%; background: #ddd; box-shadow: 0 0 1px #cccccc, 15px 30px 1px #cccccc, -15px 30px 1px #cccccc; position: absolute; top: 50%; left: 50%; margin: -25px 0 0 -25px; -webkit-animation: loader 0.5s infinite ease-in-out both; -moz-animation: loader 0.5s infinite ease-in-out both; animation: loader 0.5s infinite ease-in-out both; }
 
-li h2 { background-color: rgba(0, 0, 0, 0.8); position: relative; color: #fff; z-index: 100; -webkit-transition: all 300ms ease-out; -moz-transition: all 300ms ease-out; -o-transition: all 300ms ease-out; -ms-transition: all 300ms ease-out; transition: all 300ms ease-out; top: -250px; left: 0; opacity: 0; width: 250px; height: 250px; text-align: center; line-height: 250px; text-transform: uppercase; }
-li h2:hover { opacity: 1; }
+li h3 { background-color: rgba(0, 0, 0, 0.8); position: relative; color: #fff; z-index: 100; -webkit-transition: all 300ms ease-out; -moz-transition: all 300ms ease-out; -o-transition: all 300ms ease-out; -ms-transition: all 300ms ease-out; transition: all 300ms ease-out; top: -250px; left: 0; opacity: 0; width: 250px; height: 250px; text-align: center; line-height: 250px; text-transform: uppercase; }
+li h3:hover { opacity: 1; }
 
 @-webkit-keyframes loader { 0% { background: #ddd; }
   33% { background: #ccc; box-shadow: 0 0 1px #cccccc, 15px 30px 1px #cccccc, -15px 30px 1px #dddddd; }
