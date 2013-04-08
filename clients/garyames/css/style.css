@@ -29,7 +29,7 @@ a.no-decoration { text-decoration: none; }
 .top-banner span.right a { float: left; display: block; }
 
 .og-grid { list-style: none; padding: 20px 0; margin: 0 auto; text-align: center; width: 100%; }
-.og-grid li { display: inline-block; margin: 10px 5px 0 5px; vertical-align: top; height: 250px; }
+.og-grid li { display: inline-block; margin: 10px 5px 0 5px; vertical-align: top; height: 250px; opacity: 0; }
 .og-grid li > a { border: none; outline: none; display: block; position: relative; }
 .og-grid li > a > .image { width: 250px; height: 250px; z-index: 0; }
 .og-grid li > a > .overlay { position: absolute; background: transparent; width: 250px; height: 250px; padding-top: 107px; color: #FFF; font-size: 20px; font-weight: 400; text-transform: uppercase; z-index: 1; }
@@ -92,7 +92,7 @@ a.no-decoration { text-decoration: none; }
 @keyframes fadeIn { from { opacity: 0; }
   to { opacity: 1; } }
 
-.fade-in { background: #9cb8b3; -webkit-animation: fadeIn ease-in 0.8; -moz-animation: fadeIn ease-in 0.8; animation: fadeIn ease-in 0.8; -webkit-animation-fill-mode: forwards; -moz-animation-fill-mode: forwards; animation-fill-mode: forwards; -webkit-animation-duration: 0.8s; -moz-animation-duration: 0.8s; animation-duration: 0.8s; }
+.fade-in { -webkit-animation: fadeIn ease-in 0.8; -moz-animation: fadeIn ease-in 0.8; animation: fadeIn ease-in 0.8; -webkit-animation-fill-mode: forwards; -moz-animation-fill-mode: forwards; animation-fill-mode: forwards; -webkit-animation-duration: 0.8s; -moz-animation-duration: 0.8s; animation-duration: 0.8s; }
 .fade-in.one { -webkit-animation-delay: 0.5s; -moz-animation-delay: 0.5s; animation-delay: 0.5s; }
 .fade-in.two { -webkit-animation-delay: 0.8s; -moz-animation-delay: 0.8s; animation-delay: 0.8s; }
 .fade-in.three { -webkit-animation-delay: 1.1s; -moz-animation-delay: 1.1s; animation-delay: 1.1s; }
