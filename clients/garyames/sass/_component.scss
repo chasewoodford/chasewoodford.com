@@ -25,13 +25,33 @@
         height: 250px;
         z-index:1;
         &:hover {
-          background-color: red;
+          background-color: #FFF;
         }
-        &:hover:after {
-          content: "test";
-          color: #FFF;
-          line-height: 250px;
-        }
+      }
+      &.about .overlay:hover::after {
+        content: "about";
+        color: #FFF;
+        line-height: 250px;
+      }
+      &.quote .overlay:hover::after {
+        content: "featured article";
+        color: #FFF;
+        line-height: 250px;
+      }
+      &.chapters .overlay:hover::after {
+        content: "about";
+        color: #FFF;
+        line-height: 250px;
+      }
+      &.ebook .overlay:hover::after {
+        content: "about";
+        color: #FFF;
+        line-height: 250px;
+      }
+      &.about .overlay:hover::after {
+        content: "contact";
+        color: #FFF;
+        line-height: 250px;
       }
       img {
         border: none;
