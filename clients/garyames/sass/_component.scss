@@ -9,6 +9,10 @@
     margin: 10px 5px 0 5px;
     vertical-align: top;
     height: 250px;
+    -webkit-transition: all 0.3s ease-out;  /* Chrome 1-25, Safari 3.2+ */
+    -moz-transition: all 0.3s ease-out;  /* Firefox 4-15 */
+    -o-transition: all 0.3s ease-out;  /* Opera 10.50–12.00 */
+    transition: all 0.3s ease-out;
     > a {
       border: none;
       outline: none;
@@ -29,7 +33,6 @@
         font-weight: 400;
         text-transform: uppercase;
         z-index:1;
-        transition: 0.2s all linear;
         &:hover {
           background: #9cb8b3;
           border: solid 6px #FFF;
