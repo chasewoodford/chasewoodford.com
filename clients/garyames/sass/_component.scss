@@ -37,7 +37,7 @@
   }
 }
 
-.image { position:absolute; width:250px; height:250px; z-index:0;}
+.image { position:relative; width:250px; height:250px; z-index:0;}
 .overlay { background-image:none; position:absolute; width:250px; height:250px; z-index:1;}
 .overlay:hover { background-color: red;}
 
