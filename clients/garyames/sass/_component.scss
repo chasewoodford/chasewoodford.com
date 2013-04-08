@@ -24,14 +24,15 @@
         width: 250px;
         height: 250px;
         color: #FFF;
-        line-height: 250px;
+        line-height: 240px;
         font-size: 30px;
         font-weight: 400;
+        text-transform: uppercase;
         z-index:1;
         &:hover {
           background: #9cb8b3;
-          border: solid 6px #9cb8b3;
-          outline: solid 6px #FFF;
+          border: solid 6px #FFF;
+          opacity: 0.8;
         }
       }
       img {
@@ -48,10 +49,10 @@
       content: "featured article";
     }
     &.chapters .overlay:hover::after {
-      content: "about";
+      content: "chapters";
     }
     &.ebook .overlay:hover::after {
-      content: "about";
+      content: "e-book";
     }
     &.contact .overlay:hover::after {
       content: "contact";
