@@ -58,9 +58,6 @@ a.no-decoration { text-decoration: none; }
 
 .og-loading { width: 20px; height: 20px; border-radius: 50%; background: #ddd; box-shadow: 0 0 1px #cccccc, 15px 30px 1px #cccccc, -15px 30px 1px #cccccc; position: absolute; top: 50%; left: 50%; margin: -25px 0 0 -25px; -webkit-animation: loader 0.5s infinite ease-in-out both; -moz-animation: loader 0.5s infinite ease-in-out both; animation: loader 0.5s infinite ease-in-out both; }
 
-li h3 { position: absolute; display: none; width: 250px; height: 250px; background: #CCC; color: #FFF; z-index: 1; line-height: 250px; }
-li h3:hover { display: block; }
-
 @-webkit-keyframes loader { 0% { background: #ddd; }
   33% { background: #ccc; box-shadow: 0 0 1px #cccccc, 15px 30px 1px #cccccc, -15px 30px 1px #dddddd; }
   66% { background: #ccc; box-shadow: 0 0 1px #cccccc, 15px 30px 1px #dddddd, -15px 30px 1px #cccccc; } }

@@ -172,20 +172,6 @@
   animation: loader 0.5s infinite ease-in-out both;
 }
 
-li h3 {
-  position: absolute;
-  display: none;
-  width: 250px;
-  height: 250px;
-  background: #CCC;
-  color: #FFF;
-  z-index: 1;
-  line-height: 250px;
-  &:hover {
-    display: block;
-  }
-}
-
 @-webkit-keyframes loader {
   0% {
     background: #ddd;
