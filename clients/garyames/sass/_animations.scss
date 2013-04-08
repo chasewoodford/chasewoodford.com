@@ -29,16 +29,16 @@
 
 
 .fade-in {
-  opacity: 0;
+  //opacity: 0;
   -webkit-animation: fadeIn ease-in 0.8;
   -moz-animation: fadeIn ease-in 0.8;
   animation: fadeIn ease-in 0.8;
-  //-webkit-animation-fill-mode: forwards;
-  //-moz-animation-fill-mode: forwards;
-  //animation-fill-mode: forwards;
-  //-webkit-animation-duration: 0.8s;
-  //-moz-animation-duration: 0.8s;
-  //animation-duration: 0.8s;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  -webkit-animation-duration: 0.8s;
+  -moz-animation-duration: 0.8s;
+  animation-duration: 0.8s;
   &.one {
     -webkit-animation-delay: 0.5s;
     -moz-animation-delay: 0.5s;
