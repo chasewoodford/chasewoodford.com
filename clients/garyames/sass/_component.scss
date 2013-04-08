@@ -172,6 +172,17 @@
   animation: loader 0.5s infinite ease-in-out both;
 }
 
+li h3 {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  color: #FFF;
+  opacity: 0;
+  &:hover {
+    opacity: 1;
+  }
+}
+
 @-webkit-keyframes loader {
   0% {
     background: #ddd;
