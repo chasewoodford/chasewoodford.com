@@ -86,11 +86,11 @@ a.no-decoration { text-decoration: none; }
 @-webkit-keyframes fadeIn { from { opacity: 0; visibility: hidden; }
   to { opacity: 1; visibility: visible; } }
 
-@-moz-keyframes fadeIn { from { opacity: 0; visibility: hidden; }
-  to { opacity: 1; visibility: visible; } }
+@-moz-keyframes fadeIn { from { opacity: 0; }
+  to { opacity: 1; } }
 
-@keyframes fadeIn { from { opacity: 0; visibility: hidden; }
-  to { opacity: 1; visibility: visible; } }
+@keyframes fadeIn { from { opacity: 0; }
+  to { opacity: 1; } }
 
 .fade-in { -webkit-animation: fadeIn ease-in 0.8; -moz-animation: fadeIn ease-in 0.8; animation: fadeIn ease-in 0.8; -webkit-animation-fill-mode: forwards; -moz-animation-fill-mode: forwards; animation-fill-mode: forwards; -webkit-animation-duration: 0.8s; -moz-animation-duration: 0.8s; animation-duration: 0.8s; }
 .fade-in.one { -webkit-animation-delay: 0.5s; -moz-animation-delay: 0.5s; animation-delay: 0.5s; }

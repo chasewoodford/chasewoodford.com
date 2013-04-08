@@ -13,11 +13,9 @@
 @-moz-keyframes fadeIn {
   from {
     opacity: 0;
-    visibility: hidden;
   }
   to {
     opacity: 1;
-    visibility: visible;
   }
 }
 
@@ -25,11 +23,9 @@
 @keyframes fadeIn {
   from {
     opacity: 0;
-    visibility: hidden;
   }
   to {
     opacity: 1;
-    visibility: visible;
   }
 }
 
