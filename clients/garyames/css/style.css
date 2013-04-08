@@ -12,7 +12,7 @@ body { font-family: 'Lato', Calibri, Arial, sans-serif; background: #9cb8b3; fon
 
 a { color: #555; text-decoration: none; }
 a:hover { color: rgba(0, 0, 0, 0.9); text-decoration: underline; }
-a > h2 { text-decoration: none; }
+a.no-decoration { text-decoration: none; }
 
 .container { width: 100%; position: relative; }
 .container > header { width: 90%; max-width: 1240px; margin: 0 auto; position: relative; padding: 0 30px 50px 30px; padding: 60px 30px 50px; text-align: center; }
