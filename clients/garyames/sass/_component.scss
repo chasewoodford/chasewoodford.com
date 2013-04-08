@@ -29,6 +29,7 @@
         font-weight: 400;
         text-transform: uppercase;
         z-index:1;
+        transition: 0.5s all ease;
         &:hover {
           background: #9cb8b3;
           border: solid 6px #FFF;
