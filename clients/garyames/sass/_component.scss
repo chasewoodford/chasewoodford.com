@@ -174,12 +174,15 @@
 
 li h3 {
   position: absolute;
+  display: none;
   width: 250px;
   height: 250px;
+  background: #CCC;
   color: #FFF;
-  opacity: 0;
+  z-index: 1;
+  line-height: 250px;
   &:hover {
-    opacity: 1;
+    display: block;
   }
 }
 
