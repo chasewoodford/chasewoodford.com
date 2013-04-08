@@ -25,7 +25,8 @@
         height: 250px;
         z-index:1;
         &:hover {
-          background-color: #FFF;
+          background: #9cb8b3;
+          color: #FFF;
         }
       }
       &.about .overlay:hover::after {
