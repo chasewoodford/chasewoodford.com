@@ -26,9 +26,11 @@
         z-index:1;
         &:hover {
           background-color: red;
-          &:after {
-            content: "this is a test";
-          }
+        }
+        &:hover:after {
+          content: "test";
+          color: #FFF;
+          line-height: 250px;
         }
       }
       img {
