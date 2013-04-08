@@ -32,8 +32,8 @@ a.no-decoration { text-decoration: none; }
 .og-grid li { display: inline-block; margin: 10px 5px 0 5px; vertical-align: top; height: 250px; }
 .og-grid li > a { border: none; outline: none; display: block; position: relative; }
 .og-grid li > a > .image { width: 250px; height: 250px; z-index: 0; }
-.og-grid li > a > .overlay { position: absolute; width: 250px; height: 250px; color: #FFF; line-height: 250px; font-size: 40px; z-index: 1; }
-.og-grid li > a > .overlay:hover { background: #9cb8b3; border: solid 6px #fff; outline: solid 6px #9cb8b3; }
+.og-grid li > a > .overlay { position: absolute; width: 250px; height: 250px; color: #FFF; line-height: 250px; font-size: 30px; font-weight: 400; z-index: 1; }
+.og-grid li > a > .overlay:hover { background: #9cb8b3; border: solid 6px #9cb8b3; outline: solid 6px #FFF; }
 .og-grid li > a img { border: none; outline: none; display: block; position: relative; }
 .og-grid li.about .overlay:hover::after { content: "about"; }
 .og-grid li.quote .overlay:hover::after { content: "featured article"; }
