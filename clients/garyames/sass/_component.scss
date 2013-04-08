@@ -184,13 +184,14 @@ li h1 {
   transition: all 300ms ease-out;
   top: -250px;
   left: 0;
+  opacity: 0;
   display: none;
   width: 250px;
   height: 250px;
   text-align: center;
   line-height: 250px;
   &:hover {
-    display: inline-block;
+    opacity: 1;
   }
 }
 
