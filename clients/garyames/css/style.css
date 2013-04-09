@@ -83,15 +83,3 @@ a.no-decoration { text-decoration: none; }
   .og-expander a { font-size: 12px; } }
 @media screen and (max-width: 650px) { .og-fullimg { display: none; }
   .og-details { float: none; width: 100%; } }
-@-moz-keyframes fadeIn { from { opacity: 0; }
-  to { opacity: 1; } }
-
-@keyframes fadeIn { from { opacity: 0; }
-  to { opacity: 1; } }
-
-.fade-in { -moz-animation: fadeIn ease-in 0.8; animation: fadeIn ease-in 0.8; -moz-animation-fill-mode: forwards; animation-fill-mode: forwards; -moz-animation-duration: 0.8s; animation-duration: 0.8s; }
-.fade-in.one { -moz-animation-delay: 0.5s; animation-delay: 0.5s; }
-.fade-in.two { -moz-animation-delay: 0.8s; animation-delay: 0.8s; }
-.fade-in.three { -moz-animation-delay: 1.1s; animation-delay: 1.1s; }
-.fade-in.four { -moz-animation-delay: 1.4s; animation-delay: 1.4s; }
-.fade-in.five { -moz-animation-delay: 1.7s; animation-delay: 1.7s; }
