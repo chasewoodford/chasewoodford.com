@@ -166,7 +166,7 @@ var Grid = (function() {
 		// list of items
 	var $grid = $( '#og-grid' ),
 		// the items
-		$items = $grid.children( 'li' ),
+		$items = $grid.children( '.grid-item' ),
 		// current expanded item's index
 		current = -1,
 		// position (top) of the expanded item
