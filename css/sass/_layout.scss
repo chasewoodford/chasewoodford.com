@@ -103,6 +103,9 @@
   width: 75%;
   margin-top: 5px;
   text-align: left;
+  @include breakpoint(grande) {
+    width: 70%;
+  }
   @include breakpoint(tall) {
     width: 98%;
     text-align: center;
