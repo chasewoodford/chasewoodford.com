@@ -191,7 +191,7 @@
     }
   }
   @if $point == grande {
-    @media (min-width: 1000px) {
+    @media (min-width: 800px) {
       @content;
     }
   }
