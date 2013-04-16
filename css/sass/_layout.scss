@@ -121,6 +121,9 @@
   &:last-child {
     margin-right: 0;
   }
+  @include breakpoint(small) {
+    margin-right: 6%;
+  }
   @include breakpoint(smaller) {
     margin-right: 20%;
   }
