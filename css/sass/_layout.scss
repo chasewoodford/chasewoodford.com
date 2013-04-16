@@ -182,7 +182,7 @@
     text-align: left;
   }
   @include breakpoint(small) {
-    width: 50%;
+    width: 100%;
   }
   @include breakpoint(smaller) {
     width: 100%;
