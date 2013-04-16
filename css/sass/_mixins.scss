@@ -205,7 +205,7 @@
       @content;
     }
   }    
-  @else if $point == smallest {
+  @else if $point == smaller {
     @media (max-width: 480px) {
       @content;
     }

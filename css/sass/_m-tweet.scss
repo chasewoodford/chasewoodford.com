@@ -5,7 +5,7 @@
   margin: $space/4 auto $space/2;
   font-family: $font-UbuntuLtIt;
   text-align: justify;
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     width: 100%;
     font-size: 0.8em;
   }
@@ -20,7 +20,7 @@
   color: $blue;
   text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25);
   @include rotate(3deg);
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     display: none;
   }
 }

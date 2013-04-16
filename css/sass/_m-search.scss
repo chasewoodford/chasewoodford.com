@@ -12,7 +12,7 @@
     border: none;
     outline: none;
   }
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     width: 75%;
     margin-bottom: 0 !important;
   }

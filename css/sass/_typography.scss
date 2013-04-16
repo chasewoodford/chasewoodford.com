@@ -150,7 +150,7 @@ h2, .h2 {
   @include breakpoint(small) {
     font-size: 40px;
   }
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     font-size: 20px;
   }
 }
@@ -220,7 +220,7 @@ h4, .h4 {
 
 .right {
   float: right;
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     float: none;
   }
 }
@@ -248,7 +248,7 @@ h4, .h4 {
 }
 
 .allowed-tags {
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     float: left;
   }
 }
@@ -266,7 +266,7 @@ body.about .nav-primary .about span.h2, body.blog .nav-primary .blog span.h2, bo
 .page-links {
   font-size: 14px;
   letter-spacing: normal;
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     font-size: 13px;
   }
 }

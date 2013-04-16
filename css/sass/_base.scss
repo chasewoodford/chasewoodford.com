@@ -34,7 +34,7 @@ a {
   &.header-link {
     color: $white;
   }
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     word-wrap: break-word;
   }
 }
@@ -50,7 +50,7 @@ p {
 img {
   border: 2px solid;
   @include box-shadow(0 8px 10px -6px $black);
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     width: 90%;
   }
 }

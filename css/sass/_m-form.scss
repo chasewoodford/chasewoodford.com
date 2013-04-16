@@ -92,7 +92,7 @@ input[type="checkbox"][readonly] {
 .form-label, .form-input, .form-textarea {
   display: inline;
   float: left;
-  @include breakpoint(smallest) {
+  @include breakpoint(smaller) {
     float: none;
   }
 }
