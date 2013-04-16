@@ -96,4 +96,7 @@ ul.callout-list {
   @include breakpoint(small) {
     display: none;
   }
+  @include breakpoint(smaller) {
+    display: none;
+  }
 }

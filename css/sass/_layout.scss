@@ -36,6 +36,9 @@
   overflow:hidden;
   margin: 0 auto;
   width: flex-grid(8); // 67.5%
+  @include breakpoint(small) {
+    width: 98%;
+  }
   @include breakpoint(smaller) {
     width: 98%;
   }
