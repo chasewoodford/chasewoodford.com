@@ -185,18 +185,28 @@
 
 // Breakpoints
 @mixin breakpoint($point) {
-  @if $point == venti {
-    @media (min-width: 1300px) {
+  @if $point == large {
+    @media (min-width: 1200px) {
       @content;
     }
   }
-  @if $point == grande {
-    @media (min-width: 800px) {
+  @if $point == medium {
+    @media (min-width: 980px) {
       @content;
     }
   }
-  @else if $point == tall {
-    @media (max-width: 500px) {
+  @if $point == small {
+    @media (min-width: 768px) {
+      @content;
+    }
+  }
+  @if $point == smaller {
+    @media (max-width: 767px) {
+      @content;
+    }
+  }    
+  @else if $point == smallest {
+    @media (max-width: 480px) {
       @content;
     }
   }

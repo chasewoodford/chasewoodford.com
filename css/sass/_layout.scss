@@ -36,7 +36,7 @@
   overflow:hidden;
   margin: 0 auto;
   width: flex-grid(8); // 67.5%
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 98%;
   }
 }
@@ -49,7 +49,7 @@
 .grid-10 {
   margin: 0 auto;
   width: flex-grid(10); // 84.375%
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 98%;
   }
 }
@@ -93,7 +93,7 @@
   width: 100%;
   height: 23px;
   text-align: right;
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     text-align: center;
   }
 }
@@ -103,10 +103,10 @@
   width: 75%;
   margin-top: 5px;
   text-align: left;
-  @include breakpoint(grande) {
+  @include breakpoint(medium) {
     width: 70%;
   }
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 98%;
     text-align: center;
   }
@@ -117,7 +117,7 @@
   &:last-child {
     margin-right: 0;
   }
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     margin-right: 20%;
   }
 }
@@ -140,7 +140,7 @@
   margin-top: 5px;
   padding: 0 2px;
   text-align: right;
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     margin-top: 2px;
   }
 }
@@ -171,7 +171,7 @@
     width: 100%;
     text-align: left;
   }
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 100%;
   }
 }
@@ -185,7 +185,7 @@ img.amazon-product {
   body.blog &, body.archive &, body.category & {
     margin-bottom: $space*1.25;
   }
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 30%;
   }
 }
@@ -194,13 +194,13 @@ img.amazon-product {
   display: inline-block;
   width: 48.5%;
   margin-right: 1%;
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 28%;
   }
 }
 
 body.contact .page-title {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 40%;
   }
 }
@@ -217,7 +217,7 @@ body.contact .page-title {
     width: auto;
     padding-left: $space/4;
   }
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 68%;
   }
 }
@@ -236,7 +236,7 @@ body.contact .page-title {
   &.tweets {
     margin-bottom: $space*2;
     padding: $space $space*1.5 $space;
-    @include breakpoint(tall) {
+    @include breakpoint(smallest) {
       padding: $space;
     }
   }
@@ -255,13 +255,13 @@ body.contact .page-title {
 }
 
 .twitter-attribute {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     display: none;
   }
 }
 
 .twitter-button {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     text-align: center;
   }
 }
@@ -277,7 +277,7 @@ body.contact .page-title {
 
 .table {
   display: table;
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     padding: 0 $space;
   }
 }

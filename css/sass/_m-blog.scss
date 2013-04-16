@@ -11,7 +11,7 @@
 }
 
 body.archive .pubdate, body.category .pubdate, body.single .pubdate {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 100%;
   }
 }
@@ -39,20 +39,20 @@ ol.comment-list {
 }
 
 .comment-meta {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     margin-bottom: $space;
   }
 }
 
 .photo.avatar {
   margin: 0 $space/2 $space/4 0;
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     display: none;
   }
 }
 
 a[title^="Permalink"] {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     display: none;
   }
 }
@@ -60,7 +60,7 @@ a[title^="Permalink"] {
 .comment-content {
   float: left;
   width: 80%;
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     width: 100%;
   }
 }
@@ -87,13 +87,13 @@ ul.callout-list {
 }
 
 .post-comment {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     float: right;
   }
 }
 
 #sidebar {
-  @include breakpoint(tall) {
+  @include breakpoint(smallest) {
     display: none;
   }
 }
