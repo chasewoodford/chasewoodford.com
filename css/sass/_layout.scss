@@ -181,7 +181,7 @@
     width: 100%;
     text-align: left;
   }
-  @include breakpoint(smaller) {
+  @include breakpoint(smallest) {
     width: 100%;
   }
 }
@@ -195,7 +195,10 @@ img.amazon-product {
   body.blog &, body.archive &, body.category & {
     margin-bottom: $space*1.25;
   }
-  @include breakpoint(smaller) {
+  @include breakpoint(medium) {
+    margin-right: 0;
+  }
+  @include breakpoint(smallest) {
     width: 30%;
   }
 }
