@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 <div class="grid-8 hero main-content">
-    <div id="post-area" class="grid-8 left" role="main">
+    <div id="post-area" class="grid-8 post-area left" role="main">
 
     <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 

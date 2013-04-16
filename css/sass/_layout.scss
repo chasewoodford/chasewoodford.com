@@ -136,6 +136,12 @@
   margin-bottom: $space*3;
 }
 
+.post-area {
+  @include breakpoint(small) {
+    width: 100%;
+  }
+}
+
 .hero {
   margin-bottom: $space*3;
   padding: 0 2px;
