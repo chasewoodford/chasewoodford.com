@@ -181,7 +181,7 @@
     width: 100%;
     text-align: left;
   }
-  @include breakpoint(smallest) {
+  @include breakpoint(small) {
     width: 100%;
   }
 }
