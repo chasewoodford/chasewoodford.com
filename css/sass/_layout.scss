@@ -195,7 +195,7 @@ img.amazon-product {
   body.blog &, body.archive &, body.category & {
     margin-bottom: $space*1.25;
   }
-  @include breakpoint(medium) {
+  @include breakpoint(small) {
     margin-right: 0;
   }
   @include breakpoint(smallest) {
