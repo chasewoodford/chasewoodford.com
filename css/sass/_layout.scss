@@ -203,6 +203,7 @@ img.amazon-product {
   }
   @include breakpoint(smallest) {
     width: 30%;
+    margin-right: 15px;
   }
 }
 
