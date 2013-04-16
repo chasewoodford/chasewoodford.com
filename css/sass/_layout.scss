@@ -204,7 +204,7 @@ img.amazon-product {
   body.about & {
     float: none;
   }
-  body.blog &, body.archive &, body.category & {
+  body.blog &, body.archive &, body.category &, body.single & {
     margin: 8px 15px $space*1.25 0;
   }
   @include breakpoint(smallest) {
