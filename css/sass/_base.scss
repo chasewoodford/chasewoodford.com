@@ -53,10 +53,6 @@ img {
   @include breakpoint(smallest) {
     width: 90%;
   }
-  .blog-image > &, .image-main > & {
-    width: 95%;
-    max-width: 500px;
-  }
 }
 
 .logo {
