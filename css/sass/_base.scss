@@ -54,9 +54,8 @@ img {
   @include breakpoint(smallest) {
     width: 90%;
   }
-  &.no-decoration {
-    border: none;
-    box-shadow: none;
+  &.highlight {
+    margin: $space;
   }
 }
 
