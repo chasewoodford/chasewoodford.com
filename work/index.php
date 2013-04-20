@@ -65,8 +65,10 @@
 
 
                         <?php
-                        $homepage = file_get_contents('./digital/2012-golf-classic');
-                        echo $homepage;
+                        include 'simple_html_dom.php';
+                        $html = file_get_html('./digital/2012-golf-classic');
+
+                        echo $html->find("p[class=intro]", 0);
                         ?>
 
 
