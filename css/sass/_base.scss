@@ -56,10 +56,10 @@ img {
   }
   &.highlight {
     &.left {
-      margin: $space $space $space 0;
+      margin: 0 $space $space 0;
     }
     &.right {
-      margin: $space 0 $space $space;
+      margin: 0 0 $space $space;
     }
   }
 }
