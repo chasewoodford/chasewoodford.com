@@ -57,7 +57,7 @@
                                     &raquo;
                                 </div>
                                 <div class="table-data">
-                                    <a class="title-bar" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">see it live</a>
+                                    <a href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">see it live</a>
                                 </div>
                             </li>
                         </ul>
