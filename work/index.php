@@ -62,13 +62,8 @@
                         </ul>
                     </div>
                     <p>
-
-
                         <?php
-                        include 'simple_html_dom.php';
-                        $html = file_get_html('/digital/2012-golf-classic.php');
-
-                        echo $html->find("p[class=intro]", 0);
+                        echo file_get_contents('./digital/2012-golf-classic.php');
                         ?>
 
 
