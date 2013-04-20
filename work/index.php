@@ -35,7 +35,7 @@
                 <section>
                     <div class="clearfix image-main text-left">
                         <div class="left side-corner-tag">
-                            <a class="left screenshot" href="./digital/2012-golf-classic.php">
+                            <a class="left screenshot" href="./digital/2012-golf-classic">
                                 <img src="/images/screenshot-2012GolfClassic.png">
                             </a>
                             <p class="ribbon">
