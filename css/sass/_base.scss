@@ -55,7 +55,12 @@ img {
     width: 90%;
   }
   &.highlight {
-    margin: $space;
+    &.left {
+      margin: $space $space $space 0;
+    }
+    &.right {
+      margin: $space 0 $space $space;
+    }
   }
 }
 
