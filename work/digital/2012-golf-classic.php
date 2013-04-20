@@ -53,11 +53,9 @@
                                 <div class="table-data">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration</div>
                             </li>
                             <li class="table-row">
-                                <div class="table-title">
-                                    &raquo;
-                                </div>
+                                <div class="table-title"></div>
                                 <div class="table-data">
-                                    <a href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">see it live</a>
+                                    <a href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">see it live &raquo;</a>
                                 </div>
                             </li>
                         </ul>
