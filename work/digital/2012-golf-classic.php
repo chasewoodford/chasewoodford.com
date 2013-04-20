@@ -52,12 +52,8 @@
                                 <div class="table-title">Tags:</div>
                                 <div class="table-data">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration</div>
                             </li>
-                            <li class="table-row">
-                                <div class="table-data">
-                                    <a class="title-bar" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">see it live</a>
-                                </div>
-                            </li>
                         </ul>
+                        <a class="title-bar" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">see it live</a>
                     </div>
                     <p>
                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
