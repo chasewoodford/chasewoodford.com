@@ -23,19 +23,28 @@
                     <h2>Writer&nbsp;/&nbsp;Nomad</h2>
                 </div>
                 <ul class="nav nav-pills" id="myTab">
-                    <li><a href="#about" data-toggle="tab">About</a></li>
-                    <li><a href="#manuscripts" data-toggle="tab">Manuscripts</a></li>
-                    <li><a href="#favoriteBooks" data-toggle="tab">Favorite Books</a></li>
-                    <li><a href="#contact" data-toggle="tab">Contact</a></li>
+                    <li class="active"><a href="#about" data-toggle="pills">About</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Manuscripts
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>One</li>
+                            <li>Two</li>
+                            <li>Three</li>
+                        </ul>
+                    <li><a href="#favoriteBooks" data-toggle="pill">Favorite Books</a></li>
+                    <li><a href="#contact" data-toggle="pil">Contact</a></li>
                 </ul>
             </div>
 		</div>
 
         <div class="tab-content">
-            <div class="tab-pane active" id="about">about</div>
-            <div class="tab-pane" id="manuscripts">manuscripts</div>
-            <div class="tab-pane" id="favoriteBooks">favorite books</div>
-            <div class="tab-pane" id="contact">contact</div>
+            <div class="tab-pane active fade" id="about">about</div>
+            <div class="tab-pane fade" id="manuscripts">manuscripts</div>
+            <div class="tab-pane fade" id="favoriteBooks">favorite books</div>
+            <div class="tab-pane fade" id="contact">contact</div>
         </div>
 
         <script>
