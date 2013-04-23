@@ -5,4 +5,11 @@ body {
 .header-bar {
   background-color: $white;
   border-top: 15px solid $gray;
+  > .title {
+    margin-left: 0;
+  }
+}
+
+.container.header {
+  padding: $space*6 $space*6 $space*8;
 }
