@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  background-color: $gray;
+  background-color: $light-gray;
 }
 
 a {
@@ -94,4 +94,8 @@ a {
 
 .tab-content {
   background-color: $lighter-gray;
+}
+
+#footer {
+  background-color: $gray;
 }
