@@ -40,7 +40,7 @@ a {
   color: $light-blue;
 }
 
-.dropdown-menu > li > a {
+.dropdown-menu > li > a, .dropdown-menu > .active > a {
   clear: both;
   color: $light-gray;
   display: block;
