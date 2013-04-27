@@ -93,9 +93,6 @@ a {
 }
 
 .content-container {
-  position: relative;
-  z-index: 999;
-  @include box-shadow(0 8px 10px $light-gray);
   padding: 5% 10%;
   background-color: $beige;
 }
