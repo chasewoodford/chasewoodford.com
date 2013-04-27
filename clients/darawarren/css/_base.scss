@@ -2,6 +2,11 @@ body {
   background-color: $gray;
 }
 
+a {
+  color: $light-gray;
+  text-decoration: none;
+}
+
 .nav-pills {
   > li {
     > a {
@@ -12,9 +17,15 @@ body {
     > a {
       background-color: transparent;
       color: $light-blue;
+      &:hover, &:focus {
+        background-color: transparent;
+        color: $light-blue;
+      }
     }
   }
 }
+
+.nav-pills>.active>a:hover, .nav-pills>.active>a:focus
 
 .tab-content {
   background-color: $light-gray;
