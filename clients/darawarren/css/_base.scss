@@ -55,6 +55,11 @@ a {
   }
 }
 
+.nav .dropdown-toggle:hover .caret, .nav .dropdown-toggle:focus .caret {
+  cborder-bottom-color: $light-blue;
+  border-top-color: $light-blue;
+}
+
 .content-container {
   min-height: 300px;
   background-color: $lighter-gray;
