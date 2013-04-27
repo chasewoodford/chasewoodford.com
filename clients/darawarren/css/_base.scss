@@ -93,12 +93,13 @@ a {
 }
 
 .content-container {
-  padding: 5% 10%;
+  padding: 5% 10% 0;
   background-color: $beige;
   &:after {
     content: url('../img/vines-content.png');
     position: relative;
-    top: -60px;
+    bottom: 125px;
+    left: -60px;
     width: 250px;
     height: 406px;
   }
