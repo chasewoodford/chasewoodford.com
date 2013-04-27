@@ -2,6 +2,11 @@ body {
   background-color: $gray;
 }
 
+a {
+  background-color: transparent;
+  color: $light-gray;
+}
+
 .tab-content {
   background-color: $light-gray;
 }
