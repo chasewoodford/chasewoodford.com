@@ -55,6 +55,11 @@ a {
   }
 }
 
+.content-container {
+  min-height: 300px;
+  background-color: $lighter-gray;
+}
+
 .tab-content {
   background-color: $lighter-gray;
 }
