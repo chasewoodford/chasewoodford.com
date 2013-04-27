@@ -81,6 +81,11 @@ a {
   }
 }
 
+.nav .active .dropdown-toggle .caret {
+  border-bottom-color: $light-blue;
+  border-top-color: $light-blue;
+}
+
 #wrap {
   height: auto !important;
   margin: 0 auto -60px;
