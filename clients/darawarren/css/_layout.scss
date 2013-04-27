@@ -26,3 +26,7 @@
 li.heading   {
   padding: 0 $space;
 }
+
+#push, #footer {
+  height: $space*12;
+}
