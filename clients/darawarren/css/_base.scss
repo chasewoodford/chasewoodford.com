@@ -33,7 +33,8 @@ a {
   }
 }
 
-.nav-tabs .open .dropdown-toggle, .nav-pills .open .dropdown-toggle {
+.nav-tabs .open .dropdown-toggle, .nav-pills .open .dropdown-toggle,
+.nav > li.dropdown.open.active > a:hover, .nav > li.dropdown.open.active > a:focus {
   background-color: transparent;
   border: none;
   color: $light-blue;
