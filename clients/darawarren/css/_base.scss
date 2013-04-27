@@ -15,6 +15,12 @@ a {
   }
 }
 
+#wrap {
+  height: auto !important;
+  margin: 0 auto -60px;
+  min-height: 100%;
+}
+
 .nav-pills {
   > li {
     > a {
@@ -84,12 +90,6 @@ a {
 .nav .active .dropdown-toggle .caret {
   border-bottom-color: $light-blue;
   border-top-color: $light-blue;
-}
-
-#wrap {
-  height: auto !important;
-  margin: 0 auto -60px;
-  min-height: 100%;
 }
 
 .content-container {
