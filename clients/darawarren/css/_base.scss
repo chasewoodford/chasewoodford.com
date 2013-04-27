@@ -2,9 +2,18 @@ body {
   background-color: $gray;
 }
 
-.nav-pills > .active > a {
-  background-color: transparent;
-  color: $light-gray;
+.nav-pills {
+  > li {
+    > a {
+      border-radius: 0;
+    }
+  }
+  > .active {
+    > a {
+      background-color: transparent;
+      color: $light-blue;
+    }
+  }
 }
 
 .tab-content {
