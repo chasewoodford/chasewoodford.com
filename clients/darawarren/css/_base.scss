@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  background-color: $lighter-gray;
+  background-color: $beige;
 }
 
 a {
@@ -11,7 +11,7 @@ a {
   text-decoration: none;
   @include transition(color 0.4s ease 0s);
   &:hover, &:focus {
-    color: $light-blue;
+    color: $blue;
   }
 }
 
@@ -34,10 +34,10 @@ a {
   > .active {
     > a {
       background-color: transparent;
-      color: $light-blue;
+      color: $blue;
       &:hover, &:focus {
         background-color: transparent;
-        color: $light-blue;
+        color: $blue;
       }
     }
   }
@@ -47,7 +47,7 @@ a {
 .nav > li.dropdown.open.active > a:hover, .nav > li.dropdown.open.active > a:focus {
   background-color: transparent;
   border: none;
-  color: $light-blue;
+  color: $blue;
 }
 
 .dropdown-menu > li > a {
@@ -59,18 +59,18 @@ a {
   padding: 3px 20px;
   white-space: nowrap;
   &:hover, &:focus {
-    background-color: $light-blue;
+    background-color: $blue;
     background-image: none;
     color: $white;
   }
 }
 
 .dropdown-menu > .active > a {
-  background-color: $light-blue;
+  background-color: $blue;
   background-image: none;
   color: $white;
   &:hover, &:focus {
-    background-color: $light-blue;
+    background-color: $blue;
     background-image: none;
     color: $white;
   }
@@ -82,23 +82,23 @@ a {
     border-top-color: $light-gray;
   }
   &:hover .caret, &:focus .caret {
-    border-bottom-color: $light-blue;
-    border-top-color: $light-blue;
+    border-bottom-color: $blue;
+    border-top-color: $blue;
   }
 }
 
 .nav .active .dropdown-toggle .caret {
-  border-bottom-color: $light-blue;
-  border-top-color: $light-blue;
+  border-bottom-color: $blue;
+  border-top-color: $blue;
 }
 
 .content-container {
   padding: 5% 10%;
-  background-color: $lighter-gray;
+  background-color: $beige;
 }
 
 .tab-content {
-  background-color: $lighter-gray;
+  background-color: $beige;
 }
 
 #footer {
