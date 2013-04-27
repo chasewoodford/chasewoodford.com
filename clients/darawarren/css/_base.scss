@@ -72,8 +72,8 @@ a {
 
 .nav .dropdown-toggle {
   & .caret {
-    border-bottom-color: $light-blue;
-    border-top-color: $light-blue;
+    border-bottom-color: $light-gray;
+    border-top-color: $light-gray;
   }
   &:hover .caret, &:focus .caret {
     border-bottom-color: $light-blue;
