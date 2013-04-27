@@ -5,6 +5,7 @@ body {
 a {
   color: $light-gray;
   text-decoration: none;
+  @include transition(color 0.4s ease 0s);
   &:hover, &:focus {
     color: $light-blue;
   }
