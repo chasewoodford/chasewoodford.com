@@ -33,6 +33,12 @@ a {
   }
 }
 
+.nav-tabs .open .dropdown-toggle, .nav-pills .open .dropdown-toggle {
+  background-color: transparent;
+  border: none;
+  color: $light-blue;
+}
+
 .tab-content {
   background-color: $light-gray;
 }
