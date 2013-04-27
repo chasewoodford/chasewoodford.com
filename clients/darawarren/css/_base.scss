@@ -39,6 +39,21 @@ a {
   color: $light-blue;
 }
 
+.dropdown-menu > li > a {
+  clear: both;
+  color: $light-gray;
+  display: block;
+  font-weight: normal;
+  line-height: 20px;
+  padding: 3px 20px;
+  white-space: nowrap;
+  &:hover, &:focus {
+    background-color: $light-blue;
+    color: $white;
+    text-decoration: none;
+  }
+}
+
 .tab-content {
   background-color: $light-gray;
 }
