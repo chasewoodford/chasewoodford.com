@@ -11,6 +11,10 @@ a {
   > li {
     > a {
       border-radius: 0;
+      text-transform: uppercase;
+      &:hover, &:focus {
+        background-color: transparent;
+      }
     }
   }
   > .active {
