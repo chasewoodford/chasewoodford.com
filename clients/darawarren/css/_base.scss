@@ -52,7 +52,6 @@ a {
     background-color: $light-blue;
     background-image: none;
     color: $white;
-    text-decoration: none;
   }
 }
 
@@ -60,7 +59,11 @@ a {
   background-color: $light-blue;
   background-image: none;
   color: $white;
-  text-decoration: none;
+  &:hover, &:focus {
+    background-color: $light-blue;
+    background-image: none;
+    color: $white;
+  }
 }
 
 .nav .dropdown-toggle {
