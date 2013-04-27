@@ -67,7 +67,8 @@ a {
 }
 
 .content-container {
-  min-height: 300px;
+  min-height: $space*60;
+  padding: $space*8 $space*32;
   background-color: $lighter-gray;
 }
 
