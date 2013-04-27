@@ -24,7 +24,8 @@
 }
 
 .container.footer {
-  background: url('../img/vines-footer.png') no-repeat center 20px transparent;
+  background: url('../img/vines-footer.png') no-repeat center $space*2 transparent;
+  height: 125px;
 }
 
 li.heading   {
@@ -32,5 +33,5 @@ li.heading   {
 }
 
 #push, #footer {
-  height: 150px;
+  height: 140px;
 }
