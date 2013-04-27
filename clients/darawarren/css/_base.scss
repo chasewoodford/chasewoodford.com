@@ -2,7 +2,7 @@ body {
   background-color: $gray;
 }
 
-a {
+.nav-pills > .active > a {
   background-color: transparent;
   color: $light-gray;
 }
