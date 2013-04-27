@@ -55,9 +55,15 @@ a {
   }
 }
 
-.nav .dropdown-toggle:hover .caret, .nav .dropdown-toggle:focus .caret {
-  cborder-bottom-color: $light-blue;
-  border-top-color: $light-blue;
+.nav .dropdown-toggle {
+  & .caret {
+    border-bottom-color: $light-blue;
+    border-top-color: $light-blue;
+  }
+  &:hover .caret, &:focus .caret {
+    border-bottom-color: $light-blue;
+    border-top-color: $light-blue;
+  }
 }
 
 .content-container {
