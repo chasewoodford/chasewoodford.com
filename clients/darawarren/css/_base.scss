@@ -95,14 +95,15 @@ a {
 .content-container {
   padding: 5% 10% 0;
   background-color: $beige;
-  &:after {
-    content: url('../img/vines-content.png');
-    position: relative;
-    bottom: 125px;
-    left: -60px;
-    width: 250px;
-    height: 600px;
-  }
+}
+
+.content-vines {
+  background: url('../img/vines-content.png');
+  position: relative;
+  bottom: 135px;
+  left: -105px;
+  width: 250px;
+  height: 600px;
 }
 
 .tab-content {
