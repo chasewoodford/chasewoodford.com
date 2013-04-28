@@ -93,21 +93,14 @@ a {
 }
 
 .content-container {
-  padding: 5% 10%;
+  background: url('../img/vines-content.png') no-repeat 20px 20px transparent;
   background-color: $beige;
-}
-
-.content-vines {
-  background: url('../img/vines-content.png');
-  position: relative;
-  bottom: 0;
-  left: -105px;
-  width: 250px;
-  height: 600px;
+  min-height: 600px;
+  padding: 5% 10% 0;
 }
 
 .tab-content {
-  background-color: $beige;
+  background-color: transparent;
 }
 
 #footer {
