@@ -97,14 +97,14 @@ a {
   background-color: $beige;
 }
 
-//.content-vines {
-//  background: url('../img/vines-content.png');
-//  position: relative;
-//  bottom: 135px;
-//  left: -105px;
-//  width: 250px;
-//  height: 600px;
-//}
+#footer:before {
+  background: url('../img/vines-content.png');
+  position: relative;
+  bottom: 135px;
+  left: -105px;
+  width: 250px;
+  height: 600px;
+}
 
 .tab-content {
   background-color: $beige;
