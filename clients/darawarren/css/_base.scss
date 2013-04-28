@@ -11,7 +11,7 @@ a {
   text-decoration: none;
   @include transition(color 0.4s ease 0s);
   &:hover, &:focus {
-    color: $blue;
+    color: $green;
   }
 }
 
@@ -34,10 +34,10 @@ a {
   > .active {
     > a {
       background-color: transparent;
-      color: $blue;
+      color: $green;
       &:hover, &:focus {
         background-color: transparent;
-        color: $blue;
+        color: $green;
       }
     }
   }
@@ -47,7 +47,7 @@ a {
 .nav > li.dropdown.open.active > a:hover, .nav > li.dropdown.open.active > a:focus {
   background-color: transparent;
   border: none;
-  color: $blue;
+  color: $green;
 }
 
 .dropdown-menu > li > a {
@@ -59,18 +59,18 @@ a {
   padding: 3px 20px;
   white-space: nowrap;
   &:hover, &:focus {
-    background-color: $blue;
+    background-color: $green;
     background-image: none;
     color: $white;
   }
 }
 
 .dropdown-menu > .active > a {
-  background-color: $blue;
+  background-color: $green;
   background-image: none;
   color: $white;
   &:hover, &:focus {
-    background-color: $blue;
+    background-color: $green;
     background-image: none;
     color: $white;
   }
@@ -82,14 +82,14 @@ a {
     border-top-color: $light-gray;
   }
   &:hover .caret, &:focus .caret {
-    border-bottom-color: $blue;
-    border-top-color: $blue;
+    border-bottom-color: $green;
+    border-top-color: $green;
   }
 }
 
 .nav .active .dropdown-toggle .caret {
-  border-bottom-color: $blue;
-  border-top-color: $blue;
+  border-bottom-color: $green;
+  border-top-color: $green;
 }
 
 .content-container {
