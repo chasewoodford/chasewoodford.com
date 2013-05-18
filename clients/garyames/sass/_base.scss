@@ -44,16 +44,13 @@ body {
 
 a {
   color: #06444B;
-  text-decoration: none;
   &:hover {
     text-decoration: underline;
   }
   &.nav-link {
     color: #555;
-    text-decoration: none;
     &:hover {
       color: rgba(0, 0, 0, 0.6);
-      text-emphasis: none;
     }
   }
   &.inline:hover {
