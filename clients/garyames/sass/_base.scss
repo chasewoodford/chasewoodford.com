@@ -45,15 +45,17 @@ body {
 a {
   color: #06444B;
   &:hover {
-    color: #fff;
-    background: #06444B;
+    text-decoration: underline;
   }
   &.nav-link {
     color: #555;
     &:hover {
       color: rgba(0, 0, 0, 0.6);
-      background-color: #4F4247;
     }
+  }
+  &.inline:hover {
+    color: #fff;
+    background: #06444B;
   }
   &.no-decoration {
     text-decoration: none;
