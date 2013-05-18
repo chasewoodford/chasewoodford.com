@@ -57,10 +57,9 @@ a {
 .container {
   width: 100%;
   position: relative;
-  margin-bottom: 20px;
   > header {
     position: relative;
-    margin: 0 auto;
+    margin: 0 auto 20px;
     padding: 60px 30px 50px;
     text-align: center;
     h1 {

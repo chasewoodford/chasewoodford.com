@@ -1,6 +1,6 @@
 .ca-menu {
   padding: 0;
-  margin: 8px auto 0;
+  margin: 8px auto;
   width: auto;
   li {
     width: auto;
@@ -41,7 +41,7 @@
 }
 
 .ca-main {
-  font-size: 20px;
+  font-size: 22px;
   -webkit-transition: all 200ms linear;
   -moz-transition: all 200ms linear;
   -o-transition: all 200ms linear;
@@ -50,7 +50,7 @@
 }
 
 .ca-sub {
-  font-size: 16px;
+  font-size: 14px;
   color: #666;
   -webkit-transition: all 200ms linear;
   -moz-transition: all 200ms linear;
@@ -59,16 +59,16 @@
   transition: all 200ms linear;
 }
 
-.ca-menu li:hover {
+.ca-menu li:hover, .ca-menu .active {
   border-color: rgba(0, 0, 0, 0.6);
   background: url("../img/icon-arrow-right.png") no-repeat 97% center #4F4247;
   .ca-main {
     color: rgba(0, 0, 0, 0.6);
-    font-size: 16px;
+    font-size: 14px;
   }
   .ca-sub {
     color: #fff;
-    font-size: 20px;
+    font-size: 22px;
   }
 }
 
