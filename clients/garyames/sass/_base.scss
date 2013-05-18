@@ -45,11 +45,6 @@ body {
 a {
   color: #06444B;
   text-decoration: none;
-  -webkit-transition: all 200ms linear;
-  -moz-transition: all 200ms linear;
-  -o-transition: all 200ms linear;
-  -ms-transition: all 200ms linear;
-  transition: all 200ms linear;
   &:hover {
     text-decoration: underline;
   }
@@ -60,6 +55,9 @@ a {
       color: rgba(0, 0, 0, 0.6);
       text-emphasis: none;
     }
+  }
+  &.inline {
+    font-weight: 400;
   }
   &.no-decoration {
     text-decoration: none;
