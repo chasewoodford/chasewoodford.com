@@ -58,6 +58,7 @@ a {
     text-decoration: none;
     &:hover {
       color: rgba(0, 0, 0, 0.6);
+      text-emphasis: none;
     }
   }
   &.no-decoration {
