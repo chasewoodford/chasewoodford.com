@@ -49,9 +49,9 @@ a {
   -ms-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
-  &:hover {
-    text-decoration: underline;
-  }
+  //&:hover {
+  //  text-decoration: underline;
+  //}
   &.nav-link {
     color: #555;
     text-decoration: none;
