@@ -55,7 +55,7 @@ a {
       text-emphasis: none;
     }
   }
-  &.inline:hover {
+  &.inline:hover, &.article-link:hover {
     color: #fff;
     background: #06444B;
   }
