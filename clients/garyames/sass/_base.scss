@@ -36,7 +36,7 @@ body {
   font-family: 'Lato', Calibri, Arial, sans-serif;
   background: #9cb8b3;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: rgba(0, 0, 0, 0.6);
   overflow: scroll;
   overflow-x: hidden;
@@ -57,12 +57,10 @@ a {
 .container {
   width: 100%;
   position: relative;
+  margin-bottom: 20px;
   > header {
-    width: 90%;
-    max-width: 1240px;
-    margin: 0 auto;
     position: relative;
-    padding: 0 30px 50px 30px;
+    margin: 0 auto;
     padding: 60px 30px 50px;
     text-align: center;
     h1 {
@@ -98,40 +96,6 @@ a {
         text-shadow: none;
         letter-spacing: 2px;
       }
-    }
-  }
-}
-
-.main > p {
-  text-align: center;
-  padding: 50px 20px;
-  & a {
-    vertical-align: middle;
-  }
-}
-
-.top-banner {
-  line-height: 24px;
-  font-size: 11px;
-  background: #fff;
-  text-transform: uppercase;
-  z-index: 9999;
-  position: relative;
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
-  a {
-    padding: 0px 10px;
-    letter-spacing: 1px;
-    color: rgba(0, 0, 0, 0.6);
-    display: inline-block;
-    &:hover {
-      color: rgba(0, 0, 0, 0.9);
-    }
-  }
-  span.right {
-    float: right;
-    a {
-      float: left;
-      display: block;
     }
   }
 }
