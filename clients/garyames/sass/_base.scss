@@ -44,12 +44,8 @@ body {
 
 a {
   color: #06444B;
-  -webkit-transition: all 0.3s ease-out;
-  -moz-transition: all 0.3s ease-out;
-  -ms-transition: all 0.3s ease-out;
-  -o-transition: all 0.3s ease-out;
-  transition: all 0.3s ease-out;
   &:hover {
+    color: #fff;
     text-decoration: underline;
   }
   &.nav-link {
@@ -60,9 +56,9 @@ a {
       text-emphasis: none;
     }
   }
-  &.inline:hover, &.article-link:hover {
-    color: #fff;
-  }
+  //&.inline:hover, &.article-link:hover {
+  //  color: #fff;
+  //}
 }
 
 .container {
