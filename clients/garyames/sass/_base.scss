@@ -42,17 +42,29 @@ body {
   overflow-x: hidden;
 }
 
-//a {
-//  color: #555;
-//  text-decoration: none;
-//  &:hover {
-//    color: rgba(0, 0, 0, 0.9);
-//    text-decoration: underline;
-//  }
-//  &.no-decoration {
-//    text-decoration: none;
-//  }
-//}
+a {
+  color: #06444B;
+  text-decoration: none;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  transition: all 200ms linear;
+  &:hover {
+    text-decoration: underline;
+  }
+  &.nav-link {
+    color: #555;
+    text-decoration: none;
+    &:hover {
+      color: rgba(0, 0, 0, 0.9);
+      text-decoration: underline;
+    }
+  }
+  &.no-decoration {
+    text-decoration: none;
+  }
+}
 
 .container {
   width: 100%;
