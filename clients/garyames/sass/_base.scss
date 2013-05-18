@@ -59,7 +59,7 @@ a {
   position: relative;
   > header {
     position: relative;
-    margin: 0 auto 20px;
+    margin: 0 auto 40px;
     padding: 60px 30px 50px;
     text-align: center;
     h1 {
@@ -103,4 +103,27 @@ p {
   font-size: 1.2em;
   line-height: 1.4em;
   margin-bottom: 20px;
+  &.first:first-letter {
+    color: white;
+    float: left;
+    font-size: 10em;
+    font-weight: 700;
+    padding: 10px 10px 10px 0;
+    text-shadow:
+        0 -1px 0 #C9CECE,
+      0 1px 0 #BCC2C1,
+      0 2px 0 #AEB6B5,
+      0 3px 0 #A3ACAB,
+      0 4px 0 #9EA7A6,
+      0 5px 0 #99A2A1,
+      0 6px 0 #96A09F,
+      0 7px 0 #939E9D,
+      0 0 4px rgba(0, 0, 0, 0.05),
+      0 0 1px rgba(0, 0, 0, 0.2),
+      0 1px 3px rgba(0, 0, 0, 0.2),
+      0 2px 5px rgba(0, 0, 0, 0.2),
+      0 10px 10px rgba(0, 0, 0, 0.2),
+      0 10px 10px rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+  }
 }
