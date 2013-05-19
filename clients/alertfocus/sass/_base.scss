@@ -208,11 +208,22 @@ hr {
 h2 {
   position: relative;
   top: -16px;
-  width: 170px;
   margin: 0 20px;
   background: #9cb8b3;
   text-align: center;
   text-transform: uppercase;
+  &.categories {
+    width: 170px;
+  }
+  &.biofeedback {
+    width: 180px;
+  }
+  &.about {
+    width: 120px;
+  }
+  &.contact {
+    width: 140px;
+  }
 }
 
 ul.listing {
@@ -228,6 +239,6 @@ ul.listing {
 
 .callout-biofeedback, .callout-about, .callout-contact {
   display: inline-block;
-  width: 33.33%;
+  width: 33%;
   border: 1px solid blue;
 }
