@@ -193,7 +193,7 @@ ol.slats li {
 .categories, .callout-container {
   width: 60%;
   max-width: 900px;
-  margin: 0 auto 40px;
+  margin: 0 auto;
 }
 
 hr {
@@ -228,7 +228,6 @@ ul.listing {
 
 .callout-biofeedback, .callout-about, .callout-contact {
   display: inline-block;
-  width: 33%;
-  max-width: 300px;
+  width: 33.33%;
   border: 1px solid blue;
 }
