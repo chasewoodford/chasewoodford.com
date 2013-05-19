@@ -162,14 +162,6 @@ p {
   }
 }
 
-ul, ol {
-  margin: 10px 0 40px;
-  padding-left: 40px;
-  li {
-    margin: 10px 0;
-  }
-}
-
 ol.slats li {
   margin: 0 0 10px 0;
   padding: 0 0 10px 0;
@@ -198,6 +190,11 @@ ol.slats li {
   }
 }
 
+.categories {
+  width: 50%;
+  margin: 0 auto;
+}
+
 hr {
   position: relative;
   border-style: solid;
@@ -209,7 +206,7 @@ hr {
 
 h2 {
   position: relative;
-  top: -25px;
+  top: -16px;
   width: 170px;
   margin: 0 20px;
   background: #9cb8b3;
@@ -218,12 +215,11 @@ h2 {
 }
 
 ul.listing {
-  margin: -15px 0 0 0;
+  margin: 0;
   padding: 0 5px;
   text-align: justify;
   & li {
-    display: inline;
-    margin: 8px;
+    display: inline-block;
     list-style-type: none;
   }
 }
