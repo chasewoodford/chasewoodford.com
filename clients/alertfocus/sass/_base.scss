@@ -94,8 +94,8 @@ a {
   position: relative;
   > header {
     position: relative;
-    margin: 0 auto 40px;
-    padding: 60px 30px 50px;
+    margin: 0 auto;
+    padding: 60px 30px 30px;
     text-align: center;
     h1 {
       font-size: 70px;
@@ -195,5 +195,35 @@ ol.slats li {
   &.pagination-row {
     margin-top: 40px;
     text-align: center;
+  }
+}
+
+hr {
+  position: relative;
+  border-style: solid;
+  border-width: 1px 0;
+  border-top-color: #888;
+  border-bottom-color: #d9d9d9;
+  mask-image: radial-gradient(circle, black, transparent);
+}
+
+h2 {
+  position: relative;
+  top: -25px;
+  width: 170px;
+  margin: 0 20px;
+  background: #9cb8b3;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+ul.listing {
+  margin: -15px 0 0 0;
+  padding: 0 5px;
+  text-align: justify;
+  & li {
+    display: inline;
+    margin: 8px;
+    list-style-type: none;
   }
 }
