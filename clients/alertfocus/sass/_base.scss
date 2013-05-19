@@ -227,6 +227,7 @@ ul.listing {
 }
 
 .callout-biofeedback, .callout-about, .callout-contact {
+  display: inline-block;
   width: 20%;
   border: 1px solid blue;
 }
