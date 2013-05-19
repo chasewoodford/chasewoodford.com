@@ -192,8 +192,9 @@ ol.slats li {
 
 .category-container {
   width: 60%;
+  min-width: 760px;
   max-width: 900px;
-  margin: 0 auto 40px;
+  margin: 0 auto 60px;
   border: 1px solid #888888;
 }
 
@@ -221,20 +222,11 @@ h2 {
   &.categories {
     width: 170px;
   }
-  //&.biofeedback {
-  //  width: 180px;
-  //}
-  //&.about {
-  //  width: 120px;
-  //}
-  //&.contact {
-  //  width: 140px;
-  //}
 }
 
 ul.listing {
   margin: 0;
-  padding: 0 5px;
+  padding: 0 20px 8px;
   text-align: justify;
   & li {
     display: inline-block;
@@ -245,6 +237,11 @@ ul.listing {
 
 .callout-biofeedback, .callout-about, .callout-contact {
   display: inline-block;
-  width: 33%;
+  width: 31%;
+  margin-right: 1%;
   border: 1px solid #888888;
+}
+
+.callout-contact {
+  margin-right: 0;
 }
