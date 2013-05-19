@@ -191,7 +191,8 @@ ol.slats li {
 }
 
 .categories {
-  width: 75%;
+  width: 60%;
+  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -220,7 +221,7 @@ ul.listing {
   text-align: justify;
   & li {
     display: inline-block;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     list-style-type: none;
   }
 }
