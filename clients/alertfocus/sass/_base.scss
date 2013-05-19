@@ -190,7 +190,7 @@ ol.slats li {
   }
 }
 
-.categories {
+.categories, .callout-container {
   width: 60%;
   max-width: 900px;
   margin: 0 auto;
@@ -224,4 +224,9 @@ ul.listing {
     margin-bottom: 15px;
     list-style-type: none;
   }
+}
+
+.callout-biofeedback, .callout-about, .callout-contact {
+  width: 20%;
+  border: 1px solid blue;
 }
