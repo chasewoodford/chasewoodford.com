@@ -194,6 +194,7 @@ ol.slats li {
   width: 60%;
   max-width: 900px;
   margin: 0 auto 40px;
+  border: 1px solid #888888;
 }
 
 hr {
@@ -208,22 +209,10 @@ hr {
 h2 {
   position: relative;
   top: -16px;
-  margin: 0 20px;
+  margin: 0 30px;
   background: #9cb8b3;
   text-align: center;
   text-transform: uppercase;
-  &.categories {
-    width: 170px;
-  }
-  &.biofeedback {
-    width: 180px;
-  }
-  &.about {
-    width: 120px;
-  }
-  &.contact {
-    width: 140px;
-  }
 }
 
 ul.listing {
