@@ -90,17 +90,17 @@
 
                 if(linkText === "Show More ..."){
                     linkText = "Show Less";
-                    $content.toggle("hide-content", "show-content", 400);
+                    $content.toggle(".hide-content", ".show-content", 400);
                 } else {
                     linkText = "Show More ...";
-                    $content.toggle("show-content", "hide-content", 400);
+                    $content.toggle(".show-content", ".hide-content", 400);
                 };
 
                 $this.text(linkText);
             });
 
 
-            $("ul.listing").HasScrollBar() ==true ? $(".show-more").show():$(".show-more").hide();
+            $("ul.listing").HasScrollBar() ==true ? $(".show-more").addClass():$(".show-more").removeClass();
         </script>
 	</body>
 </html>
