@@ -235,6 +235,15 @@ ul.listing {
   }
 }
 
+.hide-content {
+  overflow: hidden;
+  height: 2em;
+}
+
+.showContent {
+  height: auto;
+}
+
 .callout-biofeedback, .callout-about, .callout-contact {
   display: inline-block;
   width: 31%;

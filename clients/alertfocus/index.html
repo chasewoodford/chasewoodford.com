@@ -19,7 +19,7 @@
             <div class="category-container">
                 <hr>
                 <h2 class="categories">Categories</h2>
-                <ul class="listing">
+                <ul class="listing hide-content">
                     <li><a class="button" href="categories/add.html">ADD (5)</a></li>
                     <li><a class="button" href="categories/sleep.html">Sleep (4)</a></li>
                     <li><a class="button" href="#">Migraine (11)</a></li>
@@ -32,7 +32,7 @@
                     <li><a class="button" href="#">Criminal Violence (4)</a></li>
                     <li><a class="button" href="#">Addictions (4)</a></li>
                     <li><a class="button" href="#">Autism (18)</a></li>
-                    <li><a class="button" href="#">Show More ...</a></li>
+                    <li><a class="button show-more" href="#">Show More ...</a></li>
                 </ul>
             </div>
         </div>
@@ -70,5 +70,37 @@
         </div>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>
+            $.fn.HasScrollBar = function() {
+                //note: clientHeight= height of holder
+                //scrollHeight= we have content till this height
+                var _elm = $(this)[0];
+                var _hasScrollBar = false;
+                if ((_elm.clientHeight < _elm.scrollHeight) || (_elm.clientWidth < _elm.scrollWidth)) {
+                    _hasScrollBar = true;
+                }
+                return _hasScrollBar;
+            }
+
+            $("a.show-more").on("click", function() {
+                var $this = $(this);
+                var $content = $this.parent().prev("ul.listing");
+                var linkText = $this.text();
+
+
+                if(linkText === "Show More ..."){
+                    linkText = "Show Less";
+                    $content.switchClass("hideContent", "showContent", 400);
+                } else {
+                    linkText = "Show More ...";
+                    $content.switchClass("showContent", "hideContent", 400);
+                };
+
+                $this.text(linkText);
+            });
+
+
+            $("ul.listing").HasScrollBar() ==true ? $(".show-more").show():$(".show-more").hide();
+        </script>
 	</body>
 </html>
