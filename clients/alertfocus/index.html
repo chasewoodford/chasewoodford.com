@@ -19,7 +19,7 @@
             <div class="category-container">
                 <hr>
                 <h2 class="categories">Categories</h2>
-                <ul class="listing hide-content">
+                <ul class="listing">
                     <li><a class="button" href="categories/add.html">ADD (5)</a></li>
                     <li><a class="button" href="categories/sleep.html">Sleep (4)</a></li>
                     <li><a class="button" href="#">Migraine (11)</a></li>
@@ -32,8 +32,8 @@
                     <li><a class="button" href="#">Criminal Violence (4)</a></li>
                     <li><a class="button" href="#">Addictions (4)</a></li>
                     <li><a class="button" href="#">Autism (18)</a></li>
-                    <li><a class="button show-more" href="#">Show More ...</a></li>
                 </ul>
+                <a id="toggleButton" class="button" href="#">Show More ...</a>
             </div>
         </div>
         <div class="callout-container">
@@ -71,36 +71,17 @@
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>
-            $.fn.HasScrollBar = function() {
-                //note: clientHeight= height of holder
-                //scrollHeight= we have content till this height
-                var _elm = $(this)[0];
-                var _hasScrollBar = false;
-                if ((_elm.clientHeight < _elm.scrollHeight) || (_elm.clientWidth < _elm.scrollWidth)) {
-                    _hasScrollBar = true;
-                }
-                return _hasScrollBar;
-            }
+            var index = 2;
 
-            $("a.show-more").on("click", function() {
-                var $this = $(this);
-                var $content = $this.parent().prev("ul.listing");
-                var linkText = $this.text();
+            $('ul li:gt('+index+')').hide();
 
-
-                if(linkText === "Show More ..."){
-                    linkText = "Show Less";
-                    $content.toggle(".hide-content", ".show-content", 400);
-                } else {
-                    linkText = "Show More ...";
-                    $content.toggle(".show-content", ".hide-content", 400);
-                };
-
-                $this.text(linkText);
+            $('#toggleButton').toggle(function() {
+                $(this).text('Hide');
+                $('ul li:gt('+index+')').show();
+            }, function () {
+                $('ul li:gt('+(index)+')').hide();
+                $(this).text('Show more');
             });
-
-
-            $("ul.listing").HasScrollBar() ==true ? $(".show-more").addClass():$(".show-more").removeClass();
         </script>
 	</body>
 </html>
