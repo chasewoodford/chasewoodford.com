@@ -207,6 +207,11 @@ ol.slats li {
   border: none;
 }
 
+.callout-container-inner {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
 hr {
   position: relative;
   border-style: solid;
@@ -248,4 +253,8 @@ ul.listing {
 
 .callout-contact {
   margin-right: 0;
+}
+
+img.callout-image {
+  margin-bottom: 10px;
 }
