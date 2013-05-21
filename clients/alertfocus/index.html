@@ -71,7 +71,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>
             $('ul.listing').find('li:gt(4)').hide().end().append(
-                $('<li><button class="button show-more">Show More ...</button></li>').click( function() {
+                $('<li><a class="button show-more">Show More ...</a></li>').click( function() {
                     $(this).siblings(':hidden').show().end().remove();
                 })
             )
