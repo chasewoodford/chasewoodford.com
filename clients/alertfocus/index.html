@@ -19,7 +19,7 @@
             <div class="category-container">
                 <hr>
                 <h2 class="categories">Categories</h2>
-                <ul class="listing collapse">
+                <ul class="listing">
                     <li><a class="button" href="categories/add.html">ADD (5)</a></li>
                     <li><a class="button" href="categories/sleep.html">Sleep (4)</a></li>
                     <li><a class="button" href="#">Migraine (11)</a></li>
@@ -32,9 +32,7 @@
                     <li><a class="button" href="#">Criminal Violence (4)</a></li>
                     <li><a class="button" href="#">Addictions (4)</a></li>
                     <li><a class="button" href="#">Autism (18)</a></li>
-
                 </ul>
-                <a class="button show-more" href="#">Show More ...</a>
             </div>
         </div>
         <div class="callout-container">
@@ -72,7 +70,10 @@
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>
-            $('ul li:gt(3)').hide().append("<li><a class=\"button\" href=\"#\">Autism (18)</a></li>");
+            $('ul li:gt(3)').hide().append('<li><a class=\"button show-more\" href=\"#\">Autism (18)</a></li>');
+            $('.show-more').toggle() {
+                $('ul li:gt(3)').show();
+            });
         </script>
 	</body>
 </html>
