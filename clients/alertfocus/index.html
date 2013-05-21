@@ -32,7 +32,6 @@
                     <li><a class="button" href="#">Criminal Violence (4)</a></li>
                     <li><a class="button" href="#">Addictions (4)</a></li>
                     <li><a class="button" href="#">Autism (18)</a></li>
-                    <li><a class="button" href="#">Show More ...</a></li>
                 </ul>
             </div>
         </div>
@@ -70,5 +69,12 @@
         </div>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>
+            $('ul.listing').find('li:gt(4)').hide().end().append(
+                $('<li><button class="button show-more">Show More ...</button></li>').click( function() {
+                    $(this).siblings(':hidden').show().end().remove();
+                })
+            )
+        </script>
 	</body>
 </html>
