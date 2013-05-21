@@ -32,11 +32,8 @@
                     <li><a class="button" href="#">Criminal Violence (4)</a></li>
                     <li><a class="button" href="#">Addictions (4)</a></li>
                     <li><a class="button" href="#">Autism (18)</a></li>
+                    <li><a class="button" href="#">Show More ...</a></li>
                 </ul>
-                <div>
-                <a id="toggleButton" class="button" href="#">Show More ...</a>
-                </div>
-
             </div>
         </div>
         <div class="callout-container">
@@ -75,16 +72,20 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>
             var index = 2;
-
             $('ul li:gt('+index+')').hide();
+            $('ul').append('<li class="more"><a class="button" href="#">more...</a></li>');
+            $('ul li.more a').toggle(showItems, hideItems);
 
-            $('#toggleButton').toggle(function() {
-                $(this).text('Hide');
+            function showItems()
+            {
+                $(this).text('hide');
                 $('ul li:gt('+index+')').show();
-            }, function () {
-                $('ul li:gt('+(index)+')').hide();
-                $(this).text('Show more');
-            });
+            }
+            function hideItems()
+            {
+                $(this).text('more...');
+                $('ul li:gt('+index+'):not(.more)').hide();
+            }
         </script>
 	</body>
 </html>
