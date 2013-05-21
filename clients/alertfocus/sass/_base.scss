@@ -202,7 +202,7 @@ ol.slats li {
   border: 1px solid #888888;
 }
 
-.callout-container {
+.callout-container, .content-container {
   @extend .category-container;
   border: none;
 }
