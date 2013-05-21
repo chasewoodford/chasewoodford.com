@@ -32,6 +32,7 @@
                     <li><a class="button" href="#">Criminal Violence (4)</a></li>
                     <li><a class="button" href="#">Addictions (4)</a></li>
                     <li><a class="button" href="#">Autism (18)</a></li>
+                    <li><a class="button show-more" href="#">Show More ...</a></li>
                 </ul>
             </div>
         </div>
@@ -70,12 +71,9 @@
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>
-            $("ul.collapse").find("li:gt(5)").hide();
-
-            $("ul.collapse").has("li:nth-child(6)").after("<li><a class=\"button\ showhide" href=\"#\">Show More ...</a></li>");
-
-            $("li.showhide").click(function() {
-                $("ul.collapse").find("li:gt(5)").toggle("slow");
+            $('ul li:gt(3)').hide();
+            $('.show-more').click(function() {
+                $('ul li:gt(3)').show();
             });
         </script>
 	</body>
