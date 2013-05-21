@@ -72,19 +72,19 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>
             var index = 1;
-            $('ul li:gt('+index+')').hide();
+            $('ul li:lt('+index+')').hide();
             $('ul').append('<li class="more"><a class="button" href="#">more...</a></li>');
             $('ul li.more a').toggle(showItems, hideItems);
 
             function showItems()
             {
                 $(this).text('hide');
-                $('ul li:gt('+index+')').show();
+                $('ul li:lt('+index+')').show();
             }
             function hideItems()
             {
                 $(this).text('more...');
-                $('ul li:gt('+index+'):not(.more)').hide();
+                $('ul li:lt('+index+'):not(.more)').hide();
             }
         </script>
 	</body>
