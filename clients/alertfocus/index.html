@@ -90,10 +90,10 @@
 
                 if(linkText === "Show More ..."){
                     linkText = "Show Less";
-                    $content.switchClass("hideContent", "showContent", 400);
+                    $content.toggle("hideContent", "showContent", 400);
                 } else {
                     linkText = "Show More ...";
-                    $content.switchClass("showContent", "hideContent", 400);
+                    $content.toggle("showContent", "hideContent", 400);
                 };
 
                 $this.text(linkText);
