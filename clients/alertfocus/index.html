@@ -73,9 +73,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>
             $('ul li:gt(3)').hide();
-            $('.show-more').click(function() {
-                $('ul li:gt(3)').show();
-            });
+            $('.show-more').toggle($('ul li:gt(3)').show());
         </script>
 	</body>
 </html>
