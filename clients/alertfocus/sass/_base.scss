@@ -43,6 +43,7 @@ body {
 }
 
 a, button {
+  font: inherit;
   color: #06444B;
   &:hover {
     color: #fff;
