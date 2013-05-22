@@ -184,6 +184,9 @@ p {
       0 10px 10px rgba(0, 0, 0, 0.3);
     text-transform: uppercase;
   }
+  &.category-description {
+    margin: 20px auto 60px;
+  }
 }
 
 ol.slats li {
