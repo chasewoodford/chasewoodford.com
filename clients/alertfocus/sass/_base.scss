@@ -244,7 +244,7 @@ ol.slats.latest-articles {
   vertical-align: top;
 }
 
-.callout-container, .category-description {
+.callout-container {
   @extend .category-container;
   border: none;
 }
@@ -252,6 +252,11 @@ ol.slats.latest-articles {
 .content-container {
   @extend .callout-container;
   padding-top: 60px;
+}
+
+.description-container {
+  @extend .callout-container;
+  padding-top: 30px;
 }
 
 .callout-container-inner {
