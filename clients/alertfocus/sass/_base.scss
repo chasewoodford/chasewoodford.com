@@ -203,17 +203,21 @@ ol.slats li {
 }
 
 .article-container {
+  display: inline-block;
   width: 40%;
   max-width: 600px;
   margin: 0 auto 60px;
   border: 1px solid #888888;
+  vertical-align: top;
 }
 
 .post-category-container {
+  display: inline-block;
   width: 20%;
   max-width: 300px;
   margin: 0 auto 60px;
   border: 1px solid #888888;
+  vertical-align: top;
 }
 
 .callout-container {
