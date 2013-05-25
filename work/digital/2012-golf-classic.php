@@ -45,6 +45,10 @@
                                 <div class="table-data">2012 Golf Classic</div>
                             </li>
                             <li class="table-row">
+                                <div class="table-title">Date:</div>
+                                <div class="table-data">October 2012</div>
+                            </li>
+                            <li class="table-row">
                                 <div class="table-title">Type:</div>
                                 <div class="table-data">Website</div>
                             </li>
