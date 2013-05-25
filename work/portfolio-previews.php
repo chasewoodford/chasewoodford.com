@@ -30,15 +30,5 @@
             <img src="/images/screenshot-verilogue.png" width="200" height="100">
         </a>
     </div>
-    <div class="preview">
-        <a href="#">
-            <img src="http://placehold.it/200x100">
-        </a>
-    </div>
-    <div class="preview">
-        <a href="#">
-            <img src="http://placehold.it/200x100">
-        </a>
-    </div>
 </section>
 <div class="clear"></div>
