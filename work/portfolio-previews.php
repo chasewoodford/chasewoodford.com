@@ -2,32 +2,37 @@
     <p class="lead"></p>
     <div class="preview">
         <a href="#">
-            <img src="/images/screenshot-daraWarrent.png" width="200" height="100">
+            <img src="/images/screenshot-daraWarrent.png" title="darawarren.com" width="200" height="100">
         </a>
     </div>
     <div class="preview">
         <a href="#">
-            <img src="/images/screenshot-phillySportPast.png" width="200" height="100">
+            <img src="/images/screenshot-phillySportPast.png" title="PhillySportPast logo" width="200" height="100">
         </a>
     </div>
     <div class="preview">
         <a href="#">
-            <img src="/images/screenshot-patientJourney.png" width="200" height="100">
+            <img src="/images/screenshot-patientJourney.png" title="Verilogue Patient Journey iPad app" width="200" height="100">
         </a>
     </div>
     <div class="preview">
         <a href="#">
-            <img src="/images/screenshot-2012GolfClassic.png" width="200" height="100">
+            <img src="/images/screenshot-2012GolfClassic.png" title="Verilogue 2012 Golf Classic website" width="200" height="100">
         </a>
     </div>
     <div class="preview">
         <a href="#">
-            <img src="/images/screenshot-popArchive.png" width="200" height="100">
+            <img src="/images/screenshot-popArchive.png" title="Verilogue Point-of-Practice newsletter archive" width="200" height="100">
         </a>
     </div>
     <div class="preview">
         <a href="#">
-            <img src="/images/screenshot-verilogue.png" width="200" height="100">
+            <img src="/images/screenshot-verilogue.png" title="verilogue.com" width="200" height="100">
+        </a>
+    </div>
+    <div class="preview">
+        <a href="#">
+            <img src="/images/screenshot-2010HolidayCard.png" title="Verilogue 2010 holiday card" width="200" height="100">
         </a>
     </div>
 </section>
