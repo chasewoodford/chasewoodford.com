@@ -69,7 +69,10 @@
                         { overview }
                     </p>
                     <p>
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+                        Verilogue's Golf Classic is an annual fundraising event that benefits the Make-A-Wish Foundation. In 2012, the event helped raise over $8,000 for the cause. The event's website is the starting point for event registration and information delivery to all participants and volunteers.
+                    </p>
+                    <p>
+                        Not only did this project provide an opportunity to showcase the lighter, more playful side of a great company, it also provided the opportunity to improve upon the user experience of the innaugural site. With a year's worth of user feedback and data tracking under the belt, I was particular excited to tackle this challenge. See, I created the site for the event's first year, too. I was made well aware of all the issues both internal and external users experienced with that site, and was determined to improve the experience in 2012, knowing it would lead to a higher conversion rate and less project management.
                     </p>
                     <br/>
                     <p class="lead">
