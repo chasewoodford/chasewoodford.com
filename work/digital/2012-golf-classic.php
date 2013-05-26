@@ -76,6 +76,29 @@
                     </p>
                     <br/>
                     <p class="lead">
+                        { PayPal integration }
+                    </p>
+                    <p>
+                        <img class="left highlight" src="../../images/highlight-2012GolfClassic-003.png" alt=""/>
+                        Our number one goal for the 2012 event was to simplify the donation/registration process. In 2011, we tracked registrations on a spreadsheet and accepted payment by either cash or check. Though we did a great job managing the process, it was overly time consuming, hardly scalable and certainly did not make the experience for our users as easy and convenient as it should've been.
+                    </p>
+                    <p>
+                        So in 2012 we opted to integrate PayPal. The brand is relatively well known, secure and hassle-free. They have an easy-to-use and well documented API, the transactional fees they charge are low and their terms/policies are pretty straight forward.
+                    </p>
+                    <p>
+                        We added several PayPal buttons to the site to allow users to make donations, register and pay to participate or sign up to be a sponsor of the event. After the user clicked "Donate"/"Pay Now", they were directed to the PayPal site to complete the transaction, and upon completion they were brought back to a thank you confirmation page on the Golf Classic site.
+                    </p>
+                    <p>
+                        We also made available a generic, non-PayPal registration form for those users who preferred to pay via cash or check; made a PayPal looking button for the form to keep the look consistent.
+                    </p>
+                    <p>
+                        Another significant improvement made to the registration process on the back end was our integration of Marketo, which is marketing software. Instead of tracking participants on a spreadsheet, we added users to a mailing list after registration completion using Marketo's API.
+                    </p>
+                    <p>
+                        No more manual tracking of registrations and payments. In 2012 we knew who signed up for what and could easily tailor custom messages to a more targeted group of participants. As is the case with any good design, these improvements went mostly unnoticed by the event's participants. But that ultimately was the goal.
+                    </p>
+                    <br/>
+                    <p class="lead">
                         { parallax scrolling }
                     </p>
                     <p>
@@ -88,14 +111,6 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-2012GolfClassic-002.png" alt=""/>
-                        Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
-                    </p>
-                    <br/>
-                    <p class="lead">
-                        { PayPal integration }
-                    </p>
-                    <p>
-                        <img class="left highlight" src="../../images/highlight-2012GolfClassic-003.png" alt=""/>
                         Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
                     </p>
                     <br/>
