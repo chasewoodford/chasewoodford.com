@@ -59,7 +59,7 @@
                             <li class="table-row">
                                 <div class="table-title"></div>
                                 <div class="table-data">
-                                    <i class="icon-globe" aria-hidde="true"></i><a href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">see it live &raquo;</a>
+                                    <a href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank"><i class="icon-globe" aria-hidde="true"></i><span>see it live &raquo;</span></a>
                                 </div>
                             </li>
                         </ul>
