@@ -1,3 +1,4 @@
+// After scroll, add class to header to init dropshadow
 $(window).scroll(function () {
     if ($(window).scrollTop() > 30) {
         $("#header").addClass("scroll");
@@ -6,6 +7,7 @@ $(window).scroll(function () {
     }
 });
 
+// Google Analytics
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-28396921-1']);
 _gaq.push(['_setDomainName', 'chasewoodford.com']);
