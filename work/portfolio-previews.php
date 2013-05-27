@@ -1,17 +1,17 @@
 <section class="grid-12 text-center">
     <p class="lead"></p>
     <div class="preview">
-        <a href="./digital/dara-warren.php" data-pubdate="201304">
+        <a href="../digital/dara-warren.php" data-pubdate="201304">
             <img src="/images/screenshot-daraWarrent.png" title="darawarren.com" width="200" height="100">
         </a>
     </div>
     <div class="preview" data-pubdate="201210">
-        <a href="./digital/2012-golf-classic.php">
+        <a href="../digital/2012-golf-classic.php">
             <img src="/images/screenshot-2012GolfClassic.png" title="Verilogue 2012 Golf Classic website" width="200" height="100">
         </a>
     </div>
     <div class="preview">
-        <a href="./branding/philly-sport-past.php" data-pubdate="201207">
+        <a href="../branding/philly-sport-past.php" data-pubdate="201207">
             <img src="/images/screenshot-phillySportPast.png" title="PhillySportPast logo" width="200" height="100">
         </a>
     </div>
