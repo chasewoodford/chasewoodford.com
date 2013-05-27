@@ -25,41 +25,41 @@
                 <header>
                     <h3>
                     <span class="portfolio-category">
-                        portfolio > digital
+                        portfolio > branding
                     </span>
-                        <a class="title-bar" href="http://www.darawarren.com" title="see it live" target="_blank">darawarren.com</a>
+                        <a class="title-bar" href="https://www.phillysportpast.com" title="see it live" target="_blank">PhillySportPast logo</a>
                     </h3>
                 </header>
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
-                        <a class="left screenshot" href="http://www.darawarren.com" title="see it live" target="_blank">
-                            <img class="main" src="/images/screenshot-daraWarrent.png" alt="darawarren.com">
+                        <a class="left screenshot" href="https://www.phillysportpast.com" title="see it live" target="_blank">
+                            <img class="main" src="/images/screenshot-phillySportPast.png" alt="PhillySportPast logo">
                         </a>
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>
-                                <div class="table-data">Dara Warren</div>
+                                <div class="table-data">PhillySportPast</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Title:</div>
-                                <div class="table-data">darawarren.com</div>
+                                <div class="table-data">PhillySportPast logo</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Date:</div>
-                                <div class="table-data">April 2013</div>
+                                <div class="table-data">July 2012</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Type:</div>
-                                <div class="table-data">Website</div>
+                                <div class="table-data">Logo</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>
-                                <div class="table-data">HTML, CSS, Web Fonts</div>
+                                <div class="table-data">Corporate branding</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title"></div>
                                 <div class="table-data">
-                                    <a href="http://www.darawarren.com" title="see it live" target="_blank"><i class="icon-globe" aria-hidde="true"></i>&nbsp;<span>see it live &raquo;</span></a>
+                                    <a href="https://www.phillysportpast.com" title="see it live" target="_blank"><i class="icon-globe" aria-hidde="true"></i>&nbsp;<span>see it live &raquo;</span></a>
                                 </div>
                             </li>
                         </ul>
@@ -72,13 +72,13 @@
                     <p></p>
                     <br/>
                     <p class="lead">
-                        { GoDaddy website builder }
+                        { ideation and iteration }
                     </p>
                     <p></p>
                     <p></p>
                     <br/>
                     <p class="lead">
-                        { web fonts and theming }
+                        { vectorizing }
                     </p>
                     <p></p>
                     <br/>
