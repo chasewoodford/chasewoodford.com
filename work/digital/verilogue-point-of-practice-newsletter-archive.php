@@ -27,7 +27,9 @@
                     <span class="portfolio-category">
                         portfolio > digital
                     </span>
+                    <span class="title-bar">
                         Verilogue Point-of-Practice newsletter archive
+                    </span>
                     </h3>
                 </header>
                 <section>

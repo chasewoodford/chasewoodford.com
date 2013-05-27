@@ -27,7 +27,9 @@
                     <span class="portfolio-category">
                         portfolio > digital
                     </span>
+                    <span class="title-bar">
                         Verilogue Patient Journey iPad App
+                    </span>
                     </h3>
                 </header>
                 <section>

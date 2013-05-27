@@ -27,7 +27,9 @@
                     <span class="portfolio-category">
                         portfolio > multimedia
                     </span>
+                    <span class="title-bar">
                         Verilogue 2010 Holiday Card
+                    </span>
                     </h3>
                 </header>
                 <section>
