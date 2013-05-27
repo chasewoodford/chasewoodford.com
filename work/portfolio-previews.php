@@ -16,13 +16,8 @@
         </a>
     </div>
     <div class="preview">
-        <a href="#" data-pubdate="">
+        <a href="../digital/verilogue-patient-journey.php" data-pubdate="201203">
             <img src="/images/screenshot-patientJourney.png" title="Verilogue Patient Journey iPad app" width="200" height="100">
-        </a>
-    </div>
-    <div class="preview">
-        <a href="#" data-pubdate="">
-            <img src="/images/screenshot-popArchive.png" title="Verilogue Point-of-Practice newsletter archive" width="200" height="100">
         </a>
     </div>
     <div class="preview">
@@ -31,7 +26,12 @@
         </a>
     </div>
     <div class="preview">
-        <a href="#" data-pubdate="">
+        <a href="../digital/verilogue-point-of-practice-newsletter-archive.php" data-pubdate="201012">
+            <img src="/images/screenshot-popArchive.png" title="Verilogue Point-of-Practice newsletter archive" width="200" height="100">
+        </a>
+    </div>
+    <div class="preview">
+        <a href="../multimedia/verilogue-2010-holiday-card.php" data-pubdate="201011">
             <img src="/images/screenshot-2010HolidayCard.png" title="Verilogue 2010 holiday card" width="200" height="100">
         </a>
     </div>
