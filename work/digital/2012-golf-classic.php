@@ -79,7 +79,7 @@
                         { PayPal integration }
                     </p>
                     <p>
-                        <img class="left highlight" src="../../images/highlight-2012GolfClassic-003.png" alt=""/>
+                        <img class="right highlight" src="../../images/highlight-2012GolfClassic-003.png" alt=""/>
                         Our number one goal for the 2012 event was to simplify the donation/registration process. In 2011, we tracked registrations on a spreadsheet and accepted payment by cash or check only. Though we did a great job managing the process, it was overly time consuming, hardly scalable and not the ideal experience for our users.
                     </p>
                     <p>
@@ -115,7 +115,7 @@
                         { adaptive web design }
                     </p>
                     <p>
-                        <img class="right highlight" src="../../images/highlight-2012GolfClassic-004.png" alt=""/>
+                        <img class="left highlight" src="../../images/highlight-2012GolfClassic-004.png" alt=""/>
                         From analysis of the first year's site activity, we knew there would not be much traffic from devices other than desktops. Of course, a year had passed, and users' behavior patterns had changed as quickly as the devices they used. Even if tablets and mobile devices did not account for a significant amount of traffic, there were key interactions made on these devices we had to prepare for, which is why we decided to make the site adaptive.
                     </p>
                     <p>
