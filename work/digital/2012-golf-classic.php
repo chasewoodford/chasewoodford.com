@@ -100,7 +100,7 @@
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-2012GolfClassic-001.png" alt=""/>
-                        Another goal of the site was to show visitors who may not have participated in the first year's event what to expect using images taken from the prior year. To accomplish this, the site made use of a parallax scrolling effect, or the movement of layered images at different speeds. We had hundreds of pictures of the first year's participants golfing, winning prizes and having a great time. We wanted to display as many of these as possible without taking up too much real estate. The parallax scrolling effect not only allowed us to showcase the previous year's event, but it also looked cool and was a great way to break up content sections.
+                        Another goal of the site was to show visitors who may not have participated in the first year's event what to expect using images taken from the prior year. To accomplish this, the site made use of a parallax scrolling effect, or the movement of layered images at different speeds. We had hundreds of pictures of the first year's participants golfing, winning prizes and having a great time. We wanted to display as many of these as possible without taking up too much real estate. The parallax scrolling effect not only allowed us to showcase all the fun of the previous year's event, but it also just looked cool and was a great way to break up content on the site.
                     </p>
                     <br/>
                     <p class="lead">
@@ -108,7 +108,7 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-2012GolfClassic-002.png" alt=""/>
-                        In addition to the parallax scrolling effect, the site was sprinkled with other cutting-edge CSS effects. The sponsor images had an <code>opacity</code> effect applied to them, where on hover they would "come to life" in full color. The site's section titles used several layers of <code>text-shadow</code> to make the words look like they were jumping off the page. Some of the images were treated with a <code>transform: rotate()</code> effect to give them a loosely-scattered-on-the-page look. And all of the links and critical text information was treated with a smooth <code>transition</code> effect, where background and font colors would change and text would move or become highlighted on hover. These additions, though not critical, did add to the enhanced experience for users who visited the site using modern browsers.
+                        In addition to the parallax scrolling effect, the site was sprinkled with other cutting-edge CSS effects. The sponsor images had an <code>opacity</code> effect applied to them, where on hover they would "come to life" in full color. The site's section titles used several layers of <code>text-shadow</code> to make the words look like they were jumping off the page. Some of the images were treated with a <code>transform: rotate()</code> effect to give them a loosely-scattered-on-the-page look. And all of the links and critical text information was treated with a smooth <code>transition</code> effect, where background and font colors would change and text would move or become highlighted on hover. These additions, though not critical to the overall design, did add to the enhanced experience for users who visited the site using modern browsers.
                     </p>
                     <br/>
                     <p class="lead">
@@ -122,7 +122,7 @@
                         The most critical interaction occurred the day of the event &mdash; participants needed to make it there. Many used their mobile devices to check on last minute details like location and time information. Others wanted to make last minute donations. Others still wanted to share the event with their social networks.
                     </p>
                     <p>
-                        So in our adaptive design the site was stripped down to critical text, links and forms. Tapping location links on a smartphone gave users quick access to directions via map apps. Tapping email addresses provided quick access to event admins for immediate help. And integrated share buttons allowed users to update their social network statuses on the go. The mobile-optimized version of the site was built using <code>@media</code> queries that adjusted the fluid desktop layout to look good on small-screen devices while increasing the site's speed and performance, as well.
+                        So in our adaptive design the site was stripped down to critical text, links and forms. Tapping location links on a smartphone gave users quick access to directions via map apps. Tapping e-mail addresses provided quick access to event admins for immediate help. And integrated share buttons allowed users to update their social network statuses on the go. The mobile-optimized version of the site was built using <code>@media</code> queries that adjusted the fluid desktop layout to look good on small-screen devices while increasing the site's speed and performance, as well.
                     </p>
                     <br/>
                     <p>
