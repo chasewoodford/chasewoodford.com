@@ -66,7 +66,7 @@
                     <p></p>
                     <br/>
                     <p>
-                        To learn more about how this site was designed and developed, <a href="/contact">contact me</a>.
+                        To learn more about how this video was designed and developed, <a href="/contact">contact me</a>.
                     </p>
                 </section>
                 <div class="clearfix"></div>
