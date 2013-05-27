@@ -32,7 +32,7 @@
                 </header>
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
-                        <img class="main" src="/images/screenshot-patientJourney.png" alt="Verilogue Patient Journey iPad app">
+                        <img class="left main" src="/images/screenshot-patientJourney.png" alt="Verilogue Patient Journey iPad app">
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>

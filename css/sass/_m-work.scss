@@ -57,7 +57,7 @@
   }
 }
 
-.screenshot img {
+.screenshot img, .left {
   margin-right: $space/2;
   @include breakpoint(smaller) {
     margin: 0 0 $space/4;

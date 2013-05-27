@@ -27,7 +27,7 @@
                     <span class="portfolio-category">
                         portfolio > digital
                     </span>
-                        <a class="title-bar" href="http://www.darawarren.com" title="see it live" target="_blank">darawarren.com</a>
+                    <a class="title-bar" href="http://www.darawarren.com" title="see it live" target="_blank">darawarren.com</a>
                     </h3>
                 </header>
                 <section>
