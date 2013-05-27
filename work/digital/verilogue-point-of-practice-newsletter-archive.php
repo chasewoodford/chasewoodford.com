@@ -34,7 +34,7 @@
                 </header>
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
-                        <img class="main" src="/images/screenshot-popArchive.png" alt="Verilogue Point-of-Practice newsletter archive">
+                        <img class="left main" src="/images/screenshot-popArchive.png" alt="Verilogue Point-of-Practice newsletter archive">
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>

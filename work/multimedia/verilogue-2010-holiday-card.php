@@ -34,7 +34,7 @@
                 </header>
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
-                        <img class="main" src="/images/screenshot-2010HolidayCard.png" alt="Verilogue 2010 holiday card">
+                        <img class="left main" src="/images/screenshot-2010HolidayCard.png" alt="Verilogue 2010 holiday card">
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>
