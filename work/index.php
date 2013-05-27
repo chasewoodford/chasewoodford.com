@@ -66,7 +66,7 @@
                         </ul>
                     </div>
                     <p>
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi...
+                        Verilogue's Golf Classic is an annual fundraising event that benefits the Make-A-Wish Foundation. In 2012, the event helped raise over $8,000 for the cause. The event's website is the starting point for event registration and information delivery to all participants and volunteers...
                         <br/><a class="continue-reading" href="./digital/2012-golf-classic">continue reading &#187;</a>
                     </p>
                 </section>
