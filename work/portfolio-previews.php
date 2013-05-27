@@ -1,7 +1,7 @@
 <section class="grid-12 text-center">
     <p class="lead"></p>
     <div class="preview">
-        <a href="#">
+        <a href="digital/dara-warren.php">
             <img src="/images/screenshot-daraWarrent.png" title="darawarren.com" width="200" height="100">
         </a>
     </div>
@@ -16,7 +16,7 @@
         </a>
     </div>
     <div class="preview">
-        <a href="#">
+        <a href="digital/2012-golf-classic.php">
             <img src="/images/screenshot-2012GolfClassic.png" title="Verilogue 2012 Golf Classic website" width="200" height="100">
         </a>
     </div>
