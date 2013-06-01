@@ -35,10 +35,11 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
 
-                        <video class="left main" width="400" controls>
+                        <video class="left main" width="400" poster="/images/screenshot-2010HolidayCard-poster.png" controls>
 
-                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type="video/mp4" /><!-- Safari / iOS video    -->
-                            <source src="../../resources/video/verilogue-2012-holiday-card.ogg" type="video/ogg" /><!-- Firefox / Opera / Chrome10 -->
+                            <source src="../../resources/video/verilogue-2012-holiday-card.webm" type="video/webm" />
+                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type="video/mp4" />
+                            <source src="../../resources/video/verilogue-2012-holiday-card.ogg" type="video/ogg" />
 
 <!--                            <object width="400" type="application/x-shockwave-flash" data="__FLASH__.SWF">-->
 <!---->
