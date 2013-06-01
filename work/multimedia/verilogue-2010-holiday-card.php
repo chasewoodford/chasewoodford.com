@@ -40,6 +40,7 @@
                             <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type="video/mp4" /><!-- Safari / iOS video    -->
                             <source src="../../resources/video/verilogue-2012-holiday-card.ogg" type="video/ogg" /><!-- Firefox / Opera / Chrome10 -->
 
+<!--                            TODO: Add JW PLayer-->
 <!--                            <object width="400" type="application/x-shockwave-flash" data="__FLASH__.SWF">-->
 <!---->
 <!--                                <param name="movie" value="__FLASH__.SWF" />-->
@@ -48,6 +49,7 @@
 <!--                                <img src="/images/screenshot-2010HolidayCard.png" width="400" height="200" alt="Verilogue 2010 holiday card"-->
 <!--                                     title="No video playback capabilities, please download the video below" />-->
 <!--                            </object>-->
+
                         </video>
                         <ul class="text-left table">
                             <li class="table-row">
