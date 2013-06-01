@@ -33,7 +33,24 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="grid-8 clearfix image-main text-left">
+<!--                    <div class="grid-8 clearfix image-main text-left">-->
+
+                        <video width="400" height="200" controls>
+
+                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type="video/mp4" /><!-- Safari / iOS video    -->
+                            <source src="../../resources/video/verilogue-2012-holiday-card.ogg" type="video/ogg" /><!-- Firefox / Opera / Chrome10 -->
+
+<!--                            <object width="640" height="360" type="application/x-shockwave-flash" data="__FLASH__.SWF">-->
+<!---->
+<!--                                <param name="movie" value="__FLASH__.SWF" />-->
+<!--                                <param name="flashvars" value="controlbar=over&amp;image=__POSTER__.JPG&amp;file=__VIDEO__.MP4" />-->
+<!---->
+<!--                                <img src="__VIDEO__.JPG" width="640" height="360" alt="__TITLE__"-->
+<!--                                     title="No video playback capabilities, please download the video below" />-->
+<!--                            </object>-->
+                        </video>
+
+
                         <img class="left main" src="/images/screenshot-2010HolidayCard.png" alt="Verilogue 2010 holiday card">
                         <ul class="text-left table">
                             <li class="table-row">
@@ -58,6 +75,12 @@
                             </li>
                         </ul>
                     </div>
+                    <br/>
+                    <p>
+                        <strong>Download Video:</strong>
+                        Closed Format:	<a href="__VIDEO__.MP4">"MP4"</a>
+                        Open Format:	<a href="__VIDEO__.OGV">"Ogg"</a>
+                    </p>
                     <br/>
                     <p class="lead">
                         { overview }
