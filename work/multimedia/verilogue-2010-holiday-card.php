@@ -35,7 +35,7 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
 
-                        <video width="400" height="200" controls>
+                        <video class="left main" width="400" height="200" controls>
 
                             <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type="video/mp4" /><!-- Safari / iOS video    -->
                             <source src="../../resources/video/verilogue-2012-holiday-card.ogg" type="video/ogg" /><!-- Firefox / Opera / Chrome10 -->
