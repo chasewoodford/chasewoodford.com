@@ -33,7 +33,7 @@
                     </h3>
                 </header>
                 <section>
-<!--                    <div class="grid-8 clearfix image-main text-left">-->
+                    <div class="grid-8 clearfix image-main text-left">
 
                         <video width="400" height="200" controls>
 
@@ -51,7 +51,7 @@
                         </video>
 
 
-                        <img class="left main" src="/images/screenshot-2010HolidayCard.png" alt="Verilogue 2010 holiday card">
+<!--                        <img class="left main" src="/images/screenshot-2010HolidayCard.png" alt="Verilogue 2010 holiday card">-->
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>
