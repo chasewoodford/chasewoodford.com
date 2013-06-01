@@ -76,7 +76,7 @@
                         </ul>
                     </div>
                     <br/>
-                    <p>
+                    <p class="text-center">
                         <strong>Download Video:</strong>
                         &nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.mp4">MP4</a>
                         &nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.ogg">OGG</a>
