@@ -52,12 +52,6 @@
 <!--                            </object>-->
 
                         </video>
-                        <p class="text-center">
-                            <strong>Download Video:</strong>
-                            &nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.mp4">MP4</a>
-                            &nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.ogg">OGG</a>
-                            &nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.webm">WebM</a>
-                        </p>
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>
@@ -74,6 +68,10 @@
                             <li class="table-row">
                                 <div class="table-title">Type:</div>
                                 <div class="table-data">Video</div>
+                            </li>
+                            <li class="table-row">
+                                <div class="table-title">Download:</div>
+                                <div class="table-data"><a href="../../resources/video/verilogue-2012-holiday-card.mp4">MP4</a>&nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.ogg">OGG</a>&nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.webm">WebM</a></div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>
