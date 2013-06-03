@@ -80,7 +80,9 @@
                     <p class="lead">
                         { vectorizing }
                     </p>
-                    <p></p>
+                    <p>
+                        <img class="left highlight" src="../../images/highlight-phillySportPast-001.png" alt="PhillySportPast logo"/>
+                    </p>
                     <br/>
                     <p>
                         To learn more about how this logo was designed and developed, <a href="/contact">contact me</a>.
