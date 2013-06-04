@@ -88,7 +88,7 @@
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-daraWarren-002.png" alt="Custom web fonts"/>
-                        Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Donec non enim in turpis pulvinar facilisis. Ut felis.
+                        Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Donec non enim in turpis pulvinar facilisis. Ut felis. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-daraWarren-003.png" alt="Close up of theming elements"/>
