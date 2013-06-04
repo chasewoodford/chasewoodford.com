@@ -2,7 +2,7 @@
     <p class="lead"></p>
     <div class="preview">
         <a href="/work/digital/dara-warren.php" data-pubdate="201304">
-            <img src="/images/screenshot-daraWarrent.png" title="darawarren.com" width="200" height="100">
+            <img src="/images/screenshot-daraWarren.png" title="darawarren.com" width="200" height="100">
         </a>
     </div>
     <div class="preview" data-pubdate="201210">

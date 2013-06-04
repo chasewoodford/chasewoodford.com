@@ -33,7 +33,7 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
                         <a class="left screenshot" href="http://www.darawarren.com" title="see it live" target="_blank">
-                            <img class="main" src="/images/screenshot-daraWarrent.png" alt="darawarren.com">
+                            <img class="main" src="/images/screenshot-daraWarren.png" alt="darawarren.com">
                         </a>
                         <ul class="text-left table">
                             <li class="table-row">
@@ -69,18 +69,24 @@
                         { overview }
                     </p>
                     <p></p>
-                    <p></p>
                     <br/>
                     <p class="lead">
                         { GoDaddy website builder }
                     </p>
-                    <p></p>
-                    <p></p>
+                    <p>
+                        <img class="right highlight" src="../../images/highlight-daraWarren-001.png" alt="GoDaddy website builder"/>
+                        Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
+                    </p>
+                    <p>
+                        Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis.
+                    </p>
                     <br/>
                     <p class="lead">
                         { web fonts and theming }
                     </p>
-                    <p></p>
+                    <p>
+                        Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
+                    </p>
                     <br/>
                     <p>
                         To learn more about how this site was designed and developed, <a href="/contact">contact me</a>.
