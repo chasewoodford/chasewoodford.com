@@ -116,3 +116,15 @@ input[type="checkbox"][readonly] {
   text-align: center;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
 }
+
+.notification_ok {
+  background-color: #468847;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 1px 2px $green;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 20px;
+  margin: 0 0 30px;
+  padding: 5px;
+  text-align: center;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+}
