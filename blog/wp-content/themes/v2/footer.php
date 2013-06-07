@@ -15,4 +15,5 @@
 <script>window.jQuery || document.write('<script src="/javascript/jquery-1.7.min.js"><\/script>')</script>
 <script async src="/javascript/common.js"></script>
 <script async src="/javascript/prism.js"></script>
+<script async src="/javascript/contact_form.js"></script>
 </html>
