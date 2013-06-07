@@ -73,7 +73,7 @@
         </div>
     </div>
 </div>
-<script src="/javascript/contact_form.js"></script>
+
 <?php
 include ('../blog/wp-content/themes/v2/footer.php');
 ?>
