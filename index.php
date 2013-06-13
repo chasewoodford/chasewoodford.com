@@ -38,18 +38,7 @@
         <?php
         endwhile;
         ?>
-        <article id="tweet-container" class="grid-10 well"><div class="twitterfeed"></div></article>
+        <article id="tweet-container" class="grid-10 well"></article>
     </div>
 </div>
-
 <?php include ('./blog/wp-content/themes/v2/footer.php') ?>
-<script type="text/javascript" charset="utf-8" src="/twitter/jquery.tweet.js"></script>
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('.twitterfeed').tweet({
-            modpath: '../twitter/',
-            count: 1,
-            loading_text: 'loading twitter feed...'
-        });
-    });
-</script>
