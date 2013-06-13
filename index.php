@@ -61,7 +61,7 @@
 
              //Make Requests
             $header = array(buildAuthorizationHeader($oauth), 'Expect:'); $options = array( CURLOPT_HTTPHEADER => $header,
-            //CURLOPT_POSTFIELDS => $postfields,
+            CURLOPT_POSTFIELDS => $postfields,
                 CURLOPT_HEADER => false, CURLOPT_URL => $url, CURLOPT_RETURNTRANSFER => true, CURLOPT_SSL_VERIFYPEER => false);
 
 
