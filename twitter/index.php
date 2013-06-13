@@ -48,7 +48,7 @@ class ezTweet {
 	private $cache_dir = './';
 
 	// Enable debugging
-	private $debug = false;
+	private $debug = true;
 
 	/**************************************************************************************/
 
