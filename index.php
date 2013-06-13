@@ -53,7 +53,7 @@ function buildAuthorizationHeader($oauth) { $r = 'Authorization: OAuth '; $value
 $url = "https://api.twitter.com/1.1/statuses/user_timeline.json";
 
 
-$oauth_access_token = "YOURVALUE"; $oauth_access_token_secret = "YOURVALUE"; $consumer_key = "YOURVALUE"; $consumer_secret = "YOURVALUE";
+$oauth_access_token = "55896667-IepSTZNxe7bQxOXiWlOyX8CMqxcuzdxKhqT6rV9Ja"; $oauth_access_token_secret = "dnDCllq5Jrd33PU5ooHKhk3p8BlgrSdaLfXBtP2mvU"; $consumer_key = "TZvnkm4qbVQhYWPlbpxrUg"; $consumer_secret = "lOECUzwETLSUxDYHBbGIr9uP58qcAFnxmWOXBeC0";
 
 
 $oauth = array( 'oauth_consumer_key' => $consumer_key, 'oauth_nonce' => time(), 'oauth_signature_method' => 'HMAC-SHA1', 'oauth_token' => $oauth_access_token, 'oauth_timestamp' => time(), 'oauth_version' => '1.0');
