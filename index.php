@@ -38,7 +38,7 @@
         <?php
         endwhile;
         ?>
-        <article id="tweet-container" class="grid-10 well"><div class="tweet"></div></article>
+        <article id="tweet-container" class="grid-10 well"><div class="twitterfeed"></div></article>
     </div>
 </div>
 
