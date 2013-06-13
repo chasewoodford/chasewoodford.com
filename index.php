@@ -43,7 +43,7 @@
 </div>
 
 <?php include ('./blog/wp-content/themes/v2/footer.php') ?>
-<script type="text/javascript" charset="utf-8" src="/twitter/jquery.tweet.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/twitter/jquery.tweet.js"></script>
 <script type="text/javascript">
     $(document).ready(function() {
         $('.twitterfeed').tweet({
