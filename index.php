@@ -51,5 +51,5 @@
             count: 1,
             loading_text: 'loading twitter feed...'
         });
-    }
+    });
 </script>
