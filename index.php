@@ -38,9 +38,11 @@
         <?php
         endwhile;
         ?>
-        <article id="tweet-container" class="grid-10 well"><div class="tweet"></div></article>
+        <article id="tweet-container" class="grid-10 well">This is here</article>
     </div>
 </div>
+
+<?php include ('./blog/wp-content/themes/v2/footer.php') ?>
 <script type="text/javascript" charset="utf-8" src="/twitter/jquery.tweet.min.js"></script>
 <script type="text/javascript">
     $(document).ready(function() {
@@ -50,4 +52,3 @@
             loading_text: 'loading twitter feed...'
         });
 </script>
-<?php include ('./blog/wp-content/themes/v2/footer.php') ?>
