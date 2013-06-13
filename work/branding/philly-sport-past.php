@@ -69,19 +69,27 @@
                         { overview }
                     </p>
                     <p>
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+                        PhillySportPast is a website dedicated to breeding "4-for-4" Philly sports fans through education and interaction. The website is backed by a huge database of Philly sports' events, trivia and factoids. It features links to nearly every Philly sports figure and athlete, past and present, as well as interactive games and activities where users can score points and battle other Philly sports fans for free prizes.
                     </p>
-                    <p></p>
                     <br/>
                     <p class="lead">
                         { ideation and iteration }
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-phillySportPast-002.png" alt="PhillySportPast logo ideas"/>
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
+                        I was approached by the client &mdash; who already had an idea of what would make for a good mark for the PhillySportPast brand &mdash; for help creating the company's logo.
                     </p>
                     <p>
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.
+                        The idea for the logo the client originally suggested was great &mdash; an image of Ben Franklin wearing eye-black &mdash; and is ultimately what the final logo ended up being. But we wanted to go through a process of exploration, regardless, for validation.
+                    </p>
+                    <p>
+                        So I sat with the client in a brainstorming session where the challenge was proposed: here is my original idea, let's see if we can think of something better. We put a bunch good ideas down on paper. I created draft versions of a couple of those ideas in Photoshop. The client and I went back and forth over the course of a couple weeks discussing what we liked and didn't like about each concept.
+                    <p>
+                    <p>
+                        It quickly became apparent during our process of design exploration that, more than anything, the PhillySportPast logo had to do two things. One, it had to quickly connect the concepts of Philadelphia and sports. And two, it had to stand on its own when the brand's name could not be included.
+                    </p>
+                    <p>
+                        There were other considerations, too. The client wanted a logo that was color-agnostic, meaning the logo's colors could change from one to another to match the team colors of whatever sport was in season. Likewise, the client also wanted the font of the logo to have a Philadelphian feel to it. Lastly, the logo needed to be easily recognizable in a large range of sizes, everything from [INSERT SMALLEST SOCIAL MEDIA SIZE HERE] to [INSERT LARGE PRINTED SIZE HERE], and as mentioned above, this meant with and without the brand's name in text.
                     </p>
                     <br/>
                     <p class="lead">
