@@ -47,7 +47,7 @@
 <script type="text/javascript">
     $(document).ready(function() {
         $('.twitterfeed').tweet({
-            modpath: '/twitter/',
+            modpath: '../twitter/',
             count: 1,
             loading_text: 'loading twitter feed...'
         });
