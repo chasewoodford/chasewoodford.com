@@ -40,7 +40,7 @@
         <?php
         endwhile;
         ?>
-        <article id="tweet-container" class="grid-10 well tweets"></article>
+        <article id="tweet-container" class="grid-10 well tweets twitterfeed"></article>
     </div>
 </div>
 <script type="text/javascript" charset="utf-8" src="/twitter/jquery.tweet.min.js"></script>
