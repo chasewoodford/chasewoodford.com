@@ -59,7 +59,10 @@
             $base_info = buildBaseString($url, 'GET', $oauth); $composite_key = rawurlencode($consumer_secret) . '&' . rawurlencode($oauth_access_token_secret); $oauth_signature = base64_encode(hash_hmac('sha1', $base_info, $composite_key, true)); $oauth['oauth_signature'] = $oauth_signature;
 
 
-            // Make Requests $header = array(buildAuthorizationHeader($oauth), 'Expect:'); $options = array( CURLOPT_HTTPHEADER => $header, //CURLOPT_POSTFIELDS => $postfields, CURLOPT_HEADER => false, CURLOPT_URL => $url, CURLOPT_RETURNTRANSFER => true, CURLOPT_SSL_VERIFYPEER => false);
+             //Make Requests
+            $header = array(buildAuthorizationHeader($oauth), 'Expect:'); $options = array( CURLOPT_HTTPHEADER => $header,
+            //CURLOPT_POSTFIELDS => $postfields,
+                CURLOPT_HEADER => false, CURLOPT_URL => $url, CURLOPT_RETURNTRANSFER => true, CURLOPT_SSL_VERIFYPEER => false);
 
 
             $feed = curl_init(); curl_setopt_array($feed, $options); $json = curl_exec($feed); curl_close($feed);
