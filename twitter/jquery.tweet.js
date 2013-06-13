@@ -11,13 +11,13 @@
 	$.fn.tweet = function(o){
 		var s = $.extend({
 			modpath: "../twitter/",                     // [string]   relative URL to Tweet.js mod (see https://github.com/StanScates/Tweet.js-Mod)
-			username: null,                           // [string or array] required unless using the 'query' option; one or more twitter screen names (use 'list' option for multiple names, where possible)
+			username: chase1263070,                           // [string or array] required unless using the 'query' option; one or more twitter screen names (use 'list' option for multiple names, where possible)
 			list_id: null,                            // [integer]  ID of list to fetch when using list functionality
 			list: null,                               // [string]   optional slug of list belonging to username
 			favorites: false,                         // [boolean]  display the user's favorites instead of his tweets
 			query: null,                              // [string]   optional search query (see also: http://search.twitter.com/operators)
 			avatar_size: null,                        // [integer]  height and width of avatar if displayed (48px max)
-			count: 3,                                 // [integer]  how many tweets to display?
+			count: 1,                                 // [integer]  how many tweets to display?
 			fetch: null,                              // [integer]  how many tweets to fetch via the API (set this higher than 'count' if using the 'filter' option)
 			page: 1,                                  // [integer]  which page of results to fetch (if count != fetch, you'll get unexpected results)
 			retweets: true,                           // [boolean]  whether to fetch (official) retweets (not supported in all display modes)
@@ -29,7 +29,7 @@
 			auto_join_text_ing: "i am",               // [string]   auto tense for present tense: "i was" surfing
 			auto_join_text_reply: "i replied to",     // [string]   auto tense for replies: "i replied to" @someone "with"
 			auto_join_text_url: "i was looking at",   // [string]   auto tense for urls: "i was looking at" http:...
-			loading_text: null,                       // [string]   optional loading text, displayed while tweets load
+			loading_text: true,                       // [string]   optional loading text, displayed while tweets load
 			refresh_interval: null ,                  // [integer]  optional number of seconds after which to reload tweets
 			twitter_url: "twitter.com",               // [string]   custom twitter url, if any (apigee, etc.)
 			twitter_api_url: "api.twitter.com",       // [string]   custom twitter api url, if any (apigee, etc.)
