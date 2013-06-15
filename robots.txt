@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /_source
+Disallow: /_source/
 Disallow: /contact_form
+Disallow: /clients/

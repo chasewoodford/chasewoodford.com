@@ -41,7 +41,6 @@ final class WP_Theme implements ArrayAccess {
 		'default'      => 'WordPress Default',
 		'twentyten'    => 'Twenty Ten',
 		'twentyeleven' => 'Twenty Eleven',
-		'twentytwelve' => 'Twenty Twelve',
 	);
 
 	/**
@@ -254,7 +253,6 @@ final class WP_Theme implements ArrayAccess {
 				// Parent theme is missing.
 				$this->errors = new WP_Error( 'theme_no_parent', sprintf( __( 'The parent theme is missing. Please install the "%s" parent theme.' ), $this->template ) );
 				$this->cache_add( 'theme', array( 'headers' => $this->headers, 'errors' => $this->errors, 'stylesheet' => $this->stylesheet, 'template' => $this->template ) );
-				$this->parent = new WP_Theme( $this->template, $this->theme_root, $this );
 				return;
 			}
 		}
@@ -796,7 +794,7 @@ final class WP_Theme implements ArrayAccess {
 	 * @return string URL to the stylesheet directory.
 	 */
 	public function get_stylesheet_directory_uri() {
-		return $this->get_theme_root_uri() . '/' . str_replace( '%2F', '/', rawurlencode( $this->stylesheet ) );
+		return $this->get_theme_root_uri() . '/' . $this->stylesheet;
 	}
 
 	/**
@@ -816,7 +814,7 @@ final class WP_Theme implements ArrayAccess {
 		else
 			$theme_root_uri = $this->get_theme_root_uri();
 
-		return $theme_root_uri . '/' . str_replace( '%2F', '/', rawurlencode( $this->template ) );
+		return $theme_root . '/' . $this->template;
 	}
 
 	/**
@@ -1073,8 +1071,7 @@ final class WP_Theme implements ArrayAccess {
 	 * @return array Array of stylesheet names.
 	 */
 	public static function get_allowed( $blog_id = null ) {
-		$network = (array) apply_filters( 'allowed_themes', self::get_allowed_on_network() );
-		return $network + self::get_allowed_on_site( $blog_id );
+		return self::get_allowed_on_network() + self::get_allowed_on_site( $blog_id );
 	}
 
 	/**
@@ -1104,7 +1101,7 @@ final class WP_Theme implements ArrayAccess {
 	public static function get_allowed_on_site( $blog_id = null ) {
 		static $allowed_themes = array();
 
-		if ( ! $blog_id || ! is_multisite() )
+		if ( ! $blog_id )
 			$blog_id = get_current_blog_id();
 
 		if ( isset( $allowed_themes[ $blog_id ] ) )
@@ -1112,24 +1109,18 @@ final class WP_Theme implements ArrayAccess {
 
 		$current = $blog_id == get_current_blog_id();
 
-		if ( $current ) {
+		if ( $current )
 			$allowed_themes[ $blog_id ] = get_option( 'allowedthemes' );
-		} else {
-			switch_to_blog( $blog_id );
-			$allowed_themes[ $blog_id ] = get_option( 'allowedthemes' );
-			restore_current_blog();
-		}
+		else
+			$allowed_themes[ $blog_id ] = get_blog_option( $blog_id, 'allowedthemes' );
 
 		// This is all super old MU back compat joy.
 		// 'allowedthemes' keys things by stylesheet. 'allowed_themes' keyed things by name.
 		if ( false === $allowed_themes[ $blog_id ] ) {
-			if ( $current ) {
+			if ( $current )
 				$allowed_themes[ $blog_id ] = get_option( 'allowed_themes' );
-			} else {
-				switch_to_blog( $blog_id );
-				$allowed_themes[ $blog_id ] = get_option( 'allowed_themes' );
-				restore_current_blog();
-			}
+			else
+				$allowed_themes[ $blog_id ] = get_blog_option( $blog_id, 'allowed_themes' );
 
 			if ( ! is_array( $allowed_themes[ $blog_id ] ) || empty( $allowed_themes[ $blog_id ] ) ) {
 				$allowed_themes[ $blog_id ] = array();
@@ -1148,10 +1139,8 @@ final class WP_Theme implements ArrayAccess {
 					update_option( 'allowedthemes', $allowed_themes[ $blog_id ] );
 					delete_option( 'allowed_themes' );
 				} else {
-					switch_to_blog( $blog_id );
-					update_option( 'allowedthemes', $allowed_themes[ $blog_id ] );
-					delete_option( 'allowed_themes' );
-					restore_current_blog();
+					update_blog_option( $blog_id, 'allowedthemes', $allowed_themes[ $blog_id ] );
+					delete_blog_option( $blog_id, 'allowed_themes' );
 				}
 			}
 		}

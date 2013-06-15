@@ -1,18 +1,10 @@
 <?php
-/**
- * Confirms that the activation key that is sent in an email after a user signs
- * up for a new blog matches the key for that user and then displays confirmation.
- *
- * @package WordPress
- */
-
-/** Define ABSPATH as this file's directory */
 define( 'WP_INSTALLING', true );
 
 /** Sets up the WordPress Environment. */
-require( dirname(__FILE__) . '/wp-load.php' );
+require(dirname(__FILE__) . '/wp-load.php');
 
-require( './wp-blog-header.php' );
+require('./wp-blog-header.php');
 
 if ( !is_multisite() ) {
 	wp_redirect( site_url( '/wp-login.php?action=register' ) );
@@ -24,21 +16,11 @@ if ( is_object( $wp_object_cache ) )
 
 do_action( 'activate_header' );
 
-/**
- * Adds an action hook specific to this page that fires on wp_head
- *
- * @since MU
- */
 function do_activate_header() {
 	do_action( 'activate_wp_head' );
 }
 add_action( 'wp_head', 'do_activate_header' );
 
-/**
- * Loads styles specific to this page.
- *
- * @since MU
- */
 function wpmu_activate_stylesheet() {
 	?>
 	<style type="text/css">
@@ -95,7 +77,7 @@ get_header();
 		} else {
 			extract($result);
 			$url = get_blogaddress_by_id( (int) $blog_id);
-			$user = get_userdata( (int) $user_id);
+			$user = new WP_User( (int) $user_id);
 			?>
 			<h2><?php _e('Your account is now active!'); ?></h2>
 
