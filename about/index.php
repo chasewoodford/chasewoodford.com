@@ -26,7 +26,7 @@
                     <h3 class="page-title-bar">
                         <div class="page-title">oh hai</div>
                         <div class="page-links">
-                            <a title="view portfolio" href="/work"><i class="icon-picture" aria-hidde="true"></i><span>portfolio</span></a>
+                            <a title="view portfolio" href="/work"><i class="icon-book" aria-hidde="true"></i><span>portfolio</span></a>
                             <span class="divider">/</span>
                             <a title="download resume" href="#"><i class="icon-doc" aria-hidden="true"></i><span>resume</span></a>
                         </div>
