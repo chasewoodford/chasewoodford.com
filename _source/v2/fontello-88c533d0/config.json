@@ -4,15 +4,39 @@
   "css_use_suffix": false,
   "glyphs": [
     {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 9993,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dcedf50ab1ede3283d7a6c70e2fe32f3",
+      "css": "chat",
+      "code": 59149,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
+      "css": "doc",
+      "code": 128196,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a73c5deb486c8d66249811642e5d719a",
+      "css": "arrows-cw",
+      "code": 59232,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9755f76110ae4d12ac5f9466c9152031",
+      "css": "book",
+      "code": 128213,
+      "src": "fontawesome"
+    },
+    {
       "uid": "39e2e6682c28e1e3b5f49825a19717c4",
       "css": "music",
       "code": 9834,
-      "src": "entypo"
-    },
-    {
-      "uid": "3def559c3c39b8500882e02892b7daa8",
-      "css": "picture",
-      "code": 127748,
       "src": "entypo"
     },
     {
@@ -100,30 +124,6 @@
       "src": "entypo"
     },
     {
-      "uid": "bf882b30900da12fca090d9796bc3030",
-      "css": "mail",
-      "code": 9993,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
-      "css": "doc",
-      "code": 128196,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "a73c5deb486c8d66249811642e5d719a",
-      "css": "arrows-cw",
-      "code": 59232,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "9755f76110ae4d12ac5f9466c9152031",
-      "css": "book",
-      "code": 128213,
-      "src": "fontawesome"
-    },
-    {
       "uid": "c6344a6ed148da12354cc90705287696",
       "css": "search-1",
       "code": 128270,
@@ -154,12 +154,6 @@
       "src": "modernpics"
     },
     {
-      "uid": "a8ed7903f8f548da5a8084e1773f0bbb",
-      "css": "chat-1",
-      "code": 127746,
-      "src": "mfglabs"
-    },
-    {
       "uid": "240979dd9fcf2e46250e66792edb8092",
       "css": "facebook",
       "code": 62208,
@@ -182,12 +176,6 @@
       "css": "linkedin",
       "code": 62234,
       "src": "brandico"
-    },
-    {
-      "uid": "64fb13a798e934810c303e6b07791816",
-      "css": "doc-1",
-      "code": 127747,
-      "src": "elusive"
     },
     {
       "uid": "e6ad31134a018fdeb64efe72d39edd65",

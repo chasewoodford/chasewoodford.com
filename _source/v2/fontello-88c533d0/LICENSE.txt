@@ -24,7 +24,7 @@ Font license info
    Copyright (C) 2012 by Dave Gandy
 
    Author:    Dave Gandy
-   License:   CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+   License:   SIL ()
    Homepage:  http://fortawesome.github.com/Font-Awesome/
 
 
@@ -37,15 +37,6 @@ Font license info
    Homepage:  http://somerandomdude.com/work/iconic/
 
 
-## Elusive
-
-   Copyright (C) 2013 by Aristeides Stathopoulos
-
-   Author:    Aristeides Stathopoulos
-   License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://aristeides.com/
-
-
 ## Modern Pictograms
 
    Copyright (c) 2012 by John Caserta. All rights reserved.
@@ -53,15 +44,6 @@ Font license info
    Author:    John Caserta
    License:   SIL (http://scripts.sil.org/OFL)
    Homepage:  http://thedesignoffice.org/project/modern-pictograms/
-
-
-## MFG Labs
-
-   Copyright (C) 2012 by Daniel Bruce
-
-   Author:    MFG Labs
-   License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://www.mfglabs.com/
 
 
 ## Brandico
