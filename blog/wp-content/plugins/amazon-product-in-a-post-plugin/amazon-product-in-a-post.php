@@ -524,6 +524,7 @@ function aws_prodinpost_filter_content($text){
     return $text;
 }
 
+
 function add_appip_jquery(){
     wp_register_script('appip-amazonlightbox', WP_PLUGIN_URL . '/amazon-product-in-a-post-plugin/js/amazon-lightbox.js');
     wp_enqueue_script('appip-amazonlightbox');
