@@ -76,7 +76,7 @@ if($thisstyleversion!="1.7" || get_option("apipp_product_styles_default")==''){
     update_option("apipp_hook_excerpt","0"); //default is no - done
     update_option('apipp_open_new_window',"0"); //default is no - newoption added at 1.6 - done
 }
-//added in 1.7 to allow those that could not use file_get_contents() to use Curl instead.		
+//added in 1.7 to allow those that could not use file_get_contents() to use Curl instead.
 if(get_option('awsplugin_amazon_usefilegetcontents')==''){update_option('awsplugin_amazon_usefilegetcontents','1');}
 if(get_option('awsplugin_amazon_usecurl')==''){update_option('awsplugin_amazon_usecurl','0');}
 //if(get_option('apipp_API_call_method')==''){update_option('apipp_API_call_method','0');}
@@ -523,7 +523,6 @@ function aws_prodinpost_filter_content($text){
     }
     return $text;
 }
-
 
 function add_appip_jquery(){
     wp_register_script('appip-amazonlightbox', WP_PLUGIN_URL . '/amazon-product-in-a-post-plugin/js/amazon-lightbox.js');
