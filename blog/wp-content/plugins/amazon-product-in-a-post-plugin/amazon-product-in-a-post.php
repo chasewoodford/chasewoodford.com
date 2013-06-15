@@ -64,7 +64,7 @@ if($thisstyleversion!="1.7" || get_option("apipp_product_styles_default")==''){
     update_option("apipp_product_styles_default",$thedefaultapippstyle);
     update_option("apipp_product_styles_default_version","1.7");
 
-//add the new element style to their custom ones - so at least it has the default functionality. They can change it after if they like
+    //add the new element style to their custom ones - so at least it has the default functionality. They can change it after if they like
     $apipp_product_styles_cust_temp = get_option("apipp_product_styles");
     if($apipp_product_styles_cust_temp!=''){
         update_option("apipp_product_styles",$apipp_product_styles_cust_temp.'div.appip-multi-divider{margin:10px 0;}');
@@ -76,7 +76,7 @@ if($thisstyleversion!="1.7" || get_option("apipp_product_styles_default")==''){
     update_option("apipp_hook_excerpt","0"); //default is no - done
     update_option('apipp_open_new_window',"0"); //default is no - newoption added at 1.6 - done
 }
-//added in 1.7 to allow those that could not use file_get_contents() to use Curl instead.
+//added in 1.7 to allow those that could not use file_get_contents() to use Curl instead.		
 if(get_option('awsplugin_amazon_usefilegetcontents')==''){update_option('awsplugin_amazon_usefilegetcontents','1');}
 if(get_option('awsplugin_amazon_usecurl')==''){update_option('awsplugin_amazon_usecurl','0');}
 //if(get_option('apipp_API_call_method')==''){update_option('apipp_API_call_method','0');}
@@ -92,28 +92,28 @@ if(!isset($_SESSION['Amazon-PIPP-Cart-HMAC'])) $_SESSION['Amazon-PIPP-Cart-HMAC'
 if(!isset($_SESSION['Amazon-PIPP-Cart-Encoded-HMAC'])) $_SESSION['Amazon-PIPP-Cart-Encoded-HMAC']='';
 if(!isset($_SESSION['Amazon-PIPP-Cart-ID'])) $_SESSION['Amazon-PIPP-Cart-ID']='';
 
-$awspagequery	= '';
-$public_key = get_option('apipp_amazon_publickey'); //Developer Public AWS Key
-$private_key = get_option('apipp_amazon_secretkey'); //Developer Secret AWS Key
-$appuninstall = get_option('apipp_uninstall'); //Uninstall database and options
+$awspagequery		= '';
+$public_key 		= get_option('apipp_amazon_publickey'); //Developer Public AWS Key
+$private_key 		= get_option('apipp_amazon_secretkey'); //Developer Secret AWS Key
+$appuninstall 		= get_option('apipp_uninstall'); //Uninstall database and options
 $appuninstallall	= get_option('apipp_uninstall_all'); //Uninstall shortcodes in pages an posts
-$aws_partner_id	= get_option('apipp_amazon_associateid'); //Amazon Partner ID
-//$aws_partner_locale = get_option('apipp_amazon_locale'); //Amazon Locale - moved to translations file
-$awsPageRequest = 1;
+$aws_partner_id		= get_option('apipp_amazon_associateid'); //Amazon Partner ID
+//$aws_partner_locale	= get_option('apipp_amazon_locale'); //Amazon Locale - moved to translations file
+$awsPageRequest 	= 1;
 $aws_plugin_version = "2.0";
-$amazonhiddenmsg = get_option('apipp_amazon_hiddenprice_message'); //Amazon Hidden Price Message
-$amazonerrormsg = get_option('apipp_amazon_notavailable_message'); //Amazon Error No Product Message
-$apipphookexcerpt = get_option('apipp_hook_excerpt'); //Hook the excerpt?
-$apipphookcontent = get_option('apipp_hook_content'); //Hook the content?
+$amazonhiddenmsg 	= get_option('apipp_amazon_hiddenprice_message'); //Amazon Hidden Price Message
+$amazonerrormsg 	= get_option('apipp_amazon_notavailable_message'); //Amazon Error No Product Message
+$apipphookexcerpt 	= get_option('apipp_hook_excerpt'); //Hook the excerpt?
+$apipphookcontent 	= get_option('apipp_hook_content'); //Hook the content?
 $apippopennewwindow = get_option('apipp_open_new_window'); //open in new window?
-$aws_eatra_pages = '';
-$aws_eatra_pages = '"ItemPage"=>"'.$awspagequery.'",';
-$thereapippstyles = get_option("apipp_product_styles_default");
+$aws_eatra_pages 	= '';
+$aws_eatra_pages 	= '"ItemPage"=>"'.$awspagequery.'",';
+$thereapippstyles 	= get_option("apipp_product_styles_default");
 $apippnewwindowhtml	= '';
-$apip_getmethod = get_option('apipp_API_call_method');
-$apip_usefileget = '0';
+$apip_getmethod 	= get_option('apipp_API_call_method');
+$apip_usefileget 	= '0';
 $apip_usecurlget	= '0';
-$encodemode = get_option('appip_encodemode'); //1.7 added - UTF-8 will be default\
+$encodemode 		= get_option('appip_encodemode'); //1.7 added - UTF-8 will be default\
 
 // 1.7 api get method defaults/check
 if($apip_getmethod=='0'){
@@ -170,7 +170,7 @@ if($aws_partner_id==''){
     $aws_partner_id = "wolvid-20"; //Amazon Partner ID - if one is not set up, we will use Plugin Creator's ID - so be sure to set one up!!
 }
 if($public_key==''){
-    $public_key = "AKIAIR3UXPU7Y7GQQPAQ"; //Developer Public AWS Key
+    $public_key = "AKIAIR3UXPU7Y7GQQPAQ";  //Developer Public AWS Key
 }
 if($private_key==''){
     $private_key = "oKUKoxCKgsmN1pmNbBYYi6DT9vMJfNMdt3Q1VUfJ"; //Developer Secret AWS Key
@@ -190,7 +190,7 @@ add_action('admin_head','aws_prodinpost_addadminhead',10); //add admin styles to
 // Functions
 function appip_deinstall() {
     global $wpdb;
-    $appuninstall = get_option('apipp_uninstall');
+    $appuninstall 		= get_option('apipp_uninstall');
     $appuninstallall	= get_option('apipp_uninstall_all');
     if($appuninstall == 'true'){
         $appiptable = $wpdb->prefix . 'amazoncache';
@@ -219,37 +219,37 @@ function appip_deinstall() {
     }
 
     if($appuninstall == 'true' && $appuninstallall == 'true'){
-//DELETE ALL POST META FOR ITEMS WITH APIPP USAGE
+        //DELETE ALL POST META FOR ITEMS WITH APIPP USAGE
         $remSQL = "DELETE FROM $wpdb->postmeta WHERE `meta_key` LIKE '%amazon-product%';";
         $cleanit = $wpdb->query($remSQL);
-//Now get data for IDs with content or excerpt containing the shortcodes.
+        //Now get data for IDs with content or excerpt containing the shortcodes.
         $thesqla = "SELECT ID, post_content, post_excerpt FROM $wpdb->posts WHERE post_content like '%[AMAZONPRODUCT%' OR post_excerpt like '%[AMAZONPRODUCT%';";
         $postData = $wpdb->get_results($thesqla);
         if(count($postData)>0){
             foreach ($postData as $pdata){
                 $pcontent = $pdata->post_content;
                 $pexcerpt = $pdata->post_excerpt;
-                $pupdate = 0;
-                $pid = $pdata->ID;
-                $search = "@(?:<p>)*\s*\[AMAZONPRODUCT\s*=\s*(.+|^\+)\]\s*(?:</p>)*@i";
+                $pupdate  = 0;
+                $pid 	  = $pdata->ID;
+                $search   = "@(?:<p>)*\s*\[AMAZONPRODUCT\s*=\s*(.+|^\+)\]\s*(?:</p>)*@i";
                 if(preg_match_all($search, $pcontent, $matches1)) {
                     if (is_array($matches1)) {
                         foreach ($matches1[1] as $key =>$v0) {
-                            $search = $matches1[0][$key];
-                            $ASINis	= $matches1[1][$key];
-                            $pcontent = str_replace ($search, '', $pcontent);
+                            $search 	= $matches1[0][$key];
+                            $ASINis		= $matches1[1][$key];
+                            $pcontent 	= str_replace ($search, '', $pcontent);
                         }
-                        $pupdate = 1;
+                        $pupdate  = 1;
                     }
                 }
                 if(preg_match_all($search, $pexcerpt, $matches2)) {
                     if (is_array($matches2)) {
                         foreach ($matches2[1] as $key =>$v0) {
-                            $search	= $matches2[0][$key];
-                            $ASINis	= $matches2[1][$key];
+                            $search		= $matches2[0][$key];
+                            $ASINis		= $matches2[1][$key];
                             $pexcerpt	= str_replace ($search, '', $pexcerpt);
                         }
-                        $pupdate = 1;
+                        $pupdate  = 1;
                     }
                 }
                 if($pupdate == 1){
@@ -265,7 +265,7 @@ function appip_install () {
     if(get_option("apipp_version")== ''){
         $appiptable = $wpdb->prefix . 'amazoncache';
         $createSQL = "CREATE TABLE IF NOT EXISTS $appiptable (`Cache_id` int(10) NOT NULL auto_increment, `URL` text NOT NULL, `updated` datetime default NULL, `body` text, PRIMARY KEY (`Cache_id`), UNIQUE KEY `URL` (`URL`(255)), KEY `Updated` (`updated`)) ENGINE=MyISAM;";
-//echo $createSQL;
+        //echo $createSQL;
         $wpdb->query($createSQL);
         add_option("apipp_version", $aws_plugin_version);
     }
@@ -276,16 +276,16 @@ function getSingleAmazonProduct($asin='',$extratext='',$extrabutton=0){
     global $public_key, $private_key, $aws_partner_id,$aws_partner_locale,$amazonhiddenmsg,$amazonerrormsg,$apippopennewwindow,$apippnewwindowhtml;
     global $appip_text_lgimage;
     global $post;
-//$apippOpenNewWindow = get_post_meta($post->ID,'amazon-product-newwindow',true);
-//if($apippOpenNewWindow!='3'){$apippnewwindowhtml=' target="amazonwin" ';}
+    //$apippOpenNewWindow = get_post_meta($post->ID,'amazon-product-newwindow',true);
+    //if($apippOpenNewWindow!='3'){$apippnewwindowhtml=' target="amazonwin" ';}
 
     if ($asin!=''){
-        $ASIN = $asin; //valid ASIN
-        $errors = '';
-        $appip_responsegroup = "ItemAttributes,Images,Offers,Reviews";
-        $appip_operation = "ItemLookup";
-        $appip_idtype	= "ASIN";
-        $pxml = aws_signed_request($aws_partner_locale, array("Operation"=>$appip_operation,"ItemId"=>$ASIN,"ResponseGroup" => $appip_responsegroup,"IdType"=>$appip_idtype,"AssociateTag"=>$aws_partner_id ), $public_key, $private_key);
+        $ASIN 					= $asin; //valid ASIN
+        $errors 				= '';
+        $appip_responsegroup 	= "ItemAttributes,Images,Offers,Reviews";
+        $appip_operation 		= "ItemLookup";
+        $appip_idtype	 		= "ASIN";
+        $pxml 					= aws_signed_request($aws_partner_locale, array("Operation"=>$appip_operation,"ItemId"=>$ASIN,"ResponseGroup" => $appip_responsegroup,"IdType"=>$appip_idtype,"AssociateTag"=>$aws_partner_id ), $public_key, $private_key);
 
         if(!is_array($pxml)){
             $pxml2=$pxml;
@@ -319,15 +319,15 @@ function getSingleAmazonProduct($asin='',$extratext='',$extrabutton=0){
 
             $result = FormatASINResult($pxml);
 
-            $returnval .= ' <div class="amazon-image-wrapper">'."\n";
-            $returnval .= ' <a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a><br />'."\n";
+            $returnval .= '				<div class="amazon-image-wrapper">'."\n";
+            $returnval .= '			        <a href="' . $result["URL"] . '" '. $apippnewwindowhtml .'>' . awsImageGrabber($result['MediumImage'],'amazon-image') . '</a>'."\n";
             if($result['LargeImage']!=''){
-                $returnval .= ' <a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
+                $returnval .= '					<a rel="appiplightbox" href="'.$result['LargeImage'] .'"></a>'."\n";
             }
             if($extratext!=''){
-                $returnval .= $extratext;
+                $returnval .= 				    $extratext;
             }
-            $returnval .= ' </div>'."\n";
+            $returnval .= '				</div>'."\n";
             return $returnval;
         }
     }
@@ -377,8 +377,8 @@ function aws_prodinpost_filter_excerpt($text){
     if($apippShowSingularonly2=='1'){$apippShowSingularonly = '1';}
 
     if(($apipphookexcerpt==true && $apippExcerptHookOverride!='3')){ //if options say to show it, show it
-//replace short tag here. Handle a bit different than content so they get stripped if they don't want to hook excerpt
-//we don't want to show the [AMAZON-PRODUCT=XXXXXXXX] tag in the excerpt text!
+        //replace short tag here. Handle a bit different than content so they get stripped if they don't want to hook excerpt
+        //we don't want to show the [AMAZON-PRODUCT=XXXXXXXX] tag in the excerpt text!
         if ( stristr( $text, '[AMAZONPRODUCT' )) {
             $search = "@(?:<p>)*\s*\[AMAZONPRODUCT\s*=\s*(\w+|^\+)\]\s*(?:</p>)*@i";
             if	(preg_match_all($search, $text, $matches)) {
@@ -398,13 +398,13 @@ function aws_prodinpost_filter_excerpt($text){
         if($apippShowSingularonly=='1'){
             if(is_singular()&& ($singleProdPostAWS!='' && $ActiveProdPostAWS!='')){
                 if($AWSPostLoc=='2'){
-//Post Content is the description
+                    //Post Content is the description
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,$text);
                 }elseif($AWSPostLoc=='3'){
-//Post Content before product
+                    //Post Content before product
                     $theproduct = $text.'<br />'.getSingleAmazonProduct($singleProdPostAWS,'');
                 }else{
-//Post Content after product - default
+                    //Post Content after product - default
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,'').'<br />'.$text;
                 }
                 return $theproduct;
@@ -414,13 +414,13 @@ function aws_prodinpost_filter_excerpt($text){
         }else{
             if($singleProdPostAWS!='' && $ActiveProdPostAWS!=''){
                 if($AWSPostLoc=='2'){
-//Post Content is the description
+                    //Post Content is the description
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,$text);
                 }elseif($AWSPostLoc=='3'){
-//Post Content before product
+                    //Post Content before product
                     $theproduct = $text.'<br />'.getSingleAmazonProduct($singleProdPostAWS,'');
                 }else{
-//Post Content after product - default
+                    //Post Content after product - default
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,'').'<br />'.$text;
                 }
                 return $theproduct;
@@ -452,9 +452,9 @@ function aws_prodinpost_filter_content($text){
     $AWSPostLoc = get_post_meta($post->ID,'amazon-product-content-location',true);
     $apippContentHookOverride = get_post_meta($post->ID,'amazon-product-content-hook-override',true);
     $apippShowSingularonly = get_post_meta($post->ID,'amazon-product-singular-only',true);
-//replace short tag here
+    //replace short tag here
     if ( stristr( $text, '[AMAZONPRODUCT' )) {
-//$search = "@(?:<p>)*\s*\[AMAZONPRODUCT\s*=\s*(\w+|^\+|,)\]\s*(?:</p>)*@i"; //need to change to allow commas in regex
+        //$search = "@(?:<p>)*\s*\[AMAZONPRODUCT\s*=\s*(\w+|^\+|,)\]\s*(?:</p>)*@i"; //need to change to allow commas in regex
         $search = "@(?:<p>)*\s*\[AMAZONPRODUCT\s*=\s*(.+|^\+)\]\s*(?:</p>)*@i";
         if	(preg_match_all($search, $text, $matches)) {
             if (is_array($matches)) {
@@ -466,15 +466,15 @@ function aws_prodinpost_filter_content($text){
                     }else{
                         if(strpos($ASINis,',')){
                             $product_text = '';
-//clean the spaces out if any
+                            //clean the spaces out if any
                             $ASINis = str_replace(' ','',$ASINis);
                             $ASINisArray = explode(',',$ASINis);
-//loop through them
+                            //loop through them
                             foreach($ASINisArray as $ASINmt){
                                 $product_text	.= getSingleAmazonProduct($ASINmt,'');
                                 $product_text	.= '<div class="appip-multi-divider"><!--appip divider--></div>';
                             }
-//replace the original shortcode with new multi products
+                            //replace the original shortcode with new multi products
                             $text	= str_replace ($search, $product_text, $text);
                         }else{
                             $text	= str_replace ($search, getSingleAmazonProduct($ASINis,''), $text);
@@ -488,13 +488,13 @@ function aws_prodinpost_filter_content($text){
         if(is_singular() && (($apipphookcontent==true && $apippContentHookOverride!='3') || $apippContentHookOverride=='' || $apipphookcontent=='')){ //if options say to show it, show it
             if($singleProdPostAWS!='' && $ActiveProdPostAWS!=''){
                 if($AWSPostLoc=='2'){
-//Post Content is the description
+                    //Post Content is the description
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,$text);
                 }elseif($AWSPostLoc=='3'){
-//Post Content before product
+                    //Post Content before product
                     $theproduct = $text.'<br />'.getSingleAmazonProduct($singleProdPostAWS,'');
                 }else{
-//Post Content after product - default
+                    //Post Content after product - default
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,'').'<br />'.$text;
                 }
                 return $theproduct;
@@ -506,13 +506,13 @@ function aws_prodinpost_filter_content($text){
         if(($apipphookcontent==true && $apippContentHookOverride!='3') || $apippContentHookOverride=='' || $apipphookcontent==''){ //if options say to show it, show it
             if($singleProdPostAWS!='' && $ActiveProdPostAWS!=''){
                 if($AWSPostLoc=='2'){
-//Post Content is the description
+                    //Post Content is the description
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,$text);
                 }elseif($AWSPostLoc=='3'){
-//Post Content before product
+                    //Post Content before product
                     $theproduct = $text.'<br />'.getSingleAmazonProduct($singleProdPostAWS,'');
                 }else{
-//Post Content after product - default
+                    //Post Content after product - default
                     $theproduct = getSingleAmazonProduct($singleProdPostAWS,'').'<br />'.$text;
                 }
                 return $theproduct;
