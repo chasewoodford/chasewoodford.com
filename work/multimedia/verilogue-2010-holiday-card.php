@@ -39,7 +39,6 @@
 
                             <source src="../../resources/video/verilogue-2012-holiday-card.webm" type="video/webm" />
                             <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type="video/mp4" />
-                            <source src="../../resources/video/verilogue-2012-holiday-card.ogg" type="video/ogg" />
 
 <!--                            TODO: Add JW Player-->
 <!--                            <object width="400" type="application/x-shockwave-flash" data="__FLASH__.SWF">-->
@@ -71,7 +70,7 @@
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Download:</div>
-                                <div class="table-data"><a href="../../resources/video/verilogue-2012-holiday-card.mp4">MP4</a>&nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.ogg">OGG</a>&nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.webm">WebM</a></div>
+                                <div class="table-data"><a href="../../resources/video/verilogue-2012-holiday-card.mp4">MP4</a>&nbsp;<a href="../../resources/video/verilogue-2012-holiday-card.webm">WebM</a></div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>
