@@ -44,7 +44,7 @@
                                data-setup='{"example_option":true}'>
                             <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4' />
                             <source src="../../resources/video/verilogue-2012-holiday-card.webm" type='video/webm' />
-                            <source src="http://video-js.zencoder.com/oceans-clip.ogv" type='video/ogg' />
+                            <source src="../../resources/video/verilogue-2012-holiday-card.ogv" type='video/ogg' />
                         </video>
 
                         <ul class="text-left table">
