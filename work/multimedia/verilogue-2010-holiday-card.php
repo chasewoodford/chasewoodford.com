@@ -11,7 +11,6 @@
 
     <link rel="stylesheet" href="/css/compiled/style.css">
 
-    <link href="http://vjs.zencdn.net/4.0/video-js.css" rel="stylesheet">
     <script src="http://vjs.zencdn.net/4.0/video.js"></script>
 </head>
 <body id="top" class="work">
