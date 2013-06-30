@@ -10,6 +10,9 @@
     <link rel="shortcut icon" type="image/x-icon" href="http://www.chasewoodford.com/favicon.ico">
 
     <link rel="stylesheet" href="/css/compiled/style.css">
+
+    <link href="http://vjs.zencdn.net/4.0/video-js.css" rel="stylesheet">
+    <script src="http://vjs.zencdn.net/4.0/video.js"></script>
 </head>
 <body id="top" class="work">
 <div class="wrapper">
@@ -35,22 +38,15 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
 
-                        <video class="left main" width="400" poster="/images/screenshot-2010HolidayCard-poster.png" controls>
-
-                            <source src="../../resources/video/verilogue-2012-holiday-card.webm" type="video/webm" />
-                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type="video/mp4" />
-
-<!--                            TODO: Add JW Player-->
-<!--                            <object width="400" type="application/x-shockwave-flash" data="__FLASH__.SWF">-->
-<!---->
-<!--                                <param name="movie" value="__FLASH__.SWF" />-->
-<!--                                <param name="flashvars" value="controlbar=over&amp;image=__POSTER__.JPG&amp;file=__VIDEO__.MP4" />-->
-<!---->
-<!--                                <img src="/images/screenshot-2010HolidayCard.png" width="400" height="200" alt="Verilogue 2010 holiday card"-->
-<!--                                     title="No video playback capabilities, please download the video below" />-->
-<!--                            </object>-->
-
+                        <video id="example_video_1" class="video-js vjs-default-skin left main"
+                               controls preload="auto" width="400" height="264"
+                               poster="/images/screenshot-2010HolidayCard-poster.png"
+                               data-setup='{"example_option":true}'>
+                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4' />
+                            <source src="../../resources/video/verilogue-2012-holiday-card.webm" type='video/webm' />
+                            <source src="http://video-js.zencoder.com/oceans-clip.ogv" type='video/ogg' />
                         </video>
+
                         <ul class="text-left table">
                             <li class="table-row">
                                 <div class="table-title">Client:</div>
