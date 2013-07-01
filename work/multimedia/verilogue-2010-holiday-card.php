@@ -10,9 +10,6 @@
     <link rel="shortcut icon" type="image/x-icon" href="http://www.chasewoodford.com/favicon.ico">
 
     <link rel="stylesheet" href="/css/compiled/style.css">
-
-    <link rel="stylesheet" href="/css/compiled/mediaelementplayer.min.css" />
-    <script src="/javascript/mediaelement-and-player.min.js"></script>
 </head>
 <body id="top" class="work">
 <div class="wrapper">
@@ -38,7 +35,7 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
 
-                        <video class="left main" controls width="400" height="264" poster="/images/screenshot-2010HolidayCard-poster.png">
+                        <video class="left main" controls width="400" poster="/images/screenshot-2010HolidayCard-poster.png">
                             <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4' />
                             <source src="../../resources/video/verilogue-2012-holiday-card.webm" type='video/webm' />
                             <source src="../../resources/video/verilogue-2012-holiday-card.ogv" type='video/ogg' />
@@ -90,10 +87,6 @@
         </div>
     </div>
 </div>
-<script>
-    // jQuery method
-    $('video').mediaelementplayer();
-</script>
 <?php
 include ('../../blog/wp-content/themes/v2/footer.php');
 ?>
