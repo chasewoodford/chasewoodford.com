@@ -10,6 +10,9 @@
     <link rel="shortcut icon" type="image/x-icon" href="http://www.chasewoodford.com/favicon.ico">
 
     <link rel="stylesheet" href="/css/compiled/style.css">
+
+    <link rel="stylesheet" href="/css/compiled/mediaelementplayer.min.css" />
+    <script src="/javascript/mediaelement-and-player.min.js"></script>
 </head>
 <body id="top" class="work">
 <div class="wrapper">
@@ -87,6 +90,10 @@
         </div>
     </div>
 </div>
+<script>
+    // jQuery method
+    $('video').mediaelementplayer();
+</script>
 <?php
 include ('../../blog/wp-content/themes/v2/footer.php');
 ?>
