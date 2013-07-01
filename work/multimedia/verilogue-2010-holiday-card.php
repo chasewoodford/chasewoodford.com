@@ -10,8 +10,6 @@
     <link rel="shortcut icon" type="image/x-icon" href="http://www.chasewoodford.com/favicon.ico">
 
     <link rel="stylesheet" href="/css/compiled/style.css">
-
-    <script src="http://vjs.zencdn.net/4.0/video.js"></script>
 </head>
 <body id="top" class="work">
 <div class="wrapper">
@@ -37,10 +35,9 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
 
-                        <video id="example_video_1" class="video-js vjs-default-skin left main"
+                        <video id="example_video_1" class="left main"
                                controls preload="auto" width="400" height="264"
-                               poster="/images/screenshot-2010HolidayCard-poster.png"
-                               data-setup='{"example_option":true}'>
+                               poster="/images/screenshot-2010HolidayCard-poster.png">
                             <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4' />
                             <source src="../../resources/video/verilogue-2012-holiday-card.webm" type='video/webm' />
                             <source src="../../resources/video/verilogue-2012-holiday-card.ogv" type='video/ogg' />
