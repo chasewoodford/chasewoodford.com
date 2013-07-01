@@ -36,9 +36,9 @@
                     <div class="grid-8 clearfix image-main text-left">
 
                         <video class="left main" controls preload width="400" poster="/images/screenshot-2010HolidayCard-poster.png">
-                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4' />
                             <source src="../../resources/video/verilogue-2012-holiday-card.webm" type='video/webm' />
                             <source src="../../resources/video/verilogue-2012-holiday-card.ogv" type='video/ogg' />
+                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4' />
                         </video>
 
                         <ul class="text-left table">
