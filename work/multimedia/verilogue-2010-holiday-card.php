@@ -35,9 +35,9 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
 
-                        <iframe id="ytplayer" type="text/html" width="400" height="225"
-                                src="https://www.youtube.com/embed/3SDx9MeUelU?fs=1&rel=0&showinfo=0&autohide=1"
-                                frameborder="0" allowfullscreen>
+                        <div class="left main">
+                            <iframe width="400" height="225" src="https://www.youtube.com/embed/3SDx9MeUelU?feature=player_embedded&fs=1&rel=0&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe>
+                        </div>
 
                         <ul class="text-left table">
                             <li class="table-row">
