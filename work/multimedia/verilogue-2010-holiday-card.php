@@ -35,11 +35,9 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
 
-                        <video class="left main" controls preload width="400" poster="/images/screenshot-2010HolidayCard-poster.png">
-                            <source src="../../resources/video/verilogue-2012-holiday-card.webm" type='video/webm' />
-                            <source src="../../resources/video/verilogue-2012-holiday-card.ogv" type='video/ogg' />
-                            <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4' />
-                        </video>
+                        <iframe id="ytplayer" type="text/html" width="400" height="225"
+                                src="https://www.youtube.com/embed/3SDx9MeUelU?fs=1&rel=0&showinfo=0&autohide=1"
+                                frameborder="0" allowfullscreen>
 
                         <ul class="text-left table">
                             <li class="table-row">
