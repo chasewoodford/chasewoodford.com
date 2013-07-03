@@ -57,10 +57,6 @@
                                 <div class="table-data">Video</div>
                             </li>
                             <li class="table-row">
-                                <div class="table-title">Download:</div>
-                                <div class="table-data"><a href="../../resources/video/verilogue-2012-holiday-card.mp4">MP4</a></div>
-                            </li>
-                            <li class="table-row">
                                 <div class="table-title">Tags:</div>
                                 <div class="table-data">HTML e-mail, Sony Vegas</div>
                             </li>
