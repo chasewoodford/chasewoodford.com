@@ -36,7 +36,13 @@
                     <div class="grid-8 clearfix image-main text-left">
 
                         <div class="left main">
-                            <iframe width="400" height="300" src="https://www.youtube.com/embed/3SDx9MeUelU?feature=player_embedded&fs=1&rel=0&showinfo=0&autohide=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+                            <video>
+                                <source src="" type='' />
+                                <source src="../../resources/video/verilogue-2012-holiday-card.mp4" type='video/mp4;' />
+                                <source src="" type='' />
+                                Video tag not supported. Download the video <a href="movie.webm">here</a>.
+                            </video>
+<!--                            <iframe width="400" height="300" src="https://www.youtube.com/embed/3SDx9MeUelU?feature=player_embedded&fs=1&rel=0&showinfo=0&autohide=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>-->
                         </div>
 
                         <ul class="text-left table">
