@@ -109,12 +109,6 @@
                         This part also took quite a bit of time to get right. The ultimate goal was to make the strokes of eye black look as realistic as possible&mdash;tough to do with the shape of a cheekbone as prominent as Franklin's and no helpful visual cues to guide the stroke due to the image's light source casting no shadows on the right side of his face&mdash;to make the strokes look effortless, as if the eye black was part of the original image and not "Photoshopped". First, a brush with the right stroke had to be selected. The brush needed a stroke that looked like a finger smear. If you know anything about Illustrator/Photoshop brushes, you know there are hundreds available to choose from, and each only a shade different from another. Equally important to selecting the right brush is getting the stroke itself right. I must admit, I put together quite the catalog of football stars sporting eye black for reference.
                     </p>
                     <br/>
-                    <p class="lead">
-                        { outcome }
-                    </p>
-                    <p>
-                        Designing a logo is always a fun challenge. Done well, the reward is in seeing your mark live on as all the other corporate collateral comes and goes. Currently, the PhillySportPast logo is featured on the company's website (which has already gone through several design iterations) and all of its social media sites. The hours spent perfecting the seemingly minor details ensured the client would be happy and the logo would hold its own for a long time to come.
-                    </p>
                     <p>
                         To learn more about how this logo was designed and developed, <a href="/contact">contact me</a>.
                     </p>
