@@ -1,59 +1,61 @@
+@charset "UTF-8";
+
 @font-face {
-  font-family: 'Fontello';
-  src: url("../../resources/fontello.eot");
-  src: url("../../resources/fontello.eot?#iefix") format('embedded-opentype'),
-    url("../../resources/fontello.woff") format('woff'),
-    url("../../resources/fontello.ttf") format('truetype');
+  font-family: Fontello;
+  src: url(../../resources/fontello.eot);
+  src: url(../../resources/fontello.eot?#iefix) format(embedded-opentype),
+    url(../../resources/fontello.woff) format(woff),
+    url(../../resources/fontello.ttf) format(truetype);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'CallunaBlckRegular';
-  src: url('../../resources/calluna-black-webfont.eot');
-  src: url('../../resources/calluna-black-webfont.eot?#iefix') format('embedded-opentype'),
-    url('../../resources/calluna-black-webfont.woff') format('woff'),
-    url('../../resources/calluna-black-webfont.ttf') format('truetype');
+  font-family: CallunaBlckRegular;
+  src: url(../../resources/calluna-black-webfont.eot);
+  src: url(../../resources/calluna-black-webfont.eot?#iefix) format(embedded-opentype),
+    url(../../resources/calluna-black-webfont.woff) format(woff),
+    url(../../resources/calluna-black-webfont.ttf) format(truetype);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'CallunaItalic';
-  src: url('../../resources/calluna-it-webfont.eot');
-  src: url('../../resources/calluna-it-webfont.eot?#iefix') format('embedded-opentype'),
-    url('../../resources/calluna-it-webfont.woff') format('woff'),
-    url('../../resources/calluna-it-webfont.ttf') format('truetype');
+  font-family: CallunaItalic;
+  src: url(../../resources/calluna-it-webfont.eot);
+  src: url(../../resources/calluna-it-webfont.eot?#iefix) format(embedded-opentype),
+    url(../../resources/calluna-it-webfont.woff) format(woff),
+    url(../../resources/calluna-it-webfont.ttf) format(truetype);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'CallunaRegular';
-  src: url('../../resources/calluna-regular-webfont.eot');
-  src: url('../../resources/calluna-regular-webfont.eot?#iefix') format('embedded-opentype'),
-    url('../../resources/calluna-regular-webfont.woff') format('woff'),
-    url('../../resources/calluna-regular-webfont.ttf') format('truetype');
+  font-family: CallunaRegular;
+  src: url(../../resources/calluna-regular-webfont.eot);
+  src: url(../../resources/calluna-regular-webfont.eot?#iefix) format(embedded-opentype),
+    url(../../resources/calluna-regular-webfont.woff) format(woff),
+    url(../../resources/calluna-regular-webfont.ttf) format(truetype);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'UbuntuLtReg';
-  src: url('../../resources/ubuntu-l-webfont.eot');
-  src: url('../../resources/ubuntu-l-webfont.eot?#iefix') format('embedded-opentype'),
-    url('../../resources/ubuntu-l-webfont.woff') format('woff'),
-    url('../../resources/ubuntu-l-webfont.ttf') format('truetype');
+  font-family: UbuntuLtReg;
+  src: url(../../resources/ubuntu-l-webfont.eot);
+  src: url(../../resources/ubuntu-l-webfont.eot?#iefix) format(embedded-opentype),
+    url(../../resources/ubuntu-l-webfont.woff) format(woff),
+    url(../../resources/ubuntu-l-webfont.ttf) format(truetype);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'UbuntuLtIt';
-  src: url('../../resources/ubuntu-li-webfont.eot');
-  src: url('../../resources/ubuntu-li-webfont.eot?#iefix') format('embedded-opentype'),
-    url('../../resources/ubuntu-li-webfont.woff') format('woff'),
-    url('../../resources/ubuntu-li-webfont.ttf') format('truetype');
+  font-family: UbuntuLtIt;
+  src: url(../../resources/ubuntu-li-webfont.eot);
+  src: url(../../resources/ubuntu-li-webfont.eot?#iefix) format(embedded-opentype),
+    url(../../resources/ubuntu-li-webfont.woff) format(woff),
+    url(../../resources/ubuntu-li-webfont.ttf) format(truetype);
   font-weight: normal;
   font-style: normal;
 }
@@ -90,8 +92,6 @@ sup > [class*=" icon-"] {
   text-decoration: inherit;
   text-align: center;
 }
-
-@charset "UTF-8";
 
 .icon-home-1:before { content: '\e807'; }
 .icon-pause:before { content: '\2389'; }
