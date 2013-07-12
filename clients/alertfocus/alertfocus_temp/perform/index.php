@@ -23,8 +23,8 @@ Performance enhancement can be generic.  Physical conditioning, nutrition, healt
     <tbody><tr> 
       <td lign="right" height="64" background="../back.gif" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr>
-          <td background="../back.gif" width="200"><a href="../index.htm"><img src="../logo.gif" alt="Home page" height="64" border="0" width="191"></a></td>
-          <td background="../back.gif"><div align="right"><a href="../index.htm" class="whitelink">Home</a> 
+          <td background="../back.gif" width="200"><a href="http://www.alertfocus.com"><img src="../logo.gif" alt="Home page" height="64" border="0" width="191"></a></td>
+          <td background="../back.gif"><div align="right"><a href="http://www.alertfocus.com" class="whitelink">Home</a>
               <span class="style3">|</span> <a href="mailto:garyames@alertfocus.com" class="whitelink">Email 
               me</a>&nbsp;&nbsp; </div></td>
         </tr>
@@ -217,7 +217,7 @@ Performance enhancement can be generic.  Physical conditioning, nutrition, healt
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
             </tbody></table>
-      <!-- информация о корзине юзера-->
+      <!-- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ-->
       <br><br>
                       <!-- SIDE NAV END --></td> 
                     </tr> 
@@ -235,7 +235,7 @@ Performance enhancement can be generic.  Physical conditioning, nutrition, healt
                       <tbody><tr> 
                         <td height="22" align="left" bgcolor="#efefef"><table border="0" cellpadding="0" width="100%">
                           <tbody><tr>
-                            <td class="crumbs"><img src="../1px.gif" height="15" width="10"> <a href="../index.htm" class="menu">Home</a>   &gt; <b class="mse">Perform</b>  </td>
+                            <td class="crumbs"><img src="../1px.gif" height="15" width="10"> <a href="http://www.alertfocus.com" class="menu">Home</a>   &gt; <b class="mse">Perform</b>  </td>
                           </tr>
                         </tbody></table> </td>
                       </tr> 
@@ -507,7 +507,7 @@ That same energy is now devoted to resiliance and adaptability.   <br>
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr> 
           <td width="200"> <strong>www.<font color="#000000">A</font>lert<font color="#000000">F</font>ocus.com<br>
-            </strong><span class="smallfont3">© Copyright 2004, Gary Ames</span></td>
+            </strong><span class="smallfont3">&copy; Copyright 2004, Gary Ames</span></td>
           <td class="tool"> <a href="../about/terms.php">Terms</a> | <a href="../about/index.php">About</a> 
             &nbsp;</td>
           <td class="tool">&nbsp;</td>

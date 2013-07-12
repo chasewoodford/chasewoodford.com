@@ -29,8 +29,8 @@
     <tbody><tr> 
       <td lign="right" height="64" background="../back.gif" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr>
-          <td background="../back.gif" width="200"><a href="../index.htm"><img src="../logo.gif" alt="Home page" height="64" border="0" width="191"></a></td>
-          <td background="../back.gif"><div align="right"><a href="../index.htm" class="whitelink">Home</a> 
+          <td background="../back.gif" width="200"><a href="http://www.alertfocus.com"><img src="../logo.gif" alt="Home page" height="64" border="0" width="191"></a></td>
+          <td background="../back.gif"><div align="right"><a href="http://www.alertfocus.com" class="whitelink">Home</a>
               <span class="style3">|</span> <a href="mailto:garyames@alertfocus.com" class="whitelink">Email 
               me</a>&nbsp;&nbsp; </div></td>
         </tr>
@@ -223,7 +223,7 @@
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
             </tbody></table>
-      <!-- èíôîðìàöèÿ î êîðçèíå þçåðà-->
+      <!-- &copy;&copy;&copy;&copy;&copy;&copy;&copy;&copy;&copy;&copy; ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½-->
       <br><br>
                       <!-- SIDE NAV END --></td> 
                     </tr> 
@@ -242,7 +242,7 @@
                       <tbody><tr> 
                         <td height="22" align="left" bgcolor="#efefef"><table border="0" cellpadding="0" width="100%">
                     <tbody><tr> 
-                      <td class="crumbs"><img src="../1px.gif" height="15" width="10"> <a href="../index.htm" class="menu">Home</a>   &gt; <a href="../about/index.php" class="menu">About</a>  
+                      <td class="crumbs"><img src="../1px.gif" height="15" width="10"> <a href="http://www.alertfocus.com" class="menu">Home</a>   &gt; <a href="../about/index.php" class="menu">About</a>
                       </td>
                       <td class="smallfont3"> 
                         <div align="right"><a class="menu" href="../about/terms.php?print=1">Printer-friendly version</a> </div></td>
@@ -271,7 +271,7 @@
 <p><span class="page"></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal">Terms and Conditions</b></p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal"> </b></p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal">Privacy oath </b></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt">I will protect your personal information.  You will not be put on another list.  You have the freedom to opt out at any time.<span style="mso-spacerun: yes">  </span>When clients request to be put “on hold”  I will wait for you to contact me. </p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt">I will protect your personal information.  You will not be put on another list.  You have the freedom to opt out at any time.<span style="mso-spacerun: yes">  </span>When clients request to be put ï¿½on holdï¿½  I will wait for you to contact me. </p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"> </p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt">Comments, testimonials 
 and images, freely offered in any form, are presumed to be available for
@@ -279,7 +279,7 @@ and images, freely offered in any form, are presumed to be available for
 conceal your identity.<span style="mso-spacerun: yes">  </span></p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"> </p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal">Copyright</b></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt">Copyright © 2002, Gary Ames and CyberNation Services.  All rights reserved.  <br>Do not use my content without attribution nor without agreement.   </p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt">Copyright ï¿½ 2002, Gary Ames and CyberNation Services.  All rights reserved.  <br>Do not use my content without attribution nor without agreement.   </p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"> </p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal">Information and advocacy, not medicine. </b></p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt">The content and 
@@ -439,7 +439,7 @@ doctor-patient relationship. <span style="mso-spacerun: yes"> </span>In any case
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr> 
           <td width="200"> <strong>www.<font color="#000000">A</font>lert<font color="#000000">F</font>ocus.com<br>
-            </strong><span class="smallfont3">© Copyright 2004, Gary Ames</span></td>
+            </strong><span class="smallfont3">&copy; Copyright 2004, Gary Ames</span></td>
           <td class="tool"> <a href="../about/terms.php">Terms</a> | <a href="../about/index.php">About</a> 
             &nbsp;</td>
           <td class="tool">&nbsp;</td>

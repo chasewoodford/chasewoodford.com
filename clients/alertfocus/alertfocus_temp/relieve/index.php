@@ -22,30 +22,30 @@
 
 </head>
 
-<body leftmargin="0" topmargin="0" alink="#ff6600" background="../bg.gif" bgcolor="#ffffff" link="#273e64" text="#000000" vlink="#273e64"> 
-<table border="0" cellpadding="0" cellspacing="0" height="50" width="100%">    
-    <tbody><tr> 
+<body leftmargin="0" topmargin="0" alink="#ff6600" background="../bg.gif" bgcolor="#ffffff" link="#273e64" text="#000000" vlink="#273e64">
+<table border="0" cellpadding="0" cellspacing="0" height="50" width="100%">
+    <tbody><tr>
       <td lign="right" background="../back.gif" height="64" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr>
-          <td background="../back.gif" width="200"><a href="../index.htm"><img src="../logo.gif" alt="Home page" border="0" height="64" width="191"></a></td>
-          <td background="../back.gif"><div align="right"><a href="../index.htm" class="whitelink">Home</a> 
-              <span class="style3">|</span> <a href="mailto:garyames@alertfocus.com" class="whitelink">Email 
+          <td background="../back.gif" width="200"><a href="http://www.alertfocus.com"><img src="../logo.gif" alt="Home page" border="0" height="64" width="191"></a></td>
+          <td background="../back.gif"><div align="right"><a href="http://www.alertfocus.com" class="whitelink">Home</a>
+              <span class="style3">|</span> <a href="mailto:garyames@alertfocus.com" class="whitelink">Email
               me</a>&nbsp;&nbsp; </div></td>
         </tr>
-      </tbody></table></td>       
-    </tr>    
-</tbody></table> 
-<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">    
-    <tbody><tr> 
-      <td valign="top"> <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">            
-            <tbody><tr valign="top"> 
-              <td bgcolor="#efefef" valign="top" width="199"> <table border="0" cellpadding="0" cellspacing="0" width="199">                    
-                    <tbody><tr> 
-                      <td><!-- SIDE NAV START --> 
-                      
-      
+      </tbody></table></td>
+    </tr>
+</tbody></table>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+      <td valign="top"> <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr valign="top">
+              <td bgcolor="#efefef" valign="top" width="199"> <table border="0" cellpadding="0" cellspacing="0" width="199">
+                    <tbody><tr>
+                      <td><!-- SIDE NAV START -->
+
+
       <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-      
+
       <tbody><tr>
           <td bgcolor="efefef" height="22">
             <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19">
@@ -57,7 +57,7 @@
 <tr>
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
-      
+
       <tr>
           <td bgcolor="#E2F1E2" height="22">
             <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19">
@@ -125,7 +125,7 @@
 <tr>
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
-      
+
       <tr>
           <td bgcolor="efefef" height="22">
             <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19">
@@ -172,7 +172,7 @@
 <tr>
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
-      
+
       <tr>
           <td bgcolor="efefef" height="22">
             <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19">
@@ -184,7 +184,7 @@
 <tr>
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
-      
+
       <tr>
           <td bgcolor="efefef" height="22">
             <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19">
@@ -196,7 +196,7 @@
 <tr>
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
-      
+
       <tr>
           <td bgcolor="efefef" height="22">
             <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19">
@@ -208,7 +208,7 @@
 <tr>
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
-      
+
       <tr>
           <td bgcolor="efefef" height="22">
             <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19">
@@ -221,76 +221,76 @@
          <td bgcolor="white"><img src="../1px.gif" height="1" width="1"></td>
       </tr>
             </tbody></table>
-      <!-- ���������� � ������� �����-->
+      <!-- ?????????? ? ??????? ?????-->
       <br><br>
-                      <!-- SIDE NAV END --></td> 
-                    </tr> 
-                    <tr> 
-                      <td>&nbsp;</td> 
-                    </tr> 
-                    
-                                      
-                </tbody></table>              </td> 
+                      <!-- SIDE NAV END --></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+
+
+                </tbody></table>              </td>
               <td bgcolor="#d8d8d8" width="1">
               <img src="../zero.gif" height="5" width="1">
-              </td> 
-              <td bgcolor="#ffffff" valign="top" width="100%"> 
-              
-              <table bgcolor="#f7f7f7" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-                      <tbody><tr> 
+              </td>
+              <td bgcolor="#ffffff" valign="top" width="100%">
+
+              <table bgcolor="#f7f7f7" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody><tr>
                         <td align="left" bgcolor="#efefef" height="22"><table border="0" cellpadding="0" width="100%">
                           <tbody><tr>
-                            <td class="crumbs"><img src="../1px.gif" height="15" width="10"> <a href="../index.htm" class="menu">Home</a>   &gt; <b class="mse">Relieve</b>  </td>
+                            <td class="crumbs"><img src="../1px.gif" height="15" width="10"> <a href="http://www.alertfocus.com" class="menu">Home</a>   &gt; <b class="mse">Relieve</b>  </td>
                           </tr>
                         </tbody></table> </td>
-                      </tr> 
-                      <tr> 
+                      </tr>
+                      <tr>
                               <td align="left" bgcolor="#cccccc">
-                              <img src="../1px.gif" height="1" width="180"></td> 
-                </tr> 
-                </tbody></table> 
-                <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-                   
-                    <tbody><tr> 
+                              <img src="../1px.gif" height="1" width="180"></td>
+                </tr>
+                </tbody></table>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+                    <tbody><tr>
                       <td valign="top" width="100%"> <table class="page" border="0" cellpadding="15" width="100%">
                         <tbody><tr>
                           <td class="page" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
                             <tbody><tr>
                               <td valign="top"><div class="title style1">Relieve</div>      </td>
                             </tr>
-                          </tbody></table>                          
+                          </tbody></table>
                             <br>
                             <div class="border smallfont3"> <b> Mind-body training and exercise can relieve many disorders </b><br>
 <br>
 </div>
                             <br>
                              <!--?//begin code admpanel
-$link = "/relieve/index.php"; 
-$refid = 0; 
-$title = "Relieve"; 
+$link = "/relieve/index.php";
+$refid = 0;
+$title = "Relieve";
 $description = "&lt;b&gt; Mind-body training and exercise can relieve many disorders &lt;/b&gt;
 
-"; 
-$output_formula = "rdoclast(10000) rlinklast(10000)"; 
-$content_tpl = ""; 
-$menuvisible = "1"; 
-$template = "1"; 
-$picture=""; 
-$url_header_file="/relieve/index.php"; 
-$razdel_id=26; 
-$uprazdel=0; 
+";
+$output_formula = "rdoclast(10000) rlinklast(10000)";
+$content_tpl = "";
+$menuvisible = "1";
+$template = "1";
+$picture="";
+$url_header_file="/relieve/index.php";
+$razdel_id=26;
+$uprazdel=0;
 //end code admpanel
 ?-->
 <!--?
 $site_root="/home4/jobhuntnow/public_html/alertfocus.com/";
 include ($site_root."/support/database.php");
-$db = connect_db();		
-$razdel_template_link = get_razdel_template_link($db,$template);	
-$tpl_file = get_tplfile_link($db,$template);	
-require $site_root."/".$razdel_template_link;	
+$db = connect_db();
+$razdel_template_link = get_razdel_template_link($db,$template);
+$tpl_file = get_tplfile_link($db,$template);
+require $site_root."/".$razdel_template_link;
 @mysql_close($db);
 ?-->
-  <br>                            
+  <br>
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2007-03-23</span><br>
                                   <div class="news_Title"><a href="../relieve/love.php" class="contentLink">Why I Love Biofeedback </a></div>
@@ -300,10 +300,10 @@ require $site_root."/".$razdel_template_link;
                                       <br>
                                   </div>
                               </div>
-                                                          
-                              
+
+
                               <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                            
+
                             </table>
                                                         <table width="100%">
                               <tbody><tr>
@@ -328,44 +328,44 @@ require $site_root."/".$razdel_template_link;
 </td>
                         </tr>
                       </tbody></table></td>
-                     </tr> 
-                   
-                </tbody></table></td> 
-            </tr> 
-           
-        </tbody></table></td> 
-    </tr> 
-   
-</tbody></table> 
-<table bgcolor="#d8d8d8" border="0" cellpadding="0" cellspacing="0" width="100%">   
-    <tbody><tr> 
+                     </tr>
+
+                </tbody></table></td>
+            </tr>
+
+        </tbody></table></td>
+    </tr>
+
+</tbody></table>
+<table bgcolor="#d8d8d8" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
       <td>
       <img src="../zero.gif" height="1" width="190">
-      </td> 
-    </tr>    
-</tbody></table> 
+      </td>
+    </tr>
+</tbody></table>
 
-<table bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" width="100%">    
-    <tbody><tr bgcolor="#ffffff"> 
+<table bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr bgcolor="#ffffff">
       <td bgcolor="#efefef">
       <img src="../zero.gif" height="40" width="8">
-      </td> 
-      
-    <td bgcolor="#efefef" height="40"> <strong><font color="#000000"> 
+      </td>
+
+    <td bgcolor="#efefef" height="40"> <strong><font color="#000000">
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr> 
+        <tbody><tr>
           <td width="200"> <strong>www.<font color="#000000">A</font>lert<font color="#000000">F</font>ocus.com<br>
-            </strong><span class="smallfont3">� Copyright 2004, Gary Ames</span></td>
-          <td class="tool"> <a href="../about/terms.php">Terms</a> | <a href="../about/index.php">About</a> 
+            </strong><span class="smallfont3">&copy; Copyright 2004, Gary Ames</span></td>
+          <td class="tool"> <a href="../about/terms.php">Terms</a> | <a href="../about/index.php">About</a>
             &nbsp;</td>
           <td class="tool">&nbsp;</td>
         </tr>
       </tbody></table>
-      </font></strong></td> 
-      <td bgcolor="#efefef">&nbsp;</td> 
-    </tr> 
-    <tr bgcolor="#d8d8d8"> 
-      <td colspan="3" height="1"><img src="../zero.gif" height="1" width="200"></td> 
+      </font></strong></td>
+      <td bgcolor="#efefef">&nbsp;</td>
+    </tr>
+    <tr bgcolor="#d8d8d8">
+      <td colspan="3" height="1"><img src="../zero.gif" height="1" width="200"></td>
     </tr> 
    
 </tbody></table> 
