@@ -291,56 +291,56 @@ just stop getting migraines.</div>
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-05</span><br>
-                                  <div class="news_Title"><a href="../../migraine/remedy.htm" class="contentLink">Migraine remedy. </a></div>
+                                  <div class="news_Title"><a href="../migraine/remedy.htm" class="contentLink">Migraine remedy. </a></div>
                                   <div class="smallfont" style="padding-top:5px;">How to end migraine pain? 
 Is their a method which is safe, simple, effective?
 There is now.<br>
-                                      <a href="../../migraine/remedy.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/remedy.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-05</span><br>
-                                  <div class="news_Title"><a href="../../migraine/end-migraine.htm" class="contentLink">End Migraine Pain - Explained </a></div>
+                                  <div class="news_Title"><a href="../migraine/end-migraine.htm" class="contentLink">End Migraine Pain - Explained </a></div>
                                   <div class="smallfont" style="padding-top:5px;">What it is and is not.
 Effects and side-benefits.  
 <br>
-                                      <a href="../../migraine/end-migraine.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/end-migraine.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-12</span><br>
-                                  <div class="news_Title"><a href="../../migraine/ad.htm" class="contentLink">Stop Migraines </a></div>
+                                  <div class="news_Title"><a href="../migraine/ad.htm" class="contentLink">Stop Migraines </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Highly effective method.  Learn to end your migraine headaches for good.  Safe, simple, effective. <br>
-                                      <a href="../../migraine/ad.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/ad.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-05</span><br>
-                                  <div class="news_Title"><a href="../../migraine/training.htm" class="contentLink">End Migraines </a></div>
+                                  <div class="news_Title"><a href="../migraine/training.htm" class="contentLink">End Migraines </a></div>
                                   <div class="smallfont" style="padding-top:5px;">How to be migraine-free and drug-free. Natural learning process weakens migraines where they live.  <br>
-                                      <a href="../../migraine/training.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/training.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-05</span><br>
-                                  <div class="news_Title"><a href="../../migraine/bio-vs-neuro.htm" class="contentLink">Biofeedback versus Neurofeedback </a></div>
+                                  <div class="news_Title"><a href="../migraine/bio-vs-neuro.htm" class="contentLink">Biofeedback versus Neurofeedback </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Biofeedback is peripheral while neurofeedback is about the central nervous system.  <br>
-                                      <a href="../../migraine/bio-vs-neuro.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/bio-vs-neuro.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-06</span><br>
-                                  <div class="news_Title"><a href="../../migraine/train.htm" class="contentLink">Train Your Brain </a></div>
+                                  <div class="news_Title"><a href="../migraine/train.htm" class="contentLink">Train Your Brain </a></div>
                                   <div class="smallfont" style="padding-top:5px;"><b>Look and learn.</b>
   That is how we train migraines away for good. Watching good brain 
 operation and poor operation shows you what works well and what doesn't.
@@ -355,58 +355,58 @@ efforts.
 Brain strength training makes you more mentally radiant.  Every session 
 yields a hightened alert focus.  Training is cumulative, safe, and 
 enduring. <br>
-                                      <a href="../../migraine/train.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/train.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-02-12</span><br>
-                                  <div class="news_Title"><a href="../../migraine/joan.htm" class="contentLink">Joan had the typical migraines, but had an unusually happy ending. </a></div>
+                                  <div class="news_Title"><a href="../migraine/joan.htm" class="contentLink">Joan had the typical migraines, but had an unusually happy ending. </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Joan's headaches were typical.  Her response to neurofeedback also was normal also.  Now she is headache-free.  <br>
-                                      <a href="../../migraine/joan.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/joan.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-03-07</span><br>
-                                  <div class="news_Title"><a href="../../migraine/whatisneurofeedback.htm" class="contentLink">What is neurofeedback? </a></div>
+                                  <div class="news_Title"><a href="../migraine/whatisneurofeedback.htm" class="contentLink">What is neurofeedback? </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Encyclopedia type description.
 Continuous and direct self-information to improve nervous system functioning.  <br>
-                                      <a href="../../migraine/whatisneurofeedback.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/whatisneurofeedback.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-19</span><br>
-                                  <div class="news_Title"><a href="../../migraine/faq.htm" class="contentLink">FAQ </a></div>
+                                  <div class="news_Title"><a href="../migraine/faq.htm" class="contentLink">FAQ </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Frequently Asked Questions
 What is it?  Who does what? Causes, etc. <br>
-                                      <a href="../../migraine/faq.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/faq.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-29</span><br>
-                                  <div class="news_Title"><a href="../../migraine/lesions.htm" class="contentLink">Lesions </a></div>
+                                  <div class="news_Title"><a href="../migraine/lesions.htm" class="contentLink">Lesions </a></div>
                                   <div class="smallfont" style="padding-top:5px;">As
  if the brutal pain of migraines weren�t bad enough.  Now research says 
 the headaches may cause brain scaring.  Stroke is a well know side 
 effect of migraine episodes, now brain lesions are associated with 
 migraines also. <br>
-                                      <a href="../../migraine/lesions.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/lesions.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-10-03</span><br>
-                                  <div class="news_Title"><a href="../../migraine/free.htm" class="contentLink">Free stuff </a></div>
+                                  <div class="news_Title"><a href="../migraine/free.htm" class="contentLink">Free stuff </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Alternative remedies and strategies to reduce migraines.<br>
-                                      <a href="../../migraine/free.htm" class="smallfont2">Read</a><br>
+                                      <a href="../migraine/free.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
