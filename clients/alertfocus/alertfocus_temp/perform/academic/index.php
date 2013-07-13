@@ -287,45 +287,45 @@ require $site_root."/".$razdel_template_link;
   <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-03-23</span><br>
-                                  <div class="news_Title"><a href="../../perform/academic/questions.php" class="contentLink">Questions for Authorities </a></div>
+                                  <div class="news_Title"><a href="../../perform/academic/questions.htm" class="contentLink">Questions for Authorities </a></div>
                                   <div class="smallfont" style="padding-top:5px;">How to evaluate whether brainwave biofeedback is an appropriate addition to schools.<br>
-                                      <a href="../../perform/academic/questions.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/academic/questions.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-03-23</span><br>
-                                  <div class="news_Title"><a href="../../perform/academic/alter.php" class="contentLink">Schools alter brains </a></div>
+                                  <div class="news_Title"><a href="../../perform/academic/alter.htm" class="contentLink">Schools alter brains </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Education should embrace training the mind to focus and self-regulate.<br>
-                                      <a href="../../perform/academic/alter.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/academic/alter.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-03-23</span><br>
-                                  <div class="news_Title"><a href="../../perform/academic/fabcat.php" class="contentLink">FABCAT </a></div>
+                                  <div class="news_Title"><a href="../../perform/academic/fabcat.htm" class="contentLink">FABCAT </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Focus and Attention Building with Computer Assisted Training<br>
-                                      <a href="../../perform/academic/fabcat.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/academic/fabcat.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-15</span><br>
-                                  <div class="news_Title"><a href="../../perform/academic/artproposal.php" class="contentLink">Arts proposal </a></div>
+                                  <div class="news_Title"><a href="../../perform/academic/artproposal.htm" class="contentLink">Arts proposal </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Let's see if artists can improve each others' talent with neurofeedback.<br>
-                                      <a href="../../perform/academic/artproposal.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/academic/artproposal.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-15</span><br>
-                                  <div class="news_Title"><a href="../../perform/academic/iq.php" class="contentLink">IQ </a></div>
+                                  <div class="news_Title"><a href="../../perform/academic/iq.htm" class="contentLink">IQ </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Brainwave biofeedback increases intelligence by 12 points.<br>
-                                      <a href="../../perform/academic/iq.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/academic/iq.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
@@ -343,9 +343,9 @@ Info sites.<br>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2003-12-09</span><br>
-                                  <div class="news_Title"><a href="../../perform/academic/school.php" class="contentLink">Neurofeedback For Your School or School District. </a></div>
+                                  <div class="news_Title"><a href="../../perform/academic/school.htm" class="contentLink">Neurofeedback For Your School or School District. </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Neurofeedback in schools is good for taxpayers, teachers, students, and parents.  There is no downside. <br>
-                                      <a href="../../perform/academic/school.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/academic/school.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

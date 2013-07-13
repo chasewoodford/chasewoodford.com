@@ -263,45 +263,45 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-08-29</span><br>
-                                  <div class="news_Title"><a href="../about/gabio.php" class="contentLink">Bio Gary Ames </a></div>
+                                  <div class="news_Title"><a href="../about/gabio.htm" class="contentLink">Bio Gary Ames </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Gary Ames, Licensed Psychologist. Teacher, trainer, coach. Job campaign manager. Biofeedback and neurofeedback practitioner. <br>
-                                      <a href="../about/gabio.php" class="smallfont2">Read</a><br>
+                                      <a href="../about/gabio.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-09-03</span><br>
-                                  <div class="news_Title"><a href="../about/isnr.php" class="contentLink">My fabulous ISNR conference </a></div>
+                                  <div class="news_Title"><a href="../about/isnr.htm" class="contentLink">My fabulous ISNR conference </a></div>
                                   <div class="smallfont" style="padding-top:5px;">The 2008 neurofeedback conference was intellectually stimulating and so many wonderful conversations.<br>
-                                      <a href="../about/isnr.php" class="smallfont2">Read</a><br>
+                                      <a href="../about/isnr.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-09-10</span><br>
-                                  <div class="news_Title"><a href="../about/contact.php" class="contentLink">Contact </a></div>
+                                  <div class="news_Title"><a href="../about/contact.htm" class="contentLink">Contact </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Address, phone - 610-668-3223, directions, map<br>
-                                      <a href="../about/contact.php" class="smallfont2">Read</a><br>
+                                      <a href="../about/contact.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-11-23</span><br>
-                                  <div class="news_Title"><a href="../about/home.php" class="contentLink">Home Training </a></div>
+                                  <div class="news_Title"><a href="../about/home.htm" class="contentLink">Home Training </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Remote training under guidance.  Equipment choices. The financial deal. <br>
-                                      <a href="../about/home.php" class="smallfont2">Read</a><br>
+                                      <a href="../about/home.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-08-24</span><br>
-                                  <div class="news_Title"><a href="../about/coachplan.php" class="contentLink">Corporate Coaching Plan </a></div>
+                                  <div class="news_Title"><a href="../about/coachplan.htm" class="contentLink">Corporate Coaching Plan </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Draft of Business Plan for Mental Fitness Coaching for NewProfiteer.com.  <br>
-                                      <a href="../about/coachplan.php" class="smallfont2">Read</a><br>
+                                      <a href="../about/coachplan.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
