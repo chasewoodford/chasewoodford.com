@@ -1,0 +1,61 @@
+BODY {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px; BACKGROUND-COLOR: #ededed
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+HR {
+	COLOR: #6699cc; BORDER-TOP-STYLE: dashed; BORDER-RIGHT-STYLE: dashed; BORDER-LEFT-STYLE: dashed; HEIGHT: 1px; BORDER-BOTTOM-STYLE: dashed
+}
+
+
+
+.smallfont {font-size:12px; font-family:georgia;}
+.smallfont2 {font-size:10px; font-family:tahoma;}
+.smallfont3 {font-size:10px; font-family:arial;}
+
+.tool {font-size:11px; font-family:Microsoft Sans Serif;}
+
+.title
+{
+	font-family:Arial Narrow;
+	font-size:2 em;
+}
+
+.page
+{
+	font-family: Microsoft Sans Serif;
+	font-size: 1.0 em;
+	color: #333;
+}
+
+.whitelink {font-size:11px; font-family:Trebuchet MS; color:white;}
+
+.border 
+{
+	border : 1px dotted #cccccc;
+	padding : 5px;
+        color: 333333;
+	background-color:#f5f5f5;	
+	font-family:verdana;
+	font-weight:normal;
+}
+
+
+.news_title
+{
+	font-family:tahoma;
+	color:#3366cc;
+	font-size:16px;
+	font-weight:bold;
+	padding-bottom:3px;
+}
+
+.news_date
+{
+	font-family:trebuchet ms;
+	color:#cccccc;
+	font-size:10px;
+	font-weight:bold;
+}
+
