@@ -82,7 +82,7 @@
 <td height="22" bgcolor="efefef">
  <img src="../1px.gif" height="11" align="absMiddle" border="0" width="19">
 
-    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -263,21 +263,21 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-01-31</span><br>
-                                  <div class="news_Title"><a href="../links/gadgets.php" class="contentLink">Healing Gadgets </a></div>
+                                  <div class="news_Title"><a href="../links/gadgets.htm" class="contentLink">Healing Gadgets </a></div>
                                   <div class="smallfont" style="padding-top:5px;">How to find the healing devices that improve quality of life, for good. <br>
-                                      <a href="../links/gadgets.php" class="smallfont2">Read</a><br>
+                                      <a href="../links/gadgets.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-02-21</span><br>
-                                  <div class="news_Title"><a href="../links/camnetwork.php" class="contentLink">Explore Alternative Sites, Therapies and Providers ! </a></div>
+                                  <div class="news_Title"><a href="../links/camnetwork.htm" class="contentLink">Explore Alternative Sites, Therapies and Providers ! </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Resources for answers to questions.
 Mind over matter.  
 Wisdom over ignorance.
 <br>
-                                      <a href="../links/camnetwork.php" class="smallfont2">Read</a><br>
+                                      <a href="../links/camnetwork.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

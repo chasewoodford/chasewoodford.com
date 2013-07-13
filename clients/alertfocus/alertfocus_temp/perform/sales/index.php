@@ -82,7 +82,7 @@
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -263,9 +263,9 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-02-07</span><br>
-                                  <div class="news_Title"><a href="http://www.alertfocus.com/perform/sales/brainpower.php" class="contentLink">Brain Power </a></div>
+                                  <div class="news_Title"><a href="http://www.alertfocus.com/perform/sales/brainpower.htm" class="contentLink">Brain Power </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Sales training that boosts the capacity for performance--mental and emotional.<br>
-                                      <a href="http://www.alertfocus.com/perform/sales/brainpower.php" class="smallfont2">Read</a><br>
+                                      <a href="http://www.alertfocus.com/perform/sales/brainpower.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

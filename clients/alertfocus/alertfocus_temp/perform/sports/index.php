@@ -82,7 +82,7 @@
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -263,32 +263,32 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-08-03</span><br>
-                                  <div class="news_Title"><a href="../../perform/sports/wallstreet.php" class="contentLink">Wall Street Journal Article </a></div>
+                                  <div class="news_Title"><a href="../../perform/sports/wallstreet.htm" class="contentLink">Wall Street Journal Article </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Wall Street Journal Article on neurofeedback.<br>
-                                      <a href="../../perform/sports/wallstreet.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/sports/wallstreet.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-09</span><br>
-                                  <div class="news_Title"><a href="../../perform/sports/golf1997.php" class="contentLink">Golf research </a></div>
+                                  <div class="news_Title"><a href="../../perform/sports/golf1997.htm" class="contentLink">Golf research </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Presentation
  of research at the 1997 Winter Brain Conference. 14 of 15 golfers 
 reported significant improvement in golf scores.  <br>
-                                      <a href="../../perform/sports/golf1997.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/sports/golf1997.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2003-12-23</span><br>
-                                  <div class="news_Title"><a href="../../perform/music.php" class="contentLink">The Royal College publishes Performance Enhancement Studies. </a></div>
+                                  <div class="news_Title"><a href="../../perform/music.htm" class="contentLink">The Royal College publishes Performance Enhancement Studies. </a></div>
                                   <div class="smallfont" style="padding-top:5px;">"Tuning
  In" is a 3-year effort to discover what works to improve performance of
  musicians.  Only one thing works in rigorous double blind studies:  
 neurofeedback. <br>
-                                      <a href="../../perform/music.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/music.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

@@ -88,7 +88,7 @@ Home units are available for training under guidance.  ">
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -286,27 +286,27 @@ Home units are available for training under guidance.  </div>
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-06-16</span><br>
-                                  <div class="news_Title"><a href="../../relieve/eating/adding.php" class="contentLink">Adding Biofeedback to your Practice </a></div>
-                                  <div class="smallfont" style="padding-top:5px;">Both biofeedback and neurofeedback are additions to an eating disorders practice.<br>
-                                      <a href="../../relieve/eating/adding.php" class="smallfont2">Read</a><br>
+                                  <div class="news_Title"><a href="../../relieve/eating/adding.htm" class="contentLink">Adding Biofeedback to your Practice </a></div>
+                                  <div class="smallfont" style="padding-top:5px;">Both biofeedback and neurofeedback are addictions to an eating disorders practice.<br>
+                                      <a href="../../relieve/eating/adding.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-05-10</span><br>
-                                  <div class="news_Title"><a href="../../relieve/eating/self.php" class="contentLink">Typical response </a></div>
+                                  <div class="news_Title"><a href="../../relieve/eating/self.htm" class="contentLink">Typical response </a></div>
                                   <div class="smallfont" style="padding-top:5px;">The sense of self emerges at about session number 15.<br>
-                                      <a href="../../relieve/eating/self.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/eating/self.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-05-10</span><br>
-                                  <div class="news_Title"><a href="../../relieve/eating/mirasol.php" class="contentLink">Mirasol evidence </a></div>
+                                  <div class="news_Title"><a href="../../relieve/eating/mirasol.htm" class="contentLink">Mirasol evidence </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Summary of research on neurofeedback from a residential eating disorder facility.<br>
-                                      <a href="../../relieve/eating/mirasol.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/eating/mirasol.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

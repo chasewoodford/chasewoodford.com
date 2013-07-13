@@ -82,7 +82,7 @@
 <td height="22" bgcolor="efefef">
  <img src="../1px.gif" height="11" align="absMiddle" border="0" width="19">
 
-    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -263,9 +263,9 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-06-30</span><br>
-                                  <div class="news_Title"><a href="../contact/contactinfo.php" class="contentLink">Contact info </a></div>
+                                  <div class="news_Title"><a href="../contact/contactinfo.htm" class="contentLink">Contact info </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Address, phone, directions. <br>
-                                      <a href="../contact/contactinfo.php" class="smallfont2">Read</a><br>
+                                      <a href="../contact/contactinfo.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

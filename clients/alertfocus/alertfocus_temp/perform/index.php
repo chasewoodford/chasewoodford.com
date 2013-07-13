@@ -80,7 +80,7 @@ Performance enhancement can be generic.  Physical conditioning, nutrition, healt
 <td height="22" bgcolor="efefef">
  <img src="../1px.gif" height="11" align="absMiddle" border="0" width="19">
 
-    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>

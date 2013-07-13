@@ -84,7 +84,7 @@
 <td bgcolor="efefef" height="22">
  <img src="../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -293,9 +293,9 @@ require $site_root."/".$razdel_template_link;
   <br>
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2007-03-23</span><br>
-                                  <div class="news_Title"><a href="../relieve/love.php" class="contentLink">Why I Love Biofeedback </a></div>
+                                  <div class="news_Title"><a href="../relieve/love.htm" class="contentLink">Why I Love Biofeedback </a></div>
                                   <div class="smallfont" style="padding-top:5px;">There is a lot to like about biofeedback.<br>
-                                      <a href="../relieve/love.php" class="smallfont2">Read</a><br>
+                                      <a href="../relieve/love.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
@@ -318,7 +318,7 @@ require $site_root."/".$razdel_template_link;
                                             </li><li style="color:cccccc" type="square"><a href="../relieve/eating/index.php" class="menu_gray" style="text-decoration:none;">Eating</a><br>
                                             </li><li style="color:cccccc" type="square"><a href="../relieve/add/index.php" class="menu_gray" style="text-decoration:none;">ADD</a><br>
                                             </li><li style="color:cccccc" type="square"><a href="../relieve/autism/index.php" class="menu_gray" style="text-decoration:none;">Autism</a><br>
-                                            </li><li style="color:cccccc" type="square"><a href="../relieve/additions/index.php" class="menu_gray" style="text-decoration:none;">Addictions</a><br>
+                                            </li><li style="color:cccccc" type="square"><a href="../relieve/addictions/index.php" class="menu_gray" style="text-decoration:none;">Addictions</a><br>
          </li></td>
                               </tr>
                             </tbody></table>

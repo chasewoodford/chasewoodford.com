@@ -82,7 +82,7 @@
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -263,41 +263,41 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2007-03-21</span><br>
-                                  <div class="news_Title"><a href="../../relieve/violence/prisonproposal.php" class="contentLink">Prison Propasal </a></div>
+                                  <div class="news_Title"><a href="../../relieve/violence/prisonproposal.htm" class="contentLink">Prison Propasal </a></div>
                                   <div class="smallfont" style="padding-top:5px;">My proposal invited by the Philadelphia Prison system to install a mind gym with biofeedback and neurotechnologies.<br>
-                                      <a href="../../relieve/violence/prisonproposal.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/violence/prisonproposal.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2007-01-21</span><br>
-                                  <div class="news_Title"><a href="../../relieve/violence/ch19.php" class="contentLink">Prisons, Drugs, and Special Education </a></div>
+                                  <div class="news_Title"><a href="../../relieve/violence/ch19.htm" class="contentLink">Prisons, Drugs, and Special Education </a></div>
                                   <div class="smallfont" style="padding-top:5px;">From:  
 No Child Left Behind Goals (and more) are obtainable with the Neurocognitive Approach: Vol. 1 by Kirtley E. Thornton, Ph.D.
 <br>
-                                      <a href="../../relieve/violence/ch19.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/violence/ch19.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-10-24</span><br>
-                                  <div class="news_Title"><a href="../../relieve/violence/remarks.php" class="contentLink">Testimony </a></div>
+                                  <div class="news_Title"><a href="../../relieve/violence/remarks.htm" class="contentLink">Testimony </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Councilwoman Blackwell hosted a meeting in Council chambers on solving the problem of criminal violence. <br>
-                                      <a href="../../relieve/violence/remarks.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/violence/remarks.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-01</span><br>
-                                  <div class="news_Title"><a href="../../relieve/violence/felons.php" class="contentLink">Correcting the Incorrigible </a></div>
+                                  <div class="news_Title"><a href="../../relieve/violence/felons.htm" class="contentLink">Correcting the Incorrigible </a></div>
                                   <div class="smallfont" style="padding-top:5px;">From
  1970 to 1995, 2776 felons were given brainwave biofeedback.  Instead of
  a 65% recidivism rate after 3 years, this group had a 15% rearrest 
 rate.  <br>
-                                      <a href="../../relieve/violence/felons.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/violence/felons.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

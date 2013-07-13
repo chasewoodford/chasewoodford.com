@@ -82,7 +82,7 @@
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>

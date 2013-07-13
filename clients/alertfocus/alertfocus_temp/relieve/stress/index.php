@@ -84,7 +84,7 @@ Stress reduction that is pervasive and enduring without further effort. ">
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -267,28 +267,28 @@ Stress reduction that is pervasive and enduring without further effort. </div>
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2007-08-13</span><br>
-                                  <div class="news_Title"><a href="../../relieve/stress/anxiety.php" class="contentLink">Anxiety </a></div>
+                                  <div class="news_Title"><a href="../../relieve/stress/anxiety.htm" class="contentLink">Anxiety </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Anxiety corrodes life.  Biofeedback enhances the response to stress.<br>
-                                      <a href="../../relieve/stress/anxiety.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/stress/anxiety.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-15</span><br>
-                                  <div class="news_Title"><a href="../../relieve/stress/stressreduction.php" class="contentLink">Stress Reduction </a></div>
+                                  <div class="news_Title"><a href="../../relieve/stress/stressreduction.htm" class="contentLink">Stress Reduction </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Reducing stress isn't about bubble baths or the spa.  Teach your body to deal well with stress as it happens.  <br>
-                                      <a href="../../relieve/stress/stressreduction.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/stress/stressreduction.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-15</span><br>
-                                  <div class="news_Title"><a href="../../relieve/stress/zone.php" class="contentLink">Zone </a></div>
+                                  <div class="news_Title"><a href="../../relieve/stress/zone.htm" class="contentLink">Zone </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Biofeedback with Alert Focus puts you In The Zone.  Health, performance, and productivity follow naturally.
 <br>
-                                      <a href="../../relieve/stress/zone.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/stress/zone.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

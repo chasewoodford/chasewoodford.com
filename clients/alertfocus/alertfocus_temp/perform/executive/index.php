@@ -84,7 +84,7 @@ The ultimate edge is a more relisient and flexible central nervous system.  ">
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -267,18 +267,18 @@ The ultimate edge is a more relisient and flexible central nervous system.  </di
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-03-25</span><br>
-                                  <div class="news_Title"><a href="../../perform/executive/sane.php" class="contentLink">Sane, healthy competent and wise </a></div>
+                                  <div class="news_Title"><a href="../../perform/executive/sane.htm" class="contentLink">Sane, healthy competent and wise </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Beyond fixing what is wrong, there are further reaches of optimal functioning.<br>
-                                      <a href="../../perform/executive/sane.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/executive/sane.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-05-06</span><br>
-                                  <div class="news_Title"><a href="../../perform/executive/enhance.php" class="contentLink">Performance Enhancement </a></div>
+                                  <div class="news_Title"><a href="../../perform/executive/enhance.htm" class="contentLink">Performance Enhancement </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Biofeedback of mental activity makes business leaders more effective and competitive.<br>
-                                      <a href="../../perform/executive/enhance.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/executive/enhance.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

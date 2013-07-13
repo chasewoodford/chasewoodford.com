@@ -82,7 +82,7 @@
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -267,45 +267,45 @@ forms of operation.</div>
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-07-26</span><br>
-                                  <div class="news_Title"><a href="../../relieve/add/meta.php" class="contentLink">Efficacy of Neurofeedback Treatment in ADHD </a></div>
+                                  <div class="news_Title"><a href="../../relieve/add/meta.htm" class="contentLink">Efficacy of Neurofeedback Treatment in ADHD </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Link to Meta-Analysis showing strong effect size for neurofeedback.<br>
-                                      <a href="../../relieve/add/meta.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/add/meta.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-04-30</span><br>
-                                  <div class="news_Title"><a href="../../relieve/add/program.php" class="contentLink">Intensive Program </a></div>
+                                  <div class="news_Title"><a href="../../relieve/add/program.htm" class="contentLink">Intensive Program </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Knock out ADD with an intensive program.<br>
-                                      <a href="../../relieve/add/program.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/add/program.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-02-24</span><br>
-                                  <div class="news_Title"><a href="../../relieve/add/repair.php" class="contentLink">Biofeedback remedy for ADHD </a></div>
+                                  <div class="news_Title"><a href="../../relieve/add/repair.htm" class="contentLink">Biofeedback remedy for ADHD </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Brain training repairs circuits deficient in ADHD.<br>
-                                      <a href="../../relieve/add/repair.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/add/repair.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-02-16</span><br>
-                                  <div class="news_Title"><a href="../../relieve/add/drugs.php" class="contentLink">Drugs are not the answer </a></div>
+                                  <div class="news_Title"><a href="../../relieve/add/drugs.htm" class="contentLink">Drugs are not the answer </a></div>
                                   <div class="smallfont" style="padding-top:5px;">ADD is a serious problem throughout the life span. Drugs do not address the risks of life tragedy. <br>
-                                      <a href="../../relieve/add/drugs.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/add/drugs.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-01-31</span><br>
-                                  <div class="news_Title"><a href="../../relieve/add/EEG.php" class="contentLink">EEG Fixes ADD </a></div>
+                                  <div class="news_Title"><a href="../../relieve/add/EEG.htm" class="contentLink">EEG Fixes ADD </a></div>
                                   <div class="smallfont" style="padding-top:5px;">The non-drug training that gets people off of psych drugs.<br>
-                                      <a href="../../relieve/add/EEG.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/add/EEG.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

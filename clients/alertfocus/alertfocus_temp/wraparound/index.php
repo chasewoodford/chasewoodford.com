@@ -84,7 +84,7 @@ Behavioral Health and Rehabilitation Service.
 <td height="22" bgcolor="efefef">
  <img src="../1px.gif" height="11" align="absMiddle" border="0" width="19">
 
-    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../crumb.png" height="11" align="absMiddle" border="0" width="19"> <a href="../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -267,9 +267,9 @@ Behavioral Health and Rehabilitation Service.<br>
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-09-12</span><br>
-                                  <div class="news_Title"><a href="../wraparound/workers.php" class="contentLink">Workers </a></div>
+                                  <div class="news_Title"><a href="../wraparound/workers.htm" class="contentLink">Workers </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Behavior Analysis &amp; Therapy Partners is a BHRS (wraparound) agency in Montgomery County.  We are seeking qualified workers.<br>
-                                      <a href="../wraparound/workers.php" class="smallfont2">Read</a><br>
+                                      <a href="../wraparound/workers.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

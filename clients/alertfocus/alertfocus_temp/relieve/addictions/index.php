@@ -82,7 +82,7 @@
 <td bgcolor="#E2F1E2" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -263,40 +263,40 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-02-24</span><br>
-                                  <div class="news_Title"><a href="../../relieve/additions/trocki.php" class="contentLink">Summary of Addicitons Research </a></div>
+                                  <div class="news_Title"><a href="../../relieve/addictions/trocki.htm" class="contentLink">Summary of Addicitons Research </a></div>
                                   <div class="smallfont" style="padding-top:5px;">A
  solid telling of the studies that have been done supporting 
 neurofeedback as 80% effective for all kinds of drug and alcohol 
 addictions.<br>
-                                      <a href="../../relieve/additions/trocki.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/addictions/trocki.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-10-30</span><br>
-                                  <div class="news_Title"><a href="../../relieve/additions/youth.php" class="contentLink">Youth Study </a></div>
+                                  <div class="news_Title"><a href="../../relieve/addictions/youth.htm" class="contentLink">Youth Study </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Arizona treatment facility reports stunning results with neurofeedback. <br>
-                                      <a href="../../relieve/additions/youth.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/addictions/youth.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-10-30</span><br>
-                                  <div class="news_Title"><a href="../../relieve/additions/overview.php" class="contentLink">Summary of Addicitons Research and Methods </a></div>
+                                  <div class="news_Title"><a href="../../relieve/addictions/overview.htm" class="contentLink">Summary of Addicitons Research and Methods </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Overview of neurofeedback for addicitons.
 <br>
-                                      <a href="../../relieve/additions/overview.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/addictions/overview.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-10-30</span><br>
-                                  <div class="news_Title"><a href="../../relieve/additions/crack.php" class="contentLink">Treating Crack </a></div>
+                                  <div class="news_Title"><a href="../../relieve/addictions/crack.htm" class="contentLink">Treating Crack </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Neurofeedback works on homeless crack addicts. Extends voluntary time in treatment.<br>
-                                      <a href="../../relieve/additions/crack.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/addictions/crack.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

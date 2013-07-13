@@ -82,7 +82,7 @@
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -263,9 +263,9 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-09-30</span><br>
-                                  <div class="news_Title"><a href="../../perform/military/takeoff.php" class="contentLink">U.S. Army Expands Biofeedback-based Performance Enhancement Program! </a></div>
+                                  <div class="news_Title"><a href="../../perform/military/takeoff.htm" class="contentLink">U.S. Army Expands Biofeedback-based Performance Enhancement Program! </a></div>
                                   <div class="smallfont" style="padding-top:5px;">The U.S. Army's Peak Performance Center at West Point has proven the concept, now biofeedback is taking off.<br>
-                                      <a href="../../perform/military/takeoff.php" class="smallfont2">Read</a><br>
+                                      <a href="../../perform/military/takeoff.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>

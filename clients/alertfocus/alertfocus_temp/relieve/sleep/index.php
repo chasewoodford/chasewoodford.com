@@ -85,7 +85,7 @@ You can't have a good day, without a good night's sleep.
 <td bgcolor="efefef" height="22">
  <img src="../../1px.gif" align="absMiddle" border="0" height="11" width="19">
 
-    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/additions/index.php" class="menu">Addictions</a>
+    <img src="../../crumb.png" align="absMiddle" border="0" height="11" width="19"> <a href="../../relieve/addictions/index.php" class="menu">Addictions</a>
  </td>
       </tr>
 <tr>
@@ -269,36 +269,36 @@ You can't have a good day, without a good night's sleep.  <br>
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-10-06</span><br>
-                                  <div class="news_Title"><a href="../../relieve/sleep/program.php" class="contentLink">Sleep Program </a></div>
+                                  <div class="news_Title"><a href="../../relieve/sleep/program.htm" class="contentLink">Sleep Program </a></div>
                                   <div class="smallfont" style="padding-top:5px;">My sleep program has multiple elements to maximize success.  Get a great night's sleep so that you wake up feeling refreshed.  <br>
-                                      <a href="../../relieve/sleep/program.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/sleep/program.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2008-10-03</span><br>
-                                  <div class="news_Title"><a href="../../relieve/sleep/SMR.php" class="contentLink">Neurofeedback proven to help sleep </a></div>
+                                  <div class="news_Title"><a href="../../relieve/sleep/SMR.htm" class="contentLink">Neurofeedback proven to help sleep </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Controlled study in major journal proves brainwave training to aid sleep and memory.<br>
-                                      <a href="../../relieve/sleep/SMR.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/sleep/SMR.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-15</span><br>
-                                  <div class="news_Title"><a href="../../relieve/sleep/radiocommercial.php" class="contentLink">Radio commercial </a></div>
+                                  <div class="news_Title"><a href="../../relieve/sleep/radiocommercial.htm" class="contentLink">Radio commercial </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Text of two 60-second radio spots about sleep.<br>
-                                      <a href="../../relieve/sleep/radiocommercial.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/sleep/radiocommercial.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-06-15</span><br>
-                                  <div class="news_Title"><a href="../../relieve/sleep/sleepdisorders.php" class="contentLink">Sleep disorders </a></div>
+                                  <div class="news_Title"><a href="../../relieve/sleep/sleepdisorders.htm" class="contentLink">Sleep disorders </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Brainwave biofeedback is effective for all manner of sleep disorders.<br>
-                                      <a href="../../relieve/sleep/sleepdisorders.php" class="smallfont2">Read</a><br>
+                                      <a href="../../relieve/sleep/sleepdisorders.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
