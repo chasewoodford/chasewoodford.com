@@ -1,0 +1,38 @@
+A.menu:link{
+			text-decoration:none; 
+			font-family:trebuchet ms; 
+			font-size:10pt; 
+			color:#336699;
+	   }
+A.menu:Visited{
+			text-decoration:none; 
+			font-family:trebuchet ms; 
+			font-size:10pt; 
+			color:#336699;
+	}
+A.menu:hover {
+			text-decoration:underline; 
+			font-family:trebuchet ms; 
+			font-size:10pt; 
+			color:#336699;
+	}
+
+.selectedItem
+{
+			text-decoration:none; 
+			font-family:trebuchet ms; 
+			font-size:9pt; 
+			color:#333;
+}
+
+
+.crumbs 
+{
+
+			text-decoration:none; 
+			font-family:trebuchet ms; 
+			font-size:9pt; 
+			color:#0066cc;
+			font-weight:bold;
+		
+}

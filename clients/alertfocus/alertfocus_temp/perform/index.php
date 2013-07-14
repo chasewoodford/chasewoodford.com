@@ -266,94 +266,94 @@ do.  <br>
  <br>
             
 <div class="padding-bottom:10px;"><span class="news_date">2005-05-23</span><br>
-                                  <div class="news_Title"><a href="../perform/peak.php" class="contentLink">Peak Performance for Atheletes </a></div>
+                                  <div class="news_Title"><a href="../perform/peak.htm" class="contentLink">Peak Performance for Atheletes </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Peak performance is primarily mental.  EEG biofeedback trains the mind to be calm and focused. <br>
-                                      <a href="../perform/peak.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/peak.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-12-29</span><br>
-                                  <div class="news_Title"><a href="../perform/dollarize.php" class="contentLink">Dollarized benefits </a></div>
+                                  <div class="news_Title"><a href="../perform/dollarize.htm" class="contentLink">Dollarized benefits </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Exactly
  how the sales training will improve sales productivity. Specifics of 
 increasing top line revenue and bottom line profits.<br>
-                                      <a href="../perform/dollarize.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/dollarize.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-12-12</span><br>
-                                  <div class="news_Title"><a href="../perform/lane.php" class="contentLink">For less stress, learn to drive your mind in the middle of the lane. </a></div>
+                                  <div class="news_Title"><a href="../perform/lane.htm" class="contentLink">For less stress, learn to drive your mind in the middle of the lane. </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Over-steering is corrected with lane markers.  There is less stress in the middle of the lane.<br>
-                                      <a href="../perform/lane.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/lane.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-11-19</span><br>
-                                  <div class="news_Title"><a href="../perform/80.php" class="contentLink">80 Second Summary </a></div>
+                                  <div class="news_Title"><a href="../perform/80.htm" class="contentLink">80 Second Summary </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Brainwave biofeedback impacts wellness, performance and productivity.<br>
-                                      <a href="../perform/80.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/80.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-09-18</span><br>
-                                  <div class="news_Title"><a href="../perform/brochureperform.php" class="contentLink">Brochure for Performance </a></div>
+                                  <div class="news_Title"><a href="../perform/brochureperform.htm" class="contentLink">Brochure for Performance </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Improve your Mind with Brain Training.<br>
-                                      <a href="../perform/brochureperform.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/brochureperform.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-03-29</span><br>
-                                  <div class="news_Title"><a href="../perform/biofeedbackbrain.php" class="contentLink">Biofeedback for the Mind is Neurofeedback </a></div>
+                                  <div class="news_Title"><a href="../perform/biofeedbackbrain.htm" class="contentLink">Biofeedback for the Mind is Neurofeedback </a></div>
                                   <div class="smallfont" style="padding-top:5px;">What it is, what does, what it's good for.  The difference between infrared and brainwave neurofeedback.<br>
-                                      <a href="../perform/biofeedbackbrain.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/biofeedbackbrain.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-02-01</span><br>
-                                  <div class="news_Title"><a href="../perform/hillenbrand.php" class="contentLink">Peak Performance Center </a></div>
+                                  <div class="news_Title"><a href="../perform/hillenbrand.htm" class="contentLink">Peak Performance Center </a></div>
                                   <div class="smallfont" style="padding-top:5px;">A
  bio-mental fitness gym at Hillenbrand Industries is a big hit.  
 Biofeedback and neurofeedback is ordered for the second tier of 
 executives after spledid results. <br>
-                                      <a href="../perform/hillenbrand.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/hillenbrand.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-11</span><br>
-                                  <div class="news_Title"><a href="../perform/saytrain.php" class="contentLink">You won't be able to say what you learned in training today. </a></div>
+                                  <div class="news_Title"><a href="../perform/saytrain.htm" class="contentLink">You won't be able to say what you learned in training today. </a></div>
                                   <div class="smallfont" style="padding-top:5px;">What do you tell people about your biofeedback training session?  
 Do and don't say... <br>
-                                      <a href="../perform/saytrain.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/saytrain.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../perform/krause.php" class="contentLink">Singing praises </a></div>
+                                  <div class="news_Title"><a href="../perform/krause.htm" class="contentLink">Singing praises </a></div>
                                   <div class="smallfont" style="padding-top:5px;">World renown opera singer Tom Krause accepted my invitation to try neurofeedback.  His letter to me.<br>
-                                      <a href="../perform/krause.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/krause.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../perform/custom.php" class="contentLink">We deliver custom biofeedback training </a></div>
+                                  <div class="news_Title"><a href="../perform/custom.htm" class="contentLink">We deliver custom biofeedback training </a></div>
                                   <div class="smallfont" style="padding-top:5px;">We
  deliver custom biofeedback training for salespeople and executives.
 
@@ -361,66 +361,66 @@ Biofeedback technology is 30-years old and potent.  It has matured and
 is ready to produce outstanding business results.  It works by creating 
 special self-awareness and the capacity for self-regulation.  It is 
 safe, pleasant, interesting.  These benefits are enduring.  <br>
-                                      <a href="../perform/custom.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/custom.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../perform/disclaimer.php" class="contentLink">Expectations and Disclaimer </a></div>
+                                  <div class="news_Title"><a href="../perform/disclaimer.htm" class="contentLink">Expectations and Disclaimer </a></div>
                                   <div class="smallfont" style="padding-top:5px;">What you can expect and the responsibilty you have when doing biofeedback or neurofeedback. <br>
-                                      <a href="../perform/disclaimer.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/disclaimer.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../perform/wave.php" class="contentLink">Wave your Brain Waves </a></div>
+                                  <div class="news_Title"><a href="../perform/wave.htm" class="contentLink">Wave your Brain Waves </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Watch your brain waves wave.
 Wave brain, wave.
 Now wave more like this...<br>
-                                      <a href="../perform/wave.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/wave.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../perform/coach.php" class="contentLink">Biofeedback for Coaching Clients </a></div>
+                                  <div class="news_Title"><a href="../perform/coach.htm" class="contentLink">Biofeedback for Coaching Clients </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Adding biofeedback to your work with clients is a catalyst for growth. <br>
-                                      <a href="../perform/coach.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/coach.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../perform/whatis.php" class="contentLink">What is Biofeedback and Neurofeedback? </a></div>
+                                  <div class="news_Title"><a href="../perform/whatis.htm" class="contentLink">What is Biofeedback and Neurofeedback? </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Biofeedback
  is using any bio metric device to view and control bio output.  Hold a 
 thermometer and you can raise your hand temperature.  
 
 Neurofeedback is looking into a mind mirror and self-adjusting the rough
  edges.  <br>
-                                      <a href="../perform/whatis.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/whatis.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../perform/quotes.php" class="contentLink">In their own words ... </a></div>
+                                  <div class="news_Title"><a href="../perform/quotes.htm" class="contentLink">In their own words ... </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Quotes of participants in peak performance training.  <br>
-                                      <a href="../perform/quotes.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/quotes.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2004-01-05</span><br>
-                                  <div class="news_Title"><a href="../perform/neurofeedback.php" class="contentLink">What is Neurofeedback </a></div>
+                                  <div class="news_Title"><a href="../perform/neurofeedback.htm" class="contentLink">What is Neurofeedback </a></div>
                                   <div class="smallfont" style="padding-top:5px;">The
  central nervous systems is -- central to all that you do.  
 Self-training optimizes  functioning.  When looking into a precise 
@@ -430,16 +430,16 @@ When you see waste you drop it.  It is a very relaxing experience.  Why
 slosh and tread water when you can float and aim?  
 
 That same energy is now devoted to resiliance and adaptability.   <br>
-                                      <a href="../perform/neurofeedback.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/neurofeedback.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                             </div>
                                           
 <div class="padding-bottom:10px;"><span class="news_date">2003-12-23</span><br>
-                                  <div class="news_Title"><a href="../perform/is.php" class="contentLink">Organizational Performance with Biofeedback </a></div>
+                                  <div class="news_Title"><a href="../perform/is.htm" class="contentLink">Organizational Performance with Biofeedback </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Alert Focus is a training and coaching firm that provides biofeedback directly to employees, such as salespeople and executives.<br>
-                                      <a href="../perform/is.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/is.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
