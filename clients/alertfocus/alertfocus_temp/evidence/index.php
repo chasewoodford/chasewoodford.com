@@ -263,92 +263,92 @@
                              <br>                            
             <p>              </p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-07-26</span><br>
-                                  <div class="news_Title"><a href="../evidence/metaanalysis.php" class="contentLink">Efficacy of Neurofeedback Treatment in ADHD </a></div>
+                                  <div class="news_Title"><a href="../evidence/metaanalysis.htm" class="contentLink">Efficacy of Neurofeedback Treatment in ADHD </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Meta-analysis
  demonstrating that the gold standard quality of research shows that 
 neurofeedback is efficacious and specific for ADHD<br>
-                                      <a href="../evidence/metaanalysis.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/metaanalysis.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-02-26</span><br>
-                                  <div class="news_Title"><a href="../evidence/several.php" class="contentLink">ADHD studies </a></div>
+                                  <div class="news_Title"><a href="../evidence/several.htm" class="contentLink">ADHD studies </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Several recent studies showing good effects from neurofeedback on ADHD subjects.<br>
-                                      <a href="../evidence/several.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/several.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-02-26</span><br>
-                                  <div class="news_Title"><a href="../relieve/add/RCT.php" class="contentLink">High quality ADHD research </a></div>
+                                  <div class="news_Title"><a href="../relieve/add/RCT.htm" class="contentLink">High quality ADHD research </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Randomized trial design with active control condition.  This study shows strong results just like all the other research.  <br>
-                                      <a href="../relieve/add/RCT.php" class="smallfont2">Read</a><br>
+                                      <a href="../relieve/add/RCT.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2007-03-27</span><br>
-                                  <div class="news_Title"><a href="../evidence/blind.php" class="contentLink">Efficacy af Attention Traning for Children with ADHD </a></div>
+                                  <div class="news_Title"><a href="../evidence/blind.htm" class="contentLink">Efficacy af Attention Traning for Children with ADHD </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Double-Blind Placebo-Controlled Study <br>
-                                      <a href="../evidence/blind.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/blind.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2007-03-27</span><br>
-                                  <div class="news_Title"><a href="../evidence/adhd.php" class="contentLink">Summary of Evidence for ADHD </a></div>
+                                  <div class="news_Title"><a href="../evidence/adhd.htm" class="contentLink">Summary of Evidence for ADHD </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Abstracts, links conclusions.<br>
-                                      <a href="../evidence/adhd.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/adhd.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-10-15</span><br>
-                                  <div class="news_Title"><a href="../evidence/ld.php" class="contentLink">Learning disabilities </a></div>
+                                  <div class="news_Title"><a href="../evidence/ld.htm" class="contentLink">Learning disabilities </a></div>
                                   <div class="smallfont" style="padding-top:5px;">2-year follow-up shows sustained benefit compared with control group.  The brain matures with neurofeedback. <br>
-                                      <a href="../evidence/ld.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/ld.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-02-08</span><br>
-                                  <div class="news_Title"><a href="../evidence/fmriabstract.php" class="contentLink">fMRI abstract </a></div>
+                                  <div class="news_Title"><a href="../evidence/fmriabstract.htm" class="contentLink">fMRI abstract </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Abstract of the first fMRI study showing that brain wave training improves the way the brain works.  <br>
-                                      <a href="../evidence/fmriabstract.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/fmriabstract.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2006-02-07</span><br>
-                                  <div class="news_Title"><a href="../evidence/fmri.php" class="contentLink">fMRI imaging supports neurofeedback </a></div>
+                                  <div class="news_Title"><a href="../evidence/fmri.htm" class="contentLink">fMRI imaging supports neurofeedback </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Review of 2006 fMRI study on ADHD showing improved neural processing after brain wave biofeedback.<br>
-                                      <a href="../evidence/fmri.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/fmri.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2005-09-21</span><br>
-                                  <div class="news_Title"><a href="../evidence/eegbiofeedbackadhd.php" class="contentLink">EEG Biofeedback for ADHD </a></div>
+                                  <div class="news_Title"><a href="../evidence/eegbiofeedbackadhd.htm" class="contentLink">EEG Biofeedback for ADHD </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Important journal article reviewing the scientific evidence of EEG Biofeedback for ADHD.<br>
-                                      <a href="../evidence/eegbiofeedbackadhd.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/eegbiofeedbackadhd.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-07-25</span><br>
-                                  <div class="news_Title"><a href="../evidence/whynot.php" class="contentLink">Why haven't I heard of this before? </a></div>
+                                  <div class="news_Title"><a href="../evidence/whynot.htm" class="contentLink">Why haven't I heard of this before? </a></div>
                                   <div class="smallfont" style="padding-top:5px;">A list of reasons why neurofeedback is under-recognized.  <br>
-                                      <a href="../evidence/whynot.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/whynot.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
@@ -364,9 +364,9 @@ neurofeedback is efficacious and specific for ADHD<br>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-04-11</span><br>
-                                  <div class="news_Title"><a href="../evidence/efficacy.php" class="contentLink">Neurofeedback Clinical Efficacy </a></div>
+                                  <div class="news_Title"><a href="../evidence/efficacy.htm" class="contentLink">Neurofeedback Clinical Efficacy </a></div>
                                   <div class="smallfont" style="padding-top:5px;">A summary of the scientific case that neurofeedback is effective in treating diverse disorders.  <br>
-                                      <a href="../evidence/efficacy.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/efficacy.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
@@ -382,55 +382,55 @@ neurofeedback is efficacious and specific for ADHD<br>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-03-08</span><br>
-                                  <div class="news_Title"><a href="../evidence/100.php" class="contentLink">100 Migraines </a></div>
+                                  <div class="news_Title"><a href="../evidence/100.htm" class="contentLink">100 Migraines </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Journal article describing 94% success rate with neurofeedback for migraine headaches.<br>
-                                      <a href="../evidence/100.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/100.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-11</span><br>
-                                  <div class="news_Title"><a href="../perform/HRVresearch.php" class="contentLink">Corporate results of HRV </a></div>
+                                  <div class="news_Title"><a href="../perform/HRVresearch.htm" class="contentLink">Corporate results of HRV </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Biofeedback
  enjoyes remarkable success in transforming blue chip work places.  
 Performance, Productivity, and Wellness results from heartrate 
 variability training.  <br>
-                                      <a href="../perform/HRVresearch.php" class="smallfont2">Read</a><br>
+                                      <a href="../perform/HRVresearch.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-10</span><br>
-                                  <div class="news_Title"><a href="../evidence/music17.php" class="contentLink">Music performance up 17% </a></div>
+                                  <div class="news_Title"><a href="../evidence/music17.htm" class="contentLink">Music performance up 17% </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Researchers
  from Imperial College London and Charing Cross Hospital have discovered
  a way to help musicians improve their musical performances by an 
 average of up to 17 per cent, equivalent to an improvement of one grade 
 or class of honours. <br>
-                                      <a href="../evidence/music17.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/music17.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2004-01-01</span><br>
-                                  <div class="news_Title"><a href="../evidence/headacheevidence.php" class="contentLink">Headache Evidence </a></div>
+                                  <div class="news_Title"><a href="../evidence/headacheevidence.htm" class="contentLink">Headache Evidence </a></div>
                                   <div class="smallfont" style="padding-top:5px;"><b>Controlled scientific research</b> proves that neurofeedback works to end or reduce migraine pain in most people. <br>
 <b>Clinical studies</b> support neurofeedback as a way to end migraine pain rapidly and permanently.<br>
 <b>Clients speak:</b> 
 "No more migraines, way less stress, I wish I had done this sooner. I 
 wish my doctor had made the suggestion earlier instead of wasting time 
 and money on pills that did not work."<br>
-                                      <a href="../evidence/headacheevidence.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/headacheevidence.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2003-12-23</span><br>
-                                  <div class="news_Title"><a href="../evidence/research.php" class="contentLink">Research Summary </a></div>
+                                  <div class="news_Title"><a href="../evidence/research.htm" class="contentLink">Research Summary </a></div>
                                   <div class="smallfont" style="padding-top:5px;">There
  is a 100-year history on the EEG.  Compare the quality of research with
  what is typical for Educators determining programs and curriculum.  How
@@ -439,7 +439,7 @@ criteria of No Child Left Behind?
 
 Educators and Psychologists -- All Aboard!!
 <br>
-                                      <a href="../evidence/research.php" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/research.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
