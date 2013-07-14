@@ -283,9 +283,9 @@ neurofeedback is efficacious and specific for ADHD<br>
                               </div>
                                           <p></p>
                               <div class="padding-bottom:10px;"><span class="news_date">2009-02-26</span><br>
-                                  <div class="news_Title"><a href="../relieve/add/RCT.htm" class="contentLink">High quality ADHD research </a></div>
+                                  <div class="news_Title"><a href="../evidence/RCT.htm" class="contentLink">High quality ADHD research </a></div>
                                   <div class="smallfont" style="padding-top:5px;">Randomized trial design with active control condition.  This study shows strong results just like all the other research.  <br>
-                                      <a href="../relieve/add/RCT.htm" class="smallfont2">Read</a><br>
+                                      <a href="../evidence/RCT.htm" class="smallfont2">Read</a><br>
                                       <br>
                                       <br>
                                   </div>
