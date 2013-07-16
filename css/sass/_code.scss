@@ -62,6 +62,10 @@ pre[class*="language-"] {
   border: 1px solid rgba(0,0,0,.15);
   color: $white;
   @include box-shadow(0 8px 10px -6px black);
+
+  &.no-padding-bottom {
+    padding-bottom: 0;
+  }
 }
 
 .token.comment, .token.prolog, .token.doctype, .token.cdata {
