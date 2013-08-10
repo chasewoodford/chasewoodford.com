@@ -1,0 +1,83 @@
+Blog Component Examples
+
+
+// Sub-heads
+<p class="lead-font">
+	This is how to format sub-heads.
+</p>
+
+
+// Section headers
+<p class="lead">
+	{ section headers }
+</p>
+
+
+// Hero image
+<div class="blog-image text-center"><img src="../../images/blog-iLuddite-001.png" alt="Luddites"></div>
+
+
+// Example video
+<div class="blog-image text-center">
+	<iframe width="425" height="300" src="https://www.youtube.com/embed/iPk600efRpk?feature=player_embedded&fs=1&rel=0&showinfo=0&autohide=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+// Example hyperlink to external page
+<a href="http://environmentsforhumans.com/" target="_blank">Environments for Humans<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>
+
+
+// Example hyperlink to internal page
+<a href="../work">Work</a>
+
+
+// Formatting titles
+<i>Sass For Web Designers</i>
+
+
+// Em Dash formatting
+<p>
+	Do it&mdash;just like this&mdash;with no spaces.
+</p>
+
+
+// Formatting lists
+<ul class="callout-list">
+    <li>Contestants often fail to comprehend creative briefs, or lack fundamental understanding of design principles, resulting in huge amounts of time spent in a feedback loop;</li>
+    <li>Contestants often use whatever freebie design components they can find on the web and rarely design anything original, which makes the design look, at best, disjointed or like a knock-off;</li>
+    <li>Final submissions always need re-touching, because they are not to a professional standard; contestants rarely understand file format differences (e.g. raster versus vector images) or rights management, let alone the importance of a clean, well organized source file.</li>
+</ul>
+
+
+// Multi-line code blocks
+<pre class="no-padding-bottom">
+    <code class="language-clike">
+        &lt;form:select path=&quot;statuses&quot; multiple=&quot;true&quot;&gt;
+            &lt;c:forEach items=&quot;${statuses}&quot; var=&quot;status&quot;&gt;
+                &lt;form:option value=&quot;${status}&quot;/&gt;
+            &lt;/c:forEach&gt;
+        &lt;/form:select&gt;
+    </code>
+</pre>
+
+
+// Single line code blocks
+<pre class="no-padding-bottom language-clike">
+    <code class="language-clike">
+        &lt;form:input path=&quot;email&quot; size=&quot;40&quot; cssErrorClass=&quot;form-error-field&quot;/&gt;
+    </code>
+</pre>
+
+
+// Inline code
+<code>&lt;form:select&gt;</code>
+
+
+// Blockquotes
+<blockquote class="well quotes">
+    <div class="quote-before icon-quote-right-alt"></div>
+    <div class="quote">
+        Put this blockquote element right in the paragraph tag. It's all good.
+    </div>
+    <div class="quote-after icon-quote-left-alt"></div>
+</blockquote>
