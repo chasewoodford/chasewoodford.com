@@ -69,7 +69,19 @@
                         { overview }
                     </p>
                     <p>
-                        Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat.
+                        A friend of mine approached me for help building her website. She is a brilliant, creative person I got to know initially through work. She recently went part-time so that she could devote more time to her work as an artist. Specifically, writing. She writes children's and young-adult's literature.
+                    </p>
+                    <p>
+                        She had begun aggressively shopping her writing around with agents and publishers and was receiving a lot of positive feedback. But she noticed one thing that most of the authors she admired had that she didn't&mdash;a web presence.
+                    </p>
+                    <p>
+                        There were times agents would ask how they could find her on the web or publishers could see more of her work and, unfortunately, she could offer them nothing more than her e-mail address. So she called on me to help her create a site where she could introduce herself and, most importantly, showcase her work. In her words, having a website made her "feel like less of a phony".
+                    </p>
+                    <p>
+                        The task was relatively simple and had few limitations. One, like most clients, she wanted to get as much out of her website as she could for the cheapest amount. Two, she wanted to bait agents and publishers with excerpts of her work but, for obvious reasons, did not want to publish entire pieces on her site. That, combined with the fact that a lot of her stories are picture books, meant we had to get creative with what we published online.
+                    </p>
+                    <p>
+                        Working on this project was extremely rewarding&mdash;learning about the ebb and flow of the publishing industry vicariously through a good friend; learning how to make the biggest impact with minimal resources; seeing first hand how website design affects client empowerment and confidence.
                     </p>
                     <br/>
                     <p class="lead">
