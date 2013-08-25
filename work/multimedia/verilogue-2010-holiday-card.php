@@ -77,7 +77,7 @@
                         { the mix }
                     </p>
                     <p>
-                        The file was originally hosted on the Verilogue domain as a Flash video file. Due to the varying quality levels of both the audio and video sources, in combination with bandwidth considerations, we were less worried about producing a high-quality video and more concerned about making one with a consistent quality level. That was the biggest challenge. Mixing all the audio and video down to a level that was consistent from one clip to the next.
+                        The file was originally distributed to our contacts via a HTML e-mail blast consisting of a little text and a big poster image of the video with a play button overlay that, when clicked, brought the user to a landing page on Verilogue's domain where the video was hosted as a Flash video file. Due to the varying quality levels of both the audio and video sources, in combination with bandwidth considerations, we were less worried about producing a high-quality video and more concerned about making one with a consistent quality level. That was the biggest challenge. Mixing all the audio and video down to a level that was consistent from one clip to the next.
                     </p>
                     <p>
                         The audio was mixed as 5.1 surround sound, which allowed for depth between the background music and the dialogue clips in the foreground, as well as room for each dialogue clip to occupy its own unique space. Using a six-channel mix also made it easier to mask some of the disparity of the audio clips.
