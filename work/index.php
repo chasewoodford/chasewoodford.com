@@ -61,7 +61,7 @@
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>
-                                <div class="table-data">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration, Custom Artwork</div>
+                                <div class="table-data">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration</div>
                             </li>
                         </ul>
                     </div>
