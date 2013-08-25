@@ -103,7 +103,7 @@
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-daraWarren-002.png" alt="Custom web fonts"/>
-                        Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Donec non enim in turpis pulvinar facilisis. Ut felis. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
+                        The site features custom fonts from <a target="_blank" href="http://www.google.com/fonts">Google Fonts<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>: Merriweather and Noticia Text for headers, Open Sans for paragraph text and Strait for small text. The load on the page is relatively small and adds a kick of style to some otherwise plain, text-heavy pages. I'm a huge fan of using custom fonts to spice up pages when used appropriately and tastefully. It especially made sense to use them in this case, where the writing is really what we want to call attention to.
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-daraWarren-003.png" alt="Close up of theming elements"/>
