@@ -54,7 +54,7 @@
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>
-                                <div class="table-data">Corporate branding</div>
+                                <div class="table-data">Corporate Branding, Custom Artwork</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title"></div>
