@@ -54,7 +54,7 @@
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>
-                                <div class="table-data">HTML, CSS, Web Fonts</div>
+                                <div class="table-data">HTML, CSS, Web Fonts, Custom Artwork</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title"></div>
@@ -110,7 +110,7 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-daraWarren-003.png" alt="Close up of theming elements"/>
-                        There are a couple design elements consistent across all pages that also build on this enchanted theme. One is her headshot. We took one that was more on the whimsical, candid side and muted the colors to match the site's color scheme. This image manipulation serves several purposes: it lets the image fit in on the site from a design perspective; the somewhat mysterious candid outdoors pose, with the wind-blown hair and big smile, acts as a reflection of her work; it doesn't distract the site's visitors from what we want them to focus on, the writing on the page. Another design element found on all of the pages is the image of the vines rising up from the page footer. Again, the vines match the site's color scheme. They have a mystical, fantasy-like look to them. And there's a slight drop shadow applied to them to make them look like they are ever so slightly crawling off the page. The last design element is the background, which is actually made of a repeated semi-transparent image of exotic leaves. The background image is barely noticeable, but a small detail like this goes a long way in pulling the whole look and feel of the site together.
+                        There are a couple design elements consistent across all pages that also build on this enchanted theme. One is her headshot. We took one that was more on the whimsical, candid side and muted the colors to match the site's color scheme. This image manipulation serves several purposes: it lets the image fit in on the site from a design perspective; the somewhat mysterious candid outdoors pose, with the wind-blown hair and big smile, acts as a reflection of her work; and it doesn't distract the site's visitors from what we want them to focus on&mdash;the writing on the page. Another design element found on all of the pages is the image of the vines rising up from the page footer. Again, the vines match the site's color scheme. They have a mystical, fantasy-like look to them. And there's a slight drop shadow applied to them to make them look like they are ever so slightly crawling off the page. The last design element is the background, which is actually made of a repeated semi-transparent image of exotic leaves. The background image is barely noticeable, but a small detail like this goes a long way in pulling the whole look and feel of the site together.
                     </p>
                     <br/>
                     <p>
