@@ -16,18 +16,8 @@
         </a>
     </div>
     <div class="preview">
-        <a href="/work/digital/verilogue-patient-journey.php" data-pubdate="201203">
-            <img src="/images/screenshot-patientJourney.png" title="Verilogue Patient Journey iPad app" width="200" height="100">
-        </a>
-    </div>
-    <div class="preview">
         <a href="/work/multimedia/carecoach-eliterati.php" data-pubdate="201110">
             <img src="/images/screenshot-eliterati.png" title="eLiterati" width="200" height="100">
-        </a>
-    </div>
-    <div class="preview">
-        <a href="#" data-pubdate="">
-            <img src="/images/screenshot-verilogue.png" title="verilogue.com" width="200" height="100">
         </a>
     </div>
     <div class="preview">
