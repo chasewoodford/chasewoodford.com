@@ -1,10 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <meta content="" name="keywords" />
-    <meta content="" name="description" />
     <meta name="author" content="Chase Woodford">
 
     <title><?php bloginfo('name'); ?> | <?php is_home() ? bloginfo('description') : wp_title(''); ?></title>

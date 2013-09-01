@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Chase Woodford">
     <meta content="" name="keywords" />
     <meta content="" name="description" />
-    <meta name="author" content="Chase Woodford">
-    <meta name="viewport" content="width=device-width">
 
     <title>Chase Woodford &#124; Designer &amp; Developer</title>
 
