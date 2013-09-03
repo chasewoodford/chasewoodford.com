@@ -3,49 +3,67 @@ table.dataTable {
   margin: 0 auto;
   clear: both;
   width: 100%;
+  font-family: monospace;
+  font-size: 14px;
+
   thead th {
-    padding: 3px 18px 3px 10px;
-    border-bottom: 1px solid black;
-    font-weight: bold;
+    border-bottom: 2px solid #B5B5B5;
+    color: #999999;
+    font-weight: normal;
+    padding: 2px 2px 2px 0;
     cursor: pointer;
     *cursor: hand;
   }
+
   tfoot th {
     padding: 3px 18px 3px 10px;
     border-top: 1px solid black;
     font-weight: bold;
   }
+
   td {
     padding: 3px 10px;
+
     &.center, &.dataTables_empty {
       text-align: center;
     }
   }
+
   tr {
+
     &.odd {
       background-color: #E2E4FF;
     }
+
     &.even {
       background-color: white;
     }
+
     &.odd td {
+
       &.sorting_1 {
         background-color: #D3D6FF;
       }
+
       &.sorting_2 {
         background-color: #DADCFF;
       }
+
       &.sorting_3 {
         background-color: #E0E2FF;
       }
     }
+
     &.even td {
+
       &.sorting_1 {
         background-color: #EAEBFF;
       }
+
       &.sorting_2 {
         background-color: #F2F3FF;
       }
+
       &.sorting_3 {
         background-color: #F9F9FF;
       }
@@ -115,6 +133,7 @@ table.dataTable {
 
 .paginate_enabled_previous {
   background: url('../../images/dataTables/back_enabled.png') no-repeat top left;
+
   &:hover {
     background: url('../../images/dataTables/back_enabled_hover.png') no-repeat top left;
   }
@@ -126,6 +145,7 @@ table.dataTable {
 
 .paginate_enabled_next {
   background: url('../../images/dataTables/forward_enabled.png') no-repeat top right;
+
   &:hover {
     background: url('../../images/dataTables/forward_enabled_hover.png') no-repeat top right;
   }
@@ -139,13 +159,16 @@ table.dataTable {
 .paging_full_numbers {
   height: 22px;
   line-height: 22px;
+
   a {
     &:active {
       outline: none;
     }
+
     &:hover {
       text-decoration: none;
     }
+
     &.paginate_button, &.paginate_active {
       border: 1px solid #aaa;
       -webkit-border-radius: 5px;
@@ -157,8 +180,10 @@ table.dataTable {
       *cursor: hand;
       color: #333 !important;
     }
+
     &.paginate_button {
       background-color: #ddd;
+
       &:hover {
         background-color: #ccc;
         text-decoration: none !important;
@@ -189,23 +214,23 @@ table.dataTable {
 
 // Sorting
 .sorting {
-  background: url('../../images/dataTables/sort_both.png') no-repeat center right;
+  background: url('../../images/dataTables/sort_both.png') no-repeat 0 right;
 }
 
 .sorting_asc {
-  background: url('../../images/dataTables/sort_asc.png') no-repeat center right;
+  background: url('../../images/dataTables/sort_asc.png') no-repeat 0 right;
 }
 
 .sorting_desc {
-  background: url('../../images/dataTables/sort_desc.png') no-repeat center right;
+  background: url('../../images/dataTables/sort_desc.png') no-repeat 0 right;
 }
 
 .sorting_asc_disabled {
-  background: url('../../images/dataTables/sort_asc_disabled.png') no-repeat center right;
+  background: url('../../images/dataTables/sort_asc_disabled.png') no-repeat 0 right;
 }
 
 .sorting_desc_disabled {
-  background: url('../../images/dataTables/sort_desc_disabled.png') no-repeat center right;
+  background: url('../../images/dataTables/sort_desc_disabled.png') no-repeat 0 right;
 }
 
 table.dataTable thead {
