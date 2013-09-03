@@ -29,7 +29,7 @@
             <td><a class="home" href="../">Parent Directory</a></td>
             <td>-</td>
             <td>-</td>
-            <td></td>
+            <td>-</td>
         </tr>
         <tr id="comicSansSerif">
             <td><img class="table-icon" src="../images/ico-folder.gif" alt="[DIR]"></td>
@@ -63,7 +63,10 @@
         "bPaginate": false,
         "bLengthChange": false,
         "bFilter": true,
-        "bSort": true
+        "bSort": true ,
+        "aoColumnDefs": [
+            { 'bSortable': false, 'aTargets': [ 1 ] }
+        ]
     } );
 
     var _gaq = _gaq || [];
