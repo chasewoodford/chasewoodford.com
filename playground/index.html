@@ -12,8 +12,8 @@
     <link rel="stylesheet" href="/css/compiled/style.css">
 </head>
 <body>
-<h1 class="fadeIn">Index of /playground</h1>
-<table id="directory" cellspacing="0" class="display dataTable fadeIn">
+<h1>Index of /playground</h1>
+<table id="directory" cellspacing="0" class="display dataTable">
     <thead>
         <tr>
             <th></th>
@@ -59,19 +59,6 @@
 <script>window.jQuery || document.write('<script src="/javascript/jquery-2.0.0.min.js"><\/script>')</script>
 <script src="../javascript/jquery.dataTables.min.js"></script>
 <script type="text/javascript">
-    function warp(url) {
-        $(this).toggle (
-                function () {
-                    $("h1, table").removeClass("fadeIn").addClass("fadeOut");
-                    $("html").addClass("whiteOut");
-                },
-                function () {
-                    return false;
-                }
-        );
-        setTimeout(function(){window.location = './../' + url + '.html';},1000);
-    }
-
     $('#directory').dataTable( {
         "bPaginate": false,
         "bLengthChange": false,
