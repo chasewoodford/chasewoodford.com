@@ -72,7 +72,14 @@
         setTimeout(function(){window.location = './../' + url + '.html';},1000);
     }
 
-    $('#directory').dataTable();
+    $('#directory').dataTable( {
+        "bPaginate": false,
+        "bLengthChange": false,
+        "bFilter": true,
+        "bSort": false,
+        "bInfo": false,
+        "bAutoWidth": false
+    } );
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-28396921-1']);
