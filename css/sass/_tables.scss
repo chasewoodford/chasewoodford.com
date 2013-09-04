@@ -43,7 +43,7 @@ table.dataTable {
     &.odd td {
 
       &.sorting_1 {
-        background-color: #D3D6FF;
+        background-color: $highlight-tableRow;
       }
 
       &.sorting_2 {
@@ -58,7 +58,7 @@ table.dataTable {
     &.even td {
 
       &.sorting_1 {
-        background-color: #EAEBFF;
+        background-color: $highlight-tableRow;
       }
 
       &.sorting_2 {
