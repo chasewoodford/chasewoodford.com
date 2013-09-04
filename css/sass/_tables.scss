@@ -89,16 +89,21 @@ table.dataTable {
 .dataTables_filter {
   float: right;
   text-align: right;
+  padding: 5px;
+
+  & > input {
+    width: auto;
+  }
 }
 
 // Table information
 .dataTables_info {
   clear: both;
-  float: left;
+  float: right;
   width: 100%;
-  padding: 10px;
+  padding: 5px;
   border-top: 2px solid #B5B5B5;
-  text-align: center;
+  text-align: right;
 }
 
 // Pagination
