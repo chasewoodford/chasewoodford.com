@@ -5,6 +5,7 @@ table.dataTable {
   width: 100%;
   font-family: monospace;
   font-size: 14px;
+  text-transform: lowercase;
 
   thead th {
     @include no-select;
