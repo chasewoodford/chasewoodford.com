@@ -91,8 +91,13 @@ table.dataTable {
   text-align: right;
   padding: 5px;
 
-  & input {
-    width: auto;
+  label {
+    margin: 0;
+
+    input {
+      width: auto;
+      margin: 0;
+    }
   }
 }
 
