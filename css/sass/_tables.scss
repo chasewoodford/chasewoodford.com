@@ -7,6 +7,7 @@ table.dataTable {
   font-size: 14px;
 
   thead th {
+    @include no-select;
     padding: 2px 20px 0 20px;
     border-bottom: 2px solid #B5B5B5;
     color: #999999;
