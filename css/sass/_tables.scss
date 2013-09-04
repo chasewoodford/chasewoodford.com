@@ -7,10 +7,11 @@ table.dataTable {
   font-size: 14px;
 
   thead th {
+    padding: 2px 20px 0 20px;
     border-bottom: 2px solid #B5B5B5;
     color: #999999;
     font-weight: normal;
-    padding: 2px 2px 2px 0;
+    text-align: left;
     cursor: pointer;
     *cursor: hand;
   }
@@ -32,11 +33,11 @@ table.dataTable {
   tr {
 
     &.odd {
-      background-color: #E2E4FF;
+      background-color: $highlight-tableRow;
     }
 
     &.even {
-      background-color: white;
+      background-color: $white;
     }
 
     &.odd td {
