@@ -146,6 +146,10 @@ h1, .h1, .kansas:hover {
   letter-spacing: -3px;
   color: $gray;
   text-shadow: $highlight-subtle, $highlight-dropShadow;
+
+  &.playground {
+
+  }
 }
 
 // nav
