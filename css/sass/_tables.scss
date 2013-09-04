@@ -87,7 +87,6 @@ table.dataTable {
 
 // Filter
 .dataTables_filter {
-  display: inline;
   float: right;
   text-align: right;
 }
@@ -97,6 +96,7 @@ table.dataTable {
   clear: both;
   float: left;
   width: 100%;
+  padding: 10px;
   border-top: 2px solid #B5B5B5;
   text-align: center;
 }
