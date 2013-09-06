@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Chase Woodford">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Chase Woodford &#124; eBooks</title>
+
+    <link rel="icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="/css/compiled/style.css">
+</head>
+<body>
+<h1 class="hide-text">Index of /eBooks</h1>
+<table id="directory" cellspacing="0" class="table display dataTable">
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Format</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/resources/ebooks/JavaScript_The_Definitive_Guide_Sixth_Edition.pdf">JavaScript The Definitive Guide Sixth Edition</a></td>
+            <td>David Flanagan</td>
+            <td>PDF</td>
+            <td>This book covers the JavaScript language and the JavaScript APIs implemented by web browsers.</td>
+        </tr>
+        <tr>
+            <td><a href="/resources/ebooks/Research_Based_Web_Design_And_Usability_Guidelines.pdf">Research Based Web Design And Usability Guidelines</a></td>
+            <td>N/A</td>
+            <td>PDF</td>
+            <td>The Guidelines were developed to assist those involved in the creation of Web sites to base their decisions on the most current and best available evidence. The Guidelines are particularly relevant to the design of information-oriented sites, but can be applied across the wide spectrum of Web sites.</td>
+        </tr>
+        <tr>
+            <td><a href="/resources/ebooks/Sinatra_Up_and_Running.pdf">Sinatra Up and Running</a></td>
+            <td>Alan Harris & Konstantin Haase</td>
+            <td>PDF</td>
+            <td>Our goal is to provide the core concepts and accompanying examples to help you feel comfortable using Sinatra as quickly as possible. By the end, you should have a working knowledge of Sinatra and how it fits into the larger Ruby web development ecosystem.</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/javascript/jquery-2.0.0.min.js"><\/script>')</script>
+<script src="/javascript/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+    $('#directory').dataTable( {
+        "bPaginate": false,
+        "bLengthChange": false,
+        "bFilter": true,
+        "bSort": true ,
+        "aoColumnDefs": [
+            { 'bSortable': false, 'aTargets': [ 0 ] }
+        ],
+        "oLanguage": {
+            "sSearch": "filter: ",
+            "sZeroRecords": "¯&#92;_(ツ)_/¯",
+            "sInfo": "showing _START_ to _END_ of _TOTAL_ records",
+            "sInfoEmpty": "showing 0 to 0 of 0 records",
+            "sInfoFiltered": "(filtered from _MAX_ total records)"
+        }
+    } );
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28396921-1']);
+    _gaq.push(['_setDomainName', 'chasewoodford.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+</html>
