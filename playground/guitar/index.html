@@ -16,26 +16,29 @@
 <table id="directory" cellspacing="0" class="table display dataTable">
     <thead>
         <tr>
-            <th>Author</th>
+            <th></th>
             <th>Album</th>
-            <th>Tracks</th>
             <th>Year</th>
+            <th>Tracks</th>
+            <th>Author</th>
             <th>Notes</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Chase Woodford</td>
+            <td><img class="table-icon" src="/images/ico-folder.gif" alt="[DIR]"></td>
             <td><a href="./wordsFromWiconisco">Words From Wiconisco</a></td>
-            <td>11</td>
             <td>2001</td>
+            <td>11</td>
+            <td>Chase Woodford</td>
             <td></td>
         </tr>
         <tr>
-            <td>Chase Woodford</td>
+            <td><img class="table-icon" src="/images/ico-folder.gif" alt="[DIR]"></td>
             <td><a href="./longStoryShort">Long Story Short</a></td>
-            <td>11</td>
             <td>2006</td>
+            <td>11</td>
+            <td>Chase Woodford</td>
             <td></td>
         </tr>
     </tbody>
@@ -50,6 +53,9 @@
         "bLengthChange": false,
         "bFilter": true,
         "bSort": true ,
+        "aoColumnDefs": [
+            { 'bSortable': false, 'aTargets': [ 0 ] }
+        ],
         "oLanguage": {
             "sSearch": "filter: ",
             "sZeroRecords": "¯&#92;_(ツ)_/¯",
