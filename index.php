@@ -41,7 +41,6 @@
         <article id="tweet-container" class="grid-8 well" style="padding:20px;text-align:center;">
             <div class="quote-before icon-quote-right-alt"></div>
                 <a class="twitter-timeline"
-                   style="display:inline;"
                    data-tweet-limit="1"
                    data-link-color="#0088CC"
                    data-chrome="noborders noheader nofooter"
