@@ -1,4 +1,4 @@
-.tweet, .quote {
+.quote {
   display: inline;
   float: left;
   width: 88%;
@@ -29,8 +29,10 @@
   float: right;
 }
 
-.tweet > p {
-  overflow: hidden;
-  padding: 0 $space/4;
-  text-overflow: ellipsis;
+.tweet {
+  display: inline;
+
+  & > iframe {
+    @include box-shadow(none);
+  }
 }
