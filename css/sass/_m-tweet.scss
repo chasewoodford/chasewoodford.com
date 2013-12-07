@@ -29,10 +29,11 @@
   float: right;
 }
 
-.tweet {
-  display: inline;
+#tweet-container {
+
 
   & > iframe {
     @include box-shadow(none);
+    display: inline;
   }
 }
