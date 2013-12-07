@@ -41,6 +41,7 @@
         <article id="tweet-container" class="grid-10 well" style="padding:20px;text-align:center;">
         <a class="twitter-timeline"
            data-tweet-limit="1"
+           width="100%"
            data-link-color="#0088CC"
            data-chrome="noborders noheader nofooter"
            href="https://twitter.com/chase1263070"  data-widget-id="409109781861785600">Tweets by @chase1263070</a>
