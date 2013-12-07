@@ -38,7 +38,7 @@
         <?php
         endwhile;
         ?>
-        <article id="tweet-container" class="grid-8 well" style="padding:20px;text-align:center;">
+        <article id="tweet-container" class="grid-10 well" style="padding:20px 0 0 0;text-align:center;">
                 <a class="twitter-timeline"
                    data-tweet-limit="1"
                    data-link-color="#0088CC"
