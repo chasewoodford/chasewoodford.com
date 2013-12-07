@@ -41,6 +41,8 @@
 <!--        <article id="tweet-container" class="grid-10 well"></article>-->
         <a class="twitter-timeline"  href="https://twitter.com/chase1263070"  data-widget-id="409109781861785600">Tweets by @chase1263070</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
     </div>
 </div>
 <?php include ('./blog/wp-content/themes/v2/footer.php') ?>
