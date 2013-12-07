@@ -40,7 +40,7 @@
         ?>
         <article id="tweet-container" class="grid-8 well" style="padding:20px;text-align:center;">
             <div class="quote-before icon-quote-right-alt"></div>
-            <div class="tweet">
+            <div class="tweet grid-10">
                 <a class="twitter-timeline"
                    data-tweet-limit="1"
                    data-link-color="#0088CC"
