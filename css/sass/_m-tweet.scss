@@ -29,11 +29,12 @@
   float: right;
 }
 
-#tweet-container {
-
+.tweet-container {
+  padding: 20px 0 0 0;
+  text-align:center;
 
   & > iframe {
-    @include box-shadow(none);
     display: inline;
+    @include box-shadow(none);
   }
 }
