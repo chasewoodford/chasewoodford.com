@@ -25,7 +25,7 @@
                 <header>
                     <h3>
                         <span class="h3 blog-category">
-                            designer/developer&nbsp;&gt;
+                            designer/developer&nbsp;>
                         </span>
                         <a class="title-bar" href="#">
                             <span class="h2">chase woodford</span>
