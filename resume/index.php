@@ -63,16 +63,22 @@
                 <header>
                     <h3>
                         <span class="blog-category">
-                            experience&nbsp;>
+                            proficiences&nbsp;>
                         </span>
-                        <a class="title-bar" href="#" title="view full post">freelance</a>
                     </h3>
                 </header>
+                <ul class="update">
+                    <li>Thing 1</li>
+                    <li>Thing 2</li>
+                    <li>Thing 3</li>
+                    <li>Thing 4</li>
+                </ul>
                 <header>
                     <h3>
                         <span class="blog-category">
-                            proficiences&nbsp;>
+                            experience&nbsp;>
                         </span>
+                        <a class="title-bar" href="#" title="view full post">freelance</a>
                     </h3>
                 </header>
             </article>
@@ -85,6 +91,9 @@
                         <a class="title-bar" href="#" title="view full post">temple univ.</a>
                     </h3>
                 </header>
+                <ul class="update">
+                    <li>BA Advertising, sociology minor, 2007</li>
+                </ul>
                 <header>
                     <h3>
                         <span class="blog-category">
@@ -92,6 +101,9 @@
                         </span>
                     </h3>
                 </header>
+                <ul class="update">
+                    <li>Available upon request</li>
+                </ul>
             </article>
         </div>
     </div>
