@@ -63,6 +63,14 @@
                 <header>
                     <h3>
                         <span class="blog-category">
+                            experience&nbsp;>
+                        </span>
+                        <a class="title-bar" href="#" title="view full post">freelance</a>
+                    </h3>
+                </header>
+                <header>
+                    <h3>
+                        <span class="blog-category">
                             proficiences&nbsp;>
                         </span>
                     </h3>
@@ -73,14 +81,6 @@
                     <li>Thing 3</li>
                     <li>Thing 4</li>
                 </ul>
-                <header>
-                    <h3>
-                        <span class="blog-category">
-                            experience&nbsp;>
-                        </span>
-                        <a class="title-bar" href="#" title="view full post">freelance</a>
-                    </h3>
-                </header>
             </article>
             <article class="grid-5 right">
                 <header>
