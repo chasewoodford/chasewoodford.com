@@ -59,56 +59,61 @@
                 </section>
                 <div class="clear"></div>
             </article>
-            <article class="grid-5 left">
-                <header>
-                    <h3>
-                        <span class="blog-category">
-                            experience&nbsp;>
-                        </span>
-                        <a class="title-bar" href="#" title="view full post">freelance</a>
-                    </h3>
-                </header>
+            <article class="grid-full">
+                <article class="grid-5 left">
+                    <header>
+                        <h3>
+                            <span class="blog-category">
+                                experience&nbsp;>
+                            </span>
+                            <a class="title-bar" href="#" title="view full post">freelance</a>
+                        </h3>
+                    </header>
+                </article>
+                <article class="grid-5 right">
+                    <header>
+                        <h3>
+                            <span class="blog-category">
+                                education&nbsp;>
+                            </span>
+                            <a class="title-bar" href="#" title="view full post">temple univ.</a>
+                        </h3>
+                    </header>
+                    <ul class="update">
+                        <li>BA Advertising, sociology minor, 2007</li>
+                    </ul>
+                </article>
+                <div class="clear"></div>
             </article>
-            <article class="grid-5 right">
-                <header>
-                    <h3>
-                        <span class="blog-category">
-                            education&nbsp;>
-                        </span>
-                        <a class="title-bar" href="#" title="view full post">temple univ.</a>
-                    </h3>
-                </header>
-                <ul class="update">
-                    <li>BA Advertising, sociology minor, 2007</li>
-                </ul>
-            </article>
-            <div class="clear"></div>
-            <article class="grid-5 left">
-                <header>
-                    <h3>
-                        <span class="blog-category">
-                            proficiences&nbsp;>
-                        </span>
-                    </h3>
-                </header>
-                <ul class="update">
-                    <li>Thing 1</li>
-                    <li>Thing 2</li>
-                    <li>Thing 3</li>
-                    <li>Thing 4</li>
-                </ul>
-            </article>
-            <article class="grid-5 right">
-                <header>
-                    <h3>
-                        <span class="blog-category">
-                            references&nbsp;>
-                        </span>
-                    </h3>
-                </header>
-                <ul class="update">
-                    <li>Available upon request</li>
-                </ul>
+            <article class="grid-full">
+                <article class="grid-5 left">
+                    <header>
+                        <h3>
+                            <span class="blog-category">
+                                proficiences&nbsp;>
+                            </span>
+                        </h3>
+                    </header>
+                    <ul class="update">
+                        <li>Thing 1</li>
+                        <li>Thing 2</li>
+                        <li>Thing 3</li>
+                        <li>Thing 4</li>
+                    </ul>
+                </article>
+                <article class="grid-5 right">
+                    <header>
+                        <h3>
+                            <span class="blog-category">
+                                references&nbsp;>
+                            </span>
+                        </h3>
+                    </header>
+                    <ul class="update">
+                        <li>Available upon request</li>
+                    </ul>
+                </article>
+                <div class="clear"></div>
             </article>
         </div>
     </div>
