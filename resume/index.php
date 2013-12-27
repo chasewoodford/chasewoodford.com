@@ -47,55 +47,34 @@
                             <a class="title-bar" href="#" title="view full post">verilogue</a>
                         </h3>
                     </header>
-                    <p>
-                        2012&mdash;present&nbsp;{&nbsp;developer,&nbsp;IT&nbsp;}
-                    </p>
-                    <p>
-                        I work at <a href="http://www.verilogue.com" title="verilogue.com" target="_blank">Verilogue<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>, a medical marketing research company, as part of a three man rock star development team. We build web sites and applications that bring the healthcare industry together to share information and enhance disease understanding, like <a href="http://www.carecoach.com" title="carecoach.com" target="_blank">CareCoach.com<sup><i class="icon-popup"></i></sup></a>, which provides patients and caregivers tools to improve communications with healthcare providers.
-                    </p>
-                    <p>
-                        I enjoy writing about web design, and throughout this site share my experience as a developer working for a small business at the intersection of Big Data and Big Pharma.
-                    </p>
-                    <p>
-                        In my spare time I like to compose music, which I link to from the <a href="/playground" title="playground" target="_self">playground</a> along with all of my other side projects. I also spend a lot of time reading, mostly about web design and user experience with the occasional book on string theory or building time machines.
-                    </p>
-                    <br/>
-                    <p class="lead">
-                        { recently consumed }
-                    </p>
-                    <p>
-                        I'm a pop culture junkie that loves to write about all the cool stuff I find. Here's what I've gotten into most recently:
-                    </p>
-                    <div class="recently-consumed-container">
-                        <?php query_posts( 'cat=51&posts_per_page=2&orderby=post_date&order=DESC' );
-                        while (have_posts()) : the_post();
-                            ?>
-                            <?php the_excerpt(); ?>
-                        <?php endwhile; ?>
-                    </div>
-                    <br/>
-                    <p class="lead">
-                        { way back when }
-                    </p>
-                    <p>
-                        I graduated from Temple University in 2007 with Summa Cum Laude honors, a bachelor's degree in Advertising and a minor in Sociology. I made the Dean's List a bunch of times, held several high ranking positions as a brother of the Alpha Tau Omega fraternity and was even robbed at gunpoint once. Pretty much your typical college experience.
-                    </p>
-                    <p>
-                        But enough about me. To find out more, <a href="/contact" title="contact" target="_self">drop me a line</a> or say hi on <a href="https://twitter.com/chase1263070" title="twitter" target="_blank">Twitter<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>.
-                    </p>
-                    <br/>
-                    <p class="lead">
-                        { about this site }
-                    </p>
-                    <p>
-                        This site is powered by <a href="http://wordpress.org/" target="_blank" title="WordPress">WordPress<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>, hand crafted using <a href="http://www.jetbrains.com/idea/" target="_blank" title="IntelliJ">IntelliJ<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>, and hosted by <a href="https://www.1and1.com/" target="_blank" title="1&1">1&1<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>. It features an adaptation of the <a href="http://viewportindustries.com/products/starkers/" target="_blank" title="Starkers">Starkers<sup><i class="icon-popup" aria-hidden="true"></i></sup></a> Wordpress theme, as well as the <a href="http://wordpress.org/extend/plugins/amazon-product-in-a-post-plugin/" target="_blank" title="Amazon Product In a Post">Amazon Product In a Post<sup><i class="icon-popup" aria-hidden="true"></i></sup></a> plugin for displaying products and the <a href="http://wordpress.org/extend/plugins/wordpress-seo/" target="_blank" title="WordPress SEO">WordPress SEO<sup><i class="icon-popup" aria-hidden="true"></i></sup></a> plugin. Code highlighting is brought to you by <a href="http://prismjs.com/" target="_blank" title="Prism.js">Prism<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>. Content delivery is optimized by the awesome folks at <a href="https://www.cloudflare.com/" target="_blank" title="CloudFlare">CloudFlare<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>. Nightly builds of the site are versioned and stored on <a href="https://github.com/" target="_blank" title="GitHub">GitHub<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>.
-                    </p>
-                    <p>
-                        Thank you to everyone in the web design/development community who made this site possible.
-                    </p>
-
+                    <span class="blog-category">
+                        2012&mdash;present { developer, IT }
+                    </span>
+                    <span class="blog-category">
+                        2006&mdash;present { manager, Transcription Services }
+                    </span>
                 </section>
                 <div class="clear"></div>
+            </article>
+            <article class="grid-5">
+                <header>
+                    <h3>
+                        <span class="blog-category">
+                            experience&nbsp;>
+                        </span>
+                        <a class="title-bar" href="#" title="view full post">freelance</a>
+                    </h3>
+                </header>
+            </article>
+            <article class="grid-5">
+                <header>
+                    <h3>
+                        <span class="blog-category">
+                            education&nbsp;>
+                        </span>
+                        <a class="title-bar" href="#" title="view full post">temple univ.</a>
+                    </h3>
+                </header>
             </article>
         </div>
     </div>
