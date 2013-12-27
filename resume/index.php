@@ -20,8 +20,11 @@
         <div class="grid-8 main-content" role="main">
             <article class="grid-8">
                 <header>
-                    <h3 class="page-title-bar">
-                        <div class="page-title">designer/developer ></div>
+                    <h3>
+                        <span class="blog-category">
+                            designer/developer&nbsp;>
+                        </span>
+                        <a class="title-bar" href="#" title="view full post">chase woodford</a>
                     </h3>
                 </header>
                 <section>
