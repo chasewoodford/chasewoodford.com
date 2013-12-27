@@ -30,7 +30,7 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="image-main">
+                    <div class="text-center">
                         <p>
                             1414 Lincoln Dr. W, Ambler, PA 19002
                             <span class="bullet">&#8226;</span>
@@ -39,8 +39,16 @@
                             chase@chasewoodford.com
                         </p>
                     </div>
-                    <p class="lead-font">
-                        I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA.
+                    <header>
+                        <h3>
+                            <span class="blog-category">
+                                employment&nbsp;>
+                            </span>
+                            <a class="title-bar" href="#" title="view full post">verilogue</a>
+                        </h3>
+                    </header>
+                    <p>
+                        2012&mdash;present&nbsp;{&nbsp;developer,&nbsp;IT&nbsp;}
                     </p>
                     <p>
                         I work at <a href="http://www.verilogue.com" title="verilogue.com" target="_blank">Verilogue<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>, a medical marketing research company, as part of a three man rock star development team. We build web sites and applications that bring the healthcare industry together to share information and enhance disease understanding, like <a href="http://www.carecoach.com" title="carecoach.com" target="_blank">CareCoach.com<sup><i class="icon-popup"></i></sup></a>, which provides patients and caregivers tools to improve communications with healthcare providers.
