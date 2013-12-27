@@ -39,7 +39,7 @@
                             })();
                         </script>
                         <gcse:search></gcse:search>
-                        <div class="clear"></div>
+                        <div class="clearfix"></div>
                     </section>
                 </article>
             </div>

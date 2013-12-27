@@ -86,7 +86,7 @@
                     include ('../social.php');
                     ?>
                 </section>
-                <div class="clear"></div>
+                <div class="clearfix"></div>
             </article>
         </div>
     </div>

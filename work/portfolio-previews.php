@@ -31,4 +31,4 @@
         </a>
     </div>
 </section>
-<div class="clear"></div>
+<div class="clearfix"></div>

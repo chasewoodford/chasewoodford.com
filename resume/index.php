@@ -57,7 +57,7 @@
                         2006&mdash;present { manager, Transcription Services }
                     </span>
                 </section>
-                <div class="clear"></div>
+                <div class="clearfix"></div>
             </article>
             <article class="grid-full">
                 <article class="grid-5 left">
@@ -83,7 +83,7 @@
                         <li>BA Advertising, sociology minor, 2007</li>
                     </ul>
                 </article>
-                <div class="clear"></div>
+                <div class="clearfix"></div>
             </article>
             <article class="grid-full">
                 <article class="grid-5 left">
@@ -113,7 +113,7 @@
                         <li>Available upon request</li>
                     </ul>
                 </article>
-                <div class="clear"></div>
+                <div class="clearfix"></div>
             </article>
         </div>
     </div>

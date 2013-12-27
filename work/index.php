@@ -35,7 +35,7 @@
                 <?php
                 include ('featured.php');
                 ?>
-                <div class="clear"></div>
+                <div class="clearfix"></div>
             </article>
             <?php
             include ('portfolio-previews.php');
