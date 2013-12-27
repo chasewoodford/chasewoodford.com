@@ -68,6 +68,13 @@
                         <a class="title-bar" href="#" title="view full post">freelance</a>
                     </h3>
                 </header>
+                <header>
+                    <h3>
+                        <span class="blog-category">
+                            proficiences&nbsp;>
+                        </span>
+                    </h3>
+                </header>
             </article>
             <article class="grid-5 right">
                 <header>
@@ -76,6 +83,13 @@
                             education&nbsp;>
                         </span>
                         <a class="title-bar" href="#" title="view full post">temple univ.</a>
+                    </h3>
+                </header>
+                <header>
+                    <h3>
+                        <span class="blog-category">
+                            references&nbsp;>
+                        </span>
                     </h3>
                 </header>
             </article>
