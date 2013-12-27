@@ -68,6 +68,22 @@
                         <a class="title-bar" href="#" title="view full post">freelance</a>
                     </h3>
                 </header>
+            </article>
+            <article class="grid-5 right">
+                <header>
+                    <h3>
+                        <span class="blog-category">
+                            education&nbsp;>
+                        </span>
+                        <a class="title-bar" href="#" title="view full post">temple univ.</a>
+                    </h3>
+                </header>
+                <ul class="update">
+                    <li>BA Advertising, sociology minor, 2007</li>
+                </ul>
+            </article>
+            <div class="clear"></div>
+            <article class="grid-5 left">
                 <header>
                     <h3>
                         <span class="blog-category">
@@ -83,17 +99,6 @@
                 </ul>
             </article>
             <article class="grid-5 right">
-                <header>
-                    <h3>
-                        <span class="blog-category">
-                            education&nbsp;>
-                        </span>
-                        <a class="title-bar" href="#" title="view full post">temple univ.</a>
-                    </h3>
-                </header>
-                <ul class="update">
-                    <li>BA Advertising, sociology minor, 2007</li>
-                </ul>
                 <header>
                     <h3>
                         <span class="blog-category">
