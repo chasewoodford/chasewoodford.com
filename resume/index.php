@@ -59,7 +59,7 @@
                 </section>
                 <div class="clear"></div>
             </article>
-            <article class="grid-5">
+            <article class="grid-5 left">
                 <header>
                     <h3>
                         <span class="blog-category">
@@ -69,7 +69,7 @@
                     </h3>
                 </header>
             </article>
-            <article class="grid-5">
+            <article class="grid-5 right">
                 <header>
                     <h3>
                         <span class="blog-category">
