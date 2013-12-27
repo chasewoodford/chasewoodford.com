@@ -18,7 +18,7 @@
         include ('../header.php');
         ?>
         <div class="grid-8 main-content" role="main">
-            <article class="grid-8">
+            <article class="grid-full">
                 <header>
                     <h3>
                         <span class="h3 blog-category">
