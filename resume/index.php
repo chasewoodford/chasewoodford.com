@@ -21,15 +21,23 @@
             <article class="grid-8">
                 <header>
                     <h3>
-                        <span class="blog-category">
-                            designer/developer&nbsp;>
+                        <span class="h3 blog-category">
+                            designer/developer&nbsp;&gt;
                         </span>
-                        <a class="title-bar" href="#" title="view full post">chase woodford</a>
+                        <a class="title-bar" href="#">
+                            <span class="h2">chase woodford</span>
+                        </a>
                     </h3>
                 </header>
                 <section>
                     <div class="image-main">
-                        <img src="/images/chase.png" alt="Chase sitting at his computer">
+                        <p>
+                            1414 Lincoln Dr. W, Ambler, PA 19002
+                            <span class="bullet">&#8226;</span>
+                            717-903-3168
+                            <span class="bullet">&#8226;</span>
+                            chase@chasewoodford.com
+                        </p>
                     </div>
                     <p class="lead-font">
                         I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA.
