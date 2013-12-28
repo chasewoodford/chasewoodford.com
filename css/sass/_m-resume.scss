@@ -8,8 +8,8 @@ ul.resume-callout-list {
   padding: 0 0 $space*1.5 $space*1.5;
 
   & li {
-    margin-bottom: $space/2;
-    font: normal 75%/1.5 $font-CallunaReg, serif;
+    margin-bottom: $space*0.75;
+    font: normal 100%/1.5 $font-CallunaReg, serif;
     list-style-type: disc;
   }
 }
