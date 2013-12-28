@@ -43,13 +43,13 @@
                     </p>
                     <header>
                         <h3>
-                            <span class="blog-category">
+                            <span class="resume-category">
                                 employment&nbsp;>
                             </span>
                             <span class="blue title-bar">verilogue</span>
                         </h3>
                     </header>
-                    <span class="blog-category">
+                    <span class="resume-category">
                         2012&mdash;present { developer, IT }
                     </span>
                     <ul class="update">
@@ -57,7 +57,7 @@
                         <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end configurations</li>
                         <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns, microsites and landing pages; and social media outlets</li>
                     </ul>
-                    <span class="blog-category">
+                    <span class="resume-category">
                         2006&mdash;present { manager, Transcription Services }
                     </span>
                     <ul class="update">
@@ -73,7 +73,7 @@
                 <article class="grid-6 left">
                     <header>
                         <h3>
-                            <span class="blog-category">
+                            <span class="resume-category">
                                 experience&nbsp;>
                             </span>
                             <span class="blue title-bar">freelance</span>
@@ -89,7 +89,7 @@
                 <article class="grid-6 right">
                     <header>
                         <h3>
-                            <span class="blog-category">
+                            <span class="resume-category">
                                 education&nbsp;>
                             </span>
                             <span class="blue title-bar">temple univ.</span>
@@ -105,7 +105,7 @@
                 <article class="grid-6 left">
                     <header>
                         <h3>
-                            <span class="blog-category">
+                            <span class="resume-category">
                                 proficiences&nbsp;>
                             </span>
                         </h3>
@@ -120,7 +120,7 @@
                 <article class="grid-6 right">
                     <header>
                         <h3>
-                            <span class="blog-category">
+                            <span class="resume-category">
                                 references&nbsp;>
                             </span>
                         </h3>
