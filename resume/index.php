@@ -49,7 +49,7 @@
                             <span class="blue title-bar">verilogue</span>
                         </h3>
                     </header>
-                    <span class="resume-category">
+                    <span class="resume-sub-title-bar">
                         2012&mdash;present { developer, IT }
                     </span>
                     <ul class="update">
@@ -57,7 +57,7 @@
                         <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end configurations</li>
                         <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns, microsites and landing pages; and social media outlets</li>
                     </ul>
-                    <span class="resume-category">
+                    <span class="resume-sub-title-bar">
                         2006&mdash;present { manager, Transcription Services }
                     </span>
                     <ul class="update">
