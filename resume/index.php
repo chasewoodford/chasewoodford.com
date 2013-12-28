@@ -54,9 +54,21 @@
                     <span class="blog-category">
                         2012&mdash;present { developer, IT }
                     </span>
+                    <ul class="update">
+                        <li>Thing 1</li>
+                        <li>Thing 2</li>
+                        <li>Thing 3</li>
+                        <li>Thing 4</li>
+                    </ul>
                     <span class="blog-category">
                         2006&mdash;present { manager, Transcription Services }
                     </span>
+                    <ul class="update">
+                        <li>Thing 1</li>
+                        <li>Thing 2</li>
+                        <li>Thing 3</li>
+                        <li>Thing 4</li>
+                    </ul>
                 </section>
                 <div class="clearfix"></div>
             </article>
