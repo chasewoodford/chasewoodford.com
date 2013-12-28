@@ -1,6 +1,6 @@
 // After scroll, add class to header to init dropshadow
 $(window).scroll(function () {
-    if ($(window).scrollTop() > 30) {
+    if ($(window).scrollTop() > 0) {
         $("#header").addClass("scroll");
     } else {
         $("#header").removeClass("scroll");
