@@ -34,13 +34,13 @@
                     </h3>
                 </header>
                 <section>
-                    <p class="text-center resume-connect-info">
-                        1414 Lincoln Dr. W, Ambler, PA 19002
+                    <address class="text-center resume-connect-info">
+                        <a href="https://goo.gl/maps/GZih1" title="open in Google Maps" target="_blank">1414 Lincoln Dr. W, Ambler, PA 19002</a>
                         <span class="bullet">&#8226;</span>
-                        717-903-3168
+                        <a href="tel:+1-717-903-3168" title="give me a ring">717-903-3168</a>
                         <span class="bullet">&#8226;</span>
-                        chase@chasewoodford.com
-                    </p>
+                        <a href="mailto:chase@chasewoodford.com" title="drop me a line">chase@chasewoodford.com</a>
+                    </address>
                     <header>
                         <h3>
                             <span class="resume-category">
@@ -54,7 +54,7 @@
                     </span>
                     <ul class="resume-callout-list">
                         <li>Lead UI/UX design for and front-end development of all web, desktop and mobile applications, including: verilogue.com and physician mobile app; carecoach.com and patient mobile app; revealmr.com, a client-facing content management system; logueworks.com, an automated workflow service; and sales	training iPad and desktop applications</li>
-                        <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end configurations</li>
+                        <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end systems</li>
                         <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns, microsites and landing pages; and social media outlets</li>
                     </ul>
                     <span class="resume-sub-title-bar">
@@ -62,7 +62,7 @@
                     </span>
                     <ul class="resume-callout-list">
                         <li>Manage transcription/translation team of XXX contractors, including XX vendors and XXX individuals</li>
-                        <li>Ensure accuracy and HIPAA compliance of a database containing XX,XXX+ interactions, spanning XX languages, XX disease states and various multimedia formats</li>
+                        <li>Ensure accuracy and HIPAA compliance of a database containing 85,000+ interactions, spanning 9 international markets, XX disease states and various multimedia formats</li>
                         <li>Meet all project requirements and deadlines for over XXX projects sold to XX of the world’s largest pharmaceutical companies, healthcare suppliers and agency vendors</li>
                         <li>Reduce cost per interaction from $XX.XX to $X.XX and increased efficiency of overall process by XXX%</li>
                     </ul>
