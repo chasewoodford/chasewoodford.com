@@ -111,7 +111,7 @@
                         </h3>
                     </header>
                     <ul class="resume-callout-list">
-                        <li>HTML, PHP, Java, JavaScript, CSS, <a href="http://sass-lang.com/" target="_blank">Sass</a>, SQL, Subversion/GIT</li>
+                        <li>HTML, <a href="http://php.net/" target="_blank">PHP</a>, Java, JavaScript, CSS, <a href="http://sass-lang.com/" target="_blank">Sass</a>, SQL, Subversion/GIT</li>
                         <li><a href="http://www.adobe.com/products/creativecloud.html" target="_blank">Adobe Creative Cloud</a></li>
                         <li><a href="http://www.sonycreativesoftware.com/" target="_blank">Sony Creative Software</a></li>
                         <li><a href="http://office.microsoft.com/en-us/products/" target="_blank">Microsoft Office Suite</a>, <a href="http://office.microsoft.com/en-us/sharepoint/" target="_blank">SharePoint</a></li>
