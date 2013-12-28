@@ -224,13 +224,14 @@ h4, .h4 {
 .resume-title-bar {
   display: block;
   margin-bottom: $space/2;
-  font: normal 75%/1 $font-UbuntuLtReg, serif;
+  font-family: $font-UbuntuLtReg, serif;
+  font-size: 16px;
+  line-height: 1;
 }
 
 .resume-connect-info {
-  display: block;
+  @extend .resume-title-bar;
   margin-bottom: $space;
-  font: normal 100%/1 $font-UbuntuLtReg, serif;
 }
 
 .blue {
