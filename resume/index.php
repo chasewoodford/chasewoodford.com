@@ -23,7 +23,7 @@
             ?>
             <article class="grid-full">
                 <header>
-                    <a href="#" title="Download resume in PDF format"><img src="https://cdn1.iconfinder.com/data/icons/CS5/512/ACP_PDF%202_file_document.png" style="width:50px;border:none;box-shadow:none;" class="right"></a>
+                    <a href="#" title="Download resume in PDF format"><img src="https://cdn1.iconfinder.com/data/icons/CS5/512/ACP_PDF%202_file_document.png" style="width:70px;border:none;box-shadow:none;" class="right"></a>
                     <h3>
                         <span class="h3 blog-category">
                             designer/developer&nbsp;>
