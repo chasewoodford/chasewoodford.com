@@ -53,7 +53,7 @@
                         2012&mdash;present { developer, IT }
                     </span>
                     <ul class="resume-callout-list">
-                        <li>Lead UI/UX design for and front-end development of all web, desktop and mobile applications, including: verilogue.com and physician mobile app; carecoach.com and patient mobile app; revealmr.com, a client-facing content management system; logueworks.com, an automated workflow service; and sales	training iPad and desktop applications</li>
+                        <li>Lead UI/UX design for and front-end development of all web, desktop and mobile applications, including: <a href="http://www.verilogue.com" target="_blank">verilogue.com<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> and physician mobile app; <a href="http://www.carecoach.com" target="_blank">carecoach.com<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> and patient mobile app; <a href="http://www.revealmr.com" target="_blank">revealmr.com<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>, a client-facing content management system; <a href="http://www.logueworks.com" target="_blank">logueworks.com<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>, an automated workflow service; and sales training iPad and desktop applications</li>
                         <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end systems</li>
                         <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns, microsites and landing pages; and social media outlets</li>
                     </ul>
@@ -80,10 +80,10 @@
                         </h3>
                     </header>
                     <ul class="resume-callout-list">
-                        <li>darawarren.com</li>
-                        <li>phillysportpast.com</li>
-                        <li>calmfocus.com/alertfocus.com</li>
-                        <li>garyames.net</li>
+                        <li><a href="http://www.darawarren.com" target="_blank">darawarren.com<sup><i aria-hidden="true" class="icon-popup"></i></sup></a></li>
+                        <li><a href="http://www.phillysportpast.com" target="_blank">phillysportpast.com<sup><i aria-hidden="true" class="icon-popup"></i></sup></a></li>
+                        <li><a href="#" target="_blank">calmfocus.com/alertfocus.com<sup><i aria-hidden="true" class="icon-popup"></i></sup></a></li>
+                        <li><a href="#" target="_blank">garyames.net<sup><i aria-hidden="true" class="icon-popup"></i></sup></a></li>
                     </ul>
                 </article>
                 <article class="grid-6 right">
