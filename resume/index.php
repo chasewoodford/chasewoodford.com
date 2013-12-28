@@ -25,7 +25,7 @@
                 <header>
                     <a href="#" title="Download resume in PDF format"><img class="pdf-download-image right" alt="Download resume in PDF format" src="../images/pdfDownload.png"></a>
                     <h3>
-                        <span class="h3 blog-category">
+                        <span class="resume-title-bar">
                             designer/developer&nbsp;>
                         </span>
                         <span class="blue title-bar">
