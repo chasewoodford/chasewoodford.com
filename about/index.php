@@ -43,6 +43,9 @@
                         I work at <a href="http://www.verilogue.com" title="verilogue.com" target="_blank">Verilogue<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>, a medical marketing research company, as part of a three man rock star development team. We build web sites and applications that bring the healthcare industry together to share information and enhance disease understanding, like <a href="http://www.carecoach.com" title="carecoach.com" target="_blank">CareCoach.com<sup><i class="icon-popup"></i></sup></a>, which provides patients and caregivers tools to improve communications with healthcare providers.
                     </p>
                     <p>
+                        In December 2013, <a href="http://www.verilogue.com/index.php/company/press?task=readmore&id=69" title="Verilogue is Now a Publicis Healthcare Communications Group Company" target="_blank">Verilogue was acquired by Publicis Groupe<sup><i class="icon-popup" aria-hidden="true"></i></sup></a>, joining Publicis Healthcare Communications Groupe (PHCG), the largest healthcare communications network in the world.
+                    </p>
+                    <p>
                         I enjoy writing about web design, and throughout this site share my experience as a developer working for a small business at the intersection of Big Data and Big Pharma.
                     </p>
                     <p>
