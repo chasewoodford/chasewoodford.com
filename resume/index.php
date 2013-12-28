@@ -21,7 +21,7 @@
             <?php
             require('../blog/wp-blog-header.php');
             ?>
-            <article class="class="clearfix"">
+            <article class="grid-12">
                 <header>
                     <a href="#" title="Download resume in PDF format"><img class="pdf-download-image right" alt="Download resume in PDF format" src="../images/pdfDownload.png"></a>
                     <h3>
@@ -71,7 +71,7 @@
                 </section>
                 <div class="clearfix"></div>
             </article>
-            <article class="class="clearfix"">
+            <article class="grid-12">
                 <article class="grid-6 left">
                     <header>
                         <h3>
@@ -103,7 +103,7 @@
                 </article>
                 <div class="clearfix"></div>
             </article>
-            <article class="class="clearfix"">
+            <article class="grid-12">
                 <article class="grid-6 left">
                     <header>
                         <h3>
