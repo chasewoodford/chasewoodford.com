@@ -126,7 +126,7 @@
                         </h3>
                     </header>
                     <ul class="resume-callout-list">
-                        <li>Available upon <a href="mailto:chase@chasewoodford.com" title="request references">request</a></li>
+                        <li><a href="mailto:chase@chasewoodford.com" title="request references">Available upon request</a></li>
                     </ul>
                 </article>
                 <div class="clearfix"></div>
