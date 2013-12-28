@@ -9,6 +9,8 @@ ul.resume-callout-list {
 
   & li {
     margin-bottom: $space/2;
+    font-size: 14px;
+    line-height: 1.5;
     list-style-type: disc;
   }
 }
