@@ -34,15 +34,13 @@
                     </h3>
                 </header>
                 <section>
-                    <div class="text-center">
-                        <p>
-                            1414 Lincoln Dr. W, Ambler, PA 19002
-                            <span class="bullet">&#8226;</span>
-                            717-903-3168
-                            <span class="bullet">&#8226;</span>
-                            chase@chasewoodford.com
-                        </p>
-                    </div>
+                    <p class="text-center resume-connect-info">
+                        1414 Lincoln Dr. W, Ambler, PA 19002
+                        <span class="bullet">&#8226;</span>
+                        717-903-3168
+                        <span class="bullet">&#8226;</span>
+                        chase@chasewoodford.com
+                    </p>
                     <header>
                         <h3>
                             <span class="blog-category">
