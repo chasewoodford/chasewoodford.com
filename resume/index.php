@@ -96,7 +96,7 @@
                         </h3>
                     </header>
                     <ul class="resume-callout-list">
-                        <li>BA Advertising, sociology minor, 2007</li>
+                        <li>BA <a href="http://smc.temple.edu/advertising/" target="_blank">Advertising</a>, <a href="http://www.temple.edu/sociology/" target="_blank">sociology</a> minor, 2007</li>
                     </ul>
                 </article>
                 <div class="clearfix"></div>
@@ -111,10 +111,10 @@
                         </h3>
                     </header>
                     <ul class="resume-callout-list">
-                        <li>HTML, PHP, Java, JavaScript, CSS, Sass, SQL, Subversion/GIT</li>
-                        <li>Adobe Creative Suite</li>
-                        <li>Sony Vegas, Sound Forge, Acid</li>
-                        <li>Microsoft Office Suite, SharePoint</li>
+                        <li>HTML, PHP, Java, JavaScript, CSS, <a href="http://sass-lang.com/" target="_blank">Sass</a>, SQL, Subversion/GIT</li>
+                        <li><a href="http://www.adobe.com/products/creativecloud.html" target="_blank">Adobe Creative Cloud</a></li>
+                        <li><a href="http://www.sonycreativesoftware.com/" target="_blank">Sony Creative Software</a></li>
+                        <li><a href="http://office.microsoft.com/en-us/products/" target="_blank">Microsoft Office Suite</a>, <a href="http://office.microsoft.com/en-us/sharepoint/" target="_blank">SharePoint</a></li>
                     </ul>
                 </article>
                 <article class="grid-6 right">
@@ -126,7 +126,7 @@
                         </h3>
                     </header>
                     <ul class="resume-callout-list">
-                        <li>Available upon request</li>
+                        <li>Available upon <a href="mailto:chase@chasewoodford.com" title="request references">request</a></li>
                     </ul>
                 </article>
                 <div class="clearfix"></div>
