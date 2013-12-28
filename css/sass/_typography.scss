@@ -225,7 +225,7 @@ h4, .h4 {
   display: block;
   margin-bottom: $space/2;
   font-family: $font-UbuntuLtReg, serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
   line-height: 1;
 }
@@ -272,8 +272,12 @@ h4, .h4 {
   font-size: 14px;
 }
 
-.copyright, .blog-category, .portfolio-category, .resume-category, .header-link, .metadata {
+.copyright, .blog-category, .portfolio-category, .header-link, .metadata {
   font: normal 75%/1 $font-UbuntuLtReg, serif;
+}
+
+.resume-category {
+  font: normal 100%/1 $font-UbuntuLtReg, serif;
 }
 
 .attribute, .allowed-tags {
