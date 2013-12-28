@@ -48,7 +48,7 @@
                             <span class="blog-category">
                                 employment&nbsp;>
                             </span>
-                            <a class="title-bar" href="#" title="view full post">verilogue</a>
+                            <span class="blue title-bar">verilogue</span>
                         </h3>
                     </header>
                     <span class="blog-category">
@@ -78,7 +78,7 @@
                             <span class="blog-category">
                                 experience&nbsp;>
                             </span>
-                            <a class="title-bar" href="#" title="view full post">freelance</a>
+                            <span class="blue title-bar">freelance</span>
                         </h3>
                     </header>
                     <ul class="update">
@@ -94,7 +94,7 @@
                             <span class="blog-category">
                                 education&nbsp;>
                             </span>
-                            <a class="title-bar" href="#" title="view full post">temple univ.</a>
+                            <span class="blue title-bar">temple univ.</span>
                         </h3>
                     </header>
                     <ul class="update">
