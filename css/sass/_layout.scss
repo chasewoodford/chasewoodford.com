@@ -54,6 +54,11 @@
   }
 }
 
+.grid-12 {
+  margin: 0 auto;
+  width: flex-grid(12); // 100%
+}
+
 .grid-blog {
   margin-left: 6%;
   width: flex-grid(8); // 67.5%
