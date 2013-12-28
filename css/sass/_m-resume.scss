@@ -3,3 +3,12 @@
   border: none;
   @include box-shadow(none);
 }
+
+ul.resume-callout-list {
+  padding: 0 0 $space*1.5 $space*1.5;
+
+  & li {
+    margin-bottom: $space/2;
+    list-style-type: disc;
+  }
+}

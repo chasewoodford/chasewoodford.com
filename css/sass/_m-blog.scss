@@ -18,6 +18,7 @@ body.archive .pubdate, body.category .pubdate, body.single .pubdate {
 
 .tags a {
   margin-right: $space/2;
+
   &:last-child {
     margin-right: 0;
   }
@@ -30,6 +31,7 @@ body.archive .pubdate, body.category .pubdate, body.single .pubdate {
 ol.comment-list {
   margin: 0;
   padding: 0;
+
   li.comment {
     overflow: hidden;
     margin-bottom: $space;
@@ -60,6 +62,7 @@ a[title^="Permalink"] {
 .comment-content {
   float: left;
   width: 80%;
+
   @include breakpoint(smaller) {
     width: 100%;
   }
@@ -72,6 +75,7 @@ a.comment-reply-link {
 
 ul.update, ul.callout-list {
   padding-left: $space*1.5;
+
   & li {
     margin-bottom: $space/2;
     list-style-type: disc;
@@ -96,6 +100,7 @@ ul.callout-list {
   @include breakpoint(small) {
     display: none;
   }
+
   @include breakpoint(smaller) {
     display: none;
   }

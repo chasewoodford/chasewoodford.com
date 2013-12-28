@@ -52,7 +52,7 @@
                     <span class="resume-sub-title-bar">
                         2012&mdash;present { developer, IT }
                     </span>
-                    <ul class="update">
+                    <ul class="resume-callout-list">
                         <li>Lead UI/UX design for and front-end development of all web, desktop and mobile applications, including: verilogue.com and physician mobile app; carecoach.com and patient mobile app; revealmr.com, a client-facing content management system; logueworks.com, an automated workflow service; and sales	training iPad and desktop applications</li>
                         <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end configurations</li>
                         <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns, microsites and landing pages; and social media outlets</li>
@@ -60,7 +60,7 @@
                     <span class="resume-sub-title-bar">
                         2006&mdash;present { manager, Transcription Services }
                     </span>
-                    <ul class="update">
+                    <ul class="resume-callout-list">
                         <li>Manage transcription/translation team of XXX contractors, including XX vendors and XXX individuals</li>
                         <li>Ensure accuracy and HIPAA compliance of a database containing XX,XXX+ interactions, spanning XX languages, XX disease states and various multimedia formats</li>
                         <li>Meet all project requirements and deadlines for over XXX projects sold to XX of the world’s largest pharmaceutical companies, healthcare suppliers and agency vendors</li>
@@ -79,7 +79,7 @@
                             <span class="blue title-bar">freelance</span>
                         </h3>
                     </header>
-                    <ul class="update">
+                    <ul class="resume-callout-list">
                         <li>darawarren.com</li>
                         <li>phillysportpast.com</li>
                         <li>calmfocus.com/alertfocus.com</li>
@@ -95,7 +95,7 @@
                             <span class="blue title-bar">temple univ.</span>
                         </h3>
                     </header>
-                    <ul class="update">
+                    <ul class="resume-callout-list">
                         <li>BA Advertising, sociology minor, 2007</li>
                     </ul>
                 </article>
@@ -110,7 +110,7 @@
                             </span>
                         </h3>
                     </header>
-                    <ul class="update">
+                    <ul class="resume-callout-list">
                         <li>HTML, PHP, Java, JavaScript, CSS, Sass, SQL, Subversion/GIT</li>
                         <li>Adobe Creative Suite</li>
                         <li>Sony Vegas, Sound Forge, Acid</li>
@@ -125,7 +125,7 @@
                             </span>
                         </h3>
                     </header>
-                    <ul class="update">
+                    <ul class="resume-callout-list">
                         <li>Available upon request</li>
                     </ul>
                 </article>
