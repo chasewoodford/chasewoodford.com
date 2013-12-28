@@ -232,11 +232,7 @@ h4, .h4 {
 
 .resume-sub-title-bar {
   @extend .resume-title-bar;
-  margin: $space*2 auto $space;
-
-  &:first-child {
-    margin-top: 0;
-  }
+  margin-bottom: $space;
 }
 
 .resume-connect-info {
