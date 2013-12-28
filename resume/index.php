@@ -23,7 +23,7 @@
             ?>
             <article class="grid-full">
                 <header>
-                    <a href="#" title="Download resume in PDF format"><img src="https://cdn1.iconfinder.com/data/icons/CS5/512/ACP_PDF%202_file_document.png" style="width:70px;border:none;box-shadow:none;" class="right"></a>
+                    <a href="#" title="Download resume in PDF format"><img class="pdf-download-image right" alt="Download resume in PDF format" src="../images/pdfDownload.png"></a>
                     <h3>
                         <span class="h3 blog-category">
                             designer/developer&nbsp;>
@@ -55,25 +55,24 @@
                         2012&mdash;present { developer, IT }
                     </span>
                     <ul class="update">
-                        <li>Thing 1</li>
-                        <li>Thing 2</li>
-                        <li>Thing 3</li>
-                        <li>Thing 4</li>
+                        <li>Lead UI/UX design for and front-end development of all web, desktop and mobile applications, including: verilogue.com and physician mobile app; carecoach.com and patient mobile app; revealmr.com, a client-facing content management system; logueworks.com, an automated workflow service; and sales	training iPad and desktop applications</li>
+                        <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end configurations</li>
+                        <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns, microsites and landing pages; and social media outlets</li>
                     </ul>
                     <span class="blog-category">
                         2006&mdash;present { manager, Transcription Services }
                     </span>
                     <ul class="update">
-                        <li>Thing 1</li>
-                        <li>Thing 2</li>
-                        <li>Thing 3</li>
-                        <li>Thing 4</li>
+                        <li>Manage transcription/translation team of XXX contractors, including XX vendors and XXX individuals</li>
+                        <li>Ensure accuracy and HIPAA compliance of a database containing XX,XXX+ interactions, spanning XX languages, XX disease states and various multimedia formats</li>
+                        <li>Meet all project requirements and deadlines for over XXX projects sold to XX of the world’s largest pharmaceutical companies, healthcare suppliers and agency vendors</li>
+                        <li>Reduce cost per interaction from $XX.XX to $X.XX and increased efficiency of overall process by XXX%</li>
                     </ul>
                 </section>
                 <div class="clearfix"></div>
             </article>
             <article class="grid-full">
-                <article class="grid-5 left">
+                <article class="grid-6 left">
                     <header>
                         <h3>
                             <span class="blog-category">
@@ -82,8 +81,14 @@
                             <a class="title-bar" href="#" title="view full post">freelance</a>
                         </h3>
                     </header>
+                    <ul class="update">
+                        <li>darawarren.com</li>
+                        <li>phillysportpast.com</li>
+                        <li>calmfocus.com/alertfocus.com</li>
+                        <li>garyames.net</li>
+                    </ul>
                 </article>
-                <article class="grid-5 right">
+                <article class="grid-6 right">
                     <header>
                         <h3>
                             <span class="blog-category">
@@ -99,7 +104,7 @@
                 <div class="clearfix"></div>
             </article>
             <article class="grid-full">
-                <article class="grid-5 left">
+                <article class="grid-6 left">
                     <header>
                         <h3>
                             <span class="blog-category">
@@ -108,13 +113,13 @@
                         </h3>
                     </header>
                     <ul class="update">
-                        <li>Thing 1</li>
-                        <li>Thing 2</li>
-                        <li>Thing 3</li>
-                        <li>Thing 4</li>
+                        <li>HTML, PHP, Java, JavaScript, CSS, Sass, SQL, Subversion/GIT</li>
+                        <li>Adobe Creative Suite</li>
+                        <li>Sony Vegas, Sound Forge, Acid</li>
+                        <li>Microsoft Office Suite, SharePoint</li>
                     </ul>
                 </article>
-                <article class="grid-5 right">
+                <article class="grid-6 right">
                     <header>
                         <h3>
                             <span class="blog-category">
