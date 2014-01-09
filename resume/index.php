@@ -62,7 +62,7 @@
                     </span>
                     <ul class="resume-callout-list">
                         <li>Manage transcription/translation team of XXX contractors, including XX vendors and XXX individuals</li>
-                        <li>Ensure accuracy and HIPAA compliance of a database containing 85,000+ interactions, spanning 9 international markets, XX disease states and various multimedia formats</li>
+                        <li>Ensure accuracy and HIPAA compliance of a database containing 85,000+ interactions, spanning 9 international markets, 138 disease states and various multimedia formats</li>
                         <li>Meet all requirements and deadlines for over XXX projects sold to over 150 brand teams, including all of the top 20 world’s largest pharmaceutical companies</li>
                         <li>Reduce cost per interaction from $XX.XX to $X.XX and increased efficiency of overall process by XXX%</li>
                     </ul>
