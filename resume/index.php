@@ -61,10 +61,13 @@
                         2006&mdash;present { manager, Transcription Services }
                     </span>
                     <ul class="resume-callout-list">
-                        <li>Manage transcription/translation team of XXX contractors, including XX vendors and XXX individuals</li>
+                        <li>Manage transcription/translation team of 12 vendors and 61 individuals</li>
                         <li>Ensure accuracy and HIPAA compliance of a database containing 85,000+ interactions, spanning 9 international markets, 138 disease states and various multimedia formats</li>
-                        <li>Meet all requirements and deadlines for over XXX projects sold to over 150 brand teams, including all of the top 20 world’s largest pharmaceutical companies</li>
-                        <li>Reduce cost per interaction from $XX.XX to $X.XX and increased efficiency of overall process by XXX%</li>
+                        <li>Meet requirements and deadlines for projects sold to over 150 brand teams, including all top 20 of the world’s largest pharmaceutical companies</li>
+                        <li>Manage annual throughput from low of 1975 healthcare interactions per year (2007) to high of 16080 (2009), a 714% increase in capacity</li>
+                        <li>Reduce transcript processing turn-around time from high of 41 days (2007) to low of 4 days (2012), a 925% improvement in efficiency</li>
+                        <li>Negotiate cost of transcript down from $1.80/audio minute to $0.40/audio minute, a 78% reduction in cost per interaction</li>
+                        <li>Effect yearly company-wide cost-savings of ~$455,000 (~$24K on management, ~$431K on production)</li>
                     </ul>
                 </section>
                 <div class="clearfix"></div>
