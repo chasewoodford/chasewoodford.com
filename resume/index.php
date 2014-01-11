@@ -55,7 +55,7 @@
                     <ul class="resume-callout-list">
                         <li>Lead UI/UX design for and front-end development of all web, desktop and mobile applications, including: <a href="http://www.verilogue.com" target="_blank">verilogue.com</a> and physician mobile app; <a href="http://www.carecoach.com" target="_blank">carecoach.com</a> and patient mobile app; <a href="http://www.revealmr.com" target="_blank">revealmr.com</a>, a client-facing content management system; <a href="http://www.logueworks.com/vendor" target="_blank">logueworks.com</a>, an automated workflow service; and sales training iPad and desktop applications</li>
                         <li>Assist in architectural development and maintenance of SQL databases, AWS and other back-end systems</li>
-                        <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns, microsites and landing pages; and social media outlets</li>
+                        <li>Produce promotional content for both internal and external marketing efforts, including: audio/video teasers; Marketo e-mail campaigns; microsites and landing pages; and social media outlets</li>
                     </ul>
                     <span class="resume-sub-title-bar">
                         2006&mdash;present { manager, Transcription Services }
@@ -64,9 +64,9 @@
                         <li>Manage transcription/translation team of 12 vendors and 61 individuals</li>
                         <li>Ensure accuracy and HIPAA compliance of a database containing 85,000+ interactions, spanning 9 international markets, 138 disease states and various multimedia formats</li>
                         <li>Meet requirements and deadlines for projects sold to over 150 brand teams, including all top 20 of the world’s largest pharmaceutical companies</li>
-                        <li>Manage annual throughput from low of 1975 healthcare interactions per year (2007) to high of 16080 (2009), a 714% increase in capacity</li>
+                        <li>Manage annual throughput from low of 1,975 healthcare interactions per year (2007) to high of 16,080 (2009), a 714% increase in capacity</li>
                         <li>Reduce transcript processing turn-around time from high of 41 days (2007) to low of 4 days (2012), a 925% improvement in efficiency</li>
-                        <li>Negotiate cost of transcript down from $1.80/audio minute to $0.40/audio minute, a 78% reduction in cost per interaction</li>
+                        <li>Negotiate cost of transcription down from $1.80/audio minute to $0.40/audio minute, a 78% reduction in cost per interaction</li>
                         <li>Effect yearly company-wide cost-savings of ~$455,000 (~$24K on management, ~$431K on production)</li>
                     </ul>
                 </section>

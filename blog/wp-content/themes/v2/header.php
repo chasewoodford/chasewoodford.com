@@ -18,7 +18,7 @@
         <div class="grid-8 header-inner">
             <div class="links" role="navigation">
                 <a class="header-link" href="/" title="home" tabindex="6">home</a><span class="bullet">&bull;</span>
-                <a class="header-link" href="#" tabindex="7">resume</a><span class="bullet">&bull;</span>
+                <a class="header-link" href="/resume" tabindex="7">resume</a><span class="bullet">&bull;</span>
                 <a class="header-link" href="/contact" title="contact" tabindex="8">contact</a>
             </div>
             <!--<img class="logo pulse" src="/images/logo.png" alt="Chase Woodford &#124; Designer &amp; Developer"/>-->
