@@ -79,7 +79,7 @@
                             <span class="resume-category">
                                 experience&nbsp;>
                             </span>
-                            <span class="blue title-bar">freelance</span>
+                            <span class="blue title-bar">side projects</span>
                         </h3>
                     </header>
                     <ul class="resume-callout-list">
