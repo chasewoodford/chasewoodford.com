@@ -23,7 +23,7 @@
             ?>
             <article class="grid-12">
                 <header>
-                    <a href="#" title="Download resume in PDF format"><img class="pdf-download-image right" alt="download resume in PDF format" src="../images/pdfDownload.png"></a>
+                    <a href="../resources/documents/resume.pdf" title="Download resume in PDF format"><img class="pdf-download-image right" alt="download resume in PDF format" src="../images/pdfDownload.png"></a>
                     <h3>
                         <span class="resume-title-bar">
                             designer/developer&nbsp;>
