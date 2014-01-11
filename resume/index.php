@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="/css/compiled/style.css">
 </head>
-<body id="top" class="about">
+<body id="top">
 <div class="wrapper">
     <div class="content-wrapper">
         <?php
