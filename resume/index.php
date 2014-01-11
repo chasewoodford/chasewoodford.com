@@ -100,6 +100,8 @@
                     </header>
                     <ul class="resume-callout-list">
                         <li>BA <a href="http://smc.temple.edu/advertising/" target="_blank">Advertising</a>, <a href="http://www.temple.edu/sociology/" target="_blank">sociology</a> minor, 2007</li>
+                        <li>Member, <a href="http://templestudentgovernment.org/" target="_blank">Temple Student Government</a></li>
+                        <li>Brother, <a href="http://templeato.airset.com/" target="_blank">Alpha Tau Omega Fraternity</a></li>
                     </ul>
                 </article>
                 <div class="clearfix"></div>
