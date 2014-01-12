@@ -1,8 +1,8 @@
 <section>
     <div class="clearfix image-main text-left">
         <div class="left side-corner-tag">
-            <a class="left screenshot" href="./digital/2012-golf-classic">
-                <img src="/images/screenshot-2012GolfClassic.png">
+            <a class="left screenshot" href="./digital/gary-ames.php">
+                <img src="/images/screenshot-garyAmes.png">
             </a>
             <p class="ribbon">
                 <span class="text-center">featured</span>
@@ -11,15 +11,15 @@
         <ul class="text-left table">
             <li class="table-row">
                 <div class="table-title">Client:</div>
-                <div class="table-data">Verilogue</div>
+                <div class="table-data">Gary Ames</div>
             </li>
             <li class="table-row">
                 <div class="table-title">Title:</div>
-                <div class="table-data">2012 Golf Classic</div>
+                <div class="table-data">garyames.net</div>
             </li>
             <li class="table-row">
                 <div class="table-title">Date:</div>
-                <div class="table-data">October 2012</div>
+                <div class="table-data">April 2013</div>
             </li>
             <li class="table-row">
                 <div class="table-title">Type:</div>
@@ -27,7 +27,7 @@
             </li>
             <li class="table-row">
                 <div class="table-title">Tags:</div>
-                <div class="table-data">HTML5, CSS3, JavaScript, Parallax Scrolling, Responsive Web Design, PayPal Integration, Custom Artwork</div>
+                <div class="table-data">HTML5, CSS3, Responsive Web Design, Composite</div>
             </li>
         </ul>
     </div>
