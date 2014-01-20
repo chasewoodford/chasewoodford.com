@@ -10,7 +10,7 @@
     <div id="calculator">
         <div class="top">
             <span class="clear">C</span>
-            <div id="input" class="screen">$foo: 10px;.selector {margin: $foo;}</div>
+            <textarea id="input" class="screen">$foo: 10px;.selector {margin: $foo;}</textarea>
         </div>
         <div class="keys">
             <span>7</span>
@@ -27,14 +27,11 @@
             <span class="operator">÷</span>
             <span>0</span>
             <span>.</span>
-            <span class="eval">=</span>
+            <span type="button" id="convert" class="eval">=</span>
             <span class="operator">x</span>
         </div>
     </div>
 
-  <p>
-    <button type="button" id="convert">Convert</button>
-  </p>
 
   <textarea id="output"></textarea>
 
