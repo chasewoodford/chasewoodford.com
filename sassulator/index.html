@@ -38,7 +38,7 @@
     <script src="dist/sass.worker.js"></script>
     <script>
         Sass.initialize('dist/worker.min.js');
-        Sass.options({ style:compressed });
+        Sass.options({ comments: false });
 
         var convert = document.getElementById('convert');
         var input = document.getElementById('input');
