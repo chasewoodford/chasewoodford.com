@@ -40,9 +40,9 @@
         Sass.initialize('dist/worker.min.js');
         Sass.options({
             // format output: nested, expanded, compact, compressed
-            style: Sass.style.compact,
+            style: Sass.style.compressed,
             // add line comments to output: none, default
-            comments: Sass.comments.default
+            comments: Sass.comments.none
         });
 
         var convert = document.getElementById('convert');
