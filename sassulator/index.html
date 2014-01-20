@@ -38,8 +38,7 @@
     <script src="dist/sass.worker.js"></script>
     <script>
         Sass.initialize('dist/worker.min.js');
-        Sass.writeFile('demo.scss', '.imported { content: "yeah, file support!"; }');
-        Sass.options({ comments: true });
+        Sass.options({ comments: false });
 
         var convert = document.getElementById('convert');
         var input = document.getElementById('input');
