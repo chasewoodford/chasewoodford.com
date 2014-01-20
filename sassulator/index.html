@@ -38,7 +38,12 @@
     <script src="dist/sass.worker.js"></script>
     <script>
         Sass.initialize('dist/worker.min.js');
-        Sass.options({ comments: false });
+        Sass.options({
+            // format output: nested, expanded, compact, compressed
+            style: Sass.style.compact,
+            // add line comments to output: none, default
+            comments: Sass.comments.none
+        });
 
         var convert = document.getElementById('convert');
         var input = document.getElementById('input');
