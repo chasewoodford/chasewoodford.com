@@ -11,7 +11,7 @@
         <link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
         <style>
             @import url(http://fonts.googleapis.com/css?family=Fjalla+One);
-            body { margin: 0; padding: 0; background: #33495f; }
+            body { margin: 0; padding: 0; background: #224472; }
 
             .wrapper { width: 150px; height: 150px; position: absolute; top: calc(50% - 75px); left: calc(50% - 75px); }
 
@@ -37,7 +37,7 @@
 
             .rain { position: absolute; bottom: 0px; left: 25px; }
             .rain ul { list-style: none; margin: 0; padding: 0px; }
-            .rain ul li { float: left; position: absolute; bottom: 50px; left: 50px; margin-left: 20px; background: #6ab9e9; height: 40px; width: 10px; border-radius: 360px; transform: rotate(35deg); opacity: 0; }
+            .rain ul li { float: left; position: absolute; bottom: 50px; left: 50px; margin-left: 20px; background: #eee; height: 40px; width: 10px; border-radius: 360px; transform: rotate(35deg); opacity: 0; }
             .rain ul li:first-child { animation: raini 5s 0s linear infinite; }
             .rain ul li:nth-child(2) { animation: rainii 5s 0.2s linear infinite; }
             .rain ul li:last-child { animation: rainiii 5s 0.4s linear infinite; }
@@ -51,14 +51,14 @@
 
             .snow { position: absolute; bottom: 0px; left: 25px; }
             .snow ul { list-style: none; margin: 0; padding: 0px; }
-            .snow ul li { float: left; position: absolute; bottom: 50px; left: 50px; margin-left: 20px; background: salmon; height: 40px; width: 10px; border-radius: 360px; transform: rotate(35deg); opacity: 0; }
+            .snow ul li { float: left; position: absolute; bottom: 50px; left: 50px; margin-left: 20px; background: #F29B32; height: 40px; width: 10px; border-radius: 360px; transform: rotate(35deg); opacity: 0; }
             .snow ul li:first-child { animation: raini 5s 2s linear infinite; }
             .snow ul li:nth-child(2) { animation: rainii 5s 2.2s linear infinite; }
             .snow ul li:last-child { animation: rainiii 5s 2.4s linear infinite; }
 
             .text { position: relative; padding: 50px 0 10px 0; }
             .text ul { list-style: none; margin: 0; padding: 0; }
-            .text ul li { color: salmon; font-family: 'Fjalla One', sans-serif; font-weight: 800; font-size: 50px; text-align: center; }
+            .text ul li { color: #F29B32; font-family: 'Fjalla One', sans-serif; font-weight: 800; font-size: 50px; text-align: center; }
 
             @keyframes raini { 0%, 52% { opacity: 0; bottom: 100px; left: 60px; }
                 63% { opacity: 1; bottom: 15px; left: 50px; }
@@ -85,14 +85,6 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
     </head>
 <body>
-    <div class="cloud1 c_shadow">
-        <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-    </div>
     <div class="wrapper">
         <div class="cloud">
             <div class="cloud1">
