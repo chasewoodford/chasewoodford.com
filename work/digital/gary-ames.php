@@ -27,12 +27,12 @@
                     <span class="portfolio-category">
                         portfolio > digital
                     </span>
-                    <a class="title-bar" href="http://garyames.chasewoodford.com" title="see a demo" target="_blank">garyames.net</a>
+                    <a class="title-bar" href="http://www.garyames.net" title="see it live" target="_blank">garyames.net</a>
                     </h3>
                 </header>
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
-                        <a class="left screenshot" href="http://garyames.chasewoodford.com" title="see a demo" target="_blank">
+                        <a class="left screenshot" href="http://www.garyames.net" title="see it live" target="_blank">
                             <img class="main" src="/images/screenshot-garyAmes.png" alt="garyames.net">
                         </a>
                         <ul class="text-left table">
@@ -59,7 +59,7 @@
                             <li class="table-row">
                                 <div class="table-title"></div>
                                 <div class="table-data">
-                                    <a href="http://garyames.chasewoodford.com" title="see a demo" target="_blank"><i class="icon-globe" aria-hidde="true"></i>&nbsp;<span>see a demo&raquo;</span></a>
+                                    <a href="http://www.garyames.net" title="see it live" target="_blank"><i class="icon-globe" aria-hidde="true"></i>&nbsp;<span>see it live&raquo;</span></a>
                                 </div>
                             </li>
                         </ul>
