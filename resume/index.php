@@ -2,8 +2,9 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Chase Woodford">
+    <meta name="description" content="View the online resume of Chase Woodford, including links to the projects he's worked on and a downloadable PDF version of his resume." />
 
     <title>Chase Woodford &#124; Resume</title>
 

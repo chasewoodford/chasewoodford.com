@@ -2,8 +2,9 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Chase Woodford">
+    <meta name="description" content="Hi! I'm Chase, a web designer/developer living in the suburbs of Philadelphia, PA, USA. I work at Verilogue, a medical marketing research company, as part of a three man rock star development team. We build web sites and applications that bring the healthcare industry together to share information and enhance disease understanding. I enjoy writing about web design, and throughout this site share my experience as a developer working for a small business at the intersection of Big Data and Big Pharma." />
 
     <title>Chase Woodford &#124; About</title>
 

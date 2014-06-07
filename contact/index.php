@@ -2,8 +2,9 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Chase Woodford">
     <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Chase Woodford">
+    <meta name="description" content="Contact Chase Woodford using the contact form on this page. He loves to talk shop!" />
 
     <title>Chase Woodford &#124; Contact</title>
 
