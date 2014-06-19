@@ -2,17 +2,17 @@
     <p class="lead"></p>
     <div class="preview">
         <a href="/work/digital/gary-ames.php" data-pubdate="201304">
-            <img src="/images/screenshot-garyAmes.png" title="garyames.net" width="200" height="100">
+            <img src="/images/screenshot-garyAmes.gif" title="garyames.net" width="200" height="100">
         </a>
     </div>
     <div class="preview">
         <a href="/work/digital/dara-warren.php" data-pubdate="201304">
-            <img src="/images/screenshot-daraWarren.png" title="darawarren.com" width="200" height="100">
+            <img src="/images/screenshot-daraWarren.gif" title="darawarren.com" width="200" height="100">
         </a>
     </div>
     <div class="preview" data-pubdate="201210">
         <a href="/work/digital/2012-golf-classic.php">
-            <img src="/images/screenshot-2012GolfClassic.png" title="Verilogue 2012 Golf Classic website" width="200" height="100">
+            <img src="/images/screenshot-2012GolfClassic.gif" title="Verilogue 2012 Golf Classic website" width="200" height="100">
         </a>
     </div>
     <div class="preview">

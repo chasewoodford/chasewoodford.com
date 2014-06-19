@@ -33,7 +33,7 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
                         <a class="left screenshot" href="http://www.garyames.net" title="see it live" target="_blank">
-                            <img class="main" src="/images/screenshot-garyAmes.png" alt="garyames.net">
+                            <img class="main" src="/images/screenshot-garyAmes.gif" alt="garyames.net">
                         </a>
                         <ul class="text-left table">
                             <li class="table-row">

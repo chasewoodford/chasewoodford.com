@@ -33,7 +33,7 @@
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
                         <a class="left screenshot" href="http://www.verilogue.com/golf/2012golfclassic/index.html" title="see it live" target="_blank">
-                            <img class="main" src="/images/screenshot-2012GolfClassic.png" alt="Verilogue 2012 Golf Classic website">
+                            <img class="main" src="/images/screenshot-2012GolfClassic.gif" alt="Verilogue 2012 Golf Classic website">
                         </a>
                         <ul class="text-left table">
                             <li class="table-row">
