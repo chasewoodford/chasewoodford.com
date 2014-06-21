@@ -103,7 +103,7 @@
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-garyAmesNet-002.png" alt="Menu highlight"/>
-                        The menu navigation boldly displays each chapter's name and on hover reveals the chapter's number with a smooth <code class=" language-css">transition</code> created by a combination of <code class=" language-css">border</code> and <code class=" language-css">:before</code> pseudo-element manipulation. The About and Contact list elements feature scalable vector icons from the Font Awesome toolkit. The menu is positioned to always be visible on the top-left corner of the screen for devices with larger displays and designed to be accessible only when needed on smaller screen displays, to help maintain the site's content hierarchy across all devices.
+                        The menu navigation boldly displays each chapter's name and on hover reveals the chapter's number with a smooth transition created by a combination of <code class="language-css">border</code> and <code class="language-css">&#58;before</code> pseudo-element manipulation. The About and Contact list elements feature scalable vector icons from the <a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> toolkit. The menu is positioned to always be visible on the top-left corner of the screen for devices with larger displays and designed to be accessible only when needed on smaller screen displays, to help maintain the site's content hierarchy across all devices. On smaller screen devices, clicking on the Menu hyperlink slides the menu navigation in from the left where it's hidden off-screen until needed.
                     </p>
                     <br/>
                     <p class="lead">
@@ -111,10 +111,13 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-garyAmesNet-003.png" alt="Chapter header highlight"/>
-                        On every page the first text seen is the chapter number. It, too, is bold in display, and uses a couple dozen layers of <code class=" language-css">text-shadow</code> to achieve the 3-D look.
+                        On every page the first text seen is the chapter number. It, too, is bold in display, and uses a couple dozen layers of <code class=" language-css">text-shadow</code> to achieve the 3-D look. These are not images, but fully accessible text.
                     </p>
                     <p>
-                        In WordPress, the chapter number is maintained through a custom field specified for each post. For the category pages, because each chapter will contain only posts associated with one chapter, to get the chapter number to display on the top of the page we wrote a simple query that finds the first post's custom field (the chapter number) and injects it into the top of the page. In addition to this query, there was a bunch of other logic required to make sure that category descriptions, post descriptions and all the other metadata displayed correctly, making this page's code quite interesting&mdash;<a href="https://github.com/chasewoodford/garyames.net/blob/master/wp-content/themes/starkers-master/category.php" target="_blank">see more on GitHub<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>.
+                        In WordPress, the chapter number is maintained through a custom field specified for each post. For the category pages, because each chapter will contain only posts associated with one chapter, to get the chapter number to display on the top of the page we wrote a simple query that finds the first post's custom field (the chapter number) and injects it into the top of the page.
+                    </p>
+                    <p>
+                        In addition to this query, there was a bunch of other logic required to make sure that category descriptions, post descriptions and all the other metadata displayed correctly, making this site's code&mdash;the parts written in PHP&mdash;quite interesting. <a href="https://github.com/chasewoodford/garyames.net/blob/master/wp-content/themes/starkers-master/category.php" target="_blank">See more on GitHub<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>.
                     </p>
                     <br/>
                     <p>
