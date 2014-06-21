@@ -66,6 +66,10 @@ img, video, iframe {
       margin: $space/2 0 $space $space;
     }
   }
+  &.no-decoration {
+    border: none;
+    @include box-shadow(none);
+  }
 }
 
 .logo {

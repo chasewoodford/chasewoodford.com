@@ -88,7 +88,7 @@
                         { content strategy }
                     </p>
                     <p>
-                        <img class="right highlight" src="../../images/highlight-garyAmesNet-001.png" alt="Responsive design highlight"/>
+                        <img class="right highlight no-decoration" src="../../images/highlight-garyAmesNet-001.png" alt="Responsive design highlight"/>
                         Gary's personal site has and continues to be structured in the form of a book. Each chapter focuses on one part of executing a successful job search and contains several lessons, or posts, with each lesson building on top of the knowledge gained from prior lessons.
                     </p>
                     <p>
