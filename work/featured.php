@@ -27,12 +27,12 @@
             </li>
             <li class="table-row">
                 <div class="table-title">Tags:</div>
-                <div class="table-data">HTML5, CSS3, Responsive Web Design, Composite</div>
+                <div class="table-data">HTML5, CSS3, Responsive Web Design, WordPress, Web Hosting</div>
             </li>
         </ul>
     </div>
     <p>
-        Lorem ipsum...
+        Gary Ames is currently Executive Director of Behavior Analysis & Therapy, a psychological consulting firm in Bala Cynwyd, PA, USA, but in the past 30 years he has done everything from teaching to executive coaching. He has accumulated a lot of knowledge in that time. Though he no longer practices executive coaching as a profession, he does like sharing his previously acquired knowledge with acquaintances, and does this by directing them to his personal website...
         <br/><a class="continue-reading" href="./digital/gary-ames">continue reading &#187;</a>
     </p>
 </section>
