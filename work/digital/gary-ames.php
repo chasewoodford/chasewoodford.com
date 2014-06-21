@@ -99,7 +99,7 @@
                     </p>
                     <br/>
                     <p class="lead">
-                        { navigation menu }
+                        { menu navigation }
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-garyAmesNet-002.png" alt="Menu highlight"/>
