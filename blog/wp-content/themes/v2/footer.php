@@ -16,8 +16,4 @@
 <script async src="/javascript/common.js"></script>
 <script async src="/javascript/prism.js"></script>
 <script async src="/javascript/contact_form.js"></script>
-<script async src="/javascript/wow.min.js"></script>
-<script>
-    new WOW().init();
-</script>
 </html>
