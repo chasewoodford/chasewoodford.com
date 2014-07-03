@@ -11,6 +11,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="http://www.chasewoodford.com/favicon.ico">
 
     <link rel="stylesheet" href="/css/compiled/style.css">
+    <link rel="stylesheet" href="/css/compiled/animate.css">
 </head>
 <body id="top" class="work">
 <div class="wrapper">
@@ -44,6 +45,12 @@
         </div>
     </div>
 </div>
+
+<script async src="/javascript/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 <?php
 include ('../blog/wp-content/themes/v2/footer.php');
 ?>
