@@ -36,4 +36,10 @@
         </a>
     </div>
 </section>
+
+<script async src="/javascript/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 <div class="clearfix"></div>
