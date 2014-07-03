@@ -31,11 +31,6 @@
         </a>
     </div>
     <div class="preview">
-        <a href="/work/digital/verilogue-point-of-practice-newsletter-archive.php" data-pubdate="201012">
-            <img src="/images/screenshot-popArchive.png" title="Verilogue Point-of-Practice newsletter archive" width="200" height="100">
-        </a>
-    </div>
-    <div class="preview">
         <a href="/work/multimedia/verilogue-2010-holiday-card.php" data-pubdate="201011">
             <img src="/images/screenshot-2010HolidayCard.png" title="Verilogue 2010 holiday card" width="200" height="100">
         </a>
