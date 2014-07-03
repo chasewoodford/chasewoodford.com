@@ -35,11 +35,5 @@
             <img src="/images/screenshot-2010HolidayCard.png" title="Verilogue 2010 holiday card" width="200" height="100">
         </a>
     </div>
-
-    <script async src="/javascript/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-
 </section>
 <div class="clearfix"></div>

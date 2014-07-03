@@ -46,6 +46,11 @@
     </div>
 </div>
 
+<script async src="/javascript/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 <?php
 include ('../blog/wp-content/themes/v2/footer.php');
 ?>
