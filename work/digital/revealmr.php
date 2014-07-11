@@ -95,6 +95,7 @@
                         { responsive design }
                     </p>
                     <p>
+                        <img class="right highlight no-decoration" src="../../images/highlight-revealmr-002.png" alt="Responsive design highlight"/>
                         It is important that the site functions fully not only on desktops, but also on smaller mobile devices, like tablets. The challenge you run into when building such a capable web application, as opposed to a single-page website, is in the integration of all the different components and plugins. When building a web application, responsive design requires attention to more than just fluid layouts, media queries and smart asset loading&mdash;there's more performance considerations, more DOM loading and manipulation considerations, more user experience considerations, more accessibility considerations. Reveal features a design where everything&mdash;from the icons and text loaded on the user's dashboard to the context menus displayed when the user interacts with a document&mdash;is designed with the goal of achieving the best user experience possible, regardless of the device being used.
                     </p>
                     <br/>
