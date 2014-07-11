@@ -27,7 +27,7 @@
                     <span class="portfolio-category">
                         portfolio > digital
                     </span>
-                    <a class="title-bar" href="https://www.revealmr.com" title="see it live" target="_blank">RevealMR</a>
+                    <a class="title-bar" href="https://www.revealmr.com" title="see it live" target="_blank">Reveal<sup>MR</sup></a>
                     </h3>
                 </header>
                 <section>
@@ -69,7 +69,7 @@
                         { overview }
                     </p>
                     <p>
-                        From Verilogue's website, <a href="http://verilogue.com/technology/revealmr" target="_blank">"RevealMR is a cloud-based solution that maximizes your organization’s efficiency by revolutionizing the way you store, share, and mine volumes of research data."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> RevealMR dates back to 2008 and has undergone constant refinement since then <a href="/images/highlight-revealmr-001.png">(here's an example of what one of the earliest versions of the platform looked like)</a>. In its current state, it leverages state-of-the-art technologies, coupled with modern web design, providing an unparalleled turnkey platform for data analysis. It's a critical tool for dozens of pharmaceutical companies, advertising agencies and other healthcare professionals, featuring not only incredibly powerful search capabilities, but also features like multimedia clip creation, word cloud creation, multimedia transcription and time-alignment, document tagging, multi-language support, data socialization&mdash;the list of features goes on and on. Building a web application as powerful as RevealMR is no easy feat, and neither is designing all of its complex features and functionality in an intuitive and intelligent way.
+                        From Verilogue's website, <a href="http://verilogue.com/technology/revealmr" target="_blank">"Reveal<sup>MR</sup> is a cloud-based solution that maximizes your organization’s efficiency by revolutionizing the way you store, share, and mine volumes of research data."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> Reveal<sup>MR</sup> dates back to 2008 and has undergone constant refinement since then <a href="/images/highlight-revealmr-001.png">(here's an example of what one of the earliest versions of the platform looked like)</a>. In its current state, it leverages state-of-the-art technologies, coupled with modern web design, providing an unparalleled turnkey platform for data analysis. It's a critical tool for dozens of pharmaceutical companies, advertising agencies and other healthcare professionals, featuring not only incredibly powerful search capabilities, but also features like multimedia clip creation, word cloud creation, multimedia transcription and time-alignment, document tagging, multi-language support, data socialization&mdash;the list of features goes on and on. Building a web application as powerful as Reveal<sup>MR</sup> is no easy feat, and neither is designing all of its complex features and functionality in an intuitive and intelligent way.
                     </p>
                     <p class="lead">
                         { bootstrap, sass, jQuery }
@@ -93,12 +93,14 @@
                     <p>
                         One of the biggest challenges of working on this project is acquiring a solid understanding of all the technology used to build the platform. But this continues to be one of the biggest rewards of the project, too&mdash;having the freedom to test out the newest plugins and frameworks, the experience of integrating them with such a large web application and the reward of seeing enhanced performance and user experiences.
                     </p>
+                    <br/>
                     <p class="lead">
                         { responsive design }
                     </p>
                     <p>
                         It is important that the site functions fully not only on desktops, but also on smaller mobile devices, like tablets. The challenge you run into when building such a capable web application, as opposed to a single-page website, is in the integration of all the different components and plugins. When building a web application, responsive design requires attention to more than just fluid layouts, media queries and smart asset loading&mdash;there's more performance considerations, more DOM loading and manipulation considerations, more user experience considerations, more accessibility considerations. Reveal features a design where everything&mdash;from the icons and text loaded on the user's dashboard to the context menus displayed when the user interacts with a document&mdash;is designed with the goal of achieving the best user experience possible, regardless of the device being used.
                     </p>
+                    <br/>
                     <p class="lead">
                         { progressive enhancement }
                     </p>
@@ -111,6 +113,7 @@
                     <p>
                         Unfortunately, the majority of our users&mdash;which reside in the world of big pharma&mdash;are not using modern browsers. Nor are they able to upgrade very easily due to company policies. The challenge in building a platform that features state-of-the-art technology purchased by users limited to running the platform on significantly outdated technology is obvious. The good news is that Reveal has been designed with this issue in mind and uses progressive enhancement to provide each user with the best experience possible.
                     </p>
+                    <br/>
                     <p class="lead">
                         { icons }
                     </p>
@@ -126,6 +129,7 @@
                     <p>
                         Similar to file type icons, we also display flag icons throughout the site, which indicate the language/country documents are associated with. Like our file type icons, there are dozens of different flag icons. But unlike the file type icons, where we created image sprites to decrease the number of image requests made on each page, we opted to use SVG images for the flag icons because having the image re-sizing flexibility was more important than limiting HTTP requests. Beyond that, even in the short time between when we added file type icons and flag icons, which was maybe a year, image spriting fell out of favor as the standard practice due to the rise of retina displays and the various sized devices that required more flexible images&mdash;a requirement met most efficiently with SVG images.
                     </p>
+                    <br/>
                     <p class="lead">
                         { just-in-time education }
                     </p>
@@ -144,18 +148,21 @@
                     <p>
                         As opposed to doing a full features tour, where the entire system's features are explained at once, we display only the instructions needed to complete micro-tasks when the user is most likely to need them. Likewise, breaking the introduction of new features up in this way allows us to only display the instructions relevant to users who have access to them. (Not all Reveal users get access to all new features.)
                     </p>
+                    <br/>
                     <p class="lead">
                         { theming }
                     </p>
                     <p>
 
                     </p>
+                    <br/>
                     <p class="lead">
                         { document detail page }
                     </p>
                     <p>
 
                     </p>
+                    <br/>
                     <p class="lead">
                         { search }
                     </p>
