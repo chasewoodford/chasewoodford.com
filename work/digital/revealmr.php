@@ -106,6 +106,7 @@
                         In addition to responsive design, Reveal was designed using the principle of progressive enhancement, or with a baseline of usable functionality and increased richness of the user experience as support allows. The platform's baseline is Internet Explorer 8 running on a wireless broadband Internet connection.
                     </p>
                     <p>
+                        <img class="left highlight" src="../../images/highlight-revealmr-003.png" alt="Progressive enhancement highlight"/>
                         The platform functions properly on older browsers with slower connection speeds. But in comparison to the experience on modern browsers with better connection speeds, the user is really missing out. They miss out on all the modern CSS enhancements&mdash;things like subtle shading, rounded corners and animations that are the small touches that really add to the modern, fast, powerful feeling of the platform. Core functionality, like advanced searching, is available to them, but they miss out on things like being able to generate word clouds from their data because the plugin used to generate word clouds uses technology not support by their browser. Likewise, other features and displays, taking into consideration potential performance issues, are limited by fault-tolerant design.
                     </p>
                     <p>
@@ -125,6 +126,7 @@
                         Wherever document titles are found on the platform&mdash;on the user's dashboard, search results, on the document details page itself&mdash;we compliment the text and metadata with file type icons to help users quickly recognize what type of multimedia they're working with. For each file type supported by Reveal, there is an icon. There are dozens of these icons. So instead of loading each image individual (talk about a lot of HTTP requests!), we created two image sprites&mdash;one for small icons (32px), one for large icons (64px)&mdash;and use CSS to define the <code>background-image</code>, or file type icon, that should appear.
                     </p>
                     <p>
+                        <img class="right highlight" src="../../images/highlight-revealmr-004.png" alt="Icons"/>
                         Similar to file type icons, we also display flag icons throughout the site, which indicate the language/country documents are associated with. Like our file type icons, there are dozens of different flag icons. But unlike the file type icons, where we created image sprites to decrease the number of image requests made on each page, we opted to use SVG images for the flag icons because having the image re-sizing flexibility was more important than limiting HTTP requests. Beyond that, even in the short time between when we added file type icons and flag icons, which was maybe a year, image spriting fell out of favor as the standard practice due to the rise of retina displays and the various sized devices that required more flexible images&mdash;a requirement met most efficiently with SVG images.
                     </p>
                     <br/>
@@ -138,6 +140,7 @@
                         We decided to use just-in-time education, as opposed to feature tours, because research shows that <a href="http://www.lukew.com/ff/entry.asp?1786" target="_blank">"most people (sometimes over 90%) skip over intro tours as quickly as possible and those that don’t rarely remember what they were supposed to learn."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> Using just-in-time education provides us the opportunity to demonstrate how to use new features of the platform just before a user is most likely to need them.
                     </p>
                     <p>
+                        <img class="left highlight" src="../../images/highlight-revealmr-005.png" alt="Just-in-time education"/>
                         A good example of this is when we introduced a new form of search functionality&mdash;what we call Tag Search. The Tag Search feature is kind of tucked away on a tab on the main search page. We mark the new feature with a beta badge to hopefully peak users' interest. Then, when a user clicks on the tab for the first time, they are walked through using the new feature.
                     </p>
                     <p>
@@ -151,14 +154,10 @@
                         { theming }
                     </p>
                     <p>
-
-                    </p>
-                    <br/>
-                    <p class="lead">
-                        { document detail page }
+                        <img class="right highlight" src="../../images/highlight-revealmr-006.png" alt="Theming overview"/>
                     </p>
                     <p>
-
+                        <img class="left highlight" src="../../images/highlight-revealmr-007.png" alt="Theming detail"/>
                     </p>
                     <br/>
                     <p class="lead">
