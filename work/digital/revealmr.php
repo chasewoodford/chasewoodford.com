@@ -80,7 +80,7 @@
                     <p>
                         Behind these three main components, we also use:
                     </p>
-                    <ul>
+                    <ul class="callout-list">
                         <li><a href="http://compass-style.org/">Compass<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for more efficient Sass writing</li>
                         <li><a href="https://github.com/stanlemon/jGrowl">jGrowl<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for notifications</li>
                         <li><a href="http://www.datatables.net/">DataTables<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for advanced table displays and interaction</li>
