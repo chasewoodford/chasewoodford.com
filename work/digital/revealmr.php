@@ -78,14 +78,14 @@
                         Reveal's front-end is built on the <a href="http://getbootstrap.com/2.3.2/">Bootstrap<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> framework. All CSS is written in <a href="http://sass-lang.com/">Sass<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>. The platform also relies heavily on the <a href="http://jquery.com/">jQuery<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> JavaScript library. Behind these three main components, we also use:
                     </p>
                     <ul class="callout-list">
-                        <li><a href="http://compass-style.org/">Compass<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for more efficient Sass writing</li>
-                        <li><a href="https://github.com/stanlemon/jGrowl">jGrowl<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for notifications</li>
-                        <li><a href="http://www.datatables.net/">DataTables<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for advanced table displays and interaction</li>
-                        <li><a href="http://heelhook.github.io/chardin.js/">Chardin<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for "just-in-time" education</li>
-                        <li><a href="http://harvesthq.github.io/chosen/">Chosen<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for advanced form control</li>
-                        <li><a href="http://d3js.org/">D3<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for enhanced data visualizations</li>
-                        <li><a href="http://flexpaper.devaldi.com/">FlexPaper<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for rich and interactive document displays</li>
-                        <li><a href="http://www.jwplayer.com/">JW Player<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for consistent cross-device media displays
+                        <li><a href="http://compass-style.org/" target="_blank">Compass<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for more efficient Sass writing</li>
+                        <li><a href="https://github.com/stanlemon/jGrowl" target="_blank">jGrowl<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for notifications</li>
+                        <li><a href="http://www.datatables.net/" target="_blank">DataTables<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for advanced table displays and interaction</li>
+                        <li><a href="http://heelhook.github.io/chardin.js/" target="_blank">Chardin<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for "just-in-time" education</li>
+                        <li><a href="http://harvesthq.github.io/chosen/" target="_blank">Chosen<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for advanced form control</li>
+                        <li><a href="http://d3js.org/" target="_blank">D3<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for enhanced data visualizations</li>
+                        <li><a href="http://flexpaper.devaldi.com/" target="_blank">FlexPaper<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for rich and interactive document displays</li>
+                        <li><a href="http://www.jwplayer.com/" target="_blank">JW Player<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for consistent cross-device media displays
                     </ul>
                     <p>
                         One of the biggest challenges of working on this project is acquiring a solid understanding of all the technology used to build the platform. But this continues to be one of the biggest rewards of the project, too&mdash;having the freedom to test out the newest plugins and frameworks, the experience of integrating them with such a large web application and the reward of seeing enhanced performance and user experiences.
