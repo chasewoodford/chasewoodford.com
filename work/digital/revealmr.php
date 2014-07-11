@@ -140,10 +140,10 @@
                         We decided to use just-in-time education, as opposed to feature tours, because research shows that <a href="http://www.lukew.com/ff/entry.asp?1786" target="_blank">"most people (sometimes over 90%) skip over intro tours as quickly as possible and those that don’t rarely remember what they were supposed to learn."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> Using just-in-time education provides us the opportunity to demonstrate how to use new features of the platform just before a user is most likely to need them.
                     </p>
                     <p>
-                        <img class="left highlight" src="../../images/highlight-revealmr-005.png" alt="Just-in-time education"/>
                         A good example of this is when we introduced a new form of search functionality&mdash;what we call Tag Search. The Tag Search feature is kind of tucked away on a tab on the main search page. We mark the new feature with a beta badge to hopefully peak users' interest. Then, when a user clicks on the tab for the first time, they are walked through using the new feature.
                     </p>
                     <p>
+                        <img class="left highlight" src="../../images/highlight-revealmr-005.png" alt="Just-in-time education"/>
                         Our just-in-time education is powered by Chardin.js, which allows us to overlay instructions on how to use the new search feature when the user clicks or hovers over different sections of the page.
                     </p>
                     <p>
