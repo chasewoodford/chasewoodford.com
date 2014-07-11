@@ -144,9 +144,6 @@
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-revealmr-005.png" alt="Just-in-time education"/>
-                        Our just-in-time education is powered by Chardin.js, which allows us to overlay instructions on how to use the new search feature when the user clicks or hovers over different sections of the page.
-                    </p>
-                    <p>
                         As opposed to doing a full features tour, where the entire system's features are explained at once, we display only the instructions needed to complete micro-tasks when the user is most likely to need them. Likewise, breaking the introduction of new features up in this way allows us to only display the instructions relevant to users who have access to them. (Not all Reveal users get access to all new features.)
                     </p>
                     <br/>
