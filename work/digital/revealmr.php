@@ -153,20 +153,18 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-revealmr-006.png" alt="Theming overview"/>
+                        One of the other nice features of Reveal<sup>MR</sup> is that when a client purchases the platform we brand it in their likeness. And when I say brand it for them, we do more than just throw the client's logo on the site. (Note, all the screenshots on this page feature the Reveal<sup>MR</sup> logo in the header, but on a production site the client's logo typically fills this space.)
                     </p>
                     <p>
+                        Theming is database driven. For each client we set four attributes for a configuration service: a primary color, a secondary color, a tertiary color and a logo. From there, we pass these variables to a Java Server Page that contains a <code>style</code> tag. The theming JSP is then loaded into the web application after the base CSS, allowing the rules containing client-specific styles to override base styles.
+                    </p>
+                    <p>
+                        Beyond loading a client's logo, a client's theme will also customize the gradients throughout the site, including backgrounds and buttons, as well as hyperlink colors, text colors, selection colors, table row coloring, form controls, like dropdown menus and focus states on inputs, icons and progress bars.
                         <img class="left highlight" src="../../images/highlight-revealmr-007.png" alt="Theming detail"/>
                     </p>
                     <br/>
-                    <p class="lead">
-                        { search }
-                    </p>
                     <p>
-
-                    </p>
-                    <br/>
-                    <p>
-                        To learn more about how this site was designed and developed, <a href="/contact">contact me</a>.
+                        To learn more about how this web app was designed and developed, <a href="/contact">contact me</a>.
                     </p>
                 </section>
                 <div class="clearfix"></div>
