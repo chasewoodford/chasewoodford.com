@@ -8,291 +8,380 @@
 
     <url>
         <loc>http://www.chasewoodford.com/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/resume/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/web-design/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.chasewoodford.com/blog/getting-started-with-sass/</loc>
-        <changefreq>weekly</changefreq>
+        <loc>http://www.chasewoodford.com/blog/logical-wordpress-previousnext-post-links/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/feed/?cat=-10</loc>
-        <lastmod>2013-08-12T00:02:47+00:00</lastmod>
-        <changefreq>weekly</changefreq>
+        <lastmod>2014-06-08T02:41:17+00:00</lastmod>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.chasewoodford.com/blog/tag/mixin/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/css/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/d-r-y/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/rwd/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/sass/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/rants-and-raves/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/on-being-a-designerdeveloper-reason-1/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/coding-designers/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/java/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/spring-mvc/</loc>
-        <changefreq>weekly</changefreq>
+        <loc>http://www.chasewoodford.com/resources/documents/resume.pdf</loc>
+        <lastmod>2014-01-11T23:21:59+00:00</lastmod>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/recently-consumed/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.chasewoodford.com/blog/magna-carta-holy-grail/</loc>
-        <changefreq>weekly</changefreq>
+        <loc>http://www.chasewoodford.com/blog/steve-jobs/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.chasewoodford.com/blog/yeezus/</loc>
-        <changefreq>weekly</changefreq>
+        <loc>http://www.chasewoodford.com/blog/matangi/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.chasewoodford.com/blog/multimedia-editing-2/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/five-ffmpeg-commands-everyone-should-know/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/audio-editing/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/batch-scripting/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/command-line/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/ffmpeg/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/video-editing/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/the-end-of-eternity/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/i-luddite/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/design/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/workflow/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/learning-github-passively/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/github/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/javascript/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/version-control/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/mr-penumbras-24-hour-bookstore/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/reality-is-broken/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/america/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/once-upon-another-time/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/conditionals/</loc>
-        <changefreq>weekly</changefreq>
+        <loc>http://www.chasewoodford.com/blog/tag/coding-designers/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/tag/conditionals/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/php/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/wordpress/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/rants-and-raves/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/pattern-matching-using-globbing/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/batch-scripting/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/command-line/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/ffmpeg/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/sass/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/jony-ive-genius-behind-apples-greatest-products/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/super-simple-sass-directive/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/for/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/css/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/directives/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/github/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/grids/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/scalable-modular-architecture-css/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/halcyon-days/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/consider-phlebas/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/writing-sql-statements-using-excel-concatenate-function/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/excel/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/tag/hacks/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/sql/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/getting-started-with-sass/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/mixin/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/d-r-y/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/rwd/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/the-player-of-games/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/on-being-a-designerdeveloper-reason-1/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/java/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/spring-mvc/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/magna-carta-holy-grail/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/yeezus/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/multimedia-editing-2/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/five-ffmpeg-commands-everyone-should-know/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/audio-editing/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/video-editing/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/the-end-of-eternity/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/i-luddite/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/design/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/workflow/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/learning-github-passively/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/javascript/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/version-control/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/mr-penumbras-24-hour-bookstore/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/reality-is-broken/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/america/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/once-upon-another-time/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/conditionals/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/tag/ie/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/tag/progressive-enhancement/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/of-sapir-whorf-and-css-font-size/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/tag/font-size/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/tag/html/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/tag/mobile/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/empty-text-nodes-and-why-they-suck/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/cross-browser/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/testing/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/a-note-on-standards/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/tag/standards/</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.chasewoodford.com/blog/the-creative-process/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/poetry/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/cross-browser/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/web-design/page/2/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/logical-wordpress-previousnext-post-links/?replytocom=14916</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/recently-consumed/page/2/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.chasewoodford.com/blog/five-ffmpeg-commands-everyone-should-know/?replytocom=336</loc>
-        <changefreq>weekly</changefreq>
+        <loc>http://www.chasewoodford.com/blog/recently-consumed/page/3/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/a-note-on-standards/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/standards/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/writing-sql-statements-using-excel-concatenate-function/?replytocom=4378</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/empty-text-nodes-and-why-they-suck/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/tag/testing/</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chasewoodford.com/blog/the-creative-process/</loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/i-luddite/?replytocom=333</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/learning-github-passively/?replytocom=25</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/i-notice-you-more/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/shes-my-shot-of-liquor/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/let-love-in/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/lets-play-assailant/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/what-is-with-today-today/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/poetry/page/2/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/poetry/page/3/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/so-is-art-ignorance-see/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/for-coming/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/what-to-a-cat-is-a-lap-but-a-stage-grave/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/eulogy-for-yukon-cornelious/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/the-advertiser-tells/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/i-took-you-once/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://www.chasewoodford.com/blog/reading-like-a-novella-in-the-furrows/</loc>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
 </urlset>
