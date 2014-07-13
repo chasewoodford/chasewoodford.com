@@ -50,7 +50,7 @@
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Type:</div>
-                                <div class="table-data">Website</div>
+                                <div class="table-data">Java Application</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>

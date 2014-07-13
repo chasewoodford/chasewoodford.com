@@ -11,11 +11,11 @@
         <ul class="text-left table">
             <li class="table-row">
                 <div class="table-title">Client:</div>
-                <div class="table-data">Gary Ames</div>
+                <div class="table-data">Verilogue</div>
             </li>
             <li class="table-row">
                 <div class="table-title">Title:</div>
-                <div class="table-data">garyames.net</div>
+                <div class="table-data">revealmr.com</div>
             </li>
             <li class="table-row">
                 <div class="table-title">Date:</div>
@@ -23,16 +23,16 @@
             </li>
             <li class="table-row">
                 <div class="table-title">Type:</div>
-                <div class="table-data">Website</div>
+                <div class="table-data">Java Application</div>
             </li>
             <li class="table-row">
                 <div class="table-title">Tags:</div>
-                <div class="table-data">HTML5, CSS3, Responsive Web Design, WordPress, Web Hosting</div>
+                <div class="table-data">html5, css3, responsive web design, progressive enhancement, cross-browser compatibility, icons, java</div>
             </li>
         </ul>
     </div>
     <p>
-        Gary Ames is currently Executive Director of Behavior Analysis & Therapy, a psychological consulting firm in Bala Cynwyd, PA, USA, but in the past 30 years he has done everything from teaching to executive coaching. He has accumulated a lot of knowledge in that time. Though he no longer practices executive coaching as a profession, he does like sharing his previously acquired knowledge with acquaintances, and does this by directing them to his personal website...
-        <br/><a class="continue-reading" href="./digital/gary-ames">continue reading &#187;</a>
+        From Verilogue's website, <a href="http://verilogue.com/technology/revealmr" target="_blank">"Reveal<sup>MR</sup> is a cloud-based solution that maximizes your organization’s efficiency by revolutionizing the way you store, share, and mine volumes of research data."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> Reveal<sup>MR</sup> dates back to 2008 and has undergone constant refinement since then. (<a href="/images/highlight-revealmr-001.png">Here's an example of what one of the earliest versions of the platform looked like</a>.) In its current state, it leverages state-of-the-art technologies, coupled with modern web design, providing an unparalleled turnkey platform for data analysis...
+        <br/><a class="continue-reading" href="./digital/revealmr.php">continue reading &#187;</a>
     </p>
 </section>
