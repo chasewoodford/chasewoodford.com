@@ -2,7 +2,7 @@
     <div class="clearfix image-main text-left">
         <div class="left side-corner-tag">
             <a class="left screenshot" href="./digital/gary-ames.php">
-                <img src="/images/screenshot-garyAmes.gif">
+                <img src="/images/screenshot-revealmr.gif">
             </a>
             <p class="ribbon">
                 <span class="text-center">featured</span>
