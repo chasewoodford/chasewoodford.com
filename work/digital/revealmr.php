@@ -54,7 +54,7 @@
                             </li>
                             <li class="table-row">
                                 <div class="table-title">Tags:</div>
-                                <div class="table-data"></div>
+                                <div class="table-data">html5, css3, responsive web design, progressive enhancement, cross-browser compatibility, icons, java</div>
                             </li>
                             <li class="table-row">
                                 <div class="table-title"></div>
@@ -69,7 +69,7 @@
                         { overview }
                     </p>
                     <p>
-                        From Verilogue's website, <a href="http://verilogue.com/technology/revealmr" target="_blank">"Reveal<sup>MR</sup> is a cloud-based solution that maximizes your organization’s efficiency by revolutionizing the way you store, share, and mine volumes of research data."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> Reveal<sup>MR</sup> dates back to 2008 and has undergone constant refinement since then. (<a href="/images/highlight-revealmr-001.png">Here's an example of what one of the earliest versions of the platform looked like</a>.) In its current state, it leverages state-of-the-art technologies, coupled with modern web design, providing an unparalleled turnkey platform for data analysis. It's a critical tool for dozens of pharmaceutical companies, advertising agencies and other healthcare professionals, featuring not only incredibly powerful search capabilities, but also features like multimedia clip creation, word cloud creation, multimedia transcription and time-alignment, document tagging, multi-language support, data socialization&mdash;the list of features goes on and on. Building a web application as powerful as Reveal<sup>MR</sup> is no easy feat, and neither is designing all of its complex features and functionality in an intuitive and intelligent way.
+                        From Verilogue's website, <a href="http://verilogue.com/technology/revealmr" target="_blank">"Reveal<sup>MR</sup> is a cloud-based solution that maximizes your organization’s efficiency by revolutionizing the way you store, share, and mine volumes of research data."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> Reveal<sup>MR</sup> dates back to 2008 and has undergone constant refinement since then. (<a href="/images/highlight-revealmr-001.png">Here's an example of what one of the earliest versions of the platform looked like</a>.) In its current state, it leverages state-of-the-art technologies, coupled with modern web design, providing an unparalleled turnkey platform for data analysis. It's a critical tool for dozens of pharmaceutical companies, advertising agencies and other healthcare professionals, featuring not only incredibly powerful search capabilities, but also multimedia clip creation, word cloud creation, multimedia transcription and time-alignment, document tagging, multi-language support, data socialization&mdash;the list of features goes on and on. Building a web application as powerful as Reveal<sup>MR</sup> is no easy feat, and neither is designing all of its complex features and functionality in an intuitive and intelligent way.
                     </p>
                     <br/>
                     <p class="lead">
@@ -141,7 +141,7 @@
                         We decided to use just-in-time education, as opposed to feature tours, because research shows that <a href="http://www.lukew.com/ff/entry.asp?1786" target="_blank">"most people (sometimes over 90%) skip over intro tours as quickly as possible and those that don’t rarely remember what they were supposed to learn."<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> Using just-in-time education provides us the opportunity to demonstrate how to use new features of the platform just before a user is most likely to need them.
                     </p>
                     <p>
-                        A good example of this is when we introduced a new form of search functionality&mdash;what we call Tag Search. The Tag Search feature is kind of tucked away on a tab on the main search page. We mark the new feature with a beta badge to hopefully peak users' interest. Then, when a user clicks on the tab for the first time, they are walked through using the new feature.
+                        A good example of this is when we introduced a new form of search functionality&mdash;what we call Tag Search. The Tag Search feature is kind of tucked away on a tab on the main search page. We mark the new feature's tab with a "beta" badge&mdash;similar to a badge you'd find on the iPhone&mdash;to hopefully peak users' interest. Then, when a user clicks on the tab for the first time, they are walked through using the new feature.
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-revealmr-005.png" alt="Just-in-time education"/>
@@ -153,14 +153,14 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-revealmr-006.png" alt="Theming overview"/>
-                        One of the other nice features of Reveal<sup>MR</sup> is that when a client purchases the platform we brand it in their likeness. And when I say brand it for them, we do more than just throw the client's logo on the site. (Note, all the screenshots on this page feature the Reveal<sup>MR</sup> logo in the header, but on a production site the client's logo typically fills this space.)
+                        One of the other nice features of Reveal<sup>MR</sup> is that we'll brand the site for clients. And when I say brand it for them, we do more than just throw the client's logo on the site. (Note, all the screenshots on this page feature the Reveal<sup>MR</sup> logo in the header, but on a production site the client's logo typically fills this space. This often involves some pre-processing, taking a raster version of the client's logo, vectorizing it and styling it to fit the platform's design.)
                     </p>
                     <p>
-                        Theming is database driven. For each client we set four attributes for a configuration service: a primary color, a secondary color, a tertiary color and a logo. From there, we pass these variables to a Java Server Page that contains a <code>style</code> tag. The theming JSP is then loaded into the web application after the base CSS, allowing the rules containing client-specific styles to override base styles.
+                        For the most part, the theming process is database driven. For each client we set four attributes of a configuration service: a primary color, a secondary color, a tertiary color and the location of the client's logo image. From there, we inject these variables into a Java Server Page that contains a <code>style</code> tag. The theming JSP is then loaded into the web application after the base CSS, allowing the rules containing client-specific styles to override base styles.
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-revealmr-007.png" alt="Theming detail"/>
-                        Beyond loading a client's logo, a client's theme will also customize the gradients throughout the site, including backgrounds and buttons, as well as hyperlink colors, text colors, selection colors, table row coloring, form controls, like dropdown menus and focus states on inputs, icons and progress bars.
+                        Beyond loading a client's logo, a client's theme will also customize the gradients throughout the site, including backgrounds and buttons, as well as hyperlink colors, text colors, selection colors, table row coloring, form controls, like dropdown menus and focus states on inputs, icons, progress bars and borders.
                     </p>
                     <div class="clearfix"></div>
                     <p>
