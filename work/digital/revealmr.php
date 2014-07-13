@@ -162,7 +162,7 @@
                         <img class="left highlight" src="../../images/highlight-revealmr-007.png" alt="Theming detail"/>
                         Beyond loading a client's logo, a client's theme will also customize the gradients throughout the site, including backgrounds and buttons, as well as hyperlink colors, text colors, selection colors, table row coloring, form controls, like dropdown menus and focus states on inputs, icons and progress bars.
                     </p>
-                    <br/>
+                    <div class="clearfix"></div>
                     <p>
                         To learn more about how this web app was designed and developed, <a href="/contact">contact me</a>.
                     </p>
