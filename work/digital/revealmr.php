@@ -159,8 +159,8 @@
                         Theming is database driven. For each client we set four attributes for a configuration service: a primary color, a secondary color, a tertiary color and a logo. From there, we pass these variables to a Java Server Page that contains a <code>style</code> tag. The theming JSP is then loaded into the web application after the base CSS, allowing the rules containing client-specific styles to override base styles.
                     </p>
                     <p>
-                        Beyond loading a client's logo, a client's theme will also customize the gradients throughout the site, including backgrounds and buttons, as well as hyperlink colors, text colors, selection colors, table row coloring, form controls, like dropdown menus and focus states on inputs, icons and progress bars.
                         <img class="left highlight" src="../../images/highlight-revealmr-007.png" alt="Theming detail"/>
+                        Beyond loading a client's logo, a client's theme will also customize the gradients throughout the site, including backgrounds and buttons, as well as hyperlink colors, text colors, selection colors, table row coloring, form controls, like dropdown menus and focus states on inputs, icons and progress bars.
                     </p>
                     <br/>
                     <p>
