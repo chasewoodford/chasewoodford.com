@@ -1,7 +1,7 @@
 <section>
     <div class="clearfix image-main text-left">
         <div class="left side-corner-tag">
-            <a class="left screenshot" href="./digital/gary-ames.php">
+            <a class="left screenshot" href="./digital/revealmr.php">
                 <img src="/images/screenshot-revealmr.gif">
             </a>
             <p class="ribbon">
