@@ -1,6 +1,11 @@
 <section class="grid-12 text-center">
     <p class="lead"></p>
     <div class="preview wow fadeInUp" data-wow-delay="0.2s">
+        <a href="/work/digital/alertfocus.php" data-pubdate="201307">
+            <img src="/images/screenshot-alertFocus.gif" title="alertfocus.com" width="200" height="100">
+        </a>
+    </div>
+    <div class="preview wow fadeInUp" data-wow-delay="0.2s">
         <a href="/work/digital/gary-ames.php" data-pubdate="201304">
             <img src="/images/screenshot-garyAmes.gif" title="garyames.net" width="200" height="100">
         </a>
