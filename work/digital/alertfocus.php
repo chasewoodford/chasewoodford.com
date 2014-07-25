@@ -69,7 +69,7 @@
                         { overview }
                     </p>
                     <p>
-                        After finishing a re-design on <a href="http://chasewoodford.com/work/digital/gary-ames.php" title="garyames.net">his personal site</a>, Gary Ames wanted to update his other web properties that promote his work as licensed psychologist/<a href="http://en.wikipedia.org/wiki/Biofeedback" target="_blank">biofeedback<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> consultant. The primary entry point for these properties is alertfocus.com.
+                        After finishing a re-design on <a href="http://chasewoodford.com/work/digital/gary-ames.php" title="garyames.net">his personal site</a>, Gary Ames wanted to update his other web properties that promote his work as licensed psychologist and <a href="http://en.wikipedia.org/wiki/Biofeedback" target="_blank">biofeedback<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> consultant. The primary entry point for these properties is alertfocus.com.
                     </p>
                     <p>
                         The site is loaded with information, mostly in the form of articles and presentations describing the benefits of biofeedback, with the goal of converting site visits into inqueries for more details on Gary's services. The older version of the site functioned, but lacked visual appeal and was not optimized for conversion.
@@ -90,8 +90,8 @@
                         We put together a list of sites to exemplify layouts and styles that we thought would allow the content of alertfocus.com to tell the story we wanted it to tell. Of those, the one that bubbled to the top of our list was usatoday.com. The re-designed alertfocus.com borrows some of its design from the usatoday.com site. We imitated the navigation menu, the way images were displayed as "cards" for each article and switched the "Top Stories" section to a "Most Popular" section. These elements helped us create a non-linear flow for the site, as well as make the site more visually appealing.
                     </p>
                     <p>
-                        <img class="left highlight" src="../../images/highlight-alertFocus-003.png" alt="Color theming highlight">
                         We also replicated the way similar groups of content are associated through the use of color. On usatoday.com, the sports section/articles feature a red label; the money section/articles a green label; etc. On alertfocus.com, the academic section/articles feature a red label; the addictions section/articles feature a green label. Though the implementation is different, the concept is the same.
+                        <img class="left highlight" src="../../images/highlight-alertFocus-003.png" alt="Color theming highlight">
                     </p>
                     <p>
                         We kept a couple elements from the original design, like the vertical navigation on the left side of the page and the contact information at the top of the page. But we also added a couple new features to the site, too, like search functionality and a social sharing feature. The content of the site remained relatively unchanged aside from some search engine optimizations.
