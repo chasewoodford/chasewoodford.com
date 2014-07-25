@@ -69,18 +69,36 @@
                         { overview }
                     </p>
                     <p>
-
-                    </p>
-                    <br/>
-                    <p class="lead">
-                        { design }
+                        After finishing a re-design on <a href="http://chasewoodford.com/work/digital/gary-ames.php" title="garyames.net">his personal site</a>, Gary Ames wanted to update his other web properties that promote his work as licensed psychologist/<a href="http://en.wikipedia.org/wiki/Biofeedback" target="_blank">biofeedback<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> consultant. The primary entry point for these properties is alertfocus.com.
                     </p>
                     <p>
-
+                        The site is loaded with information, mostly in the form of articles and presentations describing the benefits of biofeedback, with the goal of converting site visits into inqueries for more details on Gary's services. The older version of the site functioned, but lacked visual appeal and was not optimized for conversion.
+                    </p>
+                    <p>
+                        Gary asked me to help him re-design alertfocus.com in a way that was more "enticing" to visitors&mdash;he wanted more visuals, a non-linear flow but one with less cognitive overhead, better SEO and, of course, a higher conversion rate.
                     </p>
                     <br/>
                     <p class="lead">
-                        { wordpress }
+                        { research & design }
+                    </p>
+                    <p>
+                        <img class="left highlight" src="../../images/highlight-alertFocus-001.png" alt="Old version of alertfocus.com">
+                        The old version of alertfocus.com was laid out very similar to many other behavioral health sites, like <a href="http://www.fbh.com/rehabilitative.html" target="_blank">Foundations Behavioral Health<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> and <a href="http://www.ibc-pa.org/" target="_blank">The Institute for Behavioral Health<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> for example, where the landing page has a navigational menu, an abundance of text and contact information; no clear call to action and no incentive for exploration. This type of design works for visitors who come to a page looking for something specific, like a form or contact information, and are easily able to find what they need. But for a site that is trying to soft sell a service, the site needs to create a narrative through which content can educate visitors on the benefits of the service and, ultimately, influence decision making. This was our goal for the alertfocus.com re-design.
+                    </p>
+                    <p>
+                        <img class="right highlight" src="../../images/highlight-alertFocus-002.png" alt="USA Today highlight">
+                        We put together a list of sites to exemplify layouts and styles that we thought would allow the content of alertfocus.com to tell the story we wanted it to tell. Of those, the one that bubbled to the top of our list was usatoday.com. The re-designed alertfocus.com borrows some of its design from the usatoday.com site. We imitated the navigation menu, the way images were displayed as "cards" for each article and switched the "Top Stories" section to a "Most Popular" section. These elements helped us create a non-linear flow for the site, as well as make the site more visually appealing.
+                    </p>
+                    <p>
+                        <img class="left highlight" src="../../images/highlight-alertFocus-003.png" alt="Color theming highlight">
+                        We also replicated the way similar groups of content are associated through the use of color. On usatoday.com, the sports section/articles feature a red label; the money section/articles a green label; etc. On alertfocus.com, the academic section/articles feature a red label; the addictions section/articles feature a green label. Though the implementation is different, the concept is the same.
+                    </p>
+                    <p>
+                        We kept a couple elements from the original design, like the vertical navigation on the left side of the page and the contact information at the top of the page. But we also added a couple new features to the site, too, like search functionality and a social sharing feature. The content of the site remained relatively unchanged aside from some search engine optimizations.
+                    </p>
+                    <br/>
+                    <p class="lead">
+                        { database migration, wordpress & SEO }
                     </p>
                     <p>
 
