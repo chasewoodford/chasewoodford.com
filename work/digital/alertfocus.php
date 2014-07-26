@@ -69,7 +69,7 @@
                         { overview }
                     </p>
                     <p>
-                        After finishing a re-design on <a href="http://chasewoodford.com/work/digital/gary-ames.php" title="garyames.net">his personal site</a>, Gary Ames wanted to update his other web properties that promote his work as licensed psychologist and <a href="http://en.wikipedia.org/wiki/Biofeedback" target="_blank">biofeedback<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> consultant. The primary entry point for these properties is alertfocus.com.
+                        After finishing a re-design on <a href="http://chasewoodford.com/work/digital/gary-ames.php" title="garyames.net">his personal site</a>, Gary Ames wanted to update his other web properties that promote his work as licensed psychologist and <a href="http://en.wikipedia.org/wiki/Biofeedback" target="_blank">biofeedback<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> consultant. The primary entry point for these properties is <a href="http://www.alertfocus.com" title="see it live">alertfocus.com</a>.
                     </p>
                     <p>
                         The site is loaded with information, mostly in the form of articles and presentations describing the benefits of biofeedback, with the goal of converting site visits into inqueries for more details on Gary's services. The older version of the site functioned, but lacked visual appeal and was not optimized for conversion.
