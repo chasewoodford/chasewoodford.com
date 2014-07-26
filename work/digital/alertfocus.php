@@ -87,18 +87,28 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-alertFocus-002.png" alt="USA Today highlight">
-                        We put together a list of sites to exemplify layouts and styles that we thought would allow the content of alertfocus.com to tell the story we wanted it to tell. Of those, the one that bubbled to the top of our list was usatoday.com. The re-designed alertfocus.com borrows some of its design from the usatoday.com site. We imitated the navigation menu, the way images were displayed as "cards" for each article and switched the "Top Stories" section to a "Most Popular" section. These elements helped us create a non-linear flow for the site, as well as make the site more visually appealing.
+                        We put together a list of sites to exemplify layouts and styles that we thought would allow the content of alertfocus.com to tell the story we wanted it to tell. Of those, the one that bubbled to the top of our list was <a href="http://www.usatoday.com" title="usatoday.com">usatoday.com</a>. The re-designed alertfocus.com borrows some of its design from the usatoday.com site. We imitated the navigation menu, the way images were displayed as "cards" for each article and switched the "Top Stories" section to a "Most Popular" section. These elements helped us create a non-linear flow for the site, as well as make the site more visually appealing.
                     </p>
                     <p>
                         We also replicated the way similar groups of content are associated through the use of color. On usatoday.com, the sports section/articles feature a red label; the money section/articles a green label; etc. On alertfocus.com, the academic section/articles feature a red label; the addictions section/articles feature a green label. Though the implementation is different, the concept is the same.
                         <img class="left highlight" src="../../images/highlight-alertFocus-003.png" alt="Color theming highlight">
                     </p>
                     <p>
-                        We kept a couple elements from the original design, like the vertical navigation on the left side of the page and the contact information at the top of the page. But we also added a couple new features to the site, too, like search functionality and a social sharing feature. The content of the site remained relatively unchanged aside from some search engine optimizations.
+                        We kept a couple elements from the original alertfocus.com design, like the vertical navigation on the left side of the page and the contact information at the top of the page. But we also added a couple new features to the site, too, like search functionality and a social sharing feature. The content of the site remained relatively unchanged aside from some search engine optimizations.
                     </p>
                     <br/>
                     <p class="lead">
-                        { database migration, wordpress & SEO }
+                        { database migration }
+                    </p>
+                    <p>
+                        The biggest challenge of this project was migrating the database. The old version of the site was built using the <a href="http://www.smarty.net/" target="_blank">Smarty</a> PHP template engine. But the framework had not been maintained and at some point ceased to populate the database correctly when new data was added to the site via the custom-built admin interface. Looking through the database I found a lot of good data but also a lot of corrupt and mis-placed data. The database contained over 100 articles' worth of content and metadata.
+                    </p>
+                    <p>
+                        We chose to build the re-designed alertfocus.com in WordPress. Not only does WordPress have an easy-to-learn admin interface, it also has a great developer support community&mdash;making it easy to hand off to the next developer&mdash;and is a well maintained product. Unfortunately, the database structure used by the old version of alertfocus.com wasn't well documented, nor did it turn out to be very similar to the <a href="http://codex.wordpress.org/images/9/97/WP3.8-ERD.png" title="WordPress database diagram">WordPress database structure</a>, nor could its creator be reached for support. So I ended up doing a dump of the old database, sifted through it using Excel and reformatted what data I could salvage so that it could be re-imported into WordPress. This certainly saved time over manually re-entering all of the data into the new database. However, it was also an unexpected consumption of development time, which not only took away from time I could devote to improving the site's design, but also pushed out the project's completion date.
+                    </p>
+                    <br/>
+                    <p class="lead">
+                        { WordPress }
                     </p>
                     <p>
 
