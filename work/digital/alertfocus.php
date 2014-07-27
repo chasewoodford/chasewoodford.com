@@ -111,7 +111,7 @@
                         { WordPress }
                     </p>
                     <p>
-                        The site displays content in a number of unique ways. The homepage features seven articles, which are loaded at random on each page load using the <code>'orderby' => 'rand'</code> WordPress feature. We decided to load articles in this manner on the homepage mainly because new content is not added to the site very frequently. Loading articles randomly exposes visitors to potentially new content on each visit even if new content has not necessarily been added to the site recently.
+                        The site displays content in a number of unique ways. The homepage features seven articles, which are loaded at random on each page load using the <code class="language-php">'orderby' => 'rand'</code> WordPress feature. We decided to load articles in this manner on the homepage mainly because new content is not added to the site very frequently. Loading articles randomly exposes visitors to potentially new content on each visit even if new content has not necessarily been added to the site recently.
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-alertFocus-004.png" alt="Most Popular articles highlight">
