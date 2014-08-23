@@ -1,6 +1,6 @@
 <?php
 # Load Twitter class
-require_once('TwitterOAuth.php');
+require_once('twitteroauth-master/index.php');
 
 # Define constants
 define('TWEET_LIMIT', 5);
