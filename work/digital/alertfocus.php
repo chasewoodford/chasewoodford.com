@@ -128,12 +128,12 @@
                         { performance monitoring & optimization }
                     </p>
                     <p>
-                        <img class="right highlight" src="../../images/highlight-alertFocus-007.png" alt="Google Analytics highlight">
+                        <img class="left highlight" src="../../images/highlight-alertFocus-007.png" alt="Google Analytics highlight">
                     </p>
                     <p>
-                        <img class="left highlight" src="../../images/highlight-alertFocus-008.png" alt="Waterfall highlight">
+                        <img class="right highlight" src="../../images/highlight-alertFocus-008.png" alt="Waterfall highlight">
                     </p>
-                    <br/>
+                    <br class="clearfix"/>
                     <p>
                         To learn more about how this site was designed and developed, <a href="/contact">contact me</a>.
                     </p>
