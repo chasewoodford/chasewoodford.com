@@ -117,12 +117,21 @@
                         <img class="right highlight" src="../../images/highlight-alertFocus-004.png" alt="Most Popular articles highlight">
                         The homepage also features a "Most Popular" section in which the five most popular articles are listed. This list is controlled by a <a href="https://github.com/chasewoodford/alertfocus.com/blob/master/wp-content/themes/starkers-master/functions.php#L117-L149" target="_blank">custom WordPress function<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> that detects the post view count meta data and stores it as a custom field on each post. The <code class="language-php">af_post_views_count</code> can be viewed and edited by WordPress admins, as well, via the Custom Fields section on each post's edit page.
                     </p>
+                    <p>
+                        <img class="left highlight" src="../../images/highlight-alertFocus-005.png" alt="Categories highlight">
+                    </p>
+                    <p>
+                        <img class="right highlight" src="../../images/highlight-alertFocus-006.png" alt="Related posts highlight">
+                    </p>
                     <br/>
                     <p class="lead">
                         { performance monitoring & optimization }
                     </p>
                     <p>
-
+                        <img class="right highlight" src="../../images/highlight-alertFocus-007.png" alt="Google Analytics highlight">
+                    </p>
+                    <p>
+                        <img class="left highlight" src="../../images/highlight-alertFocus-008.png" alt="Waterfall highlight">
                     </p>
                     <br/>
                     <p>
