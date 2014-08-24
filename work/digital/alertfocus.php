@@ -120,7 +120,7 @@
                     <p>
                         <img class="left highlight" src="../../images/highlight-alertFocus-005.png" alt="Categories highlight">
                     </p>
-                    <p>
+                    <p class="clearfix">
                         <img class="right highlight" src="../../images/highlight-alertFocus-006.png" alt="Related posts highlight">
                     </p>
                     <br/>
@@ -130,10 +130,10 @@
                     <p>
                         <img class="left highlight" src="../../images/highlight-alertFocus-007.png" alt="Google Analytics highlight">
                     </p>
-                    <p>
+                    <p class="clearfix">
                         <img class="right highlight" src="../../images/highlight-alertFocus-008.png" alt="Waterfall highlight">
                     </p>
-                    <br class="clearfix"/>
+                    <br/>
                     <p>
                         To learn more about how this site was designed and developed, <a href="/contact">contact me</a>.
                     </p>
