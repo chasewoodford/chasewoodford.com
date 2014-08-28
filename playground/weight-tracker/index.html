@@ -5,7 +5,6 @@
         google.load("visualization", "1", {packages:["corechart"]});
         google.setOnLoadCallback(drawChart);
         function drawChart() {
-            dataTable.addColumn({type: 'string', role: 'tooltip'});
             var data = google.visualization.arrayToDataTable([
                 ['Date',	'Weight'],
                 ['8/18/2010',	159.0],
