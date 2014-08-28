@@ -32,7 +32,7 @@
             width = 960 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
 
-    var parseDate = d3.time.format("%y-%m-%d").parse;
+    var parseDate = d3.time.format("%m-%d-%y").parse;
 
     var x = d3.time.scale()
             .range([0, width]);
@@ -58,7 +58,7 @@
             .append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    d3.csv("data.csv", function(error, data) {
+    d3.tsv("data.tsv", function(error, data) {
         data.forEach(function(d) {
             d.date = parseDate(d.date);
             d.close = +d.close;
