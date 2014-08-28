@@ -56,11 +56,11 @@
 
         data.forEach(function(d) {
             d.date = parseDate(d.date);
-            d.value = +d.value;
+            d.weight = +d.weight;
         });
 
         x.domain(data.map(function(d) { return d.date; }));
-        y.domain([0, d3.max(data, function(d) { return d.value; })]);
+        y.domain([0, d3.max(data, function(d) { return d.weight; })]);
 
         svg.append("g")
                 .attr("class", "x axis")
@@ -80,7 +80,7 @@
                 .attr("y", 6)
                 .attr("dy", ".71em")
                 .style("text-anchor", "end")
-                .text("Value ($)");
+                .text("Weight");
 
         svg.selectAll("bar")
                 .data(data)
@@ -88,8 +88,8 @@
                 .style("fill", "steelblue")
                 .attr("x", function(d) { return x(d.date); })
                 .attr("width", x.rangeBand())
-                .attr("y", function(d) { return y(d.value); })
-                .attr("height", function(d) { return height - y(d.value); });
+                .attr("y", function(d) { return y(d.weight); })
+                .attr("height", function(d) { return height - y(d.weight); });
 
     });
 
