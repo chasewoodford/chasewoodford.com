@@ -32,7 +32,7 @@
             width = 960 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
 
-    var parseDate = d3.time.format("%m-%d-%y").parse;
+    var parseDate = d3.time.format("%d-%b-%y").parse;
 
     var x = d3.time.scale()
             .range([0, width]);
@@ -50,7 +50,7 @@
 
     var line = d3.svg.line()
             .x(function(d) { return x(d.date); })
-            .y(function(d) { return y(d.weight); });
+            .y(function(d) { return y(d.close); });
 
     var svg = d3.select("body").append("svg")
             .attr("width", width + margin.left + margin.right)
@@ -61,11 +61,11 @@
     d3.tsv("data.tsv", function(error, data) {
         data.forEach(function(d) {
             d.date = parseDate(d.date);
-            d.weight = +d.weight;
+            d.close = +d.close;
         });
 
         x.domain(d3.extent(data, function(d) { return d.date; }));
-        y.domain(d3.extent(data, function(d) { return d.weight; }));
+        y.domain(d3.extent(data, function(d) { return d.close; }));
 
         svg.append("g")
                 .attr("class", "x axis")
