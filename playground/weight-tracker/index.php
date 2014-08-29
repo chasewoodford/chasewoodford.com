@@ -78,7 +78,7 @@ or die("Unable to connect to MySQL");
 echo "Connected to MySQL<br>";
 
 //select a database to work with
-$selected = mysql_select_db("weight_tracker",$dbhandle)
+$selected = mysql_select_db("db541682804",$dbhandle)
 or die("Could not select examples");
 
 //execute the SQL query and return records
