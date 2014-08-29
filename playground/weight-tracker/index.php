@@ -87,8 +87,8 @@ $result = mysql_query("SELECT id, date, weight FROM weight_tracker");
 
 //fetch tha data from the database
 while ($row = mysql_fetch_array($result)) {
-    echo "ID:".$row{'id'}." Date:".$row{'date'}."Weight: ". //display the results
-        $row{'weight'}."<br>";
+    $json = json_encode($row);
+    echo $json;
 }
 //close the connection
 mysql_close($dbhandle);
