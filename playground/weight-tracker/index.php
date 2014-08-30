@@ -23,7 +23,7 @@ $result = mysql_query("SELECT id, date, weight FROM weight_tracker");
 //fetch tha data from the database
 while ($row = mysql_fetch_array($result)) {
     $entry = "['".$row{'date'}."',".$row{'weight'}."],";
-    echo $entry;
+    $entryList = $entry;
 }
 //close the connection
 mysql_close($dbhandle);
@@ -37,7 +37,7 @@ mysql_close($dbhandle);
     function drawChart() {
         var data = google.visualization.arrayToDataTable([
         ['Date',	'Weight'],
-        <?php echo $entry ?>
+        <?php echo $entryList ?>
 //                ['8/18/2010',	159.0],
 //                ['8/29/2010',	159.5],
 //                ['9/15/2010',	158.0],
