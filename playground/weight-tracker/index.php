@@ -21,9 +21,9 @@ or die("Could not select examples");
 $result = mysql_query("SELECT id, date, weight FROM weight_tracker");
 
 //fetch tha data from the database
-$entry = array();
+$lst_count = array();
 while ($row = mysql_fetch_array($res)) {
-    $entry[] = $row["['".$row{'date'}."',".$row{'weight'}."],"];
+    $lst_count[] = $row{'date'}.$row{'weight'};
 }
 //close the connection
 mysql_close($dbhandle);
@@ -37,7 +37,7 @@ mysql_close($dbhandle);
     function drawChart() {
         var data = google.visualization.arrayToDataTable([
         ['Date',	'Weight'],
-        <?php echo $entry ?>
+        <?php echo $lst_count ?>
 //                ['8/18/2010',	159.0],
 //                ['8/29/2010',	159.5],
 //                ['9/15/2010',	158.0],
