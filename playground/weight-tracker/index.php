@@ -23,7 +23,7 @@ $result = mysql_query("SELECT id, date, weight FROM weight_tracker");
 //fetch tha data from the database
 $entry = array();
 while ($row = mysql_fetch_array($res)) {
-    $entry[] = "['".$row{'date'}."',".$row{'weight'}."],";
+    $entry[] = $row["['".$row{'date'}."',".$row{'weight'}."],"];
 }
 //close the connection
 mysql_close($dbhandle);
