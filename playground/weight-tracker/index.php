@@ -36,7 +36,7 @@ mysql_close($dbhandle);
     function drawChart() {
         var data = google.visualization.arrayToDataTable([
         ['Date',	'Weight'],
-        <?php for($i=0; $i<$i.length; $i++) {echo $entry;} ; ?>
+        <?php echo $entry ?>
 //                ['8/18/2010',	159.0],
 //                ['8/29/2010',	159.5],
 //                ['9/15/2010',	158.0],
