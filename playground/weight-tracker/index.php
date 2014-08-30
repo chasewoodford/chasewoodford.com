@@ -18,7 +18,7 @@ $selected = mysql_select_db("db541682804",$dbhandle)
 or die("Could not select examples");
 
 //execute query
-$result = mysql_query("SELECT id, date, weight FROM weight_tracker");
+$result = mysql_query("SELECT id, date, weight FROM weight_tracker ORDER BY Date ASC");
 
 //fetch data
 while ($row = mysql_fetch_array($result)) {
