@@ -37,8 +37,8 @@ mysql_close($dbhandle);
         var data = google.visualization.arrayToDataTable([
         ['Date',	'Weight'],
         <?php
-        foreach($entry as $entry){
-            echo $entry;
+        foreach($entry as $e){
+            echo $e;
         };
         ?>
 //                ['8/18/2010',	159.0],
