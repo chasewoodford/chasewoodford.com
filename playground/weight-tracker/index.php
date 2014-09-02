@@ -31,8 +31,49 @@ while ($row = mysql_fetch_array($result)) {
 mysql_close($dbhandle);
 ?>
 
-<div id="chart_div" style="width: 100%; height: 500px;"></div>
+<div id="chart_div" style="width: 100%; height: 400px;"></div>
 
+<!-- the php -->
+<?php
+if(isset($_POST['add']))
+{
+    $username = "dbo541682804";
+    $password = "8s3IAftWzK5BWPL";
+    $hostname = "db541682804.db.1and1.com";
+    $dbhandle = mysql_connect($hostname, $username, $password);
+    if(! $dbhandle )
+    {
+        die('Could not connect: ' . mysql_error());
+    }
+
+    if(! get_magic_quotes_gpc() )
+    {
+        $date = addslashes ($_POST['date']);
+        $weight = addslashes ($_POST['weight']);
+    }
+    else
+    {
+        $date = $_POST['date'];
+        $weight = $_POST['weight'];
+    }
+
+    $sql = "INSERT INTO weight_tracker ".
+        "(date,weight) ".
+        "VALUES('$date','$weight')";
+    mysql_select_db('weigth_tracker');
+    $retval = mysql_query( $sql, $dbhandle );
+    if(! $retval )
+    {
+        die('Could not enter data: ' . mysql_error());
+    }
+    echo "Entered data successfully\n";
+    mysql_close($dbhandle);
+}
+else
+{
+?>
+
+<!-- the html -->
 <form method="post" action="<?php $_PHP_SELF ?>">
     <fieldset>
         <label for="date">Date</label>
@@ -52,6 +93,10 @@ mysql_close($dbhandle);
         <input type="submit" value="Submit" />
     </fieldset>
 </form>
+
+<?php
+}
+?>
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript">
