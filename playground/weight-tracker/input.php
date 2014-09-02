@@ -32,7 +32,13 @@ if($pin === 'esahc'){
         echo("Input data is #fail");
     }
 } else {
-    echo "Not human enough, apparently.";
+    echo "No, no, no. That's all wrong. All wrong.";
 }
 
 ?>
+
+<script type="text/javascript" language="JavaScript">
+    setTimeout(function () {
+        location.href = 'http://www.chasewoodford.com/playground/weight-tracker';
+    }, 5000);
+</script>
