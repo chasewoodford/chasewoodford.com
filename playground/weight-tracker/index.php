@@ -47,9 +47,9 @@ mysql_close($dbhandle);
     </fieldset>
 
     <fieldset>
-        <label for="pin">Human Test</label>
+        <label for="pin">Name</label>
         <input type="text" id="pin" name="pin" class="form-text" required/>
-        <p class="form-help">Are you human?</p>
+        <p class="form-help">Spell your name backwards</p>
     </fieldset>
 
     <div class="clearfix"></div>
