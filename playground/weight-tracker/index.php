@@ -36,13 +36,13 @@ mysql_close($dbhandle);
 <form method="post" action="input.php">
     <fieldset>
         <label for="date">Date</label>
-        <input type="datetime" id="date" class="form-text" required/>
+        <input type="datetime" id="date" name="date" class="form-text" required/>
         <p class="form-help">Enter date of entry in YYYY-MM-DD format.</p>
     </fieldset>
 
     <fieldset>
         <label for="weight">Weight</label>
-        <input type="text" id="weight" class="form-text" maxlength="3" size="3" required/>
+        <input type="text" id="weight" name="weight" class="form-text" maxlength="3" size="3" required/>
         <p class="form-help">Enter weight on date of entry.</p>
     </fieldset>
 

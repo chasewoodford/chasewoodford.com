@@ -26,7 +26,8 @@ $result = mysql_query($order);	//order executes
 if($result)
 {
     echo("
-Input data is succeed");
+Input data is succeed"
+        . $date . " and " . $weight);
 }
 else
 {
