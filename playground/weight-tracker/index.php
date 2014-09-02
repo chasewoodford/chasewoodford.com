@@ -60,7 +60,7 @@ if(isset($_POST['add']))
     $sql = "INSERT INTO weight_tracker ".
         "(date,weight) ".
         "VALUES('$date','$weight')";
-    mysql_select_db('weigth_tracker');
+    mysql_select_db('db541682804');
     $retval = mysql_query( $sql, $dbhandle );
     if(! $retval )
     {
