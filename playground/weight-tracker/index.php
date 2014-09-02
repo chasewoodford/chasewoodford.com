@@ -1,6 +1,7 @@
 <html>
 <head>
     <title>Weight Tracker</title>
+    <link rel="stylesheet" type="text/css" href="weight-tracker.css">
 </head>
 <body>
 <?php
@@ -31,6 +32,26 @@ mysql_close($dbhandle);
 
 <div id="chart_div" style="width: 100%; height: 500px;"></div>
 
+<form method="post" action="<?php $_PHP_SELF ?>">
+    <fieldset>
+        <label for="date">Date</label>
+        <input type="datetime" id="date" class="form-text" required/>
+        <p class="form-help">Enter date of entry in YYYY-MM-DD format.</p>
+    </fieldset>
+
+    <fieldset>
+        <label for="weight">Weight</label>
+        <input type="text" id="weight" class="form-text" maxlength="3" size="3" required/>
+        <p class="form-help">Enter weight on date of entry.</p>
+    </fieldset>
+
+    <div class="clearfix"></div>
+
+    <fieldset class="form-actions">
+        <input type="submit" value="Submit" />
+    </fieldset>
+</form>
+
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript">
     google.load("visualization", "1", {packages:["corechart"]});
@@ -51,5 +72,14 @@ mysql_close($dbhandle);
         chart.draw(data, options);
     }
 </script>
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $( "#date" ).datepicker({ dateFormat: 'yy-mm-dd' });
+    });
+</script>
+
 </body>
 </html>
