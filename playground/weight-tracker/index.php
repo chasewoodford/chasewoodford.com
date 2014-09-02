@@ -47,9 +47,9 @@ mysql_close($dbhandle);
     </fieldset>
 
     <fieldset>
-        <label for="pin">Name</label>
+        <label for="pin">Secret</label>
         <input type="text" id="pin" name="pin" class="form-text" required/>
-        <p class="form-help">Spell your name backwards.</p>
+        <p class="form-help">No hints here.</p>
     </fieldset>
 
     <div class="clearfix"></div>
