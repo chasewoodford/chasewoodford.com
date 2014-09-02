@@ -2,7 +2,7 @@
 
 $pin = $_POST['pin'];
 
-if($pin === '2212'){
+if($pin === 'yes'){
 
     $username = "dbo541682804";
     $password = "8s3IAftWzK5BWPL";
@@ -13,25 +13,26 @@ if($pin === '2212'){
     or die("Unable to connect to MySQL");
     echo "Connected to MySQL<br>";
 
+    //select database
     mysql_select_db("db541682804");
 
-    // Get values from form
+    //retrieve form values
     $date = $_POST['date'];
     $weight = $_POST['weight'];
 
-    //inserting data order
+    //insert statement
     $order = "INSERT INTO weight_tracker (date, weight)
                 VALUES ('$date','$weight')";
 
-    //declare in the order variable
-    $result = mysql_query($order);	//order executes
+    //declare order variable
+    $result = mysql_query($order)
     if($result){
-        echo("Input data is succeed" . $date . " and " . $weight);
+        echo("Input data is great success! " . $date . " and " . $weight);
     } else {
-        echo("Input data is fail");
+        echo("Input data is #fail");
     }
 } else {
-    echo "Incorrect pin.";
+    echo "Not human enough, apparently.";
 }
 
 ?>
