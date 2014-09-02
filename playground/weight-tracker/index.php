@@ -49,7 +49,7 @@ mysql_close($dbhandle);
     <fieldset>
         <label for="pin">Name</label>
         <input type="text" id="pin" name="pin" class="form-text" required/>
-        <p class="form-help">Spell your name backwards</p>
+        <p class="form-help">Spell your name backwards.</p>
     </fieldset>
 
     <div class="clearfix"></div>
