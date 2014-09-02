@@ -2,6 +2,7 @@
 <head>
     <title>Weight Tracker</title>
     <link rel="stylesheet" type="text/css" href="weight-tracker.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
 </head>
 <body>
 <?php
