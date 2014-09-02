@@ -4,9 +4,9 @@
 </head>
 <body>
 <?php
-$username = "";
-$password = "";
-$hostname = "";
+$username = "dbo541682804";
+$password = "8s3IAftWzK5BWPL";
+$hostname = "db541682804.db.1and1.com";
 
 //connect to database
 $dbhandle = mysql_connect($hostname, $username, $password)
