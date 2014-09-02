@@ -25,7 +25,7 @@ if($pin === 'yes'){
                 VALUES ('$date','$weight')";
 
     //declare order variable
-    $result = mysql_query($order)
+    $result = mysql_query($order);
     if($result){
         echo("Input data is great success! " . $date . " and " . $weight);
     } else {
