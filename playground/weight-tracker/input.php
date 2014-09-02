@@ -1,38 +1,37 @@
 <?php
 
-$username = "dbo541682804";
-$password = "8s3IAftWzK5BWPL";
-$hostname = "db541682804.db.1and1.com";
+$pin = $_POST['pin'];
 
-//connect to database
-$dbhandle = mysql_connect($hostname, $username, $password)
-or die("Unable to connect to MySQL");
-echo "Connected to MySQL<br>";
+if($pin === '2212'){
 
-mysql_select_db("db541682804");
+    $username = "dbo541682804";
+    $password = "8s3IAftWzK5BWPL";
+    $hostname = "db541682804.db.1and1.com";
 
-// Get values from form
-$date = $_POST['date'];
-$weight = $_POST['weight'];
+    //connect to database
+    $dbhandle = mysql_connect($hostname, $username, $password)
+    or die("Unable to connect to MySQL");
+    echo "Connected to MySQL<br>";
 
-//inserting data order
-$order = "INSERT INTO weight_tracker
-	   (date, weight)
-	  VALUES
-	   ('$date','$weight')";
+    mysql_select_db("db541682804");
 
-//declare in the order variable
-$result = mysql_query($order);	//order executes
-if($result)
-{
-    echo("
-Input data is succeed"
-        . $date . " and " . $weight);
-}
-else
-{
-    echo("
-Input data is fail");
+    // Get values from form
+    $date = $_POST['date'];
+    $weight = $_POST['weight'];
+
+    //inserting data order
+    $order = "INSERT INTO weight_tracker (date, weight)
+                VALUES ('$date','$weight')";
+
+    //declare in the order variable
+    $result = mysql_query($order);	//order executes
+    if($result){
+        echo("Input data is succeed" . $date . " and " . $weight);
+    } else {
+        echo("Input data is fail");
+    }
+} else {
+    echo "Incorrect pin.";
 }
 
 ?>

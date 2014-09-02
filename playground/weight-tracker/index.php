@@ -46,6 +46,12 @@ mysql_close($dbhandle);
         <p class="form-help">Enter weight on date of entry.</p>
     </fieldset>
 
+    <fieldset>
+        <label for="pin">Pin</label>
+        <input type="text" id="pin" name="pin" class="form-text" maxlength="4" size="4" required/>
+        <p class="form-help">Enter secret pin.</p>
+    </fieldset>
+
     <div class="clearfix"></div>
 
     <fieldset class="form-actions">
