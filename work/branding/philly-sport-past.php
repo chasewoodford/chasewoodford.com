@@ -96,11 +96,18 @@
                         { vectorizing }
                     </p>
                     <p>
-                        <img class="left highlight" src="../../images/highlight-phillySportPast-001.png" alt="PhillySportPast logo"/>
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat.
+                        Vectorizing is the process of converting a raster image into an image represented by vectors derived from mathematical expressions. This allows for easy re-sizing of art without sacrifice of quality.
                     </p>
                     <p>
-                        Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
+                        <img class="left highlight" src="../../images/highlight-phillySportPast-003.png" alt="Joseph Siffred Duplessis' oil on canvas portrait of Benjamin Franklin from 1778"/>
+                        The PhillySportPast logo features a simplified and modified inverted relief vector image of Joseph Siffred Duplessis' oil on canvas portrait of Benjamin Franklin from 1778.
+                    </p>
+                    <p>
+                        A high resolution version of the painting was loaded into Adobe Illustrator and traced to create the foundation for the logo. Once the parameters were adequately tweaked so that Franklin's most distinctive facial features were captured by the trace, it was expanded and cleaned up, compound path by compound path.
+                    </p>
+                    <p>
+                        <img class="right highlight" src="../../images/highlight-phillySportPast-001.png" alt="PhillySportPast logo"/>
+                        The last bit to creating the PhillySportPast logo was to apply the eye black to Franklin's face. His facial expression captured in the original portrait and, subsequently, the vectorized image made this a relatively easy task because the paths for these strokes already existed in the form of facial wrinkles. Once I found a brush that looked most similar to that of a greasy, oily smear, applying the eye black to Franklin's face was a simple matter of making brush strokes that followed the already present contours of his face.
                     </p>
                     <br/>
                     <p>
