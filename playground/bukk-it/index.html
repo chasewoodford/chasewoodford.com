@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Chase Woodford">
+    <meta name="description" content="Storage for all the awesome things on the Internet." />
+
+    <title>Chase Woodford &#124; Bukk-it</title>
+
+    <link rel="icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="/css/compiled/style.css">
+</head>
+<body>
+<h1 class="hide-text">Index of /bukk-it</h1>
+<table id="directory" cellspacing="0" class="table display dataTable">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/images/bukk-it/dirtyDancing.gif">dirtyDancing.gif</a></td>
+            <td>Patrick Swayze dancing at the end of dirty dancing</td>
+        </tr>
+        <tr>
+            <td><a href="/images/bukk-it/fbhack.gif">fbhack.gif</a></td>
+            <td>Screencast of Facebook source code</td>
+        </tr>
+        <tr>
+            <td><a href="/images/bukk-it/karateSteeler.gif">karateSteeler.gif</a></td>
+            <td>Steelers' Antonio Brown drop-kicking Browns punter Spencer Lanning</td>
+        </tr>
+        <tr>
+            <td><a href="/images/bukk-it/thisIsEmo.png">thisIsEmo.png</a></td>
+            <td>Possibly the best paragraph ever written&mdash;Chuck Klosterman excerpt from <i>Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto</i></td>
+        </tr>
+    </tbody>
+</table>
+</body>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/javascript/jquery-2.0.0.min.js"><\/script>')</script>
+<script src="/javascript/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+    $('#directory').dataTable( {
+        "bPaginate": false,
+        "bLengthChange": false,
+        "bFilter": true,
+        "bSort": true ,
+        "oLanguage": {
+            "sSearch": "filter: ",
+            "sZeroRecords": "¯&#92;_(ツ)_/¯",
+            "sInfo": "showing _START_ to _END_ of _TOTAL_ records",
+            "sInfoEmpty": "showing 0 to 0 of 0 records",
+            "sInfoFiltered": "(filtered from _MAX_ total records)"
+        }
+    } );
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28396921-1']);
+    _gaq.push(['_setDomainName', 'chasewoodford.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+</html>
