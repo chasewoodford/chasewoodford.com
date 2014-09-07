@@ -77,10 +77,10 @@
                     </p>
                     <p>
                         <img class="right highlight" src="../../images/highlight-phillySportPast-002.png" alt="PhillySportPast logo ideas"/>
-                        I was approached by the client &mdash; who already had an idea of what would make for a good mark for the PhillySportPast brand &mdash; for help creating the company's logo.
+                        I was approached by the client&mdash;who already had an idea of what would make for a good mark for the PhillySportPast brand&mdash;for help creating the company's logo.
                     </p>
                     <p>
-                        The idea for the logo the client originally suggested was great &mdash; an image of Ben Franklin wearing eye-black &mdash; and is ultimately what the final logo ended up being. But we wanted to go through a process of exploration, regardless, for validation.
+                        The idea for the logo the client originally suggested was great&mdash;an image of Ben Franklin wearing eye-black&mdash;and is ultimately what the final logo ended up being. But we wanted to go through a process of exploration, regardless, for validation.
                     </p>
                     <p>
                         So I sat with the client in a brainstorming session where the challenge was proposed: here is my original idea, let's see if we can think of something better. We put a bunch good ideas down on paper. I created draft versions of a couple of those ideas in Photoshop. The client and I went back and forth over the course of a couple weeks discussing what we liked and didn't like about each concept.
