@@ -96,13 +96,13 @@
                         { vectorizing }
                     </p>
                     <p>
-                        <img class="left highlight" src="../../images/highlight-phillySportPast-003.png" alt="Joseph Siffred Duplessis' oil on canvas portrait of Benjamin Franklin from 1778"/>
                         Vectorizing is the process of converting a raster image into an image represented by vectors derived from mathematical expressions. This allows for easy re-sizing of art without sacrifice of quality.
                     </p>
                     <p>
                         The PhillySportPast logo features a simplified and modified inverted relief vector image of Joseph Siffred Duplessis' oil on canvas portrait of Benjamin Franklin from 1778.
                     </p>
                     <p>
+                        <img class="left highlight" src="../../images/highlight-phillySportPast-003.png" alt="Joseph Siffred Duplessis' oil on canvas portrait of Benjamin Franklin from 1778"/>
                         <img class="right highlight" src="../../images/highlight-phillySportPast-001.png" alt="PhillySportPast logo"/>
                         A high resolution version of the painting was loaded into Adobe Illustrator and traced to create the foundation for the logo. Once the parameters were adequately tweaked so that Franklin's most distinctive facial features were captured by the trace, it was expanded and cleaned up, compound path by compound path.
                     </p>
