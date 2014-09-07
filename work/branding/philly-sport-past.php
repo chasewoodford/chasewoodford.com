@@ -89,7 +89,7 @@
                         It quickly became apparent during our process of design exploration that, more than anything, the PhillySportPast logo had to do two things. One, it had to quickly connect the concepts of Philadelphia and sports. And two, it had to stand on its own when the brand's name could not be included.
                     </p>
                     <p>
-                        There were other considerations, too. The client wanted a logo that was color-agnostic, meaning the logo's colors could change from one to another to match the team colors of whatever sport was in season. Likewise, the client also wanted the font of the logo to have a Philadelphian feel to it. Lastly, the logo needed to be easily recognizable in a large range of sizes, everything from [INSERT SMALLEST SOCIAL MEDIA SIZE HERE] to [INSERT LARGE PRINTED SIZE HERE], and as mentioned above, this meant with and without the brand's name in text.
+                        There were other considerations, too. The client wanted a logo that was color-agnostic, meaning the logo's colors could change from one to another to match the team colors of whatever sport was in season. Likewise, the client also wanted the font of the logo to have a Philadelphian feel to it. Lastly, the logo needed to be easily recognizable in a large range of sizes, everything from a 16px icon to a 160px Facebook profile picture to a +30" print for merchandise, and as mentioned above, this meant with and without the brand's name in text.
                     </p>
                     <br/>
                     <p class="lead">
