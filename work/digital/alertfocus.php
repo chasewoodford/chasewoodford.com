@@ -119,9 +119,11 @@
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-alertFocus-005.png" alt="Categories highlight">
+                        All of the content on the site is associated with one or two of 20 WordPress post categories. The majority of the site's content is divided into two parent categories, "Perform" and "Relieve", and from there, each post is further identified by more specific categories, like "Add", "Autism", "Migraine", etc. Each category is assigned a unique color to allow for quicker recognition of related content, and these colors present themselves near navigation links and header backgrounds.
                     </p>
                     <p class="clearfix">
                         <img class="right highlight" src="../../images/highlight-alertFocus-006.png" alt="Related posts highlight">
+                        At the bottom of each post, in addition to displaying quick links to other categories, is a "View Related Articles" section. This is a list of articles identified in the same category as the post currently being viewed, derived by the post query <code class="language-php">query_posts( array( 'cat' => $cat_ID, 'post__not_in' => array($this_post), 'posts_per_page' => 5, 'orderby' => 'rand'));</code>. The query finds 5 posts in the same category other than the one currently being displayed and displays them in random order. Then, using the <code class="language-php">while ( have_posts() ) : the_post();</code> loop, we display related articles, when available, or leave this section off the page altogether when there are no related posts. The goal of this section is to encourage users to continue exploring the site after they finish reading a post.
                     </p>
                     <br/>
                     <p class="lead">
