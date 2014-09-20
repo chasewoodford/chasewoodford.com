@@ -123,7 +123,7 @@
                     </p>
                     <p class="clearfix">
                         <img class="right highlight" src="../../images/highlight-alertFocus-006.png" alt="Related posts highlight">
-                        At the bottom of each post, in addition to displaying quick links to other categories, is a "View Related Articles" section. This is a list of articles identified in the same category as the post currently displayed, derived by a post query that looks for five posts in the same category other than the one currently being displayed and displays them in random order. Then, using the <code>while ( have_posts() ) : the_post();</code> loop, related articles are displayed, when available, or the section is hidden when there are no related posts. The goal of this section is to encourage users to continue exploring the site after they finish reading a post.
+                        At the bottom of each post, in addition to displaying quick links to other categories, is a "View Related Articles" section. This is a list of articles identified in the same category as the post currently displayed, derived by a post query that looks for five posts in the same category other than the one currently being displayed and displays them in random order. Then, using a <code>while</code> loop, related articles are displayed, when available, or the section is hidden when there are no related posts. The goal of this section is to encourage users to continue exploring the site after they finish reading a post.
                     </p>
                     <br/>
                     <p class="lead">
