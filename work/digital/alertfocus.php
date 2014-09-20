@@ -121,9 +121,8 @@
                         All of the content on the site is associated with one or two of 20 WordPress post categories. The majority of the site's content is divided into two parent categories, "Perform" and "Relieve", and from there, each post is further identified by more specific categories, like "Add", "Autism", "Migraine", etc. Each category is assigned a unique color to allow for quicker recognition of related content, and these colors present themselves near navigation links and header backgrounds.
                         <img class="left highlight" src="../../images/highlight-alertFocus-005.png" alt="Categories highlight">
                     </p>
-                    <p class="clearfix">
+                    <p>
                         At the bottom of each post, in addition to displaying quick links to other categories, is a "View Related Articles" section. This is a list of articles identified in the same category as the post currently being displayed, derived by a <a href="https://github.com/chasewoodford/alertfocus.com/blob/master/wp-content/themes/starkers-master/parts/single.php#L11-L16" target="_blank">post query<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> that looks for five posts in the same category other than the one currently being displayed and displays them in random order. Then, using a <code>while</code> loop, related articles are displayed, when available, or the section is hidden when there are no related posts. The goal of this section is to encourage users to continue exploring the site after they finish reading a post.
-                        <img class="right highlight" src="../../images/highlight-alertFocus-006.png" alt="Related posts highlight">
                     </p>
                     <p>
                         Using WordPress allows for powerful content manipulation and flexible content layout, while requiring very little code editing from one page to the next, minimizing the time required to go from design to build.
