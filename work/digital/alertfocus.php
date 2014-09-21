@@ -93,7 +93,7 @@
                         We also replicated the way similar groups of content are associated through the use of color. On usatoday.com, the sports section/articles feature a red label; the money section/articles a green label; etc. On alertfocus.com, the academic section/articles feature a red label; the addictions section/articles feature a green label. Though the implementation is different, the concept is the same.
                         <img class="left highlight" src="../../images/highlight-alertFocus-003.png" alt="Color theming highlight">
                     </p>
-                    <p>
+                    <p class="clearfix">
                         We kept a couple elements from the original alertfocus.com design, like the vertical navigation on the left side of the page and the contact information at the top of the page. But we also added a couple new features to the site, too, like search functionality and a social sharing feature. The content of the site remained relatively unchanged aside from some search engine optimizations.
                     </p>
                     <br/>
@@ -131,6 +131,15 @@
                     <br/>
                     <p class="lead">
                         { performance monitoring & optimization }
+                    </p>
+                    <p>
+                        Due to the amount of content and number of queries being run on each page of the alertfocus.com site, we wanted to make sure we were conscious of the site's page speed performance from the outset of the project. Additionally, because this site is a traffic generator for the client's business, it was important the site functioned well from a page rank standpoint, too. The site takes advantage of an array of (zero-cost) performance monitoring and optimization tools to achieve this goal.
+                    </p>
+                    <p>
+                        We were fortunate to have an outside firm, <a href="http://www.practicebuilders.com/" target="_blank">Practice Builders<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>, help evaluate and guide the development of the site. Here is their initial <a href="../../resources/documents/alertFocus-webEvaluationReport.pdf">Web Evaluation Report</a>. Though the report gives the site a relatively low overall score, it should be noted that this evaluation was done very early in the development process. As the lone developer on this project, it was good to have outside validation of the work completed so far. It was also reassuring to see that the roadmap I had laid out for the development of the site matched up with the recommendations for improvements offered by the outside consultant.
+                    </p>
+                    <p>
+                        As with any critique of one's work, it does take a bit of pride-swallowing in order to find benefit in evaluations like this. No one likes receiving negative feedback, like "the website does not have a mobile version available." Even worse when the group performing the evaluation is not in-tune with current industry standards. (There was no mobile version of the site because it was designed responsively. At the point of this site's development, having a separate mobile version of the site is not considered a best practice.)  So while this report did offer some validation, it also created more work having to defend design decisions. But overall, I think the report served several beneficial purposes&mdash;in addition to validating the site's design and roadmap, it helped re-assure the client that he did not make a mistake in hiring me at a relatively cheap price compared to a more expensive agency, and it opened the door for discussion of future site enhancements, meaning more work in the future.
                     </p>
                     <p>
                         <img class="left highlight" src="../../images/highlight-alertFocus-007.png" alt="Google Analytics highlight">
