@@ -136,6 +136,10 @@
                         Due to the amount of content and number of queries being run on each page of the alertfocus.com site, we wanted to make sure we were conscious of the site's page speed performance from the outset of the project. Additionally, because this site is a traffic generator for the client's business, it was important the site functioned well from a page rank standpoint, too. The site takes advantage of various (zero-cost) performance monitoring and optimization tools to achieve this goal.
                     </p>
                     <p>
+                        <img class="right highlight" src="../../images/highlight-alertFocus-008.png" alt="Waterfall highlight">
+                        We used <a href="http://www.webpagetest.org/" target="_blank">webpagetest.org<sup><i aria-hidden="true" class="icon-popup"></i></sup></a> to set performance benchmarks, measuring page speed and asset loading on both the old and new versions of the site. The results are very comprehensive. It provides a waterfall view of asset loading, but also a breakdown of each stage of content loading, like time to first byte and time to fully loaded, as well as time to load first view and repeat view. The performance review also provides an extensive list of optimization recommendations. But the feature I like most is that the data is easily exportable to Microsoft Excel, making it very easy to save tests over time and share this data with clients. Using this tool, we were able to shave roughly seven seconds off page load times from the beginning of the project to the end, as well as identify and implement a bunch of content delivery optimizations not implemented on the old version of the site.
+                    </p>
+                    <p>
                         We were fortunate to have a third party, <a href="http://www.practicebuilders.com/" target="_blank">Practice Builders<sup><i aria-hidden="true" class="icon-popup"></i></sup></a>, help evaluate and guide the development of the site. Here is their initial <a href="../../resources/documents/alertFocus-webEvaluationReport.pdf">Web Evaluation Report</a>. Though the report gives the site a relatively low overall score, it should be noted that this evaluation was done very early in the development process. As the lone developer on this project, it was good to have outside validation of the work completed so far. It was also reassuring to see that the roadmap I had laid out for the development of the site matched up with the recommendations for improvements offered by the outside consultant.
                     </p>
                     <p>
@@ -158,9 +162,6 @@
                     </ul>
                     <p>
                         I find all of these tools invaluable and use them on just about every project I work on. I've found that each of these tools reduce development and maintenance time in the order of hours, saving clients time, money and, in the case of post project handoffs, a lot of frustration trying to make sense of what seem like complicated site maintenance tasks.
-                    </p>
-                    <p class="clearfix">
-                        <img class="right highlight" src="../../images/highlight-alertFocus-008.png" alt="Waterfall highlight">
                     </p>
                     <br/>
                     <p>
