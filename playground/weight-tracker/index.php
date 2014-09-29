@@ -42,7 +42,7 @@ mysql_close($dbhandle);
 
     <fieldset>
         <label for="weight">Weight</label>
-        <input type="text" id="weight" name="weight" class="form-text" maxlength="3" size="3" required/>
+        <input type="text" id="weight" name="weight" class="form-text" maxlength="6" size="6" required/>
         <p class="form-help">Enter weight on date of entry.</p>
     </fieldset>
 
