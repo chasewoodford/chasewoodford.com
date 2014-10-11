@@ -86,8 +86,8 @@
                     <ul class="resume-callout-list">
                         <li><a href="http://www.darawarren.com" target="_blank">darawarren.com</a></li>
                         <li><a href="http://www.phillysportpast.com" target="_blank">phillysportpast.com</a></li>
-                        <li><a href="#" target="_blank">calmfocus.com/alertfocus.com</a></li>
-                        <li><a href="#" target="_blank">garyames.net</a></li>
+                        <li><a href="http://www.calmfocus.com" target="_blank">calmfocus.com/alertfocus.com</a></li>
+                        <li><a href="http://www.garyames.net" target="_blank">garyames.net</a></li>
                     </ul>
                 </article>
                 <article class="grid-6 right">

@@ -1,8 +1,8 @@
 <section class="grid-12 text-center">
     <p class="lead"></p>
     <div class="preview wow fadeInUp" data-wow-delay="0.2s">
-        <a href="/work/digital/alertfocus.php" data-pubdate="201307">
-            <img src="/images/screenshot-alertFocus.gif" title="alertfocus.com" width="200" height="100">
+        <a href="/work/digital/calmfocus.php" data-pubdate="201307">
+            <img src="/images/screenshot-calmFocus.gif" title="calmfocus.com" width="200" height="100">
         </a>
     </div>
     <div class="preview wow fadeInUp" data-wow-delay="0.4s">
