@@ -32,7 +32,7 @@
                 </header>
                 <section>
                     <div class="grid-8 clearfix image-main text-left">
-                        <a class="left screenshot" href="http://www.alertfocus.com" title="see it live" target="_blank">
+                        <a class="left screenshot" href="http://www.calmfocus.com" title="see it live" target="_blank">
                             <img class="main" src="/images/screenshot-calmFocus.gif" alt="calmfocus.com">
                         </a>
                         <ul class="text-left table">
