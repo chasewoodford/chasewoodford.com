@@ -3,3 +3,5 @@ Allow: /
 Disallow: /_source/
 Disallow: /contact_form
 Disallow: /clients/
+
+sitemap:www.chasewoodford.com/sitemap.xml
