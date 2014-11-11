@@ -870,7 +870,7 @@
 		{
 			margin: 0 0 2em 0;
 		}
-		
+
 			#banner header h2
 			{
 				font-weight: 400;
@@ -880,7 +880,18 @@
 
 		#banner p
 		{
-			margin: 0;
+            margin: 0 0 3em;
+            padding: 0 3em;
+            text-align: left;
+            -webkit-columns: 2 auto;
+            -moz-columns: 2 auto;
+            columns: 2 auto;
+            -webkit-column-gap: 3em;
+            -moz-column-gap: 3em;
+            column-gap: 3em;
+            -webkit-column-rule: thin solid white;
+            -moz-column-rule: thin solid white;
+            column-rule: thin solid white;
 		}
 
 		#banner footer

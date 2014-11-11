@@ -107,3 +107,8 @@
 		{
 			display: none;
 		}
+
+        #banner p
+        {
+            padding: 0;
+        }
