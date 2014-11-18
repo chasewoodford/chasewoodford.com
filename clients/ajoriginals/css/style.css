@@ -14,7 +14,7 @@
 
 	body
 	{
-		background-color:		#183026;
+		background-color:		#e7dd80;
 		background-image:		url('images/overlay.png'),			url('../images/bg.jpg');
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								cover;
@@ -91,7 +91,7 @@
 
 	a
 	{
-		color: #35b88f;
+		color: #53967B;
 		text-shadow: 0 0 0.5px rgba(53,184,143,0.25);
 		-moz-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
@@ -488,7 +488,7 @@
 			position: relative;
 			display: inline-block;
 			border: 0;
-			background: #35b88f;
+            background: #183026;
 			color: #fff;
 			text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 			cursor: pointer;
@@ -510,7 +510,7 @@
 			input[type="reset"]:hover,
 			.button:hover
 			{
-				background: #45c89f;
+                background: #53967B;
 			}
 		
 			input[type="button"].style2,
@@ -854,15 +854,15 @@
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
-		background: #35b88f url('images/banner.svg') bottom center no-repeat;
-		padding: 5em 0 5em 0;
+		background: #183026 url('images/banner.svg') bottom center no-repeat;
+		padding: 2em 0 3em;
 		margin: 0;
-		background-size: 125% auto;
+		background-size: auto;
 	}
 
 		#banner .button
 		{
-			color: #35b882;
+			color: #183026;
 			text-shadow: 0 0 0.5px rgba(53,184,130,0.25);
 		}
 
@@ -943,7 +943,7 @@
 		
 			#footer a:hover
 			{
-				color: #35b88f;
+				color: #183026;
 				text-shadow: 0 0 0.5px rgba(69,200,159,0.25);
 				border-bottom-color: rgba(53,184,143,0.5);
 			}
