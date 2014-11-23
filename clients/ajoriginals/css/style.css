@@ -14,13 +14,23 @@
 
 	body
 	{
-		background-color:		#e7dd80;
-		background-image:		url('images/overlay.png'),			url('../images/bg.jpg');
-		background-repeat:		repeat,								no-repeat;
-		background-size:		auto,								cover;
-		background-position: 	top left,							center 0;
-		background-attachment:	fixed,								fixed;
+		background-color:		#958269;
+		background-image:		url('images/overlay.png');
+		background-repeat:		repeat;
+		background-size:		auto;
+		background-position: 	top left;
+		background-attachment:	fixed;
 	}
+
+    body.home
+    {
+        background-color:		#958269;
+        background-image:		url('images/overlay.png'),			url('../images/bg.jpg');
+        background-repeat:		repeat,								no-repeat;
+        background-size:		auto,								cover;
+        background-position: 	top left,							center 0;
+        background-attachment:	fixed,								fixed;
+    }
 
 		body.is-scroll
 		{
@@ -488,7 +498,7 @@
 			position: relative;
 			display: inline-block;
 			border: 0;
-            background: #183026;
+            background: #958269;
 			color: #fff;
 			text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 			cursor: pointer;
@@ -510,7 +520,7 @@
 			input[type="reset"]:hover,
 			.button:hover
 			{
-                background: #53967B;
+                background: #183026;
 			}
 		
 			input[type="button"].style2,
@@ -878,7 +888,7 @@
 				letter-spacing: 8px;
 			}
 
-		#banner p
+		#banner p.columns
 		{
             margin: 0 0 3em;
             padding: 0 3em;
