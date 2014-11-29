@@ -10,19 +10,12 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="description" content=""/>
     <meta name="keywords" content=""/>
-    <!--[if lte IE 8]>
-    <script src="css/ie/html5shiv.js"></script><![endif]-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery.scrolly.min.js"></script>
-    <script src="js/jquery.poptrox.min.js"></script>
-    <script src="js/skel.min.js"></script>
-    <script src="js/init.js"></script>
     <noscript>
         <link rel="stylesheet" href="css/skel.css"/>
         <link rel="stylesheet" href="css/style.css"/>
+        <link rel="stylesheet" href="css/sticky-nav.css"/>
     </noscript>
-    <!--[if lte IE 8]>
-    <link rel="stylesheet" href="css/ie/v8.css"/><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css"/><![endif]-->
 </head>
 <body class="home">
 
@@ -36,6 +29,15 @@
     <footer>
         <a href="#banner" class="button style2 scrolly scrolly-centered">Learn More</a>
     </footer>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Team</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
 </section>
 
 <!-- Banner -->
@@ -331,6 +333,27 @@
         </ul>
     </div>
 </section>
+
+<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.scrolly.min.js"></script>
+<script src="js/jquery.poptrox.min.js"></script>
+<script src="js/skel.min.js"></script>
+<script src="js/init.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $(window).bind('scroll', function() {
+            var navHeight = $( window ).height() - 70;
+            if ($(window).scrollTop() > navHeight) {
+                $('nav').addClass('fixed');
+            }
+            else {
+                $('nav').removeClass('fixed');
+            }
+        });
+    });
+</script>
 
 </body>
 </html>
