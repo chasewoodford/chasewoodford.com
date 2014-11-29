@@ -588,7 +588,7 @@
 				width: 90px;
 				height: 66px;
 				position: absolute;
-				z-index: 999;
+				z-index: 998;
 				left: 50%;
 				top: -4.5em;
 				margin-left: -45px;
@@ -846,7 +846,7 @@
 				width: 90px;
 				height: 66px;
 				position: absolute;
-				z-index: 999;
+				z-index: 998;
 				left: 50%;
 				bottom: -4.5em;
 				margin-left: -45px;
