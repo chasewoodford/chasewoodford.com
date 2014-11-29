@@ -26,10 +26,6 @@ nav li a {
 	text-transform: uppercase;
 }
 
-section {
-	height: 100vh;
-}
-
 @media only screen and (max-width: 520px) {
 
 	nav li {
