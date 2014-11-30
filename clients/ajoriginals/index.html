@@ -27,18 +27,6 @@
 
 <!-- Header -->
 <section id="header">
-    <header>
-        <h1>AJ Originals</h1>
-
-        <p>Custom-made nameboards, furniture and storage solutions</p>
-    </header>
-    <footer>
-        <a href="#banner" class="button style2 scrolly scrolly-centered">Learn More</a>
-    </footer>
-</section>
-
-<section>
-
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
@@ -48,7 +36,14 @@
             <li><a href="#">Contact</a></li>
         </ul>
     </nav>
+    <header>
+        <h1>AJ Originals</h1>
 
+        <p>Custom-made nameboards, furniture and storage solutions</p>
+    </header>
+    <footer>
+        <a href="#banner" class="button style2 scrolly scrolly-centered">Learn More</a>
+    </footer>
 </section>
 
 <!-- Banner -->
@@ -344,20 +339,6 @@
         </ul>
     </div>
 </section>
-
-<script>
-    $(document).ready(function(){
-        $(window).bind('scroll', function() {
-            var navHeight = $( window ).height() - 70;
-            if ($(window).scrollTop() > navHeight) {
-                $('nav').addClass('fixed');
-            }
-            else {
-                $('nav').removeClass('fixed');
-            }
-        });
-    });
-</script>
 
 </body>
 </html>
