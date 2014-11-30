@@ -828,31 +828,31 @@
 			width: 100%;
 		}
 
-			#header footer:after
-			{
-				content: '';
-				display: block;
-				position: absolute;
-				bottom: -9em;
-				left: 50%;
-				height: 9em;
-				border-left: solid 1px #fff;
-			}
-		
-			#header footer:before
-			{
-				content: '';
-				display: block;
-				width: 90px;
-				height: 66px;
-				position: absolute;
-				z-index: 998;
-				left: 50%;
-				bottom: -4.5em;
-				margin-left: -45px;
-				margin-bottom: -33px;
-				background: url('images/anchor.png') no-repeat;
-			}
+			/*#header footer:after*/
+			/*{*/
+				/*content: '';*/
+				/*display: block;*/
+				/*position: absolute;*/
+				/*bottom: -9em;*/
+				/*left: 50%;*/
+				/*height: 9em;*/
+				/*border-left: solid 1px #fff;*/
+			/*}*/
+		/**/
+			/*#header footer:before*/
+			/*{*/
+				/*content: '';*/
+				/*display: block;*/
+				/*width: 90px;*/
+				/*height: 66px;*/
+				/*position: absolute;*/
+				/*z-index: 998;*/
+				/*left: 50%;*/
+				/*bottom: -4.5em;*/
+				/*margin-left: -45px;*/
+				/*margin-bottom: -33px;*/
+				/*background: url('images/anchor.png') no-repeat;*/
+			/*}*/
 	
 /*********************************************************************************/
 /* Banner                                                                        */
