@@ -864,7 +864,7 @@
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
-		background: #183026 url('images/banner.svg') bottom center no-repeat;
+		background: #183026 url('images/wave.png') bottom center repeat-x;
 		padding: 2em 0 3em;
 		margin: 0;
 		background-size: auto;
