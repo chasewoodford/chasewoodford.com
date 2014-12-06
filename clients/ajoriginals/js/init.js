@@ -146,7 +146,7 @@
     $(function() {
         $('.main-nav-list').onePageNav({
             scrollThreshold: 0.2, // Adjust if Navigation highlights too early or too late
-            scrollOffset: 75 //Height of Navigation Bar
+            scrollOffset: 49 //Height of Navigation Bar
         });
 
         // Sticky Header - http://jqueryfordesigners.com/fixed-floating-elements/
