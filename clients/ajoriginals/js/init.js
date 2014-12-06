@@ -1,9 +1,3 @@
-/*
-	Overflow by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 (function($) {
 
 	var settings = {
@@ -148,5 +142,30 @@
 			});
 			
 	});
+
+    $(function() {
+        $('.main-nav-list').onePageNav({
+            scrollThreshold: 0.2, // Adjust if Navigation highlights too early or too late
+            scrollOffset: 75 //Height of Navigation Bar
+        });
+
+        // Sticky Header - http://jqueryfordesigners.com/fixed-floating-elements/
+        var top = $('.main-nav-list').offset().top - parseFloat($('.main-nav-list').css('margin-top').replace(/auto/, 0));
+
+        $(window).scroll(function (event) {
+            // what the y position of the scroll is
+            var y = $(this).scrollTop();
+
+            // whether that's below the form
+            if (y >= top) {
+                // if so, ad the fixed class
+                $('#main-nav').addClass('fixed');
+            } else {
+                // otherwise remove it
+                $('#main-nav').removeClass('fixed');
+            }
+        });
+
+    });
 
 })(jQuery);

@@ -1,100 +1,82 @@
-/*
-	Overflow by HTML5 UP
-	html5up.net | @n33co
-*/
-
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
 body {
-    background-color:#203936;
-    background-image:url(images/overlay.png);
-    background-repeat:repeat;
-    background-size:auto;
-    background-position:top left;
-    background-attachment:scroll
+    background-color: #203936;
+    background-image: url(images/overlay.png);
+    background-repeat: repeat;
+    background-size: auto;
+    background-position: top left;
+    background-attachment: scroll;
 }
 
 body.home {
-    background-color:#203936;
-    background-image:url(images/overlay.png),url(../images/bg-alt.jpg);
-    background-repeat:repeat,no-repeat;
-    background-size:auto,100% auto;
-    background-position:top left,top center;
-    background-attachment:scroll,scroll
+    background-color: #203936;
+    background-image: url(images/overlay.png), url(../images/bg-alt.jpg);
+    background-repeat: repeat, no-repeat;
+    background-size: auto, 100% auto;
+    background-position: top left,top center;
+    background-attachment: scroll, scroll;
 }
 
 body,input,textarea,select {
-    font-size:14pt
+    font-size: 14pt;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    line-height:1.5em
-}
-
-header {
+    line-height: 1.5em;
 }
 
 header p {
-    margin:.25em 0 0;
-    padding:0 0 .5em
+    margin: 0.25em 0 0;
+    padding: 0 0 0.5em;
 }
 
 /* Box */
 .box {
-    position:relative
+    position: relative;
 }
 
 .box section {
-    margin:0 0 2em
+    margin: 0 0 2em;
 }
 
 .box.style1 {
-    padding:2.5em 2em
-}
-
-.box.style1.right {
+    padding: 2.5em 2em;
 }
 
 .box.style1.right .inner {
-    padding-left:2em
-}
-
-.box.style1.left {
+    padding-left: 2em;
 }
 
 .box.style1.left .inner {
-    padding-right:2em
-}
-
-.box.style2 {
+    padding-right: 2em;
 }
 
 .box.style2 header {
-    padding:2em
+    padding: 2em;
 }
 
 .box.style2 .inner {
-    position:relative;
-    padding:30px 0 0
+    position: relative;
+    padding: 30px 0 0;
 }
 
 .box.style3 {
-    padding:2.5em 2em
+    padding: 2.5em 2em;
 }
 
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
 #banner {
-    padding:3.5em;
-    background-size:200% auto
+    padding: 3.5em;
 }
 
 #banner br {
-    display:none
+    display: none;
 }
 
 #banner p {
-    padding:0
+    padding: 0;
 }

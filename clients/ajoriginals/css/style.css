@@ -95,7 +95,7 @@ a {
     -ms-transition:border-color .35s ease-in-out,color .35s ease-in-out;
     transition:border-color .35s ease-in-out,color .35s ease-in-out;
     text-decoration:none;
-    border-bottom:dotted 1px rgba(53,184,143,0.5)
+    border-bottom:dotted 1px rgba(53,184,143,0.5);
 }
 
 a:hover {
@@ -674,14 +674,14 @@ input[type="button"].style3:hover,input[type="submit"].style3:hover,input[type="
 /* Banner                                                                        */
 /*********************************************************************************/
 #banner {
-    position:relative;
-    color:#fff;
-    text-shadow:0 0 .5px rgba(255,255,255,0.25);
-    text-align:center;
-    background:#183026 url(images/wave.png) bottom center repeat-x;
-    padding:2em 0 3em;
-    margin:0;
-    background-size:auto
+    position: relative;
+    color: #fff;
+    text-shadow: 0 0 .5px rgba(255,255,255,0.25);
+    text-align: center;
+    background: #183026 url(images/wave.png) bottom center repeat-x;
+    padding: 2em 0 3em;
+    margin: 0;
+    background-size: auto;
 }
 
 #banner .button {
@@ -945,6 +945,11 @@ nav li {
 nav li a {
     color: #757575;
     text-transform: uppercase;
+}
+
+nav li a:hover, nav li.current a {
+    color: #183026;
+    border-bottom: dotted 1px rgba(53,184,143,0.0);
 }
 
 @media only screen and (max-width: 520px) {
