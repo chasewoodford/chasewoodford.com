@@ -82,7 +82,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Set the recipient email address.
-    $recipient = "cwwoodford@gmail.com";
+    $recipient = "info@ajoriginals.com";
 
     // Set the email subject.
     $subject = "Message from $name via ajoriginals.com contact form";
@@ -93,7 +93,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email_content .= "Message:\n$message\n";
 
     // Build the email headers.
-    $email_headers = "From: AJ Originals Support <support@ajoriginals.com>";
+    $email_headers = "From: AJ Originals Info <info@ajoriginals.com>";
 
     // Send the email.
     if (mail($recipient, $subject, $email_content, $email_headers)) {
