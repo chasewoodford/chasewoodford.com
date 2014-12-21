@@ -971,3 +971,28 @@ nav li a:hover, nav li.current a {
     }
 
 }
+
+/*********************************************************************************/
+/* Form messages                                                                 */
+/*********************************************************************************/
+.success {
+    padding: 1em;
+    margin: 40px 0 0;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    color: #468847;
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+}
+
+.error {
+    padding: 1em;
+    margin: 40px 0 0;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    color: #b94a48;
+    background-color: #f2dede;
+    border: 1px solid rgba(185, 74, 72, 0.3);
+    border-radius: 4px;
+}

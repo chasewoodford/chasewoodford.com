@@ -82,7 +82,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Set the recipient email address.
-    $recipient = "info@ajoriginals.com";
+//    $recipient = "info@ajoriginals.com";
+    $recipient = "cwwoodford@gmail.com";
 
     // Set the email subject.
     $subject = "Message from $name via ajoriginals.com contact form";
@@ -99,7 +100,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (mail($recipient, $subject, $email_content, $email_headers)) {
         // Set a 200 (okay) response code.
         http_response_code(200);
-        echo "Thank You! Your message has been sent.";
+        echo "Thank you! Your message has been sent.";
     } else {
         // Set a 500 (internal server error) response code.
         http_response_code(500);
