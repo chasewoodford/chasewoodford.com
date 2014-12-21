@@ -17,7 +17,6 @@
 </head>
 <body>
 
-<!-- Header -->
 <section id="header" class="not-home">
     <nav>
         <ul class="main-nav-list">
@@ -93,8 +92,6 @@
     </section>
 </article>
 
-
-<!-- Portfolio -->
 <article id="featuredWork" class="container box style2">
     <header>
         <h2>Featured Work</h2>
@@ -128,21 +125,21 @@
     </div>
 </article>
 
-<!-- Contact -->
 <article id="contact" class="container box style3">
     <header>
         <h2>Contact AJ Originals</h2>
 
         <p>If you can envision it, we can build it.</p>
     </header>
-    <form method="post" action="#">
+    <div id="form-messages"></div>
+    <form id="ajax-contact" method="post" action="mailer.php">
         <div class="row half">
-            <div class="6u"><input type="text" class="text" name="name" placeholder="Name"/></div>
-            <div class="6u"><input type="text" class="text" name="email" placeholder="Email"/></div>
+            <div class="6u"><input id="name" type="text" class="text" name="name" placeholder="Name" required/></div>
+            <div class="6u"><input id="email" type="email" class="text" name="email" placeholder="Email" required/></div>
         </div>
         <div class="row half">
             <div class="12u">
-                <textarea name="message" placeholder="Message"></textarea>
+                <textarea id="message" name="message" placeholder="Message" required></textarea>
             </div>
         </div>
         <div class="row">
