@@ -960,18 +960,6 @@ nav li a:hover, nav li.current a {
     border-bottom: dotted 1px rgba(53,184,143,0.0);
 }
 
-@media only screen and (max-width: 520px) {
-
-    nav li {
-        padding: 24px 4px;
-    }
-
-    nav li a {
-        font-size: 14px;
-    }
-
-}
-
 /*********************************************************************************/
 /* Form messages                                                                 */
 /*********************************************************************************/

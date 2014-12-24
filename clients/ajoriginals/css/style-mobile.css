@@ -204,3 +204,14 @@ input[type="button"],input[type="submit"],input[type="reset"],.button {
 .poptrox-popup .closer {
     opacity: 0.5;
 }
+
+/*********************************************************************************/
+/* Sticky Nav                                                                    */
+/*********************************************************************************/
+nav li {
+    padding: 14px 10px;
+}
+
+nav li a {
+    font-size: 16px;
+}
