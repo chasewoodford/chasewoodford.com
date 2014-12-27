@@ -144,11 +144,6 @@
 	});
 
     $(function() {
-        $('.main-nav-list').onePageNav({
-            scrollThreshold: 0.2, // Adjust if Navigation highlights too early or too late
-            scrollOffset: 49 //Height of Navigation Bar
-        });
-
         // Sticky Header - http://jqueryfordesigners.com/fixed-floating-elements/
         var top = $('.main-nav-list').offset().top - parseFloat($('.main-nav-list').css('margin-top').replace(/auto/, 0));
 
@@ -164,6 +159,15 @@
                 // otherwise remove it
                 $('#main-nav').removeClass('fixed');
             }
+        });
+
+    });
+
+    $(function() {
+
+        $('.main-nav-list').onePageNav({
+            scrollSpeed: 1000,
+            scrollThreshold: 0.8
         });
 
     });
