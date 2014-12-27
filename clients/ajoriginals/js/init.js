@@ -164,15 +164,6 @@
     });
 
     $(function() {
-
-        $('.main-nav-list').onePageNav({
-            scrollSpeed: 1000,
-            scrollThreshold: 0.8
-        });
-
-    });
-
-    $(function() {
         // Get the form.
         var form = $('#ajax-contact');
 
