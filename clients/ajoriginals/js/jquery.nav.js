@@ -7,10 +7,8 @@
  * Uses the same license as jQuery, see:
  * http://jquery.org/license
  *
- * Modified version by Chase Woodford
- * (Removed the scroll offset function to make it
- * look better on small screen devices; modified
- * scroll threshold, too.)
+ * Modifications by Chase Woodford
+ * (Modified filter and scrollThreshold)
  *
  * @version 3.0.0
  *
@@ -44,7 +42,7 @@
 			currentClass: 'current',
 			changeHash: false,
 			easing: 'swing',
-			filter: '',
+            filter: ':not(.external)',
 			scrollSpeed: 750,
 			scrollThreshold: 0.8,
 			begin: false,
@@ -201,6 +199,14 @@
 					}
 				}
 			}
+		},
+
+		scrollTo: function(target, callback) {
+			var offset = $(target).top;
+
+			$('html, body').animate({
+				scrollTop: offset
+			}, this.config.scrollSpeed, this.config.easing, callback);
 		},
 
 		unbindInterval: function() {
