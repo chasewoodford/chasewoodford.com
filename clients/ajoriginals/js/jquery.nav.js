@@ -7,6 +7,11 @@
  * Uses the same license as jQuery, see:
  * http://jquery.org/license
  *
+ * Modified version by Chase Woodford
+ * (Removed the scroll offset function to make it
+ * look better on small screen devices; modified
+ * scroll threshold, too.)
+ *
  * @version 3.0.0
  *
  * Example usage:
@@ -41,7 +46,7 @@
 			easing: 'swing',
 			filter: '',
 			scrollSpeed: 750,
-			scrollThreshold: 0.5,
+			scrollThreshold: 0.8,
 			begin: false,
 			end: false,
 			scrollChange: false
@@ -196,14 +201,6 @@
 					}
 				}
 			}
-		},
-
-		scrollTo: function(target, callback) {
-			var offset = $(target).offset().top;
-
-			$('html, body').animate({
-				scrollTop: offset
-			}, this.config.scrollSpeed, this.config.easing, callback);
 		},
 
 		unbindInterval: function() {
