@@ -25,7 +25,7 @@ body.home {
     background-repeat:repeat,no-repeat;
     background-size:auto,cover;
     background-position:top left,center 0;
-    background-attachment:fixed,fixed
+    background-attachment:fixed,fixed;
 }
 
 body.is-scroll {
