@@ -82,8 +82,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Set the recipient email address.
-//    $recipient = "info@ajoriginals.com";
-    $recipient = "cwwoodford@gmail.com";
+    // Uncomment the line below for testing.
+    //$recipient = "cwwoodford@gmail.com";
+    $recipient = "info@ajoriginals.com";
 
     // Set the email subject.
     $subject = "Message from $name via ajoriginals.com contact form";
